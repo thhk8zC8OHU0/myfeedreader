@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T22:55:47.541Z</updated>
+    <updated>2026-08-23T23:43:33.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【コメ】「新米2000円台」去年のコメより新米が安い“逆転現象”]]></title>
+        <id>https://itainews.com/archives/2066403.html</id>
+        <link href="https://itainews.com/archives/2066403.html"/>
+        <updated>2026-08-23T23:00:26.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/08/23(日) 14:30:22.48 ID:FRl8ySvu9.net
+
+
+
+
+
+
+
+「新米2000円台」去年のコメより新米が安い“逆転現象” https://t.co/9JArHorrkj@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) August 22, 2026 
+
+
+
+
+
+
+「新米2000円台」去年のコメより新米が安...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今週のモチベ】「Aliens: Fireteam Elite 2」や「STAR WARS ゼロ・カンパニー」が発売される 2026年8月24日〜8月30日]]></title>
+        <id>https://www.4gamer.net/games/954/G095479/20260823006/</id>
+        <link href="https://www.4gamer.net/games/954/G095479/20260823006/"/>
+        <updated>2026-08-23T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，映画「エイリアン」の世界を舞台とする協力型サバイバルTPS「Aliens:FireteamElite2」や，クローン戦争を題材とするターン制ストラテジー「STARWARSゼロ・カンパニー」が発売される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国の人型ロボット、ウサインボルトを破り100m走を9秒32で走る　その後爆発]]></title>
         <id>https://itainews.com/archives/2066398.html</id>
@@ -14478,18 +14513,6 @@ Topics covered
         <updated>2026-07-25T13:05:26.000Z</updated>
         <author>
             <name>ジェラードンチャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ちーどるさんが消して逃げた記事]]></title>
-        <id>https://note.com/hima_kuuhaku/n/n45d8d195547c</id>
-        <link href="https://note.com/hima_kuuhaku/n/n45d8d195547c"/>
-        <updated>2026-07-25T11:01:21.000Z</updated>
-        <summary type="html"><![CDATA[暇空茜さんへ 【本人から返信アリ】｜ちーどる.pdf 1.6 MB  ファイルダウンロードについて      ダウンロード      
-
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
