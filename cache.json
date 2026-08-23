@@ -1233,6 +1233,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/84593e83e6a17c27a2e53a27da8195ad628c67a0?source=rss",
+          "author": null,
+          "description": "今年６月、大阪市都島区の路上で男性が襲われ、現金５５５万円が奪われた強盗傷害事件で、警察は新たに実行役の１８歳の少年を逮捕しました。\n\n　住居・職業不詳の少年（１８）は６月１３日午後１１時すぎ、都島",
+          "link": "https://news.yahoo.co.jp/articles/84593e83e6a17c27a2e53a27da8195ad628c67a0?source=rss",
+          "publishedOn": "2026-08-23T03:39:04.000Z",
+          "wordCount": 1647,
+          "title": "路上で現金５５５万円奪われた事件　実行役とみられる１８歳少年を新たに逮捕　大阪・都島区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00082185-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/b36281823c0d4bd56ff2333322cfa559a3e94cd2?source=rss",
           "author": null,
           "description": "今年４月、奈良県の薬師寺で国宝の「仏足石」に液体がかけられた事件で、台湾出身の３９歳の女が逮捕されました。\n\n　文化財保護法違反の疑いで逮捕された、台湾出身で自称・司会業の蔡宜臻容疑者（３９）は４月",
@@ -5928,6 +5938,46 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066383.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/22(土) 20:05:42.31 ID:1+okmx2M0●.net\n\n\n\n\n\n\n\n\n\n「退職したい」とショートメール　1週間後に撤回、人事労務は認めずhttps://t.co/ee8rFdJJrl— 日本経済新聞 電子版（日経電子版） (@nikkei) August 21, 2026 \n\n\n\n\n\n\n\n\n\n\n「退職したい」とショートメー...",
+          "link": "https://itainews.com/archives/2066383.html",
+          "publishedOn": "2026-08-23T05:01:16.000Z",
+          "wordCount": 3097,
+          "title": "まんさん「休職延長できないなら退職しまーす」とSMS→1週間後「あ、やっぱ撤回で」会社「無理」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7a188345-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066384.html",
+          "author": "takakichi5346",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2026/08/22(土) 19:14:33.86 ID:Lfnty7kn9.net\n\n\n\n\n\n\n\n《クレジットカード窃盗容疑で逮捕》NY出身キラキラ慶應女子大生（22）の父は大手クレカ海外法人の「最高経営責任者」だった記事はこちら↓https://t.co/opOAOaARWk#文春オンラ...",
+          "link": "https://itainews.com/archives/2066384.html",
+          "publishedOn": "2026-08-23T04:33:19.000Z",
+          "wordCount": 3391,
+          "title": "【文春】クレカ窃盗容疑で逮捕 NY出身キラキラ慶應女子大生・新澤かれん容疑者(22)の父は大手クレカ海外法人の「最高経営責任者」だった",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/e/fe72bf79-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066381.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/22(土) 17:34:36.39 ID:GMY2cSIm0●.net \n\n\n\n\n\n\n\nスマート給餌器で38時間の障害、ペットがご飯食べられず　飼い主の苦情殺到　「旅行中なのに」「猫が死んじゃう」https://t.co/mBrBMvNgwa— ITmedia NEWS (@itmedia_news) August 20, 2026 \n\n\n\n\n\n\n\n\nhttps:...",
+          "link": "https://itainews.com/archives/2066381.html",
+          "publishedOn": "2026-08-23T04:01:37.000Z",
+          "wordCount": 3411,
+          "title": "スマート給餌器で38時間の障害、ペットがご飯食べられず　飼い主の苦情殺到　「猫が死んじゃう」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/3/23ead188-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066380.html",
+          "author": "takakichi5346",
+          "description": "1 名前：それでも動く名無し：2026/08/22(土) 17:44:32.07 ID:bQTSqi9g0.net[1/2]\n\n\n\n\n\n\n\nこいつは外国人店長さんらしき人に英語で怒鳴られてた日本の浴衣は立って自慰するために前が開けているのではない店長さんも追い出すんじゃなくて警察呼べばよかったのに pic.twit...",
+          "link": "https://itainews.com/archives/2066380.html",
+          "publishedOn": "2026-08-23T03:34:05.000Z",
+          "wordCount": 3432,
+          "title": "【動画】外国人観光客、コンビニのエロ本を見ながらその場でオナニー開始ｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/b/db12a5f1-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066379.html",
           "author": "dqnplus",
           "description": "1 ：少考さん ★：2026/08/22(土) 17:09:59.79 ID:3npSQb/c9.net\n\n\n\n\n\n\n\n\n\n\n【【熊本地震その後】八代市の避難所で「SNS投稿禁止」の “お達し”が議論呼ぶ…市役所の見解を聞いた】https://t.co/hvVBMpIYpG #SNS #令和8年熊本地震 #災害 #女性自身［@jisinjp］— 女性自...",
@@ -8564,6 +8614,16 @@
       "feedUrl": "https://note.com/hima_kuuhaku/rss",
       "siteUrl": "https://note.com/hima_kuuhaku",
       "articles": [
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n8fe1dac0bd6e",
+          "author": null,
+          "description": "モブ子の恋 20巻【特典イラスト付き】 (ゼノンコミックス)amzn.to 722円(2026年08月16日 01:43時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n8fe1dac0bd6e",
+          "publishedOn": "2026-08-23T03:40:44.000Z",
+          "wordCount": 6715,
+          "title": "先週観たもの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fa980a0d0c1487889a15bbd89a77447becceae5d.png"
+        },
         {
           "id": "https://note.com/hima_kuuhaku/n/n9d4b0e76467a",
           "author": null,
