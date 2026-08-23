@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T21:44:18.904Z</updated>
+    <updated>2026-08-23T22:01:43.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月17日〜8月23日]]></title>
+        <id>https://www.4gamer.net/games/040/G004099/20260823005/</id>
+        <link href="https://www.4gamer.net/games/040/G004099/20260823005/"/>
+        <updated>2026-08-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月17日〜8月23日，4Gamerに掲載された記事は280本でした。インディーゲームの祭典「BIC2026」の記事を先々週に引き続いて掲載したり，話題の新作「TheDuskbloods」のプレイレポートを掲載したりと大忙しの4Gamerと世界のゲーム業界の1週間を振り返りましょう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[釣り中に誤って転落か　５０代男性が意識不明　兵庫・明石市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/240e46fd4e42574bc4b6ab801ac36ed0a9373435?source=rss</id>
