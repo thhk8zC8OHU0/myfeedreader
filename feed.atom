@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T16:56:49.132Z</updated>
+    <updated>2026-08-23T17:44:13.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[釣り中に誤って転落か　５０代男性が意識不明　兵庫・明石市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/240e46fd4e42574bc4b6ab801ac36ed0a9373435?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/240e46fd4e42574bc4b6ab801ac36ed0a9373435?source=rss"/>
+        <updated>2026-08-23T17:33:56.000Z</updated>
+        <summary type="html"><![CDATA[２３日午後８時半ごろ、兵庫県明石市中崎１丁目で、５０代くらいの男性が消波ブロックの下で倒れているのが見つかりました。男性は、病院に搬送されましたが意識不明の重体です。
+
+　警察によりますと、男性は友]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水上バイクが衝突し２人重傷　４人グループで遊んでいたところ停止できず　和歌山沖　(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/2bd08e994018015c1b64506df15781a1630de105?source=rss</id>
