@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T14:03:04.657Z</updated>
+    <updated>2026-08-23T14:59:28.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[水上バイクが衝突し２人重傷　４人グループで遊んでいたところ停止できず　和歌山沖　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2bd08e994018015c1b64506df15781a1630de105?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2bd08e994018015c1b64506df15781a1630de105?source=rss"/>
+        <updated>2026-08-23T14:02:34.000Z</updated>
+        <summary type="html"><![CDATA[２３日午後０時２０分ごろ、和歌山県広川町の沖合で、漂泊していた２人乗りの水上バイクに、別の２人乗りの水上バイクが衝突する事故がありました。
+
+　海南海上保安署によりますと、衝突された水上バイクに乗っ]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国人が爆買いした都心タワマンを投げ売りし始める　経営ビザ厳格化で「助けて！誰か買って！」と嗚咽]]></title>
         <id>https://itainews.com/archives/2066410.html</id>
