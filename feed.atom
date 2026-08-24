@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T22:01:39.556Z</updated>
+    <updated>2026-08-24T23:02:03.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ながらスマホ」運転、自動検知・警告義務付け　31年から全新型車に]]></title>
+        <id>https://itainews.com/archives/2066433.html</id>
+        <link href="https://itainews.com/archives/2066433.html"/>
+        <updated>2026-08-24T23:00:46.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/08/24(月) 10:24:08.02 ID:E/ff3zvX0●.net
+
+
+
+
+
+
+
+「ながらスマホ」運転、自動検知・警告義務付け　31年から全新型車にhttps://t.co/Z6mki8ET5H— 日本経済新聞 電子版（日経電子版） (@nikkei) August 23, 2026 
+
+
+
+
+
+
+国土交通省は国産車と輸入車を...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ゼンレスゾーンゼロ」，Ver.3.2「秘密と、過去と、彼女たちと」予告番組は8月28日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ]]></title>
+        <id>https://www.4gamer.net/games/421/G042182/20260824042/</id>
+        <link href="https://www.4gamer.net/games/421/G042182/20260824042/"/>
+        <updated>2026-08-24T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ゼンレスゾーンゼロ」のVer.3.2「秘密と、過去と、彼女たちと」予告番組が，8月28日20：30に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社員の3割が「外国人」のゆで太郎・池田智昭氏「外国人は真面目。日本人は現場で働きたがらない」]]></title>
         <id>https://itainews.com/archives/2066432.html</id>
@@ -15606,16 +15641,6 @@ Topics covered
         <summary type="html"><![CDATA[イギリスのバーナム首相は、BBCの単独インタビューで、イギリスの「国益を何よりも優先する」と強調し、そのためにはトランプ米大統領を批判する用意もあると述べた。また、早期の解散総選挙は行わないと言明した。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外で流行ってるはめこみ動物チャレンジをやってみたらこうなった… #柴犬 #シベリアンハスキー #shorts]]></title>
-        <id>https://www.youtube.com/shorts/NYD4m2Bg6pk</id>
-        <link href="https://www.youtube.com/shorts/NYD4m2Bg6pk"/>
-        <updated>2026-07-26T11:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>もちごめ兄弟ちゃんねる</name>
         </author>
     </entry>
 </feed>
