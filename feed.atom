@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T17:52:01.035Z</updated>
+    <updated>2026-08-24T19:20:06.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elio raises $21m for AI sensing]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/08/elio-raises-21m-for-ai-sensing.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/08/elio-raises-21m-for-ai-sensing.html"/>
+        <updated>2026-08-24T18:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Elio: https://www.eliolabs.com/technology 
+News Link: https://www.businesswire.com/news/home/20260723118244/en/Elio-Raises-%2421M-to-Build-Sensing-for-the-AI-Era
+SILICON VALLEY, Calif.--(BUSINESS WIRE)--Elio, a company building sensors designed for artificial intelligence rather than the human eye, today announced a $21 million funding round led by Innovation Endeavors and Xora, with participation from Kevin Weil and Scribble VC. Existing investors UpWest and Resolute Ventures, who led the company's previous round, are continuing their support.
+Today's sensors capture one fixed view of the world, decided in advance, shaped by what the human eye can see rather than what a machine needs. Elio is changing that: its sensors let AI decide what to capture, in real time, based on what it is tryin…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＪＲ京都駅のホーム屋根から線路に部材が落下　「工事中に置き忘れた屋根の端部材」と推定　列車運行に影響なし(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/7bdc3d14451b6744d2ab14052a18032499a06a6b?source=rss</id>

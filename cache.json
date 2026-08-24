@@ -5938,6 +5938,16 @@
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "https://image-sensors-world.blogspot.com/2026/08/elio-raises-21m-for-ai-sensing.html",
+          "author": null,
+          "description": "Elio: https://www.eliolabs.com/technology \nNews Link: https://www.businesswire.com/news/home/20260723118244/en/Elio-Raises-%2421M-to-Build-Sensing-for-the-AI-Era\nSILICON VALLEY, Calif.--(BUSINESS WIRE)--Elio, a company building sensors designed for artificial intelligence rather than the human eye, today announced a $21 million funding round led by Innovation Endeavors and Xora, with participation from Kevin Weil and Scribble VC. Existing investors UpWest and Resolute Ventures, who led the company's previous round, are continuing their support.\nToday's sensors capture one fixed view of the world, decided in advance, shaped by what the human eye can see rather than what a machine needs. Elio is changing that: its sensors let AI decide what to capture, in real time, based on what it is tryin…",
+          "link": "https://image-sensors-world.blogspot.com/2026/08/elio-raises-21m-for-ai-sensing.html",
+          "publishedOn": "2026-08-24T18:57:00.000Z",
+          "wordCount": 4233,
+          "title": "Elio raises $21m for AI sensing",
+          "imageUrl": null
+        },
+        {
           "id": "https://image-sensors-world.blogspot.com/2026/08/novoviz-releases-variable-frame-rate.html",
           "author": null,
           "description": "Link: https://novoviz.com/variable-frame-rate-spad-camera/\nThe NVx5VFR-HW variable frame rate camera was developed for applications requiring high sensitivity and/or frame rate but with reduced output bandwidth. The camera combines the benefits of a SPAD camera, namely the single-photon resolution and fast operating speeds, with those of an event camera—low output data rates. \nFeatures: \n\n480 x 320 or 256 x 192 SPAD pixels\nEvent-based readout\nAdjustable event threshold\n20ns global shutter\nOn-chip pixel binning\nUSB 3.0  \n\nEvent camera emulation\n[...] because there is a single sensor and a single acquisition, the two modalities are inherently synchronized in time and space, without genlocking, cross-sensor calibration, or timestamp drift. The SPAD sensor thus functions as a flexible substrate that can be reprocessed into multiple imaging modalities entirely in software. \nHDR Imaging\n[...] photon-counting approach lets each pixel build its own exposure curve, avoiding the clipping and noise floor issues that limit standard CMOS or CCD imaging. \nInstantaneous adaptation to lighting variation\n[...] photon-counting approach lets the sensor adapt instantly to drastic lighting shifts, with no exposure recalibration, no motion blur, and no saturation, capturing both the bright and near-dark scenes with equal clarity in the same brief 2ms window.",
