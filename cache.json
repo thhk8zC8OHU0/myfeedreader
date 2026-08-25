@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/035/G103571/20260825011/",
+          "author": null,
+          "description": "ClearRiverGamesは本日，アクションRPG「天地創造」の移植版を2027年初頭に発売すると発表した。PC，Switch2，PS5，XBOXSeriesX|S，Switchに対応し，オリジナル版をベースに改善や調整，新たな特典要素を追加する。新規キービジュアルやゲーム内デザインを藤原カムイ氏が手掛ける。",
+          "link": "https://www.4gamer.net/games/035/G103571/20260825011/",
+          "publishedOn": "2026-08-25T04:34:38.000Z",
+          "wordCount": 8336,
+          "title": "「天地創造」，現行機向け移植版を2027年初頭に発売決定。1995年にSFCで発売されたアクションRPGの名作が復活",
+          "imageUrl": "https://www.4gamer.net/games/035/G103571/20260825011/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/421/G042182/20260824042/",
           "author": null,
           "description": "「ゼンレスゾーンゼロ」のVer.3.2「秘密と、過去と、彼女たちと」予告番組が，8月28日20：30に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
@@ -1332,6 +1342,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/51e8d60e203d26f1226f73fe18381e2d0566ee15?source=rss",
+          "author": null,
+          "description": "６月の大雨で水没した大阪市の「住之江抽水所」について、完全な復旧まで３年以上かかることがわかりました。\n\n　住之江抽水所は大阪市東南部の浸水被害を防ぐための地下水路「なにわ大放水路」から水をくみ上げ",
+          "link": "https://news.yahoo.co.jp/articles/51e8d60e203d26f1226f73fe18381e2d0566ee15?source=rss",
+          "publishedOn": "2026-08-25T03:41:43.000Z",
+          "wordCount": 1667,
+          "title": "大阪市・水没のポンプは完全復旧まで３年以上　６月の大雨で運転不能に　内水氾濫のリスク高まる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082209-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/636654c9548ae50e95a39565de578a8a01bff106?source=rss",
+          "author": null,
+          "description": "２５日朝、大阪府泉佐野市の南海本線の踏切で、電車と軽自動車が衝突し２人が病院に搬送されました。\n\n　午前７時前、泉佐野市の南海本線・羽倉崎駅近くの踏切で、「電車と車が接触し、車の中には２人います」と",
+          "link": "https://news.yahoo.co.jp/articles/636654c9548ae50e95a39565de578a8a01bff106?source=rss",
+          "publishedOn": "2026-08-25T03:39:37.000Z",
+          "wordCount": 1650,
+          "title": "踏切で南海電車と軽自動車が衝突　車の男性２人搬送　大阪・泉佐野市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082208-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/684ae71189081a9c0550cff9eaf953abb2f9e997?source=rss",
+          "author": null,
+          "description": "大阪市立の小学校で夏休みが終了し、２５日から新学期が始まりました。\n\n　大阪市北区の扇町小学校では、校門が開くと走って教室を目指す子どもたちの姿も見られました。\n\n　熱中症対策のため、子どもたちは冷",
+          "link": "https://news.yahoo.co.jp/articles/684ae71189081a9c0550cff9eaf953abb2f9e997?source=rss",
+          "publishedOn": "2026-08-25T03:37:35.000Z",
+          "wordCount": 1683,
+          "title": "大阪市の小学校で始業式　夏休みが終わり２学期がスタート(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082207-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7bdc3d14451b6744d2ab14052a18032499a06a6b?source=rss",
           "author": null,
@@ -3490,6 +3530,56 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/ce87djdj26go#0",
+          "author": null,
+          "description": "ドナルド・トランプ大統領の右腕であるナタリー・ハープ氏が注目を集めている。大統領特別秘書官であるハープ氏は他の重要な職務に加え、トランプ氏が所有するソーシャルメディア「トゥルース・ソーシャル」に投稿する際のタイピングも任されている。",
+          "link": "https://www.bbc.com/japanese/articles/ce87djdj26go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T04:54:10.000Z",
+          "wordCount": 1303,
+          "title": "ナタリー・ハープ氏とは、トランプ米大統領の信頼厚い秘書官",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/64c9/live/834539a0-9c1e-11f1-b109-879e35c24276.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5y45de86jko#0",
+          "author": null,
+          "description": "イギリス政府はこのほど、同国の巡航ミサイル「ストームシャドウ」のフランス版「スカルプ」について、イギリス製部品の設計図をウクライナに提供することに合意した。これで戦況は変わるのか。",
+          "link": "https://www.bbc.com/japanese/articles/c5y45de86jko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T04:49:43.000Z",
+          "wordCount": 1333,
+          "title": "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1e0a/live/94706a20-9fdd-11f1-9c90-a93a719154c7.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/crl6r1r4pd4o#0",
+          "author": null,
+          "description": "アメリカ政府は24日、シリアに対して47年前から続けてきた「テロ支援国家」指定を解除した。これにより、シリアへの民間投資と、シリアを世界経済へ再統合することを妨げていた「最後の主要な障壁」が取り除かれたとしている。",
+          "link": "https://www.bbc.com/japanese/articles/crl6r1r4pd4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T04:44:18.000Z",
+          "wordCount": 1833,
+          "title": "アメリカ、シリアの「テロ支援国家」指定を解除",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cvgyr50dkd6o#0",
+          "author": null,
+          "description": "アメリカとカナダの貿易戦争が激しさを増すなか、トランプ米大統領は24日、カナダで製造された自動車への関税を引き上げると表明した。他方、カナダ政府は、国内の労働者や企業を保護・支援する取り組みを進めていくとしている。",
+          "link": "https://www.bbc.com/japanese/articles/cvgyr50dkd6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T04:20:05.000Z",
+          "wordCount": 1873,
+          "title": "トランプ氏、カナダ車への関税引き上げを表明　カーニー氏が報復措置を誓い対立激化",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b580/live/97f29f80-a03f-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cn5dr6rel9qo#0",
+          "author": null,
+          "description": "欧州連合（EU）の気象情報機関は24日、世界の海面水温が22日に観測史上最も高い21.1度に達したと発表した。人間の活動による気候変動や、太平洋赤道域でのエルニーニョ現象の発達が、海の水温上昇に影響している。",
+          "link": "https://www.bbc.com/japanese/articles/cn5dr6rel9qo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T03:40:34.000Z",
+          "wordCount": 1832,
+          "title": "世界の海面水温が観測史上最高　エルニーニョ発達",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c7v45jeqgr0o#0",
           "author": null,
           "description": "ロシアのオンライン小売2位のオゾンは24日、同社が所有する複数の倉庫が、ウクライナによるドローン攻撃を受けたと発表した。",
@@ -4777,6 +4867,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/21/news021.html",
+          "author": null,
+          "description": "MaxLinearは、4チャンネルUARTやI2C、32個のGPIOを統合し、AIデータセンターやハイパースケールクラウド向けの管理機能を強化するUSB-UARTブリッジを投入する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/21/news021.html",
+          "publishedOn": "2026-08-25T03:30:00.000Z",
+          "wordCount": 2630,
+          "title": "AIデータセンター管理向けUSB-UARTブリッジ、MaxLinear",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/21/l_edn20260818edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/24/news073.html",
           "author": null,
           "description": "今回はInfineon Technologiesが手掛ける「TriCore（トライコア）」を紹介する。十分、現役なのだが、登場して30年以上が経過しているので、“懐古録”として取り上げられるほど長い歴史を持つプロセッサだ。",
@@ -5193,6 +5293,56 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=131621",
+          "author": "編集部：平山洸太",
+          "description": "NECパーソナルコンピュータは、個人向けのPC4モデル、タブレット2モデルを8月27日に発売する。 LAVIE N16 Copilot+ PCに対応した、16型の大画面ノート。画面比率は16:10を採用している。400カンデラの明るい液晶を新たに採用しつつ、200g程度軽量化させることで約2kgの質 […]",
+          "link": "https://gadget.phileweb.com/post-131621/",
+          "publishedOn": "2026-08-25T05:05:00.000Z",
+          "wordCount": 779,
+          "title": "NEC、ユーザーがメモリ/SSD追加できる16型ノート「LAVIE N16」など6モデル発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/a00ce6330adcebbab7308750180304d5.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131545",
+          "author": "編集部：平山洸太",
+          "description": "ソニーは、スマートフォン「Xperia 10 VIII」をグローバルで発表した。日本における発売も予定している。 ソニーならではの、ワンランク上の「撮る」「観る」「聴く」が行えるというスマートフォン。毎日使うものだからこそ、使い勝手や毎日実感できる体験価値を高めたとしている。 デザインは透明感があり […]",
+          "link": "https://gadget.phileweb.com/post-131545/",
+          "publishedOn": "2026-08-25T04:00:00.000Z",
+          "wordCount": 748,
+          "title": "ソニー「Xperia 10 VIII」発表。透明感ある新デザイン、画面輝度とスピーカー強化",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/c44c6c00c730996a35a972e8a12273bc.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131595",
+          "author": "Munenori Taniguchi",
+          "description": "先日、任天堂はソフトウェア開発プラットフォーム「GitHub」に公開されているSwitchエミュレーターのリポジトリー400超を、DMCA（デジタルミレニアム著作権法）に基づく削除要請を通じて削除させた。 Switchエミュレーターとは、Nintendo Switchのハードウェアをソフトウェアで仮 […]",
+          "link": "https://gadget.phileweb.com/post-131595/",
+          "publishedOn": "2026-08-25T03:39:33.000Z",
+          "wordCount": 713,
+          "title": "任天堂、1日で400超のSwtchエミュ撲滅。GitHub上で芋づる式に削除",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2024/03/Giaaneka_Shutterstock.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131566",
+          "author": "編集部：平山洸太",
+          "description": "ベンキュージャパンは、2種類のモニターライトを発表。デュアルモニター環境向けの「ScreenBar Max」とiMac向けの「iScreenBar」を8月26日に発売する。 世界累計150万台、日本累計21万台を販売したモニターライトに新モデルが登場。同社モニターライト「ScreenBar」シリーズ […]",
+          "link": "https://gadget.phileweb.com/post-131566/",
+          "publishedOn": "2026-08-25T03:30:00.000Z",
+          "wordCount": 730,
+          "title": "BenQのモニターライト10周年。デュアルモニター向け「Max」とiMac向け「iScreenBar」登場",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/5bce5770de9f9a9ce9443a5940c5c348.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131562",
+          "author": "多根清史",
+          "description": "アップルは9月の製品発表イベントで、「iPhone 18 Pro」モデルを発売する可能性が高いが、その製品に搭載するメモリーやストレージの価格高騰を受け、大幅な値上げを余儀なくされると予想されている。 たとえば証券会社GF Securitiesのアナリスト、Jeff Pu氏は5月時点で、メモリーコス […]",
+          "link": "https://gadget.phileweb.com/post-131562/",
+          "publishedOn": "2026-08-25T03:18:44.000Z",
+          "wordCount": 726,
+          "title": "iPhone 18 Pro、思ったより高額ではないかも。アップルがコストを一部肩代わりとの予想",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/60d1e6a928898b99855e1c6f0cd46890.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=131516",
           "author": "Munenori Taniguchi",
@@ -6135,6 +6285,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=317156",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]",
+          "link": "https://foodfighter.jp/matsuya-2026-0825",
+          "publishedOn": "2026-08-25T03:53:08.000Z",
+          "wordCount": 2058,
+          "title": "【松屋】豚キムチ定食【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/69046abf031ce85ad5a02e3dba284ab9.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=317134",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、デイリーヤマザキの新商品「喫茶店風のナポリタン（麺70％増量）」を世界一詳しく調査しました。   【デイリーヤマザキ […]",
@@ -6487,6 +6647,46 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066450.html",
+          "author": "nobi0929",
+          "description": "1 名前：煮卵 ★：2026/08/24(月) 21:53:07.01 ID:B/hdJitK9.net\n\n\n\n\n\n\n\n経産省、日本発コンテンツの海外売上20兆円めざし「ものがたり大国5か年計画」発表8/24(月) 21:04配信https://t.co/ewCbRUZJ9o— TPMはBIOSからFIDO (@tpmbiosfidorss) August 24, 2026 \n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2066450.html",
+          "publishedOn": "2026-08-25T05:00:24.000Z",
+          "wordCount": 3165,
+          "title": "経産省、日本発コンテンツの海外売上20兆円めざし【ものがたり大国5か年計画】発表",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/f/3ff0b05c-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066449.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/24(月) 18:39:55.68 ID:KEGHDbcz0.net\n\n\n\n\n\n\n\n\n\nケチャップを万引き、通行人にぶちまけた疑い　高校生ら4人逮捕https://t.co/LNtk3OpfOQ付近の防犯カメラには、少年らが自転車に乗りながら500グラムのケチャップボトルを片手で握り、すれ違いざまに女性に...",
+          "link": "https://itainews.com/archives/2066449.html",
+          "publishedOn": "2026-08-25T04:31:11.000Z",
+          "wordCount": 3304,
+          "title": "葛飾区の高校生らが万引きしたケチャップを高齢女性の顔に掛ける「反応を見るのが楽しかった」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/6/1657c128-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066448.html",
+          "author": "dqnplus",
+          "description": "1 ：それでも動く名無し：2026/08/24(月) 15:10:22.14 ID:e7NQ+onn0.net\n\n\n\n\n\n\n\n\n\nデート帰り、「値引き商品があるのに定価のお寿司を選んだ彼女」に彼氏が衝撃。「支払ってもらうなら配慮すべき」という主張に女性たちの反応は（婦人公論.jp） https://t.co/6MZnMbSNSL...",
+          "link": "https://itainews.com/archives/2066448.html",
+          "publishedOn": "2026-08-25T04:01:43.000Z",
+          "wordCount": 3464,
+          "title": "【悲報】デート帰り、「スーパーで値引き惣菜があるのに定価のお寿司を選んだ彼女」に彼氏が衝撃",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/c/3cf01bc5-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066445.html",
+          "author": "dqnplus",
+          "description": "1 ：パンナ・コッタ ★：2026/08/24(月) 15:13:47.61 ID:HG34aikg9.net\n\n\n\n\n\n\n\n\n\nスマホ依存の未成年「ドパガキ」　SNS利用時間長いと学力低下　中3半数は1日3時間超https://t.co/8WhrCuI1C6「ちょっと怖いなと思うときはあるけど、もう慣れちゃった」といい、続けた。...",
+          "link": "https://itainews.com/archives/2066445.html",
+          "publishedOn": "2026-08-25T03:31:47.000Z",
+          "wordCount": 3449,
+          "title": "スマホ依存の未成年「ドパガキ👦」SNS利用時間長いと学力低下　中3半数は1日3時間超",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/5/85b2dbd3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066443.html",
           "author": "dqnplus",
