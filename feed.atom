@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T19:45:09.851Z</updated>
+    <updated>2026-08-25T20:58:37.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「クレイジータクシー：ワールドツアー」，マルチプレイモードの様子を収めた最新トレイラー公開]]></title>
+        <id>https://www.4gamer.net/games/014/G101452/20260826026/</id>
+        <link href="https://www.4gamer.net/games/014/G101452/20260826026/"/>
+        <updated>2026-08-25T20:56:25.000Z</updated>
+        <summary type="html"><![CDATA[セガは，本日（2026年8月26日）配信されたgamescomOpeningNightLive2026で，新作「クレイジータクシー：ワールドツアー」の最新トレイラーを公開した。それぞれの客を乗せた4台のタクシーが，先を争って疾走するマルチプレイモードの様子を確認できる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEGOブロックで街づくり。「Cities: Skylines II」現開発スタジオの新作都市建設ゲーム「LEGO Skylines」を発表]]></title>
+        <id>https://www.4gamer.net/games/036/G103624/20260826025/</id>
+        <link href="https://www.4gamer.net/games/036/G103624/20260826025/"/>
+        <updated>2026-08-25T20:49:00.000Z</updated>
+        <summary type="html"><![CDATA[ParadoxInteractiveは本日（2026年8月26日），デジタルイベント「gamescomOpeningNightLive2026」で，新作都市建設ゲーム「LEGOSkylines」をPC，PS5，XBOXSeriesX|S，NintendoSwitch2で発売すると発表した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[名作RPGがさらに進化。「ウィッチャー3 ワイルドハント リマスター」が発表に。既存ユーザーには無料アップグレードを提供]]></title>
+        <id>https://www.4gamer.net/games/202/G020288/20260826019/</id>
+        <link href="https://www.4gamer.net/games/202/G020288/20260826019/"/>
+        <updated>2026-08-25T20:28:11.000Z</updated>
+        <summary type="html"><![CDATA[本日（2026年8月26日）配信された「gamescomOpeningNightLive2026」にて，CDPROJEKTREDは「ウィッチャー3ワイルドハントリマスター」を発表した。配信日は2026年9月29日を予定しており，対象プラットフォームで，すでに本作を所有しているユーザーには無料アップグレードとして提供される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テュロックシリーズ最新作「Turok: Origins」は2027年春に発売]]></title>
+        <id>https://www.4gamer.net/games/865/G086591/20260826018/</id>
+        <link href="https://www.4gamer.net/games/865/G086591/20260826018/"/>
+        <updated>2026-08-25T20:03:35.000Z</updated>
+        <summary type="html"><![CDATA[SaberInteractiveは本日（2026年8月26日），デジタルイベント「gamescomOpeningNightLive2026」で，テュロックシリーズの最新作「Turok:Origins」の最新トレイラーを公開し，本作を2027年春に発売すると発表した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「FINAL FANTASY VII REVELATION」2027年春に発売決定。アルテマウェポンやルビーウェポン，テュポーン大先生の姿も確認]]></title>
+        <id>https://www.4gamer.net/games/999/G999901/20260826015/</id>
+        <link href="https://www.4gamer.net/games/999/G999901/20260826015/"/>
+        <updated>2026-08-25T19:58:18.000Z</updated>
+        <summary type="html"><![CDATA[gamescomOpeningNightLive2026で，スクウェア・エニックスは新作RPG「FINALFANTASYVIIREVELATION」を，2027年春に発売すると発表した。最新映像では，アルテマウェポンやルビーウェポンといった名物ボスの姿も確認できた。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ロックマン：デュアル オーバーライド」最新トレイラーを公開。新キャラクター「トゥインクルガール」や新アクションをチェック]]></title>
         <id>https://www.4gamer.net/games/968/G096894/20260826016/</id>
@@ -16835,16 +16885,6 @@ Topics covered
         <link href="https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-07-27T09:14:17.000Z</updated>
         <summary type="html"><![CDATA[パレスチナ当局者は26日、イスラエル占領下のヨルダン川西岸地区で、イスラエル人入植者がモスク（イスラム教の礼拝所）2棟に放火したほか、車や農地にも火を放ったと述べた。24日には少なくともパレスチナ人4人とイスラエル人2人が死亡する銃撃事件があったばかりで、同地区では緊張が高まり続けている。BBCのルーシー・ウィリアムソン中東特派員は、25日と26日にかけて、ナブルス周辺の複数の村を訪れ、パレスチナ人住民に話を聞いた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バーナム英首相、「イギリスにとって正しい」ならトランプ氏批判もするとBBCに　早期の解散総選挙は否定]]></title>
-        <id>https://www.bbc.com/japanese/articles/cj4k5pe1kgdo#4</id>
-        <link href="https://www.bbc.com/japanese/articles/cj4k5pe1kgdo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-07-27T08:16:08.000Z</updated>
-        <summary type="html"><![CDATA[イギリスのバーナム首相は、BBCの単独インタビューで、イギリスの「国益を何よりも優先する」と強調し、そのためにはトランプ米大統領を批判する用意もあると述べた。また、早期の解散総選挙は行わないと言明した。]]></summary>
         <author>
             <name>BBC Japanese</name>
         </author>
