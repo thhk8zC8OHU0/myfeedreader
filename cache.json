@@ -5554,6 +5554,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131664",
+          "author": "編集部：平山洸太",
+          "description": "アップルは、M5 MaxとM5 Ultraを搭載した新しい「Mac Studio」を発表。9月22日の発売を予定しており、M5 Max搭載モデルは419,800円から、M5 Ultra搭載モデルは949,800円からとなる（どちらも税込）。 新たな上位チップとして、M5 Ultraが発表。このチップ […]",
+          "link": "https://gadget.phileweb.com/post-131664/",
+          "publishedOn": "2026-08-25T15:45:11.000Z",
+          "wordCount": 723,
+          "title": "新「Mac Studio」発表、最大512GBメモリの「M5 Ultra」搭載",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/7f372469d8d684ae902008bb555c7080.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131660",
+          "author": "編集部：平山洸太",
+          "description": "アップルは、M6およびM5 Proチップを搭載する新たな「Mac mini」を発表した。9月22日の発売を予定しており、M6搭載モデルは149,800円から、M5 Pro搭載モデルは299,800円からとなる（どちらも税込）。 コンパクトなサイズを維持しつつも、パフォーマンスを向上させた新モデル。M […]",
+          "link": "https://gadget.phileweb.com/post-131660/",
+          "publishedOn": "2026-08-25T15:26:32.000Z",
+          "wordCount": 714,
+          "title": "M6／M5 Pro搭載「Mac mini」発表。約15万円から",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/e6945be6bc411afc11d4ef0e19267935.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131398",
           "author": "編集部：平山洸太",
           "description": "COFOは、電動昇降デスク「COFO Desk Studio」の先行予約を8月25日20時より開始した。カラーはナチュラル、ブラウン、マットブラック、マットホワイトの4色。サイズは120cm、140cm、160cm、180cmをラインナップする。 秘密基地のような ″個人空間” が作れることを目指し […]",
@@ -6584,6 +6604,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=317206",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ミニストップの新商品「無限くりーむ（生クリーム入りホイップ50％増量）」を世界一詳しく調査しました。   【ミニスト […]",
+          "link": "https://foodfighter.jp/ministop-cream-zoryo",
+          "publishedOn": "2026-08-25T15:39:55.000Z",
+          "wordCount": 2054,
+          "title": "【ミニストップ】無限くりーむ（生クリーム入りホイップ50％増量）【増量フェア・新作スイーツ】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/32f1683eb77ee7c0117dce2bbdb7f103.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=317178",
           "author": "foodfighter",
@@ -13099,6 +13129,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3NpYqk41ORg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3NpYqk41ORg",
+          "publishedOn": "2026-08-25T14:54:40.000Z",
+          "wordCount": null,
+          "title": "ビールが運ばれ次第、即イッキして何杯も飲み干しちゃう女子【ジェラードン】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/IhX8LdMhYv8",
           "author": null,
