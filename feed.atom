@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T17:55:04.170Z</updated>
+    <updated>2026-08-25T19:45:09.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ロックマン：デュアル オーバーライド」最新トレイラーを公開。新キャラクター「トゥインクルガール」や新アクションをチェック]]></title>
+        <id>https://www.4gamer.net/games/968/G096894/20260826016/</id>
+        <link href="https://www.4gamer.net/games/968/G096894/20260826016/"/>
+        <updated>2026-08-25T19:39:06.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは本日（2026年8月26日）配信の「gamescomOpeningNightLive2026」にて，「ロックマン：デュアルオーバーライド」の最新映像を公開した。映像では，おなじみロックマンや，新たなボスキャラクターとなる「トゥインクルガール」のアクションを確認できる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新「Mac Studio」発表、最大512GBメモリの「M5 Ultra」搭載]]></title>
         <id>https://gadget.phileweb.com/?p=131664</id>
