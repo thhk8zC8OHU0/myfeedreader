@@ -1483,6 +1483,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/1ee781bdddd6ffa1eef5144f94f7a36f1b17f83c?source=rss",
+          "author": null,
+          "description": "２５日夜、京都市伏見区のコンビニエンスストアで強盗未遂事件があり男１人が逃走しています。\n\n　２５日午後９時４０分ごろ、京都市伏見区竹田にあるコンビニで「１０万円出せと言われた」と店員の女性から１１",
+          "link": "https://news.yahoo.co.jp/articles/1ee781bdddd6ffa1eef5144f94f7a36f1b17f83c?source=rss",
+          "publishedOn": "2026-08-25T21:45:48.000Z",
+          "wordCount": 1618,
+          "title": "ナイフ見せ「１０万円出せ」コンビニ強盗未遂　男は今も逃走　京都・伏見区　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00082223-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d0c19254c37c25bc202b882b41c9d47b871ed83b?source=rss",
           "author": null,
           "description": "９月１日から改正道路交通法の施行で、生活道路の法定速度が時速６０キロから３０キロに引き下げられます。新ルールの開始が目前となった２５日、警察が通学路などで車のドライバーに安全運転を呼びかけました。",
@@ -5158,16 +5168,6 @@
           "wordCount": 1245,
           "title": "城の石垣が崩れ、ショッピングセンターで夜通し捜索続く……熊本で震度7の地震",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0d6a/live/2f3cb730-8ae8-11f1-a4b4-99f50fb19009.png"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/clyq5qvw0yvo#4",
-          "author": null,
-          "description": "パレスチナ当局者は26日、イスラエル占領下のヨルダン川西岸地区で、イスラエル人入植者がモスク（イスラム教の礼拝所）2棟に放火したほか、車や農地にも火を放ったと述べた。24日には少なくともパレスチナ人4人とイスラエル人2人が死亡する銃撃事件があったばかりで、同地区では緊張が高まり続けている。BBCのルーシー・ウィリアムソン中東特派員は、25日と26日にかけて、ナブルス周辺の複数の村を訪れ、パレスチナ人住民に話を聞いた。",
-          "link": "https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-27T09:14:17.000Z",
-          "wordCount": 1315,
-          "title": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6c84/live/3fc8daa0-899b-11f1-b8ee-9b3c26ad07bb.jpg"
         }
       ]
     },

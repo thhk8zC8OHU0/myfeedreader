@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T20:58:37.468Z</updated>
+    <updated>2026-08-25T21:56:57.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナイフ見せ「１０万円出せ」コンビニ強盗未遂　男は今も逃走　京都・伏見区　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1ee781bdddd6ffa1eef5144f94f7a36f1b17f83c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1ee781bdddd6ffa1eef5144f94f7a36f1b17f83c?source=rss"/>
+        <updated>2026-08-25T21:45:48.000Z</updated>
+        <summary type="html"><![CDATA[２５日夜、京都市伏見区のコンビニエンスストアで強盗未遂事件があり男１人が逃走しています。
+
+　２５日午後９時４０分ごろ、京都市伏見区竹田にあるコンビニで「１０万円出せと言われた」と店員の女性から１１]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「クレイジータクシー：ワールドツアー」，マルチプレイモードの様子を収めた最新トレイラー公開]]></title>
         <id>https://www.4gamer.net/games/014/G101452/20260826026/</id>
@@ -16877,16 +16889,6 @@ Topics covered
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>もちごめ兄弟ちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材]]></title>
-        <id>https://www.bbc.com/japanese/articles/clyq5qvw0yvo#4</id>
-        <link href="https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-07-27T09:14:17.000Z</updated>
-        <summary type="html"><![CDATA[パレスチナ当局者は26日、イスラエル占領下のヨルダン川西岸地区で、イスラエル人入植者がモスク（イスラム教の礼拝所）2棟に放火したほか、車や農地にも火を放ったと述べた。24日には少なくともパレスチナ人4人とイスラエル人2人が死亡する銃撃事件があったばかりで、同地区では緊張が高まり続けている。BBCのルーシー・ウィリアムソン中東特派員は、25日と26日にかけて、ナブルス周辺の複数の村を訪れ、パレスチナ人住民に話を聞いた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
