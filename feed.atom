@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T05:17:44.759Z</updated>
+    <updated>2026-08-25T08:00:58.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾当局、NVIDIA幹部含む9人を中国へのGPU密輸に関与したとして起訴]]></title>
+        <id>https://gadget.phileweb.com/?p=131647</id>
+        <link href="https://gadget.phileweb.com/post-131647/"/>
+        <updated>2026-08-25T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[台湾検察当局は、NVIDIAのチップを搭載するAI向けサーバーが不正に中国へ輸出された事件に関与したとして、NVIDIAやSupemicroの従業員を含む9人を起訴したと発表した。 米国政府は2022年以降、ライセンスなしにGPUなどの半導体製品を中国へ輸出または販売することを違法とする規制を課して […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メモリー販売サイトに悪質「転売ボット」殺到。販売ページアクセスの91％に達するとの報告]]></title>
+        <id>https://gadget.phileweb.com/?p=131613</id>
+        <link href="https://gadget.phileweb.com/post-131613/"/>
+        <updated>2026-08-25T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[近年、入手困難な「レアもの」が販売される際に、いわゆる「転売ヤー」が群がり、純粋にそれを購入したい顧客の手に商品が渡らない問題が相次いでいる。 ネット販売でもそれは同じで「自動購入ボット」などと呼ばれるプログラムが販売サイトを監視し、商品やチケットなどが購入可能になると即座にそれを確保してしまうこと […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニュージーランド、16歳未満のSNS利用禁止法案を提出]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyzw2n4zqvo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyzw2n4zqvo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-25T07:36:07.000Z</updated>
+        <summary type="html"><![CDATA[ニュージーランド政府は24日、16歳未満のソーシャルメディアの利用を禁止する法案を議会に提出した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカ、「史上最大の金融攻勢」を発表　イランは準備万全と強調]]></title>
+        <id>https://www.bbc.com/japanese/articles/cn74l1708j3o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cn74l1708j3o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-25T07:28:53.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのベセント財務長官は24日、イランに対する「史上最大の金融攻勢」と呼ぶ新たな経済制裁を発表した。また、イランを支援する国々をけん制した。これに対しイランは、拡大された制裁に対抗する2カ年計画がすでにあるとした。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイナカード「署名用電子証明書」６０人分が誤失効　一部手続きで再設定が必要に　奈良・橿原市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4fd300ff0beda1d7765402fda288ed461c7a3ade?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4fd300ff0beda1d7765402fda288ed461c7a3ade?source=rss"/>
+        <updated>2026-08-25T07:21:56.000Z</updated>
+        <summary type="html"><![CDATA[奈良県橿原市は２５日、市民６０人分のマイナンバーカードの署名用電子証明書が誤って失効したと発表しました。
+
+　署名用電子証明書はカードに記録されていて、インターネットでの申請などに使う暗証番号のこと]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シリア裁判所、アサド政権時代のイスラム法学者トップに終身刑]]></title>
+        <id>https://www.bbc.com/japanese/articles/c158gdqnl9eo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c158gdqnl9eo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-25T07:18:37.000Z</updated>
+        <summary type="html"><![CDATA[シリアの裁判所は24日、バッシャール・アル・アサド前政権で大ムフティー（イスラム教スンニ派における最高位のイスラム法学者）を務めたアフメド・ハッスーン被告（77）に、内戦の扇動や意図的な殺人への共謀などの罪で有罪判決を下し、終身刑を言い渡した。現在の暫定政権下で有罪判決を受けたアサド政権時代の人物は、これで10人目。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【損保ジャパン】自動車保険料、5％値上げ　27年1月]]></title>
+        <id>https://itainews.com/archives/2066455.html</id>
+        <link href="https://itainews.com/archives/2066455.html"/>
+        <updated>2026-08-25T07:02:42.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/08/25(火) 07:04:11.70 ID:lf4IW4rD9.net
+
+
+
+
+
+
+
+【損保ジャパン 車保険料5%値上げへ】https://t.co/WArP4nrHbJ— Yahoo!ニュース (@YahooNewsTopics) August 24, 2026  
+
+
+
+
+
+
+8/24(月) 18:37配信
+共同通信
+
+　損害保険大手の損害保険ジャパンが...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日本は中国人観光客なしでは持ちこたえられない」中国メディアが主張]]></title>
+        <id>https://itainews.com/archives/2066456.html</id>
+        <link href="https://itainews.com/archives/2066456.html"/>
+        <updated>2026-08-25T06:30:54.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/08/25(火) 07:54:27.49 ID:N2En1ild0●.net
+
+
+
+
+
+
+
+中国観光客は全く必要性無し🙅中国以外の観光客が居るから😂ｄメニューニュース:「日本は中国人観光客なしでは持ちこたえられない」、中国メディアが主張（レコードチャイナ） https://t.co/BFAqXtSX6...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪市に4億円寄付　ミャクミャク巨大立像希望　85歳の夫妻「後世に伝えるシンボルに」]]></title>
+        <id>https://itainews.com/archives/2066453.html</id>
+        <link href="https://itainews.com/archives/2066453.html"/>
+        <updated>2026-08-25T06:03:28.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：えりにゃん ★：2026/08/24(月) 22:36:13.68 ID:4S9zyfS09.net
+
+
+
+
+
+
+
+大阪市に4億円寄付　ミャクミャク巨大立像希望　85歳の夫妻「後世に伝えるシンボルに」 https://t.co/re96JhnxKg— 大阪ニュース (@Osaka_headlines) August 24, 2026 
+
+
+
+
+
+
+大阪・関西万博...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40年かけNESソフト860本超盗まれる。「全作コンプまであと3本(本人談)」]]></title>
+        <id>https://gadget.phileweb.com/?p=131573</id>
+        <link href="https://gadget.phileweb.com/post-131573/"/>
+        <updated>2026-08-25T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[先日、ソニーが2028年1月以降にPlayStation向けに発売する新作ゲームの物理ディスク生産を終了すると発表したことで、「ゲームの物理メディア」の重要性が改めて注目された感がある。ダウンロード版タイトルがオンラインストアから削除されたり、アクセス不能になったりした場合でも、物理版であればプレイ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【佐賀】「時間がない」検問拒否し車内にこもる…窓割って22歳女を逮捕　呼気検査拒否の疑い]]></title>
+        <id>https://itainews.com/archives/2066452.html</id>
+        <link href="https://itainews.com/archives/2066452.html"/>
+        <updated>2026-08-25T05:34:40.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/08/24(月) 19:39:20.73 ID:Cb1ik0um9.net
+
+
+
+
+
+
+
+「時間がない」検問拒否し車内にこもる…窓割って22歳女を逮捕　呼気検査拒否の疑い▼記事を読むhttps://t.co/lCbcs93HPJ— 福岡・佐賀 KBC NEWS (@KBC_NEWS) August 24, 2026 
+
+
+
+
+
+
+8/24(月) 15:...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEC、ユーザーがメモリ/SSD追加できる16型ノート「LAVIE N16」など6モデル発表]]></title>
         <id>https://gadget.phileweb.com/?p=131621</id>

@@ -1343,6 +1343,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/4fd300ff0beda1d7765402fda288ed461c7a3ade?source=rss",
+          "author": null,
+          "description": "奈良県橿原市は２５日、市民６０人分のマイナンバーカードの署名用電子証明書が誤って失効したと発表しました。\n\n　署名用電子証明書はカードに記録されていて、インターネットでの申請などに使う暗証番号のこと",
+          "link": "https://news.yahoo.co.jp/articles/4fd300ff0beda1d7765402fda288ed461c7a3ade?source=rss",
+          "publishedOn": "2026-08-25T07:21:56.000Z",
+          "wordCount": 1651,
+          "title": "マイナカード「署名用電子証明書」６０人分が誤失効　一部手続きで再設定が必要に　奈良・橿原市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082211-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/51e8d60e203d26f1226f73fe18381e2d0566ee15?source=rss",
           "author": null,
           "description": "６月の大雨で水没した大阪市の「住之江抽水所」について、完全な復旧まで３年以上かかることがわかりました。\n\n　住之江抽水所は大阪市東南部の浸水被害を防ぐための地下水路「なにわ大放水路」から水をくみ上げ",
@@ -3530,6 +3540,36 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cwyzw2n4zqvo#0",
+          "author": null,
+          "description": "ニュージーランド政府は24日、16歳未満のソーシャルメディアの利用を禁止する法案を議会に提出した。",
+          "link": "https://www.bbc.com/japanese/articles/cwyzw2n4zqvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T07:36:07.000Z",
+          "wordCount": 1925,
+          "title": "ニュージーランド、16歳未満のSNS利用禁止法案を提出",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cn74l1708j3o#0",
+          "author": null,
+          "description": "アメリカのベセント財務長官は24日、イランに対する「史上最大の金融攻勢」と呼ぶ新たな経済制裁を発表した。また、イランを支援する国々をけん制した。これに対しイランは、拡大された制裁に対抗する2カ年計画がすでにあるとした。",
+          "link": "https://www.bbc.com/japanese/articles/cn74l1708j3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T07:28:53.000Z",
+          "wordCount": 1885,
+          "title": "アメリカ、「史上最大の金融攻勢」を発表　イランは準備万全と強調",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c158gdqnl9eo#0",
+          "author": null,
+          "description": "シリアの裁判所は24日、バッシャール・アル・アサド前政権で大ムフティー（イスラム教スンニ派における最高位のイスラム法学者）を務めたアフメド・ハッスーン被告（77）に、内戦の扇動や意図的な殺人への共謀などの罪で有罪判決を下し、終身刑を言い渡した。現在の暫定政権下で有罪判決を受けたアサド政権時代の人物は、これで10人目。",
+          "link": "https://www.bbc.com/japanese/articles/c158gdqnl9eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-25T07:18:37.000Z",
+          "wordCount": 1821,
+          "title": "シリア裁判所、アサド政権時代のイスラム法学者トップに終身刑",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0585/live/b475b890-9fef-11f1-88a7-7565f9374fbb.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/ce87djdj26go#0",
           "author": null,
           "description": "ドナルド・トランプ大統領の右腕であるナタリー・ハープ氏が注目を集めている。大統領特別秘書官であるハープ氏は他の重要な職務に加え、トランプ氏が所有するソーシャルメディア「トゥルース・ソーシャル」に投稿する際のタイピングも任されている。",
@@ -5294,6 +5334,36 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131647",
+          "author": "Munenori Taniguchi",
+          "description": "台湾検察当局は、NVIDIAのチップを搭載するAI向けサーバーが不正に中国へ輸出された事件に関与したとして、NVIDIAやSupemicroの従業員を含む9人を起訴したと発表した。 米国政府は2022年以降、ライセンスなしにGPUなどの半導体製品を中国へ輸出または販売することを違法とする規制を課して […]",
+          "link": "https://gadget.phileweb.com/post-131647/",
+          "publishedOn": "2026-08-25T07:55:00.000Z",
+          "wordCount": 708,
+          "title": "台湾当局、NVIDIA幹部含む9人を中国へのGPU密輸に関与したとして起訴",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/e785b4bf4bc4c1c065d28e62ed31e1db.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131613",
+          "author": "多根清史",
+          "description": "近年、入手困難な「レアもの」が販売される際に、いわゆる「転売ヤー」が群がり、純粋にそれを購入したい顧客の手に商品が渡らない問題が相次いでいる。 ネット販売でもそれは同じで「自動購入ボット」などと呼ばれるプログラムが販売サイトを監視し、商品やチケットなどが購入可能になると即座にそれを確保してしまうこと […]",
+          "link": "https://gadget.phileweb.com/post-131613/",
+          "publishedOn": "2026-08-25T07:45:00.000Z",
+          "wordCount": 701,
+          "title": "メモリー販売サイトに悪質「転売ボット」殺到。販売ページアクセスの91％に達するとの報告",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/4d2c6c30068daf01d0f4a2199b089224.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=131573",
+          "author": "多根清史",
+          "description": "先日、ソニーが2028年1月以降にPlayStation向けに発売する新作ゲームの物理ディスク生産を終了すると発表したことで、「ゲームの物理メディア」の重要性が改めて注目された感がある。ダウンロード版タイトルがオンラインストアから削除されたり、アクセス不能になったりした場合でも、物理版であればプレイ […]",
+          "link": "https://gadget.phileweb.com/post-131573/",
+          "publishedOn": "2026-08-25T05:45:00.000Z",
+          "wordCount": 708,
+          "title": "40年かけNESソフト860本超盗まれる。「全作コンプまであと3本(本人談)」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/b4559946db5684c8dcbd82d9b6292a02.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131621",
           "author": "編集部：平山洸太",
           "description": "NECパーソナルコンピュータは、個人向けのPC4モデル、タブレット2モデルを8月27日に発売する。 LAVIE N16 Copilot+ PCに対応した、16型の大画面ノート。画面比率は16:10を採用している。400カンデラの明るい液晶を新たに採用しつつ、200g程度軽量化させることで約2kgの質 […]",
@@ -6647,6 +6717,46 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066455.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/08/25(火) 07:04:11.70 ID:lf4IW4rD9.net\n\n\n\n\n\n\n\n【損保ジャパン 車保険料5%値上げへ】https://t.co/WArP4nrHbJ— Yahoo!ニュース (@YahooNewsTopics) August 24, 2026  \n\n\n\n\n\n\n8/24(月) 18:37配信\n共同通信\n\n　損害保険大手の損害保険ジャパンが...",
+          "link": "https://itainews.com/archives/2066455.html",
+          "publishedOn": "2026-08-25T07:02:42.000Z",
+          "wordCount": 3370,
+          "title": "【損保ジャパン】自動車保険料、5％値上げ　27年1月",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/2/f25637d5-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066456.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/08/25(火) 07:54:27.49 ID:N2En1ild0●.net\n\n\n\n\n\n\n\n中国観光客は全く必要性無し🙅中国以外の観光客が居るから😂ｄメニューニュース:「日本は中国人観光客なしでは持ちこたえられない」、中国メディアが主張（レコードチャイナ） https://t.co/BFAqXtSX6...",
+          "link": "https://itainews.com/archives/2066456.html",
+          "publishedOn": "2026-08-25T06:30:54.000Z",
+          "wordCount": 4052,
+          "title": "「日本は中国人観光客なしでは持ちこたえられない」中国メディアが主張",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/5/3506ee00-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066453.html",
+          "author": "takakichi5346",
+          "description": "1 名前：えりにゃん ★：2026/08/24(月) 22:36:13.68 ID:4S9zyfS09.net\n\n\n\n\n\n\n\n大阪市に4億円寄付　ミャクミャク巨大立像希望　85歳の夫妻「後世に伝えるシンボルに」 https://t.co/re96JhnxKg— 大阪ニュース (@Osaka_headlines) August 24, 2026 \n\n\n\n\n\n\n大阪・関西万博...",
+          "link": "https://itainews.com/archives/2066453.html",
+          "publishedOn": "2026-08-25T06:03:28.000Z",
+          "wordCount": 3676,
+          "title": "大阪市に4億円寄付　ミャクミャク巨大立像希望　85歳の夫妻「後世に伝えるシンボルに」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/a/eacc6708-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066452.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/08/24(月) 19:39:20.73 ID:Cb1ik0um9.net\n\n\n\n\n\n\n\n「時間がない」検問拒否し車内にこもる…窓割って22歳女を逮捕　呼気検査拒否の疑い▼記事を読むhttps://t.co/lCbcs93HPJ— 福岡・佐賀 KBC NEWS (@KBC_NEWS) August 24, 2026 \n\n\n\n\n\n\n8/24(月) 15:...",
+          "link": "https://itainews.com/archives/2066452.html",
+          "publishedOn": "2026-08-25T05:34:40.000Z",
+          "wordCount": 3411,
+          "title": "【佐賀】「時間がない」検問拒否し車内にこもる…窓割って22歳女を逮捕　呼気検査拒否の疑い",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/e/febe93ce-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066450.html",
           "author": "nobi0929",
