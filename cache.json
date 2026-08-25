@@ -6,6 +6,36 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/001/G100114/20260825039/",
+          "author": null,
+          "description": "FellowTravellerは本日（2026年8月25日），ORIGAMEDIGITALが開発中の新作タイトル「PenguinColony」を，10月8日にリリースすると発表した。本作は，「狂気の山脈にて」などのラヴクラフト作品を再解釈した物語を，ペンギンの視点で追っていくホラーシミュレーションゲームだ。",
+          "link": "https://www.4gamer.net/games/001/G100114/20260825039/",
+          "publishedOn": "2026-08-25T10:41:00.000Z",
+          "wordCount": 8221,
+          "title": "凍える南極をペンギンとして探索しながら，狂気に堕ちていく人々を観察。「Penguin Colony」，10月8日に発売決定",
+          "imageUrl": "https://www.4gamer.net/games/001/G100114/20260825039/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/035/G103578/20260825017/",
+          "author": null,
+          "description": "ハムスターは本日，「コンソールアーカイブスバブルボブル」を2026年8月26日に配信すると発表した。「バブルボブル」は，1988年にタイトーから発売されたアクションゲームだ。さらわれたベティーちゃんとパティーちゃんを救うため，バブルンとボブルンが冒険する。全100面で構成されている。",
+          "link": "https://www.4gamer.net/games/035/G103578/20260825017/",
+          "publishedOn": "2026-08-25T10:00:00.000Z",
+          "wordCount": 8273,
+          "title": "「コンソールアーカイブス バブルボブル」，8月26日に配信決定。1988年にタイトーから発売されたアクションゲーム",
+          "imageUrl": "https://www.4gamer.net/games/035/G103578/20260825017/SS/003.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/036/G103600/20260825035/",
+          "author": null,
+          "description": "セガは2026年8月25日，マダガスカルを拠点とするRedRaketaStudioが手掛ける「Kalanoro（カラノロ）」を9月24日に発売すると発表した。本作は，マダガスカルの民話と活気溢れるアートにインスパイアされた世界「レムリア」を舞台にしたアクションアドベンチャーゲームだ。",
+          "link": "https://www.4gamer.net/games/036/G103600/20260825035/",
+          "publishedOn": "2026-08-25T09:57:12.000Z",
+          "wordCount": 8221,
+          "title": "「Kalanoro（カラノロ）」，9月24日に発売決定。主人公が自身の髪や武器を活用して戦うマダガスカル産アクションADV",
+          "imageUrl": "https://www.4gamer.net/games/036/G103600/20260825035/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/007/G100735/20260825028/",
           "author": null,
           "description": "ビサイドは本日，3Dパズル「NAMCOLEGENDARYMountains」の大型アップデートVer1.2.0を配信した。新たに対戦機能を追加し，制限時間内のスコアを競う「スコアアタック」と，相手より早く，いちばん大きなボクセルを作る「ボクセルレース」を実装。1人での練習プレイにも対応する。",
@@ -1392,6 +1422,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/09d607d236fc2d0e36d37473118b4c8dbd492181?source=rss",
+          "author": null,
+          "description": "いま、新米の値段が古米よりも安くなる逆転現象が起きています。\n\n　消費者にとってはうれしい状況になっていますが、農家や小売店からは不安の声が上がっています。",
+          "link": "https://news.yahoo.co.jp/articles/09d607d236fc2d0e36d37473118b4c8dbd492181?source=rss",
+          "publishedOn": "2026-08-25T11:00:00.000Z",
+          "wordCount": 1684,
+          "title": "新米が古米より安い！？　価格下落の理由は\"コメ余り\"　「5キロで2000円台に突入する可能性も」【専門家解説】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082220-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cb47ece0f840eda5221d77d9bca3c6ebd2f413d1?source=rss",
+          "author": null,
+          "description": "いま、子どもたちの間で爆発的な人気を集めているのが、柔らかくモチモチした感触の「スクイーズ」です。\n\n「一度触るとクセになる」と話題の、触って楽しむ”癒やし系雑貨”です。\n\n　なぜ今これほど人気なの",
+          "link": "https://news.yahoo.co.jp/articles/cb47ece0f840eda5221d77d9bca3c6ebd2f413d1?source=rss",
+          "publishedOn": "2026-08-25T10:00:00.000Z",
+          "wordCount": 1747,
+          "title": "いま「スクイーズ」が空前のブームに！　背景に人間の本能が？　“感触系おもちゃ” 次に流行するのは？【識者解説】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082210-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a9deefaa367eadbf4183a02f62ef7cefcb5d2e91?source=rss",
           "author": null,
@@ -5484,6 +5534,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131398",
+          "author": "編集部：平山洸太",
+          "description": "COFOは、電動昇降デスク「COFO Desk Studio」の先行予約を8月25日20時より開始した。カラーはナチュラル、ブラウン、マットブラック、マットホワイトの4色。サイズは120cm、140cm、160cm、180cmをラインナップする。 秘密基地のような ″個人空間” が作れることを目指し […]",
+          "link": "https://gadget.phileweb.com/post-131398/",
+          "publishedOn": "2026-08-25T11:00:00.000Z",
+          "wordCount": 712,
+          "title": "自分仕様にできる電動昇降デスク「COFO Desk Studio」。PCや引き出しを取り付け、ポモドーロタイマーも",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/3ede621551e7ec1f83b998c5dcb54399.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131647",
           "author": "Munenori Taniguchi",
           "description": "台湾検察当局は、NVIDIAのチップを搭載するAI向けサーバーが不正に中国へ輸出された事件に関与したとして、NVIDIAやSupemicroの従業員を含む9人を起訴したと発表した。 米国政府は2022年以降、ライセンスなしにGPUなどの半導体製品を中国へ輸出または販売することを違法とする規制を課して […]",
@@ -6867,6 +6927,26 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066465.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/08/25(火) 11:26:08.74 ID:F3UcemKI9.net\n\n\n\n\n\n\n\n牛の飼育には大量の水や餌が必要で環境負荷が大きく、牛のげっぷには #温室効果ガス の #メタン も多く含まれる「牛の #培養肉」来年１月にも試験生産開始へ「本物に近い形状」生産ライン世界初 : ...",
+          "link": "https://itainews.com/archives/2066465.html",
+          "publishedOn": "2026-08-25T10:31:55.000Z",
+          "wordCount": 3176,
+          "title": "【🥩】「牛の培養肉」来年１月にも試験生産開始へ、「本物に近い形状」生産ラインは世界初…大阪大など共同事業体",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/a/aaae665f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066461.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/08/25(火) 09:16:42.93 ID:lf4IW4rD9.net\n\n\n\n\n\n\n\n■記事https://t.co/uGVllvv78Z— 読売テレビ　ニュース (@news_ytv) August 25, 2026  \n\n\n\n\n\n\n【賛否】電車内でハンディファン使用はアリ？ナシ？「あんたの汗を気化させた風が…」タレントがSNS...",
+          "link": "https://itainews.com/archives/2066461.html",
+          "publishedOn": "2026-08-25T10:00:16.000Z",
+          "wordCount": 3274,
+          "title": "【賛否】電車内でハンディファン使用はアリ？ナシ？「あんたの汗を気化させた風が…」 “髪の毛が吸い込まれる”トラブル報告も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/97e8efab-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066460.html",
           "author": "damono3856",
@@ -10729,6 +10809,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PqOtjlvf6TA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PqOtjlvf6TA",
+          "publishedOn": "2026-08-25T11:01:27.000Z",
+          "wordCount": null,
+          "title": "洗濯機が詰まった音にびっくりして起きちゃった猫がこうなっちゃいました汗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=v9LTxuZskMk",
           "author": null,
           "description": "",
@@ -11232,6 +11322,36 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127258/",
+          "author": null,
+          "description": "人気キャラクター「ちいかわ」と明星食品がコラボレーションしたミニカップめん「明星 チャルメラ ちいかわラーメン」のとんこつ味が9月14日に新発売される。 「ちいかわ」と「明星 チャルメラ」のコラ...",
+          "link": "https://anime.eiga.com/news/127258/",
+          "publishedOn": "2026-08-25T11:00:00.000Z",
+          "wordCount": 746,
+          "title": "ちいかわ×明星チャルメラ、とんこつ味が新発売　冬毛のちいかわたちが“毛量対策”するキュートなデザイン",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/127309/",
+          "author": null,
+          "description": "8月21～23日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「映画ちいかわ 人魚の島のひみつ」が、週末3日間で観客動員82万5800人、興行収入12億4200万円と前週を...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/127309/",
+          "publishedOn": "2026-08-25T10:00:00.000Z",
+          "wordCount": 770,
+          "title": "【週末アニメ映画ランキング】「映画ちいかわ」前週を上回る成績で1位キープ、累計興収は110億円を突破",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127311/",
           "author": null,
