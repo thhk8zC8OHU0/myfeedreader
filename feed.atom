@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T22:19:37.620Z</updated>
+    <updated>2026-08-28T22:34:10.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【モスバーガー】熱々おさつボール ～紫いも～・5個入り【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317381</id>
+        <link href="https://foodfighter.jp/mos-sweet-potato-balls"/>
+        <updated>2026-08-28T22:22:37.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1億5700万円脱税で有罪のインフルエンサー、国税に恨み節「国税は本当に許せない、言いたい事は山程」]]></title>
         <id>https://itainews.com/archives/2066579.html</id>
