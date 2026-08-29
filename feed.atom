@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T07:35:08.756Z</updated>
+    <updated>2026-08-29T07:49:06.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「クレイジータクシー：ワールドツアー」をついに試遊。新ステージ「ドイツ」をクレイジーに走り回る［gamescom］]]></title>
+        <id>https://www.4gamer.net/games/014/G101452/20260829019/</id>
+        <link href="https://www.4gamer.net/games/014/G101452/20260829019/"/>
+        <updated>2026-08-29T07:34:47.000Z</updated>
+        <summary type="html"><![CDATA[SummerGameFest2026でのハンズオフプレゼンテーションから2か月と少し。gamescom2026で「クレイジータクシー：ワールドツアー」を試遊し，発表されたばかりの新ステージ「ドイツ」を30分ほど走ってきた。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「頭に火が燃えてきた」高校ラグビー部の寮で火災、3階部分が全焼　原因は枕元のアロマキャンドル]]></title>
         <id>https://itainews.com/archives/2066612.html</id>
