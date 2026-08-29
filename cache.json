@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/202/G020288/20260829009/",
+          "author": null,
+          "description": "gamescom2026のビジネスエリアにあるCDPROJEKTREDのシアターで，「ウィッチャー3ワイルドハント」の最新DLC「追憶の調べ」のプレゼンを見た。約45分のプレイ映像から，ダンディリオンの故郷で始まる新たな冒険を紹介する。",
+          "link": "https://www.4gamer.net/games/202/G020288/20260829009/",
+          "publishedOn": "2026-08-29T03:18:12.000Z",
+          "wordCount": 8698,
+          "title": "ダンディリオンの故郷で始まるゲラルトの新たな冒険。「ウィッチャー3 ワイルドハント 追憶の調べ」プレゼンレポート［gamescom］",
+          "imageUrl": "https://www.4gamer.net/games/202/G020288/20260829009/SS/011.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/999/G999905/20260828015/",
           "author": null,
           "description": "ゲーム情報サイトの4Gamerでは，夏恒例のプレゼント企画を実施中です。賞品は，携帯型ゲームPC「Claw8AI+A2VM」や，Thrustmasterブランドのフライトスティック「T.16000MFCSFLIGHTPACK」，XREALのサングラス型ディスプレイ「xbxa01+」など。たくさんのご応募，お待ちしています。",
@@ -4639,6 +4649,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o#0",
+          "author": null,
+          "description": "壊滅的な被害を出した土石流の最も衝撃的な映像は、中国ではほとんど見ることができない。",
+          "link": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-29T03:29:54.000Z",
+          "wordCount": 2121,
+          "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cn8mg28eznvo#0",
           "author": null,

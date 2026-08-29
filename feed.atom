@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T03:19:08.599Z</updated>
+    <updated>2026-08-29T03:34:15.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員]]></title>
+        <id>https://www.bbc.com/japanese/articles/cevw9rj3kd8o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-29T03:29:54.000Z</updated>
+        <summary type="html"><![CDATA[壊滅的な被害を出した土石流の最も衝撃的な映像は、中国ではほとんど見ることができない。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダンディリオンの故郷で始まるゲラルトの新たな冒険。「ウィッチャー3 ワイルドハント 追憶の調べ」プレゼンレポート［gamescom］]]></title>
+        <id>https://www.4gamer.net/games/202/G020288/20260829009/</id>
+        <link href="https://www.4gamer.net/games/202/G020288/20260829009/"/>
+        <updated>2026-08-29T03:18:12.000Z</updated>
+        <summary type="html"><![CDATA[gamescom2026のビジネスエリアにあるCDPROJEKTREDのシアターで，「ウィッチャー3ワイルドハント」の最新DLC「追憶の調べ」のプレゼンを見た。約45分のプレイ映像から，ダンディリオンの故郷で始まる新たな冒険を紹介する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暑さ続く中…ホッキョクグマに氷のプレゼント　大阪・天王寺動物園(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/d40cde76db5250f654b134bcd6705d1f66d518d8?source=rss</id>
