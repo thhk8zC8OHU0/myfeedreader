@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T13:19:07.953Z</updated>
+    <updated>2026-08-29T13:34:09.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ケンタッキー】とろ～り月見和風カツバーガーこぼれタルタル【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317430</id>
+        <link href="https://foodfighter.jp/kfc-tsukimi-burger-wakatsu-2026"/>
+        <updated>2026-08-29T13:27:23.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「とろ～り月見和風カツバーガーこぼれタルタル」を世界一詳しく調査しま […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岸谷五朗息子の蘭丸「アメリカの空港で買ったこの水とクッキー2400円。日本円終わり」]]></title>
         <id>https://itainews.com/archives/2066620.html</id>
