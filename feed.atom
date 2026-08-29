@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T06:49:06.823Z</updated>
+    <updated>2026-08-29T07:03:59.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「頭に火が燃えてきた」高校ラグビー部の寮で火災、3階部分が全焼　原因は枕元のアロマキャンドル]]></title>
+        <id>https://itainews.com/archives/2066612.html</id>
+        <link href="https://itainews.com/archives/2066612.html"/>
+        <updated>2026-08-29T07:02:47.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/08/28(金) 21:28:26.22 ID:LfkR7tMb0●.net 
+
+
+
+
+
+
+
+全国大会優勝もあるラグビー強豪校の学生寮で火事　「就寝前にアロマキャンドルつけていた」　男子高校生1人けが　川崎市 https://t.co/PErsqSViv9— FNNプライムオンライン (@FNN_News) August 28, 20...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［インタビュー］「ロックマンらしさ」は絶対に外さない。「ロックマン：デュアル オーバーライド」が目指す，40周年の完全新作]]></title>
+        <id>https://www.4gamer.net/games/968/G096894/20260829018/</id>
+        <link href="https://www.4gamer.net/games/968/G096894/20260829018/"/>
+        <updated>2026-08-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ロックマン」シリーズ最新作「ロックマン：デュアルオーバーライド」が，Gamescomにプレイアブル出展された。「オーバーライド」や「カスタムチップ」，女性型ボス「トゥインクルガール」など，新たな要素が盛り込まれた本作。それぞれの狙いや開発に込めた思いを聞いた。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［インタビュー］「ドラゴンズドグマ 2：ダークアリズン」，ハクスラ的な「遺戦品」や繰り返し挑める追加ダンジョン，ハードモードなど新要素の詳細を聞いた]]></title>
+        <id>https://www.4gamer.net/games/015/G101558/20260829011/</id>
+        <link href="https://www.4gamer.net/games/015/G101558/20260829011/"/>
+        <updated>2026-08-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ドラゴンズドグマ2：ダークアリズン」の合同インタビューに参加した。ハクスラ的な楽しさを味わえる新装備「遺戦品」や，新たなダンジョン「忘れられた試儀」，各ジョブに追加される新スキル，さらにはハードモードなど，気になる新要素について開発陣に話を聞いた。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ウエアラブルカメラ】警察官の装着カメラを全国導入へ　27年度から、有効性を確認]]></title>
         <id>https://itainews.com/archives/2066604.html</id>
