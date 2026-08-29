@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T14:34:07.853Z</updated>
+    <updated>2026-08-29T14:48:57.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美容院と飴]]></title>
+        <id>https://logipara.com/?p=13421</id>
+        <link href="https://logipara.com/diary-text/2026-08-30/"/>
+        <updated>2026-08-29T14:47:41.000Z</updated>
+        <summary type="html"><![CDATA[先日、美容院に髪を切りにいきました。 髪を染めている間に、お茶と飴玉が出されました。 ちょうど甘いものが食べたかったので、飴玉を口に含み、しばらく舐めていたんです。 すると、 　 美容師「それでは髪を洗いますね。こちらに […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「音楽に政治を持ち込むな」の流れは強まるばかり…国葬反対イベントへの補助金不支給を認める判決]]></title>
         <id>https://itainews.com/archives/2066639.html</id>
