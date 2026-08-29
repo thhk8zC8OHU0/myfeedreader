@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T03:04:15.805Z</updated>
+    <updated>2026-08-29T03:19:08.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暑さ続く中…ホッキョクグマに氷のプレゼント　大阪・天王寺動物園(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d40cde76db5250f654b134bcd6705d1f66d518d8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d40cde76db5250f654b134bcd6705d1f66d518d8?source=rss"/>
+        <updated>2026-08-29T03:14:06.000Z</updated>
+        <summary type="html"><![CDATA[まだまだ暑さが続くなか、大阪の天王寺動物園では、ホッキョクグマに涼しげな氷がプレゼントされました。
+
+　大阪市にある天王寺動物園の人気者・ホッキョクグマのホウちゃん（５）。リンゴが入った氷がプレゼン]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体感型アートの展覧会　「魔法の美術館」開催中　滋賀・守山市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5c3eed34c0f3de73e45914222353e34a52aa1e9d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5c3eed34c0f3de73e45914222353e34a52aa1e9d?source=rss"/>
+        <updated>2026-08-29T03:14:06.000Z</updated>
+        <summary type="html"><![CDATA[見る人の動きや声に合わせて色や音が変化する不思議なアート作品を集めた展覧会が、滋賀県守山市で開かれています。
+
+　「佐川美術館」で開かれている「魔法の美術館」。展示されている作品は、見る人の動きや声]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コミケ「コスプレ写真集2000円は高い？」論争　「ほぼ利益なし」「愛だけ」「日本は安すぎ」レイヤーたちの懐事情]]></title>
         <id>https://itainews.com/archives/2066592.html</id>
