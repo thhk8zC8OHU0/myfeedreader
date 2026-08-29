@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T05:03:56.150Z</updated>
+    <updated>2026-08-29T05:18:52.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加]]></title>
+        <id>https://www.bbc.com/japanese/articles/c07l97y7vpko#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-29T05:11:12.000Z</updated>
+        <summary type="html"><![CDATA[北アフリカにあるスペインの飛び地、セウタ市に数万人の移民が流入してから1カ月がたった今、残る移民と地元住民の間で緊張が高まり、暴力事件が頻発している。スペイン政府は、危機を効果的に管理できていないとして、野党から非難されている。セウタの住民は、街中で身の危険を感じているという不満を訴えるとともに、公共サービスへの負担増についても懸念を表明している。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滋賀・東近江市でひき逃げ事件　インドネシア国籍の３２歳男性が重傷(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d030b6191fea3935a242d5a5ecc8a48bf1841c4b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d030b6191fea3935a242d5a5ecc8a48bf1841c4b?source=rss"/>
+        <updated>2026-08-29T05:10:52.000Z</updated>
+        <summary type="html"><![CDATA[２９日未明、滋賀県東近江市で自転車の男性が、自動車に追突されて重傷を負いました。車はそのまま逃げていて、警察がひき逃げ事件として捜査しています。
+
+　２９日午前３時２０分ごろ、東近江市沖野５丁目の市]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なぜ世界中の若者は日本文化が好きなのか？中国ネット「対抗できるのはハリウッド映画くらい」]]></title>
         <id>https://itainews.com/archives/2066583.html</id>

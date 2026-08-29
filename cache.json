@@ -1833,6 +1833,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d030b6191fea3935a242d5a5ecc8a48bf1841c4b?source=rss",
+          "author": null,
+          "description": "２９日未明、滋賀県東近江市で自転車の男性が、自動車に追突されて重傷を負いました。車はそのまま逃げていて、警察がひき逃げ事件として捜査しています。\n\n　２９日午前３時２０分ごろ、東近江市沖野５丁目の市",
+          "link": "https://news.yahoo.co.jp/articles/d030b6191fea3935a242d5a5ecc8a48bf1841c4b?source=rss",
+          "publishedOn": "2026-08-29T05:10:52.000Z",
+          "wordCount": 1633,
+          "title": "滋賀・東近江市でひき逃げ事件　インドネシア国籍の３２歳男性が重傷(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260829-00082274-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d40cde76db5250f654b134bcd6705d1f66d518d8?source=rss",
           "author": null,
           "description": "まだまだ暑さが続くなか、大阪の天王寺動物園では、ホッキョクグマに涼しげな氷がプレゼントされました。\n\n　大阪市にある天王寺動物園の人気者・ホッキョクグマのホウちゃん（５）。リンゴが入った氷がプレゼン",
@@ -4649,6 +4659,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c07l97y7vpko#0",
+          "author": null,
+          "description": "北アフリカにあるスペインの飛び地、セウタ市に数万人の移民が流入してから1カ月がたった今、残る移民と地元住民の間で緊張が高まり、暴力事件が頻発している。スペイン政府は、危機を効果的に管理できていないとして、野党から非難されている。セウタの住民は、街中で身の危険を感じているという不満を訴えるとともに、公共サービスへの負担増についても懸念を表明している。",
+          "link": "https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-29T05:11:12.000Z",
+          "wordCount": 1842,
+          "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0b39/live/e5d60180-a2f9-11f1-8d5b-155abe464768.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c5ywx17zgyyo#0",
           "author": null,
