@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T21:49:09.020Z</updated>
+    <updated>2026-08-29T22:04:05.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【動画】ネパール洪水で水死体の耳からイヤリング盗もうとした男を逮捕。SNSには続々と戦利品報告]]></title>
+        <id>https://itainews.com/archives/2066617.html</id>
+        <link href="https://itainews.com/archives/2066617.html"/>
+        <updated>2026-08-29T22:00:55.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/08/29(土) 09:19:24.01 ID:● 2BP(3000).net
+
+
+
+
+
+
+
+ネパール警察は、チトワンで発生した壊滅的な鉄砲水の中、亡くなった洪水被害者の体からイヤリングを外す様子が映ったバイラル動画を受けて、2人の男性を逮捕#ネパールたまたまあの動画に映っていた...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年8月31日(月)ライトノベル新刊 - ライトノベル新刊チェック]]></title>
         <id>https://novel.sumikko.info/date-item/2026-08-31/</id>
@@ -21847,15 +21865,6 @@ A larger sensor does not always produce better photos. Final imaging performance
         <updated>2026-07-31T10:59:41.000Z</updated>
         <author>
             <name>Kenshi Yonezu  米津玄師</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエ】ショート動画再生回数ランキングTop10!!キッチンでクラリネット吹く人]]></title>
-        <id>https://www.youtube.com/watch?v=YKpHd7QkJL8</id>
-        <link href="https://www.youtube.com/watch?v=YKpHd7QkJL8"/>
-        <updated>2026-07-31T10:00:06.000Z</updated>
-        <author>
-            <name>みつ美《母ちゃんのクラリネット》</name>
         </author>
     </entry>
 </feed>
