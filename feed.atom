@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T03:34:15.000Z</updated>
+    <updated>2026-08-29T03:49:13.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ノルウェーでホーコン8世が即位、前国王ハーラル5世の死去を悼むなか]]></title>
+        <id>https://www.bbc.com/japanese/articles/c5ywx17zgyyo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c5ywx17zgyyo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-29T03:45:27.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェー国王ハーラル5世が28日、死去したことに伴い、息子のホーコン8世が即位した。同国では国全体での服喪が始まり、国民に愛されたハーラル5世の死を悼んでいる。53歳のホーコン新国王はこの日、政府閣僚との臨時国務会議を開き、王室のモットーである「すべてはノルウェーのために」を引き継ぐと述べた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「悪魔のような制度」自治医大・修学資金3766万円“一括返還”巡る訴訟　「約束したんだから返せ」の声に原告医師が反論]]></title>
+        <id>https://itainews.com/archives/2066598.html</id>
+        <link href="https://itainews.com/archives/2066598.html"/>
+        <updated>2026-08-29T03:36:22.000Z</updated>
+        <summary type="html"><![CDATA[1 ：♪♪♪ ★：2026/08/28(金) 18:39:39.43 ID:hwrW8mkR9.net
+
+
+
+
+
+
+
+
+
+「悪魔のような制度」自治医大・修学資金3766万円“一括返還”巡る訴訟　「約束したんだから返せ」の声に原告医師が反論https://t.co/yfPfvUbbes— 弁護士JPニュース 【公式】 (@ben54jp) August 27...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員]]></title>
         <id>https://www.bbc.com/japanese/articles/cevw9rj3kd8o#0</id>
