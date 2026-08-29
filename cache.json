@@ -12885,6 +12885,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/QZnsjGSNwkY",
+          "author": null,
+          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer：植松伸夫　Nobuo Uematsu ​⁠​⁠​⁠​⁠​⁠​⁠​⁠​⁠​⁠@squareenix @squareenixmusicchannel9893 #ファイナルファンタジー#finalfantasy #ff #ga...",
+          "link": "https://www.youtube.com/shorts/QZnsjGSNwkY",
+          "publishedOn": "2026-08-29T12:00:12.000Z",
+          "wordCount": 3139,
+          "title": "【FF4】名曲メドレー|FINAL FANTASY Ⅳ/Medley of Greatest Hits③#ファイナルファンタジー #ff #ff4 #finalfantasy #clarinet",
+          "imageUrl": "https://i.ytimg.com/vi/QZnsjGSNwkY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAQKYYfmGWnOolLO0xyxE3u8sFRUg&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/shorts/47judDm205I",
           "author": null,
           "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer：植松伸夫　Nobuo Uematsu ​⁠​⁠​⁠​⁠​⁠​⁠​⁠​⁠@squareenix @squareenixmusicchannel9893 #ファイナルファンタジー#finalfantasy #ff #game...",
@@ -13962,6 +13972,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127305/",
+          "author": null,
+          "description": "テレビアニメ「東京リベンジャーズ 三天戦争編」が、10月3日からディズニープラスで世界定額制動画配信（SVOD）独占配信されることが決定した（中国本土を除く）。あわせて、新たなキービジュアルとP...",
+          "link": "https://anime.eiga.com/news/127305/",
+          "publishedOn": "2026-08-29T12:00:00.000Z",
+          "wordCount": 829,
+          "title": "「東京リベンジャーズ 三天戦争編」10月3日からディズニープラスで独占配信決定　新キービジュアル＆PV披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127307/",
           "author": null,
