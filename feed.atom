@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T08:34:12.985Z</updated>
+    <updated>2026-08-29T08:49:18.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松屋】キムカル丼W（爆盛サイズ）【肉の日限定・新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317402</id>
+        <link href="https://foodfighter.jp/matsuya-kimukaru-nikunohi"/>
+        <updated>2026-08-29T08:35:59.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『カニラーメン』体調不良騒動　こめおがSNS上の指摘を否定「22日に余った商品を23日の販売に使用した事実はありません」]]></title>
         <id>https://itainews.com/archives/2066610.html</id>
