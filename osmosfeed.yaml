@@ -10,19 +10,24 @@ sources:
   - href: https://feeds.bbci.co.uk/japanese/rss.xml
   - href: https://rss.itmedia.co.jp/rss/2.0/edn.xml
   - href: https://gadget.phileweb.com/feed
+  - href: https://itainews.com/index.rdf
   - href: https://atsugi-lab.com/feed
   - href: https://image-sensors-world.blogspot.com/feeds/posts/default
   - href: https://foodfighter.jp/feed
+  - href: https://anime.eiga.com/feed/news/rss.xml
+  - href: https://comic.sumikko.info/rss.xml
+  - href: https://novel.sumikko.info/rss.xml
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXteDRy5qB0IjA8WPusCJ7w
-  - href: https://itainews.com/index.rdf
-  - href: https://note.com/hima_kuuhaku/rss
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCl2aT0nRejTCQO_LHZAftBw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCUCeZaZeJbEYAAzvMgrKOPQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCo72rUcAcuJO4MLlPXCZxaQ
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCePaZ2UkSfEUarY2HNm52fw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCYzwmnBXo5oIW4PI7vo8KDw
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqJopoT40y_vazwcaYc2LAg
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC8dQYBMH_mW_gXlSIusty7g
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w
   - href: https://logipara.com/feed
-  - href: https://anime.eiga.com/feed/news/rss.xml
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCo72rUcAcuJO4MLlPXCZxaQ
+  - href: https://note.com/hima_kuuhaku/rss
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCigI38jFeroJWgbgMXYh2zw
