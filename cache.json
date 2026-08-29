@@ -1863,6 +1863,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ca077968108e3781cf2182b8280c48d7c0ebe45c?source=rss",
+          "author": null,
+          "description": "阪神淡路大震災の復興を願う歌、「しあわせ運べるように」。作詞・作曲を手がけ、７月に亡くなった臼井真さんの思いを継ぎ、大学生らがスタジアムで合唱しました。\n\n　２９日、ノエビアスタジアム神戸のサッカー",
+          "link": "https://news.yahoo.co.jp/articles/ca077968108e3781cf2182b8280c48d7c0ebe45c?source=rss",
+          "publishedOn": "2026-08-29T12:49:35.000Z",
+          "wordCount": 1624,
+          "title": "急逝の恩師に届ける阪神淡路大震災の復興を願う歌「しあわせ運べるように」　教え子らが神戸・ノエビアスタジアムで合唱(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260829-00082277-asahibcv-000-3-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/11aeaecae109e0f8c0c5b0047d92a14f2c3f084a?source=rss",
           "author": null,
           "description": "大阪市天王寺区の地下街で、女性が刺され現金などが奪われた事件で、警察は新たにベトナム国籍の男１人を逮捕しました。\n\n　グエン・ヒュー・チョン容疑者（２５）は６月、別の男らと共謀し、ＪＲ天王寺駅近くの",
@@ -8688,6 +8698,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066620.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/08/29(土) 09:57:10.23 ID:● 2BP(3000).net\n\n\n\n\n\n\n\n米国から帰国の岸谷蘭丸氏　空港での「水とクッキー」の値段明かし「日本円、終わり」(デイリースポーツ) https://t.co/ocyUMRZbdb— 氏長者 (@Ponkich3) August 29, 2026 \n\n\n\n\n\n\n\n実業家でインフル...",
+          "link": "https://itainews.com/archives/2066620.html",
+          "publishedOn": "2026-08-29T13:00:46.000Z",
+          "wordCount": 3084,
+          "title": "岸谷五朗息子の蘭丸「アメリカの空港で買ったこの水とクッキー2400円。日本円終わり」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/e/fe359051-s.jpg"
+        },
+        {
           "id": "https://itainews.com/archives/2066631.html",
           "author": "damono3856",
           "description": "1 名前：：2026/08/29(土) 12:04:08.52 ID:ztMxRck70●.net \n\n\n\n\n\n\n\n别人救灾的时候在救灾。共军救灾的时候要么吃饭、要么睡觉。感动得我吃的东西都吐了。 pic.twitter.com/SVLZGJf0Wn— Lawrence 精卫 (@Lawrenc09874431) August 28, 2026",
@@ -13992,6 +14012,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127321/",
+          "author": null,
+          "description": "中国で公開されたアニメ映画「牛来（原題）」が作画の稚拙さで話題を呼び、興行収入を伸ばしていると英BBCが報じている。公開から10日間の興収は、日本円にして20万円に満たなかった。 中国の興行デー...",
+          "link": "https://anime.eiga.com/news/127321/",
+          "publishedOn": "2026-08-29T13:00:00.000Z",
+          "wordCount": 700,
+          "title": "つたない作画で話題になった中国のアニメ映画「牛来」が一転してヒット",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127305/",
           "author": null,
