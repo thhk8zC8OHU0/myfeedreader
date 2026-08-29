@@ -1833,6 +1833,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/32c6edbf87eb2b2fd7cf16503bb319821d8b7810?source=rss",
+          "author": null,
+          "description": "２９日午前、奈良県大和高田市で、同居する姉をダンベルで殴り殺害しようとしたとして、弟が逮捕されました。\n\n　殺人未遂の疑いで現行犯逮捕されたのは、大和高田市に住む介護士の本間与範容疑者（２６）です。",
+          "link": "https://news.yahoo.co.jp/articles/32c6edbf87eb2b2fd7cf16503bb319821d8b7810?source=rss",
+          "publishedOn": "2026-08-29T06:20:19.000Z",
+          "wordCount": 1663,
+          "title": "ダンベルで姉の後頭部を複数回殴ったか　２６歳弟を殺人未遂の疑いで逮捕　「バカにされ続けた」　奈良・大和高田市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260829-00082275-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d030b6191fea3935a242d5a5ecc8a48bf1841c4b?source=rss",
           "author": null,
           "description": "２９日未明、滋賀県東近江市で自転車の男性が、自動車に追突されて重傷を負いました。車はそのまま逃げていて、警察がひき逃げ事件として捜査しています。\n\n　２９日午前３時２０分ごろ、東近江市沖野５丁目の市",
@@ -8627,6 +8637,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066604.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/08/28(金) 20:35:57.38 ID:BejLMuVV9.net\n\n\n\n\n\n\n\n警察官らのカメラ装着、全国導入へ　職務執行の適正性の検証に効果(朝日新聞)#Yahooニュースhttps://t.co/SF4A6A3o95 テーザー銃も…— 🍋さりレモン🇯🇵 (@sarisarilemon) August 28, 2026 \n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2066604.html",
+          "publishedOn": "2026-08-29T06:31:38.000Z",
+          "wordCount": 3022,
+          "title": "【ウエアラブルカメラ】警察官の装着カメラを全国導入へ　27年度から、有効性を確認",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/d/7d9f63a9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066611.html",
           "author": "damono3856",
