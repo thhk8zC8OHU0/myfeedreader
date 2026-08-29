@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T00:04:04.416Z</updated>
+    <updated>2026-08-29T00:19:06.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【開店】鈴木学園本部跡地に建てられた新ビルに飲食店！「鳥ぶら 本厚木店」9月17日オープン予定☆［厚木市中町］]]></title>
+        <id>https://atsugi-lab.com/?p=60944</id>
+        <link href="https://atsugi-lab.com/open-toribura-honatsugi202609/"/>
+        <updated>2026-08-29T00:05:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。毎日暑いですね…！ 職業柄、工事現場を見るとついチェックしてしまうのですが、この季節は暑い中作業をされている方々を見ると本当に頭が下がります。 さて、先日も旧鈴木学園本部ビル跡地に建てられたビル「d_ll …]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「1位は中国ではなかった」東京の新築マンション、国外購入者の62％を占めたのは「台湾」 次いで中国（10％）、英国・米国（9％）]]></title>
         <id>https://itainews.com/archives/2066591.html</id>
