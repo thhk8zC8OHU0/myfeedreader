@@ -1863,6 +1863,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/702913b7051f773de6a3d734cde9ac3cbb8dcaa5?source=rss",
+          "author": null,
+          "description": "兵庫県姫路市に播磨地域で最大規模の多目的アリーナが完成し報道陣に公開されました。\n\n　完成したのは、ＪＲ手柄山平和公園駅に直結する「大和工業アリーナ姫路」です。\n\n　中には日本水泳連盟公認の５０メー",
+          "link": "https://news.yahoo.co.jp/articles/702913b7051f773de6a3d734cde9ac3cbb8dcaa5?source=rss",
+          "publishedOn": "2026-08-30T03:28:07.000Z",
+          "wordCount": 1633,
+          "title": "播磨地域で最大規模　姫路に新たな多目的アリーナ　１０月１日オープン(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-00082278-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d0bbbdf1a97fbfdbeef0c36b89a7a6eaa49d6e93?source=rss",
+          "author": null,
+          "description": "前線や暖かく湿った空気の影響で、福井県では記録的な大雨となり、各地で大きな被害が出ています。\n\n　午前１１時までの２４時間に降った雨の量は、福井県勝山市で３４６．５ミリと観測史上最大を記録しました。",
+          "link": "https://news.yahoo.co.jp/articles/d0bbbdf1a97fbfdbeef0c36b89a7a6eaa49d6e93?source=rss",
+          "publishedOn": "2026-08-30T03:27:20.000Z",
+          "wordCount": 1684,
+          "title": "福井県で記録的大雨　一時「レベル５大雨特別警報」　各地で大きな被害　夕方にかけ激しい雷雨のおそれも(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-00082279-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/ca077968108e3781cf2182b8280c48d7c0ebe45c?source=rss",
           "author": null,
           "description": "阪神淡路大震災の復興を願う歌、「しあわせ運べるように」。作詞・作曲を手がけ、７月に亡くなった臼井真さんの思いを継ぎ、大学生らがスタジアムで合唱しました。\n\n　２９日、ノエビアスタジアム神戸のサッカー",
@@ -7830,6 +7850,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066637.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/29(土) 16:41:44.30 ID:HVwpECUZ0●.net\n\n\n\n\n\n\n\n\n\n\n【大分県内ニュース】NHK大河ドラマ、竹田市など「史実尊重を」　「豊臣兄弟！」中川清秀描写で申し入れ #oita #大分 https://t.co/1cQqdihFGq— 大分合同新聞 (@oitagodo) August 29, 2026 \n\n\n\n\n\n\n\n\n\n放...",
+          "link": "https://itainews.com/archives/2066637.html",
+          "publishedOn": "2026-08-30T03:31:02.000Z",
+          "wordCount": 3042,
+          "title": "NHKがまた歴史歪曲　「豊臣兄弟！」中川清秀描写が「史実と懸け離れている」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/d/2de05a82-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066634.html",
           "author": "dqnplus",
