@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T15:04:51.571Z</updated>
+    <updated>2026-08-30T15:19:18.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[滋賀県高島市で乗用車とトラックが正面衝突　3人重体(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/38f24ec112183527f779813a9794e0ee801374a9?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/38f24ec112183527f779813a9794e0ee801374a9?source=rss"/>
+        <updated>2026-08-30T15:07:26.000Z</updated>
+        <summary type="html"><![CDATA[３０日午後、滋賀県高島市の国道１６１号で乗用車とトラックが衝突する事故があり、少なくとも３人が意識不明の重体です。
+
+　３０日午後６時２０分ごろ高島市マキノ町蛭口の片側一車線の国道１６１号で「４ｔト]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GRe4N BOYZ /「虹」MV]]></title>
         <id>https://www.youtube.com/watch?v=3F5QphoOEk8</id>
