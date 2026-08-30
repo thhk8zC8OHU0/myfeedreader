@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T04:19:14.321Z</updated>
+    <updated>2026-08-30T04:35:17.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Z世代の“デート離れ”👨👧]]></title>
+        <id>https://itainews.com/archives/2066642.html</id>
+        <link href="https://itainews.com/archives/2066642.html"/>
+        <updated>2026-08-30T04:31:43.000Z</updated>
+        <summary type="html"><![CDATA[1 ：パンナ・コッタ ★：2026/08/29(土) 15:57:30.81 ID:GnzQAuIJ9.net
+
+
+
+
+
+
+
+
+
+デート1回3万円で「アプリ離れ」…米Z世代で激変する恋愛事情、無料の“ランニングクラブ”が人気の理由 https://t.co/aQV7tiYr1v— ニュースSPA!～誰かに話したくなる記事満載 (@weekly_S...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元『ジャンポケ』斉藤慎二被告　「懲役7年求刑」の1週間後に山形で開いていた「大宴会」写真【ゴキゲンで最高級焼き肉を満喫】]]></title>
         <id>https://itainews.com/archives/2066640.html</id>
@@ -22030,18 +22050,6 @@ The largest image sensor plant from Sony – the world’s biggest manufacturer 
         <summary type="html"><![CDATA[我が家の子どもたちはまだまだポケモンが大好き！ふみえ＠あつらぼです。 先日、ミロードイーストで買い物をしようとしたところ、 ふと、見慣れない大きな黄色い箱が設置されていることに気が付きました…！ あまりに気になった私、思わず近づいてチェック…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony and Samsung 200MP sensors compared]]></title>
-        <id>https://image-sensors-world.blogspot.com/2026/07/sony-and-samsung-200mp-sensors-compared.html</id>
-        <link href="https://image-sensors-world.blogspot.com/2026/07/sony-and-samsung-200mp-sensors-compared.html"/>
-        <updated>2026-07-31T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[200MP camera sensors are everywhere on modern smartphones, but are all 200MP cameras the same?
-In this video, we explain why smartphone manufacturers keep adopting 200MP sensors, then run blind camera tests featuring Samsung HP3, HP5, HP9 series, Sony LYTIA 901 and SmartSens SCC80XS. We compare official specifications with real-world daylight and low-light lab samples to reveal how sensor hardware, ISP tuning and optical modules affect image quality.
-A larger sensor does not always produce better photos. Final imaging performance depends on the entire camera system instead of sensor specs alone. Let’s check the actual gaps between these mainstream 200MP sensors.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
