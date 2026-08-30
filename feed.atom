@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T09:04:05.474Z</updated>
+    <updated>2026-08-30T09:19:08.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「呪術廻戦」大型展覧会、完結展が開催決定　会場は最終決戦の地・新宿　最終局面の「深層」部分が明かされる]]></title>
+        <id>https://anime.eiga.com/news/127334/</id>
+        <link href="https://anime.eiga.com/news/127334/"/>
+        <updated>2026-08-30T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年に東京・渋谷会場からはじまり、各地を巡回している「呪術廻戦」の大型展覧会が、東京・新宿住友ビル 三角広場で26年12月26日～27年1月25日に開催されることがわかった。同展はこれが“...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【中野ブロードウェイ高級腕時計窃盗事件】チリ人容疑者らが被害品以外の高級腕時計も所持か　バッグや民泊で発見]]></title>
         <id>https://itainews.com/archives/2066653.html</id>
