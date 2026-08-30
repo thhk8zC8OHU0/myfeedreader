@@ -1863,6 +1863,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f456dfe4cc6428c75fea27494a06f49a756581f9?source=rss",
+          "author": null,
+          "description": "京都の舞鶴と、北海道の小樽を結ぶ新たな大型フェリーがお披露目されました。\n\n　新日本海フェリーの「はまなす」は全長１９９メートル、重量約１万４０００トンの大型フェリーで、舞鶴と小樽を約２１時間で結び",
+          "link": "https://news.yahoo.co.jp/articles/f456dfe4cc6428c75fea27494a06f49a756581f9?source=rss",
+          "publishedOn": "2026-08-30T09:29:17.000Z",
+          "wordCount": 1630,
+          "title": "舞鶴－小樽を結ぶ、新大型フェリー「はまなす」お披露目　９月１日就航(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-00082281-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f7393df927051beb1053d867571184a79c527398?source=rss",
+          "author": null,
+          "description": "日本で初めての民間ロケット発射場がある和歌山県串本町で、専門家らを招いた宇宙シンポジウムが開かれました。\n\n　８回目となる今回の「宇宙シンポジウム」では、ＪＡＸＡ（宇宙航空研究開発機構）が火星の衛星",
+          "link": "https://news.yahoo.co.jp/articles/f7393df927051beb1053d867571184a79c527398?source=rss",
+          "publishedOn": "2026-08-30T09:28:06.000Z",
+          "wordCount": 1626,
+          "title": "和歌山・串本町で「宇宙シンポジウム」開催　次のロケット打ち上げは…「早期を目指して、２カ月前にはみなさまに連絡を」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-00082280-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/702913b7051f773de6a3d734cde9ac3cbb8dcaa5?source=rss",
           "author": null,
           "description": "兵庫県姫路市に播磨地域で最大規模の多目的アリーナが完成し報道陣に公開されました。\n\n　完成したのは、ＪＲ手柄山平和公園駅に直結する「大和工業アリーナ姫路」です。\n\n　中には日本水泳連盟公認の５０メー",
@@ -7850,6 +7870,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066669.html",
+          "author": "damono3856",
+          "description": "1 名前：もん様！：2026/08/30(日) 16:56:45.41 ID:DFeekkG30●.net \n\n\n\n\n\n\n\n【速報】レゴランドのアトラクション「ドアが開かなくなり客が10人程閉じ込められている」119通報　名古屋・港区(CBCテレビ)#Yahooニュースhttps://t.co/8JLNilijYL— 木野浩一 (@dorasuky) Au...",
+          "link": "https://itainews.com/archives/2066669.html",
+          "publishedOn": "2026-08-30T09:31:47.000Z",
+          "wordCount": 3038,
+          "title": "レゴランド　ドアが開かなくなり潜水艦で水中に閉じ込め中",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/f/7fa7cd7d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066653.html",
           "author": "damono3856",
