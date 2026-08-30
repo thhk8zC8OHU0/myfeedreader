@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T13:19:09.133Z</updated>
+    <updated>2026-08-30T13:34:45.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[辺野古転覆事故　同志社国際高校が今年度の沖縄研修旅行の中止を決定(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8f3f0df614cdae5b49e36f958c27a37b1f1a53e6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8f3f0df614cdae5b49e36f958c27a37b1f1a53e6?source=rss"/>
+        <updated>2026-08-30T13:20:08.000Z</updated>
+        <summary type="html"><![CDATA[沖縄県名護市辺野古沖で同志社国際高校の生徒らを乗せた船が転覆した事故を巡り、高校が３０日に開いた保護者説明会で、今年度の沖縄研修旅行を中止すると発表したことがわかりました。
+
+　名護市辺野古沖で３月]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国ミスコリア、整形論争に苦言「外見で人の価値は決まらない。自然な美人なら価値が上がり、そうでなければ下がるのか」]]></title>
         <id>https://itainews.com/archives/2066666.html</id>
