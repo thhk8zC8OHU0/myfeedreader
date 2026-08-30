@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T11:04:20.181Z</updated>
+    <updated>2026-08-30T11:19:32.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪・ミナミのクラブを家宅捜索　不法残留などの疑いでベトナム国籍の男女９人逮捕　違法薬物とみられる粉末なども押収(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/93d148a4d1b43146cbf47cdd2c7b020347f380c5?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/93d148a4d1b43146cbf47cdd2c7b020347f380c5?source=rss"/>
+        <updated>2026-08-30T11:11:21.000Z</updated>
+        <summary type="html"><![CDATA[大阪府警は３０日未明、麻薬取締法違反の疑いで大阪・ミナミのクラブを家宅捜索し、客として店内にいたベトナム国籍の男女９人を不法残留などの疑いで逮捕しました。
+
+　入管難民法違反（不法残留など）の疑いで]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【またかよ…】中革連・小沢氏、新党結成に意欲]]></title>
         <id>https://itainews.com/archives/2066656.html</id>

@@ -1863,6 +1863,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/93d148a4d1b43146cbf47cdd2c7b020347f380c5?source=rss",
+          "author": null,
+          "description": "大阪府警は３０日未明、麻薬取締法違反の疑いで大阪・ミナミのクラブを家宅捜索し、客として店内にいたベトナム国籍の男女９人を不法残留などの疑いで逮捕しました。\n\n　入管難民法違反（不法残留など）の疑いで",
+          "link": "https://news.yahoo.co.jp/articles/93d148a4d1b43146cbf47cdd2c7b020347f380c5?source=rss",
+          "publishedOn": "2026-08-30T11:11:21.000Z",
+          "wordCount": 1647,
+          "title": "大阪・ミナミのクラブを家宅捜索　不法残留などの疑いでベトナム国籍の男女９人逮捕　違法薬物とみられる粉末なども押収(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260830-00082282-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/f456dfe4cc6428c75fea27494a06f49a756581f9?source=rss",
           "author": null,
           "description": "京都の舞鶴と、北海道の小樽を結ぶ新たな大型フェリーがお披露目されました。\n\n　新日本海フェリーの「はまなす」は全長１９９メートル、重量約１万４０００トンの大型フェリーで、舞鶴と小樽を約２１時間で結び",
