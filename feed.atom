@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T12:19:06.971Z</updated>
+    <updated>2026-08-30T12:34:24.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[葬式]]></title>
+        <id>https://logipara.com/?p=13424</id>
+        <link href="https://logipara.com/diary-text/2026-08-31/"/>
+        <updated>2026-08-30T12:29:39.000Z</updated>
+        <summary type="html"><![CDATA[葬儀のときに配る「お清めの塩」に、アジシオやヒマラヤ岩塩を配るタイプの葬儀屋。 　 逆に、お清めの塩で精進落としの料理を作るタイプの葬儀屋。]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイドルグループメンバー「重大な契約違反」発覚・契約解除、生誕祭も中止　「まねきケチャ」が発表]]></title>
         <id>https://itainews.com/archives/2066664.html</id>
