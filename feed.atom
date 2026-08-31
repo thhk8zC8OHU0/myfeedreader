@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T07:49:09.902Z</updated>
+    <updated>2026-08-31T08:04:49.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【生保】ソニー生命に立ち入り検査へ　不祥事で金融庁、プルデンシャルに続き]]></title>
+        <id>https://itainews.com/archives/2066690.html</id>
+        <link href="https://itainews.com/archives/2066690.html"/>
+        <updated>2026-08-31T08:00:03.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/08/31(月) 07:58:08.87 ID:I2AczN/v9.net
+
+
+
+
+
+
+
+【独自】ソニー生命に立ち入り検査へ　不祥事で金融庁、プルデンシャルに続きhttps://t.co/C7Mx5iiti4 複数の金銭不祥事が発覚し、全顧客279万人の被害調査を進めているソニー生命保険に対し、金融...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［プレイレポ］「プラトニカ・スペース」が描く“人はわかり合えない”ことの相互理解。無数の部屋が連なる世界で，記憶の断片を手繰り寄せる]]></title>
+        <id>https://www.4gamer.net/games/928/G092866/20260831018/</id>
+        <link href="https://www.4gamer.net/games/928/G092866/20260831018/"/>
+        <updated>2026-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KAMITSUBAKISTUDIOとKazuhideOka氏が制作し，ROOM6のインディーゲームレーベル・ヨカゼからリリースされた「プラトニカ・スペース」。夢のなかのような空間で“失われた記憶”を読み解く，そのゲーム体験をプレイレポートでお伝えしよう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型Mac mini／Studio、異例の早期投入は予想越える「企業のAI特需」のためか]]></title>
         <id>https://gadget.phileweb.com/?p=132022</id>
