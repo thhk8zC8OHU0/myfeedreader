@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T05:34:38.867Z</updated>
+    <updated>2026-08-31T05:48:56.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[折りたたみiPhone用「短いApple Pencil」試作も、画面保護など懸念で見送り濃厚のうわさ]]></title>
+        <id>https://gadget.phileweb.com/?p=132012</id>
+        <link href="https://gadget.phileweb.com/post-132012/"/>
+        <updated>2026-08-31T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[7インチ以上の大画面を備える折りたたみスマートフォンは、タブレット的な使い方も可能であるためか、メーカーが最初から本体にスタイラスペンを搭載する場合がある。 たとえばサムスンのGalaxy Z Foldシリーズは、Fold3からFold6までのモデルでスタイラス（Sペン）に対応している。 そして、ま […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高速道路の追い越し車線で"押し問答"か　傷害などの疑いで男２人を逮捕　兵庫・西宮市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/c357c3db9547cef1ca3578196bf6613316254d53?source=rss</id>
