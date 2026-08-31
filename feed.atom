@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T03:34:12.214Z</updated>
+    <updated>2026-08-31T03:49:45.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【祝25周年！】七沢のらーめんAFURI総本店「ZUND-BAR」で、限定メニューや無料券など周年企画が盛り沢山！［厚木市七沢］]]></title>
+        <id>https://atsugi-lab.com/?p=61266</id>
+        <link href="https://atsugi-lab.com/atsugi-zundbar-25th-anniversary/"/>
+        <updated>2026-08-31T03:39:48.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、しの＠あつらぼです。 今回は、嬉しい周年企画のご紹介です♪ 厚木市七沢にある、人気らーめん店「ZUND-BAR」が、2026年9月3日にオープン25周年を迎えるそうです！ これまでに提供したラーメンは、なんと累計235万杯♪ 2…]]></summary>
+        <author>
+            <name>shino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共産党支持者「古謝げんた応援ポスターキモくて言葉がない」→共産党支持者の自作自演と話題に]]></title>
         <id>https://itainews.com/archives/2066674.html</id>
