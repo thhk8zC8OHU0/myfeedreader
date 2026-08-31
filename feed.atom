@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T09:04:12.474Z</updated>
+    <updated>2026-08-31T09:19:16.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ワロタ、俺の家のとなり魔王城www」，オープンβテストをSteamで本日開始。魔王のライブ（魔狂宴）で魔物が村に襲来]]></title>
+        <id>https://www.4gamer.net/games/002/G100241/20260831028/</id>
+        <link href="https://www.4gamer.net/games/002/G100241/20260831028/"/>
+        <updated>2026-08-31T09:16:54.000Z</updated>
+        <summary type="html"><![CDATA[ワンオアエイトは本日，村づくりアクションRPG「ワロタ、俺の家のとなり魔王城www」のオープンβテストをSteamで開始した。応募不要・参加人数無制限で，期間は2026年9月7日13：59までだ。最初のボスまでの2〜3時間程度の範囲をプレイ可能で，日本語，英語，中国語（簡体字／繁体字）に対応する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新学年の開始前に1200万冊の本を破壊、ウクライナの文化を攻撃するロシア]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyzjgz9d1wo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyzjgz9d1wo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-31T09:08:35.000Z</updated>
+        <summary type="html"><![CDATA[ロシアは最近、ウクライナ全土の印刷所や出版社を相次いで攻撃し、合わせて1200万冊の書籍を破壊したほか、ウクライナの歴史と文化を象徴する貴重な資料にも損害を与えた。地元メディアの報道によると、ロシアは今年、ウクライナで印刷された書籍の3分の1を破壊したという。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【中学部活廃止】地域に移行　神戸市教委、政令市で初]]></title>
         <id>https://itainews.com/archives/2066692.html</id>
