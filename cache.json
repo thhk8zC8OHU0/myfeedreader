@@ -4860,6 +4860,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cx2zy7n4qp6o#0",
+          "author": null,
+          "description": "ウクライナの首都キーウ近郊の住宅地付近で28日夜、軍の武器を保管する倉庫がロシアのドローン攻撃を受け、37人が死亡、約400人が避難した。キーウ近郊の武器庫が攻撃され、付近の住民に甚大な被害がもたらされたのは7月上旬に続いて2度目。ウクライナ当局は、住宅地の近くに武器庫が設置されていたことについて、重大な過失の疑いがあるとして捜査に着手した。",
+          "link": "https://www.bbc.com/japanese/articles/cx2zy7n4qp6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-31T04:04:14.000Z",
+          "wordCount": 1832,
+          "title": "キーウ近郊の住宅地付近で弾薬庫が攻撃され少なくとも37人死亡　ウクライナ当局は規則違反を捜査",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c7v4d6j360jo#0",
           "author": null,
           "description": "ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流は、31日午前までに国境の両側で死者が計800人を超え、行方不明者は計3000人以上となっている。現地では懸命の救助・捜索活動が続いており、ネパールの水力発電所ではトンネルに閉じ込められているとみられる数百人の救出活動が急ピッチで進められている。こうしたなか、ネパールの学校では素早い避難によって生徒ら約900人の命が救われたことが、関係者の話から明らかになった。",
@@ -6546,6 +6556,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/28/news033.html",
+          "author": null,
+          "description": "NoMIS Powerは、8kV超のブロック電圧と90mΩのオン抵抗、55Aのドレイン電流を実現した6.5kV 炭化ケイ素（SiC）MOSFETを開発した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/28/news033.html",
+          "publishedOn": "2026-08-31T03:30:00.000Z",
+          "wordCount": 2655,
+          "title": "6.5kV SiC MOSFETを開発、NoMIS Power",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/28/l_edn20260827edn001.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news009.html",
           "author": null,
