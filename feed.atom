@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T06:49:42.364Z</updated>
+    <updated>2026-08-31T07:04:16.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネパールの山道、大雨で救援車両が立ち往生　BBC現地取材]]></title>
+        <id>https://www.bbc.com/japanese/articles/cde0995g197o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cde0995g197o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-31T07:01:03.000Z</updated>
+        <summary type="html"><![CDATA[ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流は、31日午後までに国境の両側で死者が計900人を超え、行方不明者は計約4800人となっている。ネパールでは依然として大勢が救助と救援を待っているものの、悪天候が続き、支援物資を運ぶ車両はぬかるむ泥道で立ち往生している。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50歳代の貯蓄は平均1908万円・中央値700万円｜金融資産非保有18.2％と3000万円以上18.8％が並ぶ]]></title>
+        <id>https://itainews.com/archives/2066681.html</id>
+        <link href="https://itainews.com/archives/2066681.html"/>
+        <updated>2026-08-31T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：首都圏の虎 ★：2026/08/30(日) 21:44:47.82 ID:AA5plzE49.net
+
+
+
+
+
+
+
+平均値で語ることの危険性がわかるいい記事。#平均値 #中央値50歳代の貯蓄額、平均と中央値のギャップ。「金融資産ゼロ」と答えた世帯の半数が平均480万円持つ現実 https://t.co/xAwj6ZUdV9 ...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同志社国際高校　沖縄・辺野古沖の転覆事故で研修旅行に関わった教師が死亡(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/728c3936d47c72a34d588215bc9e4761d72f7ccf?source=rss</id>
