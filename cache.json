@@ -6487,6 +6487,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news009.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初級者の方からよく質問される「Neural-ARTアクセラレーター」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/31/news009.html",
+          "publishedOn": "2026-08-31T02:00:00.000Z",
+          "wordCount": 2638,
+          "title": "Neural-ARTアクセラレーターってどんな機能？",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/31/cover_news009.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html",
           "author": null,
           "description": "マイクロチップ・テクノロジーは、宇宙システム向けチップスケール原子クロック「Space CSAC-SA65」を発表した。同社の従来品をベースに、耐放射線性や対応温度範囲を強化している。",
