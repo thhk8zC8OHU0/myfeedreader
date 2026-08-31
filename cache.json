@@ -1933,6 +1933,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/5583e131793b9dcbae30e7035e3a4c4de11d848c?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、３１日午後６時半ごろの時点で、阪和線の日根野～和歌山駅間と、関西空港線の日根野～関西空港駅間で、運転を見合わせています。\n\n　いずれも信号トラブルが原因で、詳しい状況を確認中",
+          "link": "https://news.yahoo.co.jp/articles/5583e131793b9dcbae30e7035e3a4c4de11d848c?source=rss",
+          "publishedOn": "2026-08-31T09:46:17.000Z",
+          "wordCount": 1589,
+          "title": "【速報】ＪＲ阪和線と関西空港線の一部で運転見合わせ　信号トラブルの影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00082293-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/63ec459693205eff8b0f3a4455675e315b94ef72?source=rss",
           "author": null,
           "description": "奈良県御所市のトンネルで車２台が正面衝突する事故があり、３人が救急搬送され、うち１人が死亡しました。\n\n　午後１時３０分ごろ、奈良県御所市関屋の水越トンネルで「軽四と普通乗用が正面衝突している」と通",

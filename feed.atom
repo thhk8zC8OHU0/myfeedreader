@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T09:34:09.654Z</updated>
+    <updated>2026-08-31T09:49:06.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】ＪＲ阪和線と関西空港線の一部で運転見合わせ　信号トラブルの影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5583e131793b9dcbae30e7035e3a4c4de11d848c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5583e131793b9dcbae30e7035e3a4c4de11d848c?source=rss"/>
+        <updated>2026-08-31T09:46:17.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、３１日午後６時半ごろの時点で、阪和線の日根野～和歌山駅間と、関西空港線の日根野～関西空港駅間で、運転を見合わせています。
+
+　いずれも信号トラブルが原因で、詳しい状況を確認中]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紛糾４時間の保護者説明会…質疑応答なしの動きに「向き合う姿勢感じず」　同志社国際高]]></title>
         <id>https://itainews.com/archives/2066691.html</id>
