@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T06:34:14.876Z</updated>
+    <updated>2026-08-31T06:49:42.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[同志社国際高校　沖縄・辺野古沖の転覆事故で研修旅行に関わった教師が死亡(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/728c3936d47c72a34d588215bc9e4761d72f7ccf?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/728c3936d47c72a34d588215bc9e4761d72f7ccf?source=rss"/>
+        <updated>2026-08-31T06:44:58.000Z</updated>
+        <summary type="html"><![CDATA[沖縄県名護市の辺野古沖で、研修旅行で訪れていた同志社国際高校の生徒らを乗せた船が転覆した事故をめぐり、研修旅行に関わっていた高校の教師1人が亡くなっていたことがわかりました。
+
+　名護市辺野古沖で3]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【山口】和菓子店の80歳店主が死亡　殺人事件と断定　美祢]]></title>
         <id>https://itainews.com/archives/2066689.html</id>
