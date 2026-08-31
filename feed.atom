@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T21:04:40.546Z</updated>
+    <updated>2026-08-31T21:19:25.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[普通乗用車を運転中に水越トンネル内で対向車線にはみ出し軽自動車と正面衝突か　運転していた21歳男を過失運転致死傷の疑いで逮捕(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a2c125fb9bd464f04a15e0686c4a9b0d9cba2b2b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a2c125fb9bd464f04a15e0686c4a9b0d9cba2b2b?source=rss"/>
+        <updated>2026-08-31T21:14:42.000Z</updated>
+        <summary type="html"><![CDATA[８月３１日、奈良県御所市のトンネルで普通乗用車と軽自動車が正面衝突し、３人が死傷した事故で、奈良県警は同日夜、普通乗用車を運転していた２１歳の男を過失運転致死傷の疑いで逮捕しました。
+
+　８月３１日]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung + KAIST nanostructures improve image sensors performance]]></title>
         <id>https://image-sensors-world.blogspot.com/2026/08/samsung-kaist-nanostructures-improve.html</id>
