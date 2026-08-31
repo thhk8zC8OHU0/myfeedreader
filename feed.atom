@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T13:04:11.022Z</updated>
+    <updated>2026-08-31T13:19:22.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[８０歳女性強盗殺人事件から２０年　警察が情報提供呼びかけ　神戸市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d4154507a0d4fd092c836d7376e7a32678387a8a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d4154507a0d4fd092c836d7376e7a32678387a8a?source=rss"/>
+        <updated>2026-08-31T13:14:08.000Z</updated>
+        <summary type="html"><![CDATA[神戸市灘区で８０歳の女性が殺害され、現金が奪われた事件から２０年を迎えた３１日、警察は、現場近くの駅前で情報提供を呼びかけました。
+
+　ビラ配りには、灘警察署の署員のほか、県警捜査一課の捜査員も参加]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア軍、ついに兵力減少に転じる]]></title>
         <id>https://itainews.com/archives/2066704.html</id>
