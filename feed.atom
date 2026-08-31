@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T10:04:40.944Z</updated>
+    <updated>2026-08-31T10:19:12.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[定員割れ続く府立商業高校３校統合する再編案　ＡＩの発展などに合わせた人材育成を目指す　大阪府教委(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a79c5a8881fafea8d193caf8b78a878b2904dd4b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a79c5a8881fafea8d193caf8b78a878b2904dd4b?source=rss"/>
+        <updated>2026-08-31T10:16:05.000Z</updated>
+        <summary type="html"><![CDATA[大阪府教育委員会は３１日に開いた会議で、定員割れが続く府立の商業高校３校をＡＩの発展などに対応した１校に統合する案など府立高校の再編案を取りまとめました。
+
+　統合の対象となるのは、いずれも大阪市内]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】ネパール土石流　大阪府立学校の男性教諭と連絡取れず　行方不明者と同姓同名(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/73e24c0b63c9c93cfb8d36f9bc201280e2952b51?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/73e24c0b63c9c93cfb8d36f9bc201280e2952b51?source=rss"/>
+        <updated>2026-08-31T10:10:45.000Z</updated>
+        <summary type="html"><![CDATA[ネパールで発生した土石流で、行方がわからなくなっている日本人と同性同名の大阪府立学校の教諭と連絡が取れていないことがわかりました。
+
+　大阪府教育委員会によりますと、教諭は休暇前に「ネパールに行く」]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[栄養ドリンクで活躍「タウリン」に老化細胞取り除く効果…大正製薬が研究で発見]]></title>
         <id>https://itainews.com/archives/2066693.html</id>
