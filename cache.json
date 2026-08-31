@@ -6477,6 +6477,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html",
+          "author": null,
+          "description": "マイクロチップ・テクノロジーは、宇宙システム向けチップスケール原子クロック「Space CSAC-SA65」を発表した。同社の従来品をベースに、耐放射線性や対応温度範囲を強化している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html",
+          "publishedOn": "2026-08-31T00:00:00.000Z",
+          "wordCount": 2622,
+          "title": "小型人工衛星でも精度維持　宇宙向け原子クロック",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/31/cover_news038.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/28/news049.html",
           "author": null,
           "description": "キオクシアは、第10世代BiCS FLASH TLCフラッシュメモリを搭載した、エンタープライズSSD「KIOXIA CM10」シリーズを開発した。PCIe 6.0に対応している。",

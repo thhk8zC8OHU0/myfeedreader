@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T00:34:17.373Z</updated>
+    <updated>2026-08-31T00:49:52.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
 🎙️第1回 日韓少子化対策シンポジウム in 仙台🎙️8月28日（日）14:00～ 開催中📢✅「日韓少子化対策交流委員会」の紹介✅「日韓若者意識調査2026」の結果報告✅今後の共同研究の方向性案✅両...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型人工衛星でも精度維持　宇宙向け原子クロック]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html"/>
+        <updated>2026-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マイクロチップ・テクノロジーは、宇宙システム向けチップスケール原子クロック「Space CSAC-SA65」を発表した。同社の従来品をベースに、耐放射線性や対応温度範囲を強化している。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
