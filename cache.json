@@ -1913,6 +1913,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/63ec459693205eff8b0f3a4455675e315b94ef72?source=rss",
+          "author": null,
+          "description": "奈良県御所市のトンネルで車２台が正面衝突する事故があり、３人が救急搬送され、うち１人が死亡しました。\n\n　午後１時３０分ごろ、奈良県御所市関屋の水越トンネルで「軽四と普通乗用が正面衝突している」と通",
+          "link": "https://news.yahoo.co.jp/articles/63ec459693205eff8b0f3a4455675e315b94ef72?source=rss",
+          "publishedOn": "2026-08-31T08:42:19.000Z",
+          "wordCount": 1651,
+          "title": "トンネルで車２台が正面衝突　１人死亡で２人が搬送　対向車線にはみ出したか　奈良・御所市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00082292-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/985334e6050db821b4883d68fa413f0271a98228?source=rss",
           "author": null,
           "description": "ＪＲ西日本によりますと、大雨の影響で万葉まほろば線（桜井線）は天理～高田駅間で３１日午後５時ごろから運転を見合わせています。\n\n　桜井駅の雨量計が規制値に達したということです。\n\n　気象庁は午後５時",
@@ -4910,6 +4920,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c0m31w8kdy8o#0",
+          "author": null,
+          "description": "韓国の裁判所は31日、同国や日本などで物議を醸している世界平和統一家庭連合（旧統一教会）総裁の韓鶴子（ハン・ハクチャ）被告（83）に対し、韓国の前大統領の妻への金品供与や政治資金法に違反した罪などで懲役2年（求刑懲役13年）の判決を言い渡した。",
+          "link": "https://www.bbc.com/japanese/articles/c0m31w8kdy8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-31T08:39:02.000Z",
+          "wordCount": 1812,
+          "title": "旧統一教会トップに懲役2年の実刑判決、前大統領妻に金品供与などの罪　韓国裁判所",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/9659/live/b4a5d730-a4fb-11f1-af21-17336bf2d27f.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cjdvengp5n0o#0",
           "author": null,
           "description": "アメリカとカナダの間で続く貿易紛争は、依然として解決に向けた進展が見られないようだ。この長期化する貿易戦争は両国にどのような影響を与えてきたのか、そして今後どのような展開が予想されるのか。五つの図表で解説する。",
@@ -7173,6 +7193,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132050",
+          "author": "Munenori Taniguchi",
+          "description": "PCゲーム配信プラットフォームのSteamから、合計12TB以上という途轍もない容量のゲームデータが流出したと報じられている。流出したのは2003年から2013年にかけてSteamにアップロードされた、内部ビルドを含む全コンテンツとされる。 GitHubに公開された流出コンテンツのリストには、『Ca […]",
+          "link": "https://gadget.phileweb.com/post-132050/",
+          "publishedOn": "2026-08-31T08:45:00.000Z",
+          "wordCount": 723,
+          "title": "teamから12TB超のゲームコンテンツが流出。2013年まで10年分におよぶ「テラリーク」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/6669a37890c5a5e52e96914745daefe0.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132022",
           "author": "多根清史",

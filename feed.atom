@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T08:34:26.614Z</updated>
+    <updated>2026-08-31T08:49:23.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[teamから12TB超のゲームコンテンツが流出。2013年まで10年分におよぶ「テラリーク」]]></title>
+        <id>https://gadget.phileweb.com/?p=132050</id>
+        <link href="https://gadget.phileweb.com/post-132050/"/>
+        <updated>2026-08-31T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[PCゲーム配信プラットフォームのSteamから、合計12TB以上という途轍もない容量のゲームデータが流出したと報じられている。流出したのは2003年から2013年にかけてSteamにアップロードされた、内部ビルドを含む全コンテンツとされる。 GitHubに公開された流出コンテンツのリストには、『Ca […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トンネルで車２台が正面衝突　１人死亡で２人が搬送　対向車線にはみ出したか　奈良・御所市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/63ec459693205eff8b0f3a4455675e315b94ef72?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/63ec459693205eff8b0f3a4455675e315b94ef72?source=rss"/>
+        <updated>2026-08-31T08:42:19.000Z</updated>
+        <summary type="html"><![CDATA[奈良県御所市のトンネルで車２台が正面衝突する事故があり、３人が救急搬送され、うち１人が死亡しました。
+
+　午後１時３０分ごろ、奈良県御所市関屋の水越トンネルで「軽四と普通乗用が正面衝突している」と通]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧統一教会トップに懲役2年の実刑判決、前大統領妻に金品供与などの罪　韓国裁判所]]></title>
+        <id>https://www.bbc.com/japanese/articles/c0m31w8kdy8o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c0m31w8kdy8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-31T08:39:02.000Z</updated>
+        <summary type="html"><![CDATA[韓国の裁判所は31日、同国や日本などで物議を醸している世界平和統一家庭連合（旧統一教会）総裁の韓鶴子（ハン・ハクチャ）被告（83）に対し、韓国の前大統領の妻への金品供与や政治資金法に違反した罪などで懲役2年（求刑懲役13年）の判決を言い渡した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】ＪＲ万葉まほろば線で一部運転見合わせ　奈良県北西部にレベル３大雨警報(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/985334e6050db821b4883d68fa413f0271a98228?source=rss</id>
