@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T04:49:45.168Z</updated>
+    <updated>2026-08-31T05:04:21.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【芸能】電撃発表！　WEST．藤井流星＆小瀧望が脱退へ　残る5人での活動は「協議中」…　フェスの7人出演は取りやめ]]></title>
+        <id>https://itainews.com/archives/2066682.html</id>
+        <link href="https://itainews.com/archives/2066682.html"/>
+        <updated>2026-08-31T05:04:02.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：冬月記者 ★：2026/08/30(日) 23:04:51.03 ID:4z1wD4ZX9.net
+
+
+
+
+
+
+
+電撃発表　ＷＥＳＴ．藤井流星＆小瀧望が脱退へ　残る５人での活動は「協議中」…フェスの７人出演は取りやめ記事はこちら▼https://t.co/6tMsdzKrGa— スポーツ報知 (@SportsHochi) August 30...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イランとの戦争開始から6カ月、トランプ米大統領は何を成し遂げたのか]]></title>
+        <id>https://www.bbc.com/japanese/articles/c8r65jv283do#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c8r65jv283do?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-08-31T05:00:35.000Z</updated>
+        <summary type="html"><![CDATA[アメリカとイスラエルがイランとの戦争を開始してから6カ月が経過した。BBCのトム・ベイトマン米国務省担当特派員が、トランプ氏がイランとの6カ月に及ぶ戦争で成し遂げたことを解説する。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIと相談　弁護士無しで簡裁に訴状提出　焼肉屋といざこざで]]></title>
         <id>https://itainews.com/archives/2066678.html</id>
