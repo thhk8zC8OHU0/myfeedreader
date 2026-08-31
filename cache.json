@@ -1933,6 +1933,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/0c7102d009785f94404b8346016fc31c1f936095?source=rss",
+          "author": null,
+          "description": "トンネル内で車が正面衝突１人が死亡しました。\n\n　午後１時３０分ごろ、奈良県御所市関屋の水越トンネルで「軽四自動車と普通乗用車が正面衝突している」と通行中の男性から警察に通報がありました。\n\n　警察",
+          "link": "https://news.yahoo.co.jp/articles/0c7102d009785f94404b8346016fc31c1f936095?source=rss",
+          "publishedOn": "2026-08-31T11:28:50.000Z",
+          "wordCount": 1657,
+          "title": "対向車線にはみ出しか　奈良のトンネルで車が正面衝突　８０代男性が死亡(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00082299-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/79d6558f8f00da0636623ca74cf124e4449aab3a?source=rss",
           "author": null,
           "description": "あおり運転の末、追い越し車線の路上で頭突きをした疑いです。\n\n　中国自動車道の西宮山口ジャンクション付近で６月、男性（２０）の車の前方に車を止めた後、同乗の男と共謀して、路上で男性に頭突きなどの暴行",
@@ -8280,6 +8290,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066710.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/08/31(月) 17:45:02.10 ID:wQoaO/2b9.net\n\n\n\n\n\n\n\n【更新記事】備蓄米21万トン買い戻し　農水省、18日随意契約へ  https://t.co/igeeuJsdRF— 47NEWS (@47news_official) August 31, 2026  \n\n\n\n\n\n\n8/31(月) 15:27\n共同通信\n\n　政府備蓄米を巡る農林...",
+          "link": "https://itainews.com/archives/2066710.html",
+          "publishedOn": "2026-08-31T11:31:47.000Z",
+          "wordCount": 3042,
+          "title": "【コメ】備蓄米21万トン買い戻し　農水省、18日随意契約へ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/8/28767183-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066694.html",
           "author": "damono3856",
