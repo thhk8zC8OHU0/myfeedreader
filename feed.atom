@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T05:19:16.915Z</updated>
+    <updated>2026-08-31T05:34:38.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高速道路の追い越し車線で"押し問答"か　傷害などの疑いで男２人を逮捕　兵庫・西宮市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c357c3db9547cef1ca3578196bf6613316254d53?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c357c3db9547cef1ca3578196bf6613316254d53?source=rss"/>
+        <updated>2026-08-31T05:21:54.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県西宮市の中国自動車道の追い越し車線で、２０代の男性が運転する車の前で自身の車を停車させ、その後、男性に頭突きするなどしてけがをさせたとして、３１日、３０代の男２人が逮捕されました。
+
+　道路交]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】電撃発表！　WEST．藤井流星＆小瀧望が脱退へ　残る5人での活動は「協議中」…　フェスの7人出演は取りやめ]]></title>
         <id>https://itainews.com/archives/2066682.html</id>
