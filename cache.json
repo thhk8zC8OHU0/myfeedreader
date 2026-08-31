@@ -13155,6 +13155,16 @@
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "https://image-sensors-world.blogspot.com/2026/08/samsung-kaist-nanostructures-improve.html",
+          "author": null,
+          "description": "Open access paper link: https://www.cell.com/iscience/fulltext/S2589-0042(26)02211-X\nYoon et al., \"Angle- and polarization-adaptive aperiodic-anisotropic metasurfaces for broadband reflectance suppression\" iScience (2026)\nOptical reflectance at the air-silicon interface degrades CMOS image sensor (CIS) performance, causing signal loss and image artifacts. Conventional single-layer anti-reflective coatings (1-ARCs) offer CMOS-compatible simplicity, but their isotropic nature and limited spatial tunability make them poorly suited to handle angle- and polarization-dependent characteristics of incident light, particularly where the chief-ray angle varies across the sensor surface. Here, we present an aperiodic-anisotropic metasurface (AAM) composed of subwavelength TiO2 nanodisks with spatially varying geometric anisotropy, enabling broadband, angle- and polarization-resolved impedance matching tailored to local incidence conditions. Its performance was verified through unit-cell-level optimization and further validated by full-area simulations on a 20 × 20 μm2 Si substrate under Gaussian beam illumination, where the AAM achieved ∼1.40% average reflectance across 400–700 nm for both polarizations, outperforming conventional 1-ARC and double-layer anti-reflective coating (2-ARC). This offers a practical solution for CIS and other systems such as LiDAR (light detection and ranging) receivers under spatially varying illumination.",
+          "link": "https://image-sensors-world.blogspot.com/2026/08/samsung-kaist-nanostructures-improve.html",
+          "publishedOn": "2026-08-31T19:05:00.000Z",
+          "wordCount": 3976,
+          "title": "Samsung + KAIST nanostructures improve image sensors performance",
+          "imageUrl": null
+        },
+        {
           "id": "https://image-sensors-world.blogspot.com/2026/08/sony-merl-collab.html",
           "author": null,
           "description": "https://www.sony-semicon.com/en/news/2026/2026072201.html\nMitsubishi Electric and Sony Semiconductor Solutions Agree to Establish a Joint Venture to Build AI Vision Sensor Solutions for Manufacturing Applications\nTo Enhance Recognition, Decision-Making and Control in Manufacturing and Contribute to Labor Savings and Unmanned Operations \nMitsubishi Electric Corporation (“Mitsubishi Electric”) and Sony Semiconductor Solutions Corporation (“Sony”) have entered into a definitive agreement on a strategic partnership aimed at accelerating the automation and advancement of manufacturing equipment and manual operations in the manufacturing industry. Under the partnership, the two companies will establish a newly formed joint venture (“JV”), Advanced Vision Solutions Co., Ltd., which is scheduled t…",
