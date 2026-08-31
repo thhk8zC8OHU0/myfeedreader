@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T08:19:25.183Z</updated>
+    <updated>2026-08-31T08:34:26.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】ＪＲ万葉まほろば線で一部運転見合わせ　奈良県北西部にレベル３大雨警報(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/985334e6050db821b4883d68fa413f0271a98228?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/985334e6050db821b4883d68fa413f0271a98228?source=rss"/>
+        <updated>2026-08-31T08:19:39.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、大雨の影響で万葉まほろば線（桜井線）は天理～高田駅間で３１日午後５時ごろから運転を見合わせています。
+
+　桜井駅の雨量計が規制値に達したということです。
+
+　気象庁は午後５時]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【解説】米・カナダの貿易戦争を五つの図表から見る]]></title>
         <id>https://www.bbc.com/japanese/articles/cjdvengp5n0o#0</id>
