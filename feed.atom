@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T02:04:18.985Z</updated>
+    <updated>2026-08-31T02:19:08.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[先週観たもの]]></title>
+        <id>https://note.com/hima_kuuhaku/n/nb8c2ae91ce8a</id>
+        <link href="https://note.com/hima_kuuhaku/n/nb8c2ae91ce8a"/>
+        <updated>2026-08-31T02:07:35.000Z</updated>
+        <summary type="html"><![CDATA[中沢啓治著作集3 オキナワ【完全版】amzn.to 1,650円(2026年08月23日 20:30時点詳しくはこちら)    Amazon.co.jpで購入する    
+続きをみる]]></summary>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【動画】　女子トイレだけがなぜ混むのか、その理由がついに判明]]></title>
         <id>https://itainews.com/archives/2066668.html</id>
