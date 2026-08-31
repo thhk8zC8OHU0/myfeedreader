@@ -1903,6 +1903,36 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/73b1d8233afdb0f04fc3aad7135f004be5e1b194?source=rss",
+          "author": null,
+          "description": "滋賀県高島市の国道で３０日午後、５人が乗った乗用車とトラックが衝突し、乗用車の２０代から３０代の男女３人が死亡、４歳の男の子ら３人が重軽傷を負いました。\n\n　３０日午後６時２０分ごろ、高島市マキノ町",
+          "link": "https://news.yahoo.co.jp/articles/73b1d8233afdb0f04fc3aad7135f004be5e1b194?source=rss",
+          "publishedOn": "2026-08-31T03:26:32.000Z",
+          "wordCount": 1646,
+          "title": "乗用車と４トントラックが正面衝突　３人死亡、３人重軽傷　乗用車が反対車線にはみ出した可能性も　滋賀・高島市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00082287-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a6e3a9fbc5b94958b453cefb615f7468c27d909a?source=rss",
+          "author": null,
+          "description": "奈良公園でシカに対する適切な接し方を観光客らに知ってもらおうと、啓発活動が行われました。\n\n　啓発活動には奈良県の職員、警察、「奈良の鹿愛護会」のメンバーなど約４０人が参加しました。\n\n　この活動は",
+          "link": "https://news.yahoo.co.jp/articles/a6e3a9fbc5b94958b453cefb615f7468c27d909a?source=rss",
+          "publishedOn": "2026-08-31T03:24:21.000Z",
+          "wordCount": 1645,
+          "title": "シカは「追いかけない・触らない・あげるのは鹿せんべいだけ」　奈良公園で観光客らに“適切な接し方”の啓発活動(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00082285-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7920fc35cdad9ae5382078cdf34af9d040cf02b9?source=rss",
+          "author": null,
+          "description": "大阪メトロは、生成ＡＩを活用した人型ロボットを設置し、乗り換え案内などの実証実験を始めました。\n\n大阪メトロのヒューマノイド駅員\n「（Ｑ．大阪城への行き方を教えて）大阪城天守閣の最寄り駅は、谷町四丁",
+          "link": "https://news.yahoo.co.jp/articles/7920fc35cdad9ae5382078cdf34af9d040cf02b9?source=rss",
+          "publishedOn": "2026-08-31T03:22:36.000Z",
+          "wordCount": 1650,
+          "title": "大阪メトロで「ヒューマノイド駅員」実証実験　生成ＡＩを搭載、道案内など担う(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00082286-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/38f24ec112183527f779813a9794e0ee801374a9?source=rss",
           "author": null,
           "description": "３０日午後、滋賀県高島市の国道１６１号で乗用車とトラックが衝突する事故があり、少なくとも３人が意識不明の重体です。\n\n　３０日午後６時２０分ごろ高島市マキノ町蛭口の片側一車線の国道１６１号で「４ｔト",
@@ -4830,6 +4860,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cvgye44vyjpo#0",
+          "author": null,
+          "description": "米軍は30日、ホルムズ海峡にあるイラン領ララク島のミサイル発射装置2基を攻撃した。BBCがアメリカで提携するCBSニュースが、米当局者の話として報じた。アメリカがイランを攻撃したのは、7月下旬以降で初めて。イランの革命防衛隊（IRGC）は、この攻撃で数人が死傷したと発表し、「報復と処罰」を誓った。その後、イラン国営メディアは、同隊がヨルダンにあるアメリカの標的を攻撃したと報じた。",
+          "link": "https://www.bbc.com/japanese/articles/cvgye44vyjpo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-31T03:22:43.000Z",
+          "wordCount": 1858,
+          "title": "アメリカが数週間ぶりにイランを攻撃、ホルムズ海峡・ララク島のミサイル発射装置が標的と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c07l97y7vpko#0",
           "author": null,
           "description": "北アフリカにあるスペインの飛び地、セウタ市に数万人の移民が流入してから1カ月がたった今、残る移民と地元住民の間で緊張が高まり、暴力事件が頻発している。スペイン政府は、危機を効果的に管理できていないとして、野党から非難されている。セウタの住民は、街中で身の危険を感じているという不満を訴えるとともに、公共サービスへの負担増についても懸念を表明している。",
@@ -7014,6 +7054,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=132006",
+          "author": "多根清史",
+          "description": "先週末、大手音楽出版社のソニー・ミュージックパブリッシングと、ワーナー・ミュージック・グループ子会社のワーナー・チャペル・ミュージックは共同で、生成AI開発企業Anthropicおよび同社CEOのダリオ・アモデイ氏、さらに幹部1名を提訴した。 両社はこの訴訟を「史上最大規模かつ最も露骨な知的財産権侵 […]",
+          "link": "https://gadget.phileweb.com/post-132006/",
+          "publishedOn": "2026-08-31T03:28:41.000Z",
+          "wordCount": 704,
+          "title": "ソニーとワーナー、Anthropicを著作権侵害で提訴。「史上最大級の知財窃盗」と非難",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/264104a7b9e54bff2cceadd52bf9eef8.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131988",
           "author": "Munenori Taniguchi",
           "description": "CD Projekt Redは今週、同スタジオを代表するファンタジーRPG『The Witcher 3:Wild Hunt Remastered』を発表した。同作のオリジナル版はすでに2つの追加コンテンツパックが提供され、PlayStation 5およびXbox Series X|S対応のアップデー […]",
@@ -7960,6 +8010,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066674.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/30(日) 18:59:41.32 ID:0EMU4yzB0●.net\n\n\n\n\n\n\n\n\n共産党支持者「古謝げんた応援ポスターキモくて言葉がない」↓「お前が作ったんじゃね？」との疑惑が…↓AI「これらのポスター画像の初出・拡散起点はこの共産党支持者です」　wwwwwwww🤣 pic.twitter.com/...",
+          "link": "https://itainews.com/archives/2066674.html",
+          "publishedOn": "2026-08-31T03:31:31.000Z",
+          "wordCount": 3047,
+          "title": "共産党支持者「古謝げんた応援ポスターキモくて言葉がない」→共産党支持者の自作自演と話題に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/d/0d8371ac.png"
+        },
         {
           "id": "https://itainews.com/archives/2066667.html",
           "author": "dqnplus",
