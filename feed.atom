@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T07:19:13.808Z</updated>
+    <updated>2026-08-31T07:34:19.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型Mac mini／Studio、異例の早期投入は予想越える「企業のAI特需」のためか]]></title>
+        <id>https://gadget.phileweb.com/?p=132022</id>
+        <link href="https://gadget.phileweb.com/post-132022/"/>
+        <updated>2026-08-31T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは例年、10〜11月に新型Macを発表してきた。ところが今年のMac miniとMac Studioに関しては、9月の新型iPhone発表イベントの直前という珍しいタイミングで、突然発表された。 テクノロジー系ニュースメディアのThe Informationは、上記2モデルが例年よりも早い時 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「副首都」同時指定を目指して　大阪府が北海道と連携協定　東京と同時被災のリスク低く(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ce8ec70cbf23e011e8534cca5fa6c08ca7050ef0?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ce8ec70cbf23e011e8534cca5fa6c08ca7050ef0?source=rss"/>
+        <updated>2026-08-31T07:24:17.000Z</updated>
+        <summary type="html"><![CDATA[「副首都」の同時指定を目指し、大阪府が北海道と連携協定を結びました。
+
+　大阪府の吉村知事は３１日、札幌市の赤れんが庁舎で行われた締結式に出席し、北海道の鈴木知事とともに協定書に署名しました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネパールの山道、大雨で救援車両が立ち往生　BBC現地取材]]></title>
         <id>https://www.bbc.com/japanese/articles/cde0995g197o#0</id>
