@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T02:24:19.843Z</updated>
+    <updated>2026-09-01T02:38:08.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「鬼武者 Way of the Sword」，剣戟アクションを紹介する特別映像を公開。大塚明夫氏がナレーションを担当]]></title>
+        <id>https://www.4gamer.net/games/865/G086595/20260901005/</id>
+        <link href="https://www.4gamer.net/games/865/G086595/20260901005/"/>
+        <updated>2026-09-01T02:33:58.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは本日，同社が9月4日に発売を予定しているアクションゲーム「鬼武者WayoftheSword」の特別映像を公開した。作中の剣戟アクションを紹介する内容となっており，これまで「鬼武者」シリーズで数々のキャラクターを演じてきた大塚明夫氏がナレーションを担当している。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界では土葬が受け入れられて来ているのに遅れている日本。#土葬いいじゃん]]></title>
+        <id>https://itainews.com/archives/2066705.html</id>
+        <link href="https://itainews.com/archives/2066705.html"/>
+        <updated>2026-09-01T02:30:11.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：もん様！：2026/08/31(月) 17:33:52.02 ID:fAlcuJdn0●.net
+
+
+
+
+
+
+
+はぁ～？「死んだら土葬」を希望する日本人も――火葬99％の日本で考える埋葬の選択肢（Yahoo!ニュース オリジナル 特集）#Yahooニュース https://t.co/YQ6jyrd8BA— megu💞 (@t3OeLwq1Ky39585)...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土石流の死者、計950人を超す　ネパールで水力発電所に閉じ込められた600人以上の救助活動続く]]></title>
+        <id>https://www.bbc.com/japanese/articles/c1j4gkx6rnyo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c1j4gkx6rnyo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T02:29:16.000Z</updated>
+        <summary type="html"><![CDATA[ネパールと中国・チベットの国境沿いの地域で26日に発生した大規模な土石流は、1日午前までに死者が計950人を超え、行方不明者は計約4500人となっている。ネパールのトリシュリ川沿いの水力発電所では、泥が流れ込んだトンネル内に従業員600人以上が閉じ込められているとみられており、家族らが生存の望みをかけるなか、救出活動が進められている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米最高裁、トランプ氏によるホワイトハウス「宴会場」建設続行を認める]]></title>
         <id>https://www.bbc.com/japanese/articles/ce87jl31j10o#0</id>
