@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T13:51:37.088Z</updated>
+    <updated>2026-09-01T14:08:09.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[家賃値上げ]]></title>
+        <id>https://logipara.com/?p=13428</id>
+        <link href="https://logipara.com/diary-text/2026-09-02/"/>
+        <updated>2026-09-01T14:04:24.000Z</updated>
+        <summary type="html"><![CDATA[我が家の賃貸を管理している管理会社から、 「次の契約更新のとき、家賃を上げさせてほしい」 という連絡がきました。 最近！ 流行りの！ 家賃値上げ交渉です！！！ 　 しかし私は知っています。 法律上、貸主が勝手に家賃を上げ […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【みんなで大家さん】事実上の事業終了へ　債務超過や返還約束を果たさず…大阪府が事業許可を取り消す処分　出資者3万7000人超]]></title>
+        <id>https://itainews.com/archives/2066749.html</id>
+        <link href="https://itainews.com/archives/2066749.html"/>
+        <updated>2026-09-01T14:02:56.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/09/01(火) 17:28:04.61 ID:zKYq8Wdm9.net
+
+
+
+
+
+
+
+不動産ファンド「みんなで大家さん」事実上の事業終了へ　債務超過や返還約束を果たさず…大阪府が事業許可を取り消す処分　出資者3万7000人超・分配金止まり訴訟も https://t.co/tyRTEPTTYz#MBSニ...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誤算だった立民の変心、「急ごしらえの合流」限界露呈…与党「選挙互助会だったことを自ら証明」]]></title>
         <id>https://itainews.com/archives/2066741.html</id>
@@ -24876,16 +24904,6 @@ The largest image sensor plant from Sony – the world’s biggest manufacturer 
         <link href="https://edn.itmedia.co.jp/edn/articles/2607/30/news013.html"/>
         <updated>2026-08-03T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[Melexisは、単一コイルファンドライバー「MLX90412」ファミリーを拡充し、高出力ファン向けに滑らかなモーター制御を実現する「MLX90412-D」を発表した。コード不要で設定でき、低速時の安定動作や静音化にも対応する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロセスエンジニアが「何でも屋」と呼ばれる理由を、現場の1日から解き明かす]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/03/news028.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/03/news028.html"/>
-        <updated>2026-08-03T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[半導体プロセスエンジニアは「何でも屋」と呼ばれます。なぜでしょうか。その理由を、プロセスエンジニアの「現場の1日」に密着しながら解き明かしたいと思います。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>
