@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T04:50:50.875Z</updated>
+    <updated>2026-09-01T05:06:57.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【解説】米・ヴェネズエラの石油取引、なぜ問題になっているのか]]></title>
+        <id>https://www.bbc.com/japanese/articles/c2dw38n0l6xo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c2dw38n0l6xo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T05:05:33.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領はこのほど、ヴェネズエラの確認埋蔵量650億バレル以上の原油をアメリカが管理することで、同国と合意したと発表した。具体的な内容は公表されていないが、すでにさまざまな異論が出ている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沖縄タイムス「安倍へのヤジを排除するな！表現の自由」→「デニー氏へのヤジを排除しろ！選挙妨害」]]></title>
+        <id>https://itainews.com/archives/2066717.html</id>
+        <link href="https://itainews.com/archives/2066717.html"/>
+        <updated>2026-09-01T05:01:43.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/08/31(月) 20:12:34.73 ID:SvENxECX0●.net
+
+
+
+
+
+
+
+
+
+私は玉城デニー氏の演説を妨害をする人がいるなら、すべきではないと思う。しかし、沖縄タイムスは安倍首相がそれ以上の規模で酷い妨害にあっていてもヤジを排除するな、表現の自由だと言ったではないか。...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏、米アップルに圧力　地図の「オンタリオ湖」を「アメリカ湖」に変更するよう求める]]></title>
+        <id>https://www.bbc.com/japanese/articles/clye4p012wvo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/clye4p012wvo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T04:57:45.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのトランプ大統領が米アップルに対し、アメリカ・カナダ国境にあるオンタリオ湖の名称を「アメリカ湖」に変更する大統領令に従い、同社の地図アプリ上で名称を変更するよう求めた。バーガム内務長官が8月31日、明らかにした。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米メトロポリタン美術館のガリアーノ展、批判され中止に]]></title>
+        <id>https://www.bbc.com/japanese/articles/c39m12x07nno#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c39m12x07nno?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T04:56:16.000Z</updated>
+        <summary type="html"><![CDATA[英ファッションデザイナーのジョン・ガリアーノ氏と米ニューヨークのメトロポリタン美術館は31日、来年5月に同美術館で開催予定だったガリアーノ展の中止を発表した。ガリアーノ氏のデザイナーとしての功績をたたえる展覧会の計画が明らかになると、2011年にフランスでユダヤ人差別発言を理由に公然侮辱罪で有罪判決を受けたことについて、批判があらためて高まっていた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メッシさん、アルゼンチン代表引退を表明　「ささげられるものは何も残っていない」]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyz728q150o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyz728q150o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T04:52:48.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチンの偉大なサッカー選手、リオネル・メッシさん（39）が8月31日、代表からの引退を表明した。「つらい」決断だが「その時が来た」と説明し、「ささげられるものは何も残っていない」とした。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シティコネクション，東京ゲームショウ2026の特設サイトを開設。「じゃじゃ丸の百鬼夜行伝」をはじめとした新作を出展]]></title>
         <id>https://www.4gamer.net/games/969/G096932/20260901013/</id>
