@@ -5050,6 +5050,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/ce87jl31j10o#0",
+          "author": null,
+          "description": "米連邦最高裁判所は31日、ホワイトハウスにボールルーム（宴会場）を新設するというトランプ政権の計画を認めた。賛成5、反対4の判決で、トランプ政権の訴えを認め、地上部分の建設を中止させた下級審の判決を覆した。保守派のロバーツ最高裁判所長官は判決で、3人のリベラル派判事と共に反対意見を示し、連邦議会がこの建築計画を承認していないことから「建設は違法である可能性が高い」と書いた。",
+          "link": "https://www.bbc.com/japanese/articles/ce87jl31j10o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-01T02:17:17.000Z",
+          "wordCount": 1830,
+          "title": "米最高裁、トランプ氏によるホワイトハウス「宴会場」建設続行を認める",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ead3/live/f03f27e0-a57a-11f1-9648-5fefd339ae88.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cwyzjgz9d1wo#0",
           "author": null,
           "description": "ロシアは最近、ウクライナ全土の印刷所や出版社を相次いで攻撃し、合わせて1200万冊の書籍を破壊したほか、ウクライナの歴史と文化を象徴する貴重な資料にも損害を与えた。地元メディアの報道によると、ロシアは今年、ウクライナで印刷された書籍の3分の1を破壊したという。",
@@ -16491,6 +16501,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ASnhD1JXr-AISPr0tv_OA",
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zzXkMg-Aarg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zzXkMg-Aarg",
+          "publishedOn": "2026-09-01T01:54:16.000Z",
+          "wordCount": null,
+          "title": "【ダウ90000】初登場OPでホリケンの洗礼【有吉の壁】【オープニング先行】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/8zXxMu-n2lE",
           "author": null,
