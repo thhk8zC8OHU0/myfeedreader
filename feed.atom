@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T10:07:41.292Z</updated>
+    <updated>2026-09-01T10:28:42.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「医師から止められていたのに運転継続」検察が懲役８年求刑　運転中にてんかん発作で多重事故　原付バイクの女性死亡　危険運転致死傷の罪に問われた女の裁判　弁護側は無罪主張(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2fd1eb41a226a80513c7111dc44f7c794e7ceb05?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2fd1eb41a226a80513c7111dc44f7c794e7ceb05?source=rss"/>
+        <updated>2026-09-01T10:06:21.000Z</updated>
+        <summary type="html"><![CDATA[検察は懲役８年を求刑。被告の女は無罪主張です。
+
+　起訴状などによりますと、西馬淳子被告（５６）は２０２１年、和歌山市で車を運転中にてんかんの発作を起こし、意識障害になって、前方に停車していた車や原]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＵＳＪ敷地拡張へ　大阪市が２０２８年にも契約の予定　実現すれば開業以来初(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a987fd853f3b4ee7d32f13a61800c5864fbdecf6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a987fd853f3b4ee7d32f13a61800c5864fbdecf6?source=rss"/>
+        <updated>2026-09-01T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[開業以来初の敷地拡張に向け、契約が結ばれる見通しです。
+
+　大阪市は１日、市が所有する此花区のユニバーサル・スタジオ・ジャパンに隣接する土地について、パーク拡張の用地としての２０２８年にもパークを運]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新名神高速“ながら運転”で6人死亡　被告“涙の謝罪”も遺族怒り]]></title>
         <id>https://itainews.com/archives/2066729.html</id>
