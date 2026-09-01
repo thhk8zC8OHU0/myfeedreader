@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T04:38:30.597Z</updated>
+    <updated>2026-09-01T04:50:50.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シティコネクション，東京ゲームショウ2026の特設サイトを開設。「じゃじゃ丸の百鬼夜行伝」をはじめとした新作を出展]]></title>
+        <id>https://www.4gamer.net/games/969/G096932/20260901013/</id>
+        <link href="https://www.4gamer.net/games/969/G096932/20260901013/"/>
+        <updated>2026-09-01T04:46:50.000Z</updated>
+        <summary type="html"><![CDATA[シティコネクションは本日（2026年9月1日），東京ゲームショウ2026の特設サイトを開設した。同社ブースでは，「じゃじゃ丸の百鬼夜行伝」「野球格闘リーグマンBasesLoaded」など，2026年から27年にかけてリリースを予定している新作タイトルが出展される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[維新・吉村代表　合流断念の中道を「生活者ファーストじゃなくて自分たちファーストだった」(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/03ff705ce12b15603412dc919e050a40224d9029?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/03ff705ce12b15603412dc919e050a40224d9029?source=rss"/>
+        <updated>2026-09-01T04:45:44.000Z</updated>
+        <summary type="html"><![CDATA[日本維新の会の吉村代表は１日、立憲民主党・公明党との合流を断念した中道改革連合について、「生活者ファーストじゃなくて自分たちファーストだった」としました。
+
+　中道は３１日、立憲・公明との党首会談で]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いさ進一「今回は中国と何回も言い合った」 アナ「で、結局、中国側の姿勢を聞きに行っただけですよね｣]]></title>
         <id>https://itainews.com/archives/2066715.html</id>
