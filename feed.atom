@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T12:10:49.253Z</updated>
+    <updated>2026-09-01T12:31:05.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか]]></title>
+        <id>https://www.bbc.com/japanese/articles/cnvlq98gqeyo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cnvlq98gqeyo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T12:27:12.000Z</updated>
+        <summary type="html"><![CDATA[日本の企業は、国内市場の縮小と中国におけるリスクの高まりを背景に、インドへの投資を強化している。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「副首都」指定に向け　大阪商工会議所が府・市に整備方針への意見書提出　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/df822d59fcb7af9605478132e346bf166fffe12e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/df822d59fcb7af9605478132e346bf166fffe12e?source=rss"/>
+        <updated>2026-09-01T12:24:36.000Z</updated>
+        <summary type="html"><![CDATA[大阪商工会議所は１日、副首都の指定を目指す大阪府と大阪市に対し、整備方針についてまとめた意見書を提出しました。
+
+　大阪商工会議所は、７月に成立した「副首都法」を受けて、政府が策定する整備方針などを]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「生活道路」の法定速度が時速３０キロに　大阪府警が小学生と呼びかけ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/523cf87761879f56612f22be150d2f15f1be533d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/523cf87761879f56612f22be150d2f15f1be533d?source=rss"/>
+        <updated>2026-09-01T12:24:23.000Z</updated>
+        <summary type="html"><![CDATA[住宅街などを通る「生活道路」で、法定速度が時速３０キロに引き下げられた１日、大阪府警は、小学生らとともに交通安全を呼びかけました。
+
+　１日、道路交通法が改正され中央線などがなく道幅が狭い、いわゆる]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中学校の部活動を地域クラブへ　神戸市で「コベカツ」始まる　スポーツ・文化・芸術など１０００以上登録(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4f47486637d927b6ca1efa5e3bc64789267c478e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4f47486637d927b6ca1efa5e3bc64789267c478e?source=rss"/>
+        <updated>2026-09-01T12:24:23.000Z</updated>
+        <summary type="html"><![CDATA[１日、神戸市で、中学校の部活動を地域のクラブに移行する「コベカツ」が始まりました。
+
+　神戸市では、すべての市立中学校、８２校で部活動が８月末で終了し、１日から地域の民間クラブなどが担う「コベカツ」]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辺野古転覆 死亡した同志社国際高・永田教員「生徒に謝罪したい」と相談していた 高校は回答拒否]]></title>
         <id>https://itainews.com/archives/2066739.html</id>

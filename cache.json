@@ -1993,6 +1993,36 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/df822d59fcb7af9605478132e346bf166fffe12e?source=rss",
+          "author": null,
+          "description": "大阪商工会議所は１日、副首都の指定を目指す大阪府と大阪市に対し、整備方針についてまとめた意見書を提出しました。\n\n　大阪商工会議所は、７月に成立した「副首都法」を受けて、政府が策定する整備方針などを",
+          "link": "https://news.yahoo.co.jp/articles/df822d59fcb7af9605478132e346bf166fffe12e?source=rss",
+          "publishedOn": "2026-09-01T12:24:36.000Z",
+          "wordCount": 1676,
+          "title": "「副首都」指定に向け　大阪商工会議所が府・市に整備方針への意見書提出　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082316-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/523cf87761879f56612f22be150d2f15f1be533d?source=rss",
+          "author": null,
+          "description": "住宅街などを通る「生活道路」で、法定速度が時速３０キロに引き下げられた１日、大阪府警は、小学生らとともに交通安全を呼びかけました。\n\n　１日、道路交通法が改正され中央線などがなく道幅が狭い、いわゆる",
+          "link": "https://news.yahoo.co.jp/articles/523cf87761879f56612f22be150d2f15f1be533d?source=rss",
+          "publishedOn": "2026-09-01T12:24:23.000Z",
+          "wordCount": 1657,
+          "title": "「生活道路」の法定速度が時速３０キロに　大阪府警が小学生と呼びかけ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082318-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4f47486637d927b6ca1efa5e3bc64789267c478e?source=rss",
+          "author": null,
+          "description": "１日、神戸市で、中学校の部活動を地域のクラブに移行する「コベカツ」が始まりました。\n\n　神戸市では、すべての市立中学校、８２校で部活動が８月末で終了し、１日から地域の民間クラブなどが担う「コベカツ」",
+          "link": "https://news.yahoo.co.jp/articles/4f47486637d927b6ca1efa5e3bc64789267c478e?source=rss",
+          "publishedOn": "2026-09-01T12:24:23.000Z",
+          "wordCount": 1663,
+          "title": "中学校の部活動を地域クラブへ　神戸市で「コベカツ」始まる　スポーツ・文化・芸術など１０００以上登録(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082317-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a813e795be206a781a80c6e2de5b4a6f2e133616?source=rss",
           "author": null,
           "description": "中学生が「何部に入ろうか」と悩む光景は、これからどう変わるのでしょうか？\n\n　スポーツ庁は２０２２年、主に中学校の部活動を地域クラブへ切り替える新たなガイドラインを示しました。その背景にあるのは、少",
@@ -5239,6 +5269,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cnvlq98gqeyo#0",
+          "author": null,
+          "description": "日本の企業は、国内市場の縮小と中国におけるリスクの高まりを背景に、インドへの投資を強化している。",
+          "link": "https://www.bbc.com/japanese/articles/cnvlq98gqeyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-01T12:27:12.000Z",
+          "wordCount": 1843,
+          "title": "【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/crm970l3vp3o#0",
           "author": null,
