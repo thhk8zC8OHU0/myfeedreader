@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T21:23:59.877Z</updated>
+    <updated>2026-09-01T21:36:40.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【マクドナルド】北海道産バターとあんことおもちの月見パイ【月見ファミリー・期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317541</id>
+        <link href="https://foodfighter.jp/mcdonalds-tsukimi-pie-2026"/>
+        <updated>2026-09-01T21:26:35.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[放送作家が聞き下手すぎて、盛り上がりに欠ける芸人の半生の動画【ジェラードン】]]></title>
         <id>https://www.youtube.com/watch?v=65XHWzf0bhE</id>
