@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T08:42:50.689Z</updated>
+    <updated>2026-09-01T08:54:08.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロボット掃除機で妻の不倫とらえた夫、離婚訴訟に勝利もプライバシー侵害で懲役刑に]]></title>
+        <id>https://gadget.phileweb.com/?p=132176</id>
+        <link href="https://gadget.phileweb.com/post-132176/"/>
+        <updated>2026-09-01T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ある離婚訴訟を争った夫は、ロボット掃除機の機能を使って妻の不倫現場を録画し、その映像を決め手として裁判に勝利した。しかしその妻からプライバシー侵害で訴え返された結果、懲役刑を言い渡されてしまったという。 思わず「ワケわからん」とツッコミを入れたくなるようなややこしい話だが、これは台湾で実際に起こった […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銅線窃盗疑いのベトナム人3人を不起訴]]></title>
         <id>https://itainews.com/archives/2066726.html</id>
