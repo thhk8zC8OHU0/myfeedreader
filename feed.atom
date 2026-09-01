@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T21:07:32.668Z</updated>
+    <updated>2026-09-01T21:23:59.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -24872,16 +24872,6 @@ The largest image sensor plant from Sony – the world’s biggest manufacturer 
         <updated>2026-08-03T10:00:03.000Z</updated>
         <author>
             <name>みつ美《母ちゃんのクラリネット》</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スペイン飛び地セウタに約6万人押し寄せ……ほとんどがモロッコへ戻る]]></title>
-        <id>https://www.bbc.com/japanese/articles/c3r0v52wdveo#4</id>
-        <link href="https://www.bbc.com/japanese/articles/c3r0v52wdveo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-03T09:14:34.000Z</updated>
-        <summary type="html"><![CDATA[アフリカ北端のスペイン飛び地領土セウタに7月30日、モロッコ側から約6万人が押し寄せた。その多くは泳いだり、ゴムボートを使ったりして、国境フェンスのゲートをすり抜けてスペイン領に入った。スペイン当局によると、1日までに移民のほぼ全員が帰還したが、少なくとも72人が越境の際などに死亡したという。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
