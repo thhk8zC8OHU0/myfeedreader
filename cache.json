@@ -6887,6 +6887,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news012.html",
+          "author": null,
+          "description": "Kinetic Technologiesは、車載電源ラインを異常電源や負荷状態から保護するAEC-Q100準拠ロードスイッチ「KTS1642Q」を発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/31/news012.html",
+          "publishedOn": "2026-09-01T03:30:00.000Z",
+          "wordCount": 2626,
+          "title": "車載電源ラインを保護するロードスイッチ、Kinetic",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/31/l_edn20260827edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/01/news031.html",
           "author": null,
           "description": "ロームは、定格電力0.33Wの高耐サージチップ抵抗器「SDR01」シリーズを開発した。1.00×0.50×0.35mmと小型ながら、定格端子温度の125℃まで0.33Wの高定格電力を保証する。",
@@ -7423,6 +7433,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132096",
+          "author": "多根清史",
+          "description": "アップルのティム・クック氏は、15年にわたり務めてきた同社CEOの座から退き、後任のジョン・ターナス氏へ経営を引き継いだ。 そのCEOとしての最終日となった8月31日、クック氏は全従業員にメッセージを送り、ターナス氏に経営の舵取りを託せることには「大きな安心感を覚える」と語ったとBloombergが […]",
+          "link": "https://gadget.phileweb.com/post-132096/",
+          "publishedOn": "2026-09-01T03:59:59.000Z",
+          "wordCount": 706,
+          "title": "ティム・クック氏、アップルCEOとして最後のメッセージ。後任ターナス氏に「非常に安心感」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/2af349c374c9519f4ddc090dbede5060.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132105",
           "author": "Munenori Taniguchi",
@@ -8440,6 +8460,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066713.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/31(月) 16:44:31.35 ID:hS2QF7t10●.net \n\n\n\n\n\n\n\n\n\n彼のようにあなたは社民党党首として土下座でもなんでもすれば良いです。日本人や日本政府にそれを求めないでください。 pic.twitter.com/I9NhT2i63u— やすひろ (@Enigma_Hanuman) August 31, 2026 \n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2066713.html",
+          "publishedOn": "2026-09-01T04:01:14.000Z",
+          "wordCount": 3134,
+          "title": "福島瑞穂 「9月1日は関東大震災、そして朝鮮人・中国人虐殺があった日です。謝罪が必要です」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/6/96d3bee9.png"
+        },
         {
           "id": "https://itainews.com/archives/2066707.html",
           "author": "dqnplus",
