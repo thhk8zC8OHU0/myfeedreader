@@ -6807,6 +6807,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/01/news031.html",
+          "author": null,
+          "description": "ロームは、定格電力0.33Wの高耐サージチップ抵抗器「SDR01」シリーズを開発した。1.00×0.50×0.35mmと小型ながら、定格端子温度の125℃まで0.33Wの高定格電力を保証する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/01/news031.html",
+          "publishedOn": "2026-09-01T00:00:00.000Z",
+          "wordCount": 2613,
+          "title": "1005サイズで定格0.33Wの高耐サージチップ抵抗器",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/01/cover_news031.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/28/news033.html",
           "author": null,
           "description": "NoMIS Powerは、8kV超のブロック電圧と90mΩのオン抵抗、55Aのドレイン電流を実現した6.5kV 炭化ケイ素（SiC）MOSFETを開発した。",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T00:11:39.749Z</updated>
+    <updated>2026-09-01T00:36:34.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29,6 +29,16 @@
 未婚の若年層の35％が結婚するつもりはないと...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1005サイズで定格0.33Wの高耐サージチップ抵抗器]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/01/news031.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/01/news031.html"/>
+        <updated>2026-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロームは、定格電力0.33Wの高耐サージチップ抵抗器「SDR01」シリーズを開発した。1.00×0.50×0.35mmと小型ながら、定格端子温度の125℃まで0.33Wの高定格電力を保証する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
