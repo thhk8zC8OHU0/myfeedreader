@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T05:06:57.857Z</updated>
+    <updated>2026-09-01T05:24:25.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ほっともっと】しょうが焼き得弁ランチ（550ランチシリーズ）【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317489</id>
+        <link href="https://foodfighter.jp/hottomotto-550-lunch"/>
+        <updated>2026-09-01T05:21:02.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Mo […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【解説】米・ヴェネズエラの石油取引、なぜ問題になっているのか]]></title>
         <id>https://www.bbc.com/japanese/articles/c2dw38n0l6xo#0</id>
