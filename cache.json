@@ -1993,6 +1993,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/7187690b100a87f83fcf927d45ff7e2c8b35094a?source=rss",
+          "author": null,
+          "description": "きょう、９月１日は「防災の日」。非常食の備えについて、街の人に聞くと「非常食の味が気になる」「賞味期限を確認していない」といった声がありました。\n\n　そんな「非常食」をおいしく食べてもらおうと８月、",
+          "link": "https://news.yahoo.co.jp/articles/7187690b100a87f83fcf927d45ff7e2c8b35094a?source=rss",
+          "publishedOn": "2026-09-01T10:26:45.000Z",
+          "wordCount": 1770,
+          "title": "9月1日は「防災の日」 　硬い乾パンを”柔らかく”　シェフ直伝　非常食をおいしくアレンジ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082314-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2fd1eb41a226a80513c7111dc44f7c794e7ceb05?source=rss",
           "author": null,
           "description": "検察は懲役８年を求刑。被告の女は無罪主張です。\n\n　起訴状などによりますと、西馬淳子被告（５６）は２０２１年、和歌山市で車を運転中にてんかんの発作を起こし、意識障害になって、前方に停車していた車や原",
@@ -8661,6 +8671,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066737.html",
+          "author": "damono3856",
+          "description": "1 名前：昆虫図鑑 ★：2026/09/01(火) 08:53:27.96 ID:NzJ6+K3a.net\n\n\n\n\n\n\n\n\"1球も投げずに退場→10試合出場停止 大谷に“わざとぶつける”発言の韓国投手、29球団に選ばれず再度3Aに\" - スポーツソウル日本版 #SmartNews https://t.co/jsZ7rYAgaN #スマートニュース— ...",
+          "link": "https://itainews.com/archives/2066737.html",
+          "publishedOn": "2026-09-01T10:31:04.000Z",
+          "wordCount": 3161,
+          "title": "【MLB】1球も投げずに退場→10試合出場停止　大谷に“わざとぶつける”発言のコ・ウソク、29球団に選ばれず再度3Aに",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/2/42ad41e7-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066729.html",
           "author": "damono3856",
           "description": "1 名前：：2026/09/01(火) 05:13:50.12 ID:+g98drD90●.net\n\n\n\n\n\n\n\n新名神高速“ながら運転”で6人死亡　被告“涙の謝罪”も遺族怒り https://t.co/CNqlaCYMI4@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) August 31, 2026  \n\n\n\n\n\n\nhttps://youtu.be/lsjf047p2Hs (動画...",
@@ -14358,6 +14378,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/127353/",
+          "author": null,
+          "description": "8月28～30日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」が初登場首位となった。初日から3日間の観客動員は53万4...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/127353/",
+          "publishedOn": "2026-09-01T10:30:00.000Z",
+          "wordCount": 739,
+          "title": "【週末アニメ映画ランキング】「魔法少女まどか☆マギカ」最新作が興収9.4億円で首位　「映画ちいかわ」は累計122億円突破",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/column/hikawa_rekishi/127336/",
           "author": null,
