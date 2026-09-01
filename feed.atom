@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T07:07:35.162Z</updated>
+    <updated>2026-09-01T07:25:38.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ファミマ】パイの実みたいなデニッシュ（ファミマとコラボ祭）【新作コンビニ菓子パン】]]></title>
+        <id>https://foodfighter.jp/?p=317510</id>
+        <link href="https://foodfighter.jp/famima-painomi-choco-danish-2026"/>
+        <updated>2026-09-01T07:19:18.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「パイの実みたいなデニッシュ（ファミマとコラボ祭）」を世界一詳しく調査しました。   【ファ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「モンスターハンターワイルズ：アセンダンス」，世界初のプレイアブル出展。TGS 2026のカプコンブース情報第1弾が公開に]]></title>
+        <id>https://www.4gamer.net/games/759/G075952/20260901022/</id>
+        <link href="https://www.4gamer.net/games/759/G075952/20260901022/"/>
+        <updated>2026-09-01T07:17:33.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは本日（2026年9月1日），東京ゲームショウ2026における同社ブースの出展情報第1弾を公開した。カプコンブースでは，「モンスターハンターワイルズ：アセンダンス」の世界初となるプレイアブル出展が実施される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米著名ラッパー2パックさん殺害、30年越しに元ギャングリーダーに有罪評決]]></title>
+        <id>https://www.bbc.com/japanese/articles/crm970l3vp3o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/crm970l3vp3o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-01T07:05:13.000Z</updated>
+        <summary type="html"><![CDATA[1996年9月に米人気ラッパーのトゥパック・シャクールさん（通称2パック、当時25）がラスヴェガスで射殺された事件で、ネヴァダ州地裁の陪審は31日、殺人罪に問われた元ギャングリーダーのドゥエイン・デイヴィス被告（63）に有罪評決を下した。ヒップホップのファンが30年近く注目してきた未解決事件において、初めて有罪評決が出た。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「こういう芸やめようよ」 木梨憲武、ラッパーSHOの愛車をへこませ批判集中]]></title>
         <id>https://itainews.com/archives/2066720.html</id>
