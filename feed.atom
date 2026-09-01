@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T05:37:49.785Z</updated>
+    <updated>2026-09-01T05:50:23.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「最も完成品に近い」折りたたみiPhoneのダミーをYouTuberが公開。iPhone 18 Pro Maxは現行とほぼ同じ外観か]]></title>
+        <id>https://gadget.phileweb.com/?p=132116</id>
+        <link href="https://gadget.phileweb.com/post-132116/"/>
+        <updated>2026-09-01T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「おはよう世界。」と題するアップルの新型iPhone発表イベントまであと10日余りに迫った8月30日、「これまでで最も最終製品に近い」とされる、折りたたみiPhone（通称「iPhone Ultra」）と「iPhone 18 Pro Max」のダミー模型を紹介するハンズオン動画が、テクノロジーを中心 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ほっともっと】しょうが焼き得弁ランチ（550ランチシリーズ）【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=317489</id>
