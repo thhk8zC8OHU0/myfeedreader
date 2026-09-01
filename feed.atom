@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T14:41:17.963Z</updated>
+    <updated>2026-09-01T14:56:37.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[放送作家が聞き下手すぎて、盛り上がりに欠ける芸人の半生の動画【ジェラードン】]]></title>
+        <id>https://www.youtube.com/watch?v=65XHWzf0bhE</id>
+        <link href="https://www.youtube.com/watch?v=65XHWzf0bhE"/>
+        <updated>2026-09-01T14:48:39.000Z</updated>
+        <author>
+            <name>ジェラードンチャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[家賃値上げ]]></title>
         <id>https://logipara.com/?p=13428</id>
