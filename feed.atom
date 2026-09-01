@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T03:07:39.060Z</updated>
+    <updated>2026-09-01T03:26:29.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows11、最近のアプデで「カーソル巨大化」など複数の不具合報告]]></title>
+        <id>https://gadget.phileweb.com/?p=132105</id>
+        <link href="https://gadget.phileweb.com/post-132105/"/>
+        <updated>2026-09-01T03:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 25H2および24H2に最近配布されたアップデート「KB5120998」をインストールしたユーザーから、「マウスカーソルが巨大化し、ランダムに大きさが変わる」「マウスカーソルのカスタムアニメーションが強制的に標準設定に戻される」「壁紙が削除された」など、複数の不具合が報告されて […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リオネル・メッシ、アルゼンチン代表引退を発表「すべてを出し切った。もう与えられるものはない」　21年間で207試合125得点]]></title>
         <id>https://itainews.com/archives/2066725.html</id>
