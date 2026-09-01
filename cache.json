@@ -1963,6 +1963,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/022f0e5d0d27e900265cc44d1bbbf3cc72d90075?source=rss",
+          "author": null,
+          "description": "１日昼前、滋賀県長浜市の琵琶湖で、男性３人が漂流する事故が発生しました。警察と消防が救助を急いでいます。\n\n　１日午前１１時５０分ごろ長浜市田村町付近で、「琵琶湖の上で流されている」と、漂流している",
+          "link": "https://news.yahoo.co.jp/articles/022f0e5d0d27e900265cc44d1bbbf3cc72d90075?source=rss",
+          "publishedOn": "2026-09-01T04:25:45.000Z",
+          "wordCount": 1666,
+          "title": "琵琶湖で男性３人が漂流　ライフジャケット着用し浮き輪につかまる　警察と消防が救助急ぐ　滋賀・長浜市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082308-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/dffd631988c055eb51b7331308a8fca2551abc3a?source=rss",
           "author": null,
           "description": "南海トラフ巨大地震を想定し、大阪府民らの携帯電話に緊急速報メールを一斉送信する訓練が実施されました。\n\n　「大阪８８０万人訓練」は、南海トラフ巨大地震で大津波警報が発表されたことを想定したもので、今",
@@ -8460,6 +8470,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066715.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/31(月) 17:07:05.52 ID:hS2QF7t10●.net\n\n\n\n\n\n\n\n\n\n\nこれは効く🤣w伊佐氏『お互い「それは違う、自国としてはこういう思いなんだ」と、日本と中国とラリーが何回も続いた。今までの中国との外交ではラリーが2回くらいまでだった』平石氏『結果、「高市総理...",
+          "link": "https://itainews.com/archives/2066715.html",
+          "publishedOn": "2026-09-01T04:36:23.000Z",
+          "wordCount": 3070,
+          "title": "いさ進一「今回は中国と何回も言い合った」 アナ「で、結局、中国側の姿勢を聞きに行っただけですよね｣",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/1/115cb60e.png"
+        },
         {
           "id": "https://itainews.com/archives/2066713.html",
           "author": "dqnplus",
