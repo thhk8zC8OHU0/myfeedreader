@@ -1993,6 +1993,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d00583ff2bdddc3498bdfe12053c4af46bc4ba3a?source=rss",
+          "author": null,
+          "description": "沖縄県名護市の辺野古沖で、同志社国際高校の生徒を乗せた船が転覆した事故をめぐり、学校側は8月30日、2回目の保護者説明会を開きました。\n\n　説明会では、保護者たちが怒りをあらわにしました。",
+          "link": "https://news.yahoo.co.jp/articles/d00583ff2bdddc3498bdfe12053c4af46bc4ba3a?source=rss",
+          "publishedOn": "2026-09-01T10:03:13.000Z",
+          "wordCount": 1750,
+          "title": "沖縄・辺野古沖の転覆事故　同志社国際高校がふたたび保護者説明会　研修旅行に関わった教師の死亡が明らかに(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00010000-asahibcc-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6f57da2c11af2e3316d03fc640fc835c30c508c0?source=rss",
+          "author": null,
+          "description": "大阪市は１日、所有する土地をＵＳＪ側に貸し出すと明らかにしました。パーク面積の拡張が実現すれば２００１年の開業以来、初めてのことです。\n\n　ユニバーサル・スタジオ・ジャパンの北側にある日本製鉄の工場",
+          "link": "https://news.yahoo.co.jp/articles/6f57da2c11af2e3316d03fc640fc835c30c508c0?source=rss",
+          "publishedOn": "2026-09-01T10:00:00.000Z",
+          "wordCount": 1682,
+          "title": "ＵＳＪが開業以来初の敷地拡張へ　隣接する工場跡地、大阪市が貸し出す方針　広さは阪神甲子園球場約１．６個分(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082311-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/9fddaebe36fe231f9e2ff3b83cfc8fd5aa06c448?source=rss",
           "author": null,
           "description": "８月３０日午前４時半、福井県の福井市、大野市、勝山市に警戒レベルで最も高い「レベル５大雨特別警報」が発表されました。\n\n　一夜明けた坂井市内。岩本計介アナウンサーが現場に向かうと、至るところに大雨の",
@@ -8621,6 +8641,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066729.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/01(火) 05:13:50.12 ID:+g98drD90●.net\n\n\n\n\n\n\n\n新名神高速“ながら運転”で6人死亡　被告“涙の謝罪”も遺族怒り https://t.co/CNqlaCYMI4@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) August 31, 2026  \n\n\n\n\n\n\nhttps://youtu.be/lsjf047p2Hs (動画...",
+          "link": "https://itainews.com/archives/2066729.html",
+          "publishedOn": "2026-09-01T10:03:24.000Z",
+          "wordCount": 3087,
+          "title": "新名神高速“ながら運転”で6人死亡　被告“涙の謝罪”も遺族怒り",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/8/e8d607ba-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066727.html",
           "author": "damono3856",
           "description": "1 名前：お断り ★：2026/09/01(火) 07:17:07.80 ID:bt3x2Y4k9.net\n\n\n\n\n\n\n\nベッセント米財務長官、日銀の利上げを示唆か…「円高につながる措置を取るだろう」「市場は既に織り込んでいる」https://t.co/axFKzO59XB#経済— 読売新聞オンライン (@Yomiuri_Online) August ...",
@@ -14308,6 +14338,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/hikawa_rekishi/127336/",
+          "author": null,
+          "description": "アニメ映画「SEKIRO: NO DEFEAT」は、斬新な試みに満ちた時代劇の野心作である。映像、作画、美術、演出と全方位的な驚きがあり、激しいアクション感覚に興奮すると同時に情緒的にも満たされ...",
+          "link": "https://anime.eiga.com/news/column/hikawa_rekishi/127336/",
+          "publishedOn": "2026-09-01T10:00:00.000Z",
+          "wordCount": 794,
+          "title": "【氷川竜介の「アニメに歴史あり」】第65回　真摯な肉体アクションを追求した時代劇アニメ「SEKIRO: NO DEFEAT」",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127359/",
           "author": null,
