@@ -1983,6 +1983,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/470fb3260526c25f3503c8b1db3e9216af45e780?source=rss",
+          "author": null,
+          "description": "大阪市此花区のユニバーサル・スタジオ・ジャパンを運営するユー・エス・ジェイが、パークの拡張のため、隣接する土地の所有者である大阪市や日本製鉄と協議を進める合意を交わしていたことが分かりました。",
+          "link": "https://news.yahoo.co.jp/articles/470fb3260526c25f3503c8b1db3e9216af45e780?source=rss",
+          "publishedOn": "2026-09-01T07:47:43.000Z",
+          "wordCount": 1661,
+          "title": "ＵＳＪ敷地拡張へ　大阪市・日本製鉄と協議することで合意　「長期的な魅力向上を目指す」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-00082310-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/03ff705ce12b15603412dc919e050a40224d9029?source=rss",
           "author": null,
           "description": "日本維新の会の吉村代表は１日、立憲民主党・公明党との合流を断念した中道改革連合について、「生活者ファーストじゃなくて自分たちファーストだった」としました。\n\n　中道は３１日、立憲・公明との党首会談で",
@@ -7533,6 +7543,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132129",
+          "author": "多根清史",
+          "description": "マイクロソフトのある従業員が、1か月足らずの間に2万8000ドル（約448万円）相当のAIトークンを浪費していたことが明らかになった。現在、同社はトークン使用状況の追跡と、AnthropicのClaudeをコーディングのために使うことを積極的に推奨しなくなったという。 ここ数年、マイクロソフトは社内 […]",
+          "link": "https://gadget.phileweb.com/post-132129/",
+          "publishedOn": "2026-09-01T07:45:00.000Z",
+          "wordCount": 704,
+          "title": "マイクロソフト、ある従業員がわずか28日間でAIを約448万円分も使い込み。全体の使用状況監視を強化へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/642b0424812180d145e8c3b29e1943ed.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132116",
           "author": "多根清史",
@@ -13297,6 +13317,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=61372",
+          "author": "fumie",
+          "description": "だんだんと近づいてくる、秋のあつぎ鮎まつりがとても楽しみなふみえ＠あつらぼです！ メインイベントの大花火大会は、10月10日（土）17：40～打ち上げ開始の予定で、 有料観覧席チケットは9月1日よりセブンチケットにて販売をスタートしました♪…",
+          "link": "https://atsugi-lab.com/ayumatsuri2026-hanabi-ticket/",
+          "publishedOn": "2026-09-01T07:47:46.000Z",
+          "wordCount": 873,
+          "title": "【9月1日より販売スタート！】10月10日開催・第80回あつぎ鮎まつり大花火大会の「有料観覧席チケット」購入方法をチェック★",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/ayum-2026.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=61300",
           "author": "shino",

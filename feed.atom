@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T07:39:16.762Z</updated>
+    <updated>2026-09-01T07:51:19.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9月1日より販売スタート！】10月10日開催・第80回あつぎ鮎まつり大花火大会の「有料観覧席チケット」購入方法をチェック★]]></title>
+        <id>https://atsugi-lab.com/?p=61372</id>
+        <link href="https://atsugi-lab.com/ayumatsuri2026-hanabi-ticket/"/>
+        <updated>2026-09-01T07:47:46.000Z</updated>
+        <summary type="html"><![CDATA[だんだんと近づいてくる、秋のあつぎ鮎まつりがとても楽しみなふみえ＠あつらぼです！ メインイベントの大花火大会は、10月10日（土）17：40～打ち上げ開始の予定で、 有料観覧席チケットは9月1日よりセブンチケットにて販売をスタートしました♪…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ＵＳＪ敷地拡張へ　大阪市・日本製鉄と協議することで合意　「長期的な魅力向上を目指す」(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/470fb3260526c25f3503c8b1db3e9216af45e780?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/470fb3260526c25f3503c8b1db3e9216af45e780?source=rss"/>
+        <updated>2026-09-01T07:47:43.000Z</updated>
+        <summary type="html"><![CDATA[大阪市此花区のユニバーサル・スタジオ・ジャパンを運営するユー・エス・ジェイが、パークの拡張のため、隣接する土地の所有者である大阪市や日本製鉄と協議を進める合意を交わしていたことが分かりました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、ある従業員がわずか28日間でAIを約448万円分も使い込み。全体の使用状況監視を強化へ]]></title>
+        <id>https://gadget.phileweb.com/?p=132129</id>
+        <link href="https://gadget.phileweb.com/post-132129/"/>
+        <updated>2026-09-01T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトのある従業員が、1か月足らずの間に2万8000ドル（約448万円）相当のAIトークンを浪費していたことが明らかになった。現在、同社はトークン使用状況の追跡と、AnthropicのClaudeをコーディングのために使うことを積極的に推奨しなくなったという。 ここ数年、マイクロソフトは社内 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ファミマ】パイの実みたいなデニッシュ（ファミマとコラボ祭）【新作コンビニ菓子パン】]]></title>
         <id>https://foodfighter.jp/?p=317510</id>
