@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T05:27:25.532Z</updated>
+    <updated>2026-09-02T05:41:25.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエルがハマス治安部門責任者を拘束、ガザ急襲作戦で　少なくとも4人死亡]]></title>
+        <id>https://www.bbc.com/japanese/articles/cn9wvyldyllo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cn9wvyldyllo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T05:33:35.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルのネタニヤフ首相は1日、イスラエルの特殊部隊がパレスチナ・ガザ地区で地上作戦を実施し、ガザの武装組織ハマスの治安部門責任者を拘束したと発表した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【鳥取県立中央病院】「ECMO（エクモ）」酸素配管の接続ミス　約20分間、酸素が供給されない状態…70代男性患者が低酸素脳症で意識不明]]></title>
+        <id>https://itainews.com/archives/2066763.html</id>
+        <link href="https://itainews.com/archives/2066763.html"/>
+        <updated>2026-09-02T05:31:58.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/09/01(火) 22:50:22.69 ID:NbytvcQW9.net
+
+
+
+
+
+
+
+「ECMO（エクモ）」酸素配管の接続ミスで、約20分間、酸素が供給されない状態に…70代男性患者が低酸素脳症で意識不明の重体となる医療事故　警報アラームが複数回鳴るも不具合に気づかず　鳥取県...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「怒」「ドラゴンバスター」「忍者龍剣伝III 黄泉の方船」が「ファミリーコンピュータ Nintendo Classics」に登場]]></title>
+        <id>https://www.4gamer.net/games/440/G044018/20260902016/</id>
+        <link href="https://www.4gamer.net/games/440/G044018/20260902016/"/>
+        <updated>2026-09-02T05:28:06.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は本日（2026年9月2日），「NintendoSwitchOnline」加入者向けサービス「ファミリーコンピュータNintendoClassics」に，「怒」「ドラゴンバスター」「忍者龍剣伝III黄泉の方船」を追加した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スシローがアメリカ１号店を来月オープンへ　場所はニューヨークのタイムズスクエア付近　１皿２貫約８００円～　大トロは１６００円(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/a02c569cbcefd743e9bb2ce4eecaba0433cece82?source=rss</id>
