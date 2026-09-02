@@ -2063,6 +2063,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/7eb2f1c2ccb05b492b6e912a372137987dea06b2?source=rss",
+          "author": null,
+          "description": "２日早朝、京都府舞鶴市のコンビニエンスストアで万引きした上、店員に注意された際に、熱湯を入れた直後のスープパスタをかけた疑いで、５５歳の女が現行犯逮捕されました。\n\n　事後強盗の疑いで現行犯逮捕され",
+          "link": "https://news.yahoo.co.jp/articles/7eb2f1c2ccb05b492b6e912a372137987dea06b2?source=rss",
+          "publishedOn": "2026-09-02T07:29:09.000Z",
+          "wordCount": 1672,
+          "title": "コンビニ店員に万引き注意され…熱湯入れた直後のスープパスタを顔面にかけた疑い　無職の５５歳女を現行犯逮捕　京都・舞鶴市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00082330-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/fc1be5fe4ffdc1cbb18173d996b52f56b8ae9eb7?source=rss",
           "author": null,
           "description": "先月２７日、兵庫県三田市の公園で人骨のようなものが見つかり、警察が確認を進めています。\n\n　先月２７日の夕方、兵庫県三田市武庫が丘にある公園で、犬の散歩をしていた女性が「人骨のようなものが落ちている",
@@ -5450,6 +5460,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cjrxyl0wwzeo#0",
+          "author": null,
+          "description": "フランス政府は1日、電子商取引（eコマース）サイトで販売される安価な衣料品の急増を抑えるため、ファストファッションの製品に課金する新たな制度を開始した。金額は当面、Tシャツが2ユーロ、ジャケットが12ユーロなどとなっており、2030年までに1品目あたり最大20ユーロに達する可能性がある。",
+          "link": "https://www.bbc.com/japanese/articles/cjrxyl0wwzeo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-02T07:28:37.000Z",
+          "wordCount": 1841,
+          "title": "フランス、ファストファッション製品に課金　中国「SHEIN」や「Temu」を標的に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/df5c/live/544eaf90-a60b-11f1-83fc-0df57e6b3866.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c62j5n43xzko#0",
           "author": null,
           "description": "香港の著名な民主化運動家の黄之鋒（ジョシュア・ウォン）氏（29）は2日、外国勢力と結託した罪について有罪を認めた。量刑の言い渡しは後日となる予定。この罪は、香港国家安全維持法（国安法）の下では、最高で終身刑となる可能性がある。",
@@ -7913,6 +7933,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132217",
+          "author": "多根清史",
+          "description": "この8月末、ティム・クック氏が15年にわたり務めてきたアップルCEOの座を退き、後任としてジョン・ターナス氏が就任した。その初日となる9月1日、ターナス氏が全社員向けに送ったとされるメモを、米9to5Macが入手したとして公開している。 このメモでターナス氏はクック氏に謝意を示し、アップルは「自身の […]",
+          "link": "https://gadget.phileweb.com/post-132217/",
+          "publishedOn": "2026-09-02T07:30:00.000Z",
+          "wordCount": 735,
+          "title": "アップル新CEO、前任クック氏に感謝伝える就任初日メッセージ。「来週の大規模な発表」も宣伝",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/277312575bfe4291f5436ecf6243e20d.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132209",
           "author": "編集部：平山洸太",

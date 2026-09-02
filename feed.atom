@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T07:25:26.185Z</updated>
+    <updated>2026-09-02T07:37:47.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル新CEO、前任クック氏に感謝伝える就任初日メッセージ。「来週の大規模な発表」も宣伝]]></title>
+        <id>https://gadget.phileweb.com/?p=132217</id>
+        <link href="https://gadget.phileweb.com/post-132217/"/>
+        <updated>2026-09-02T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[この8月末、ティム・クック氏が15年にわたり務めてきたアップルCEOの座を退き、後任としてジョン・ターナス氏が就任した。その初日となる9月1日、ターナス氏が全社員向けに送ったとされるメモを、米9to5Macが入手したとして公開している。 このメモでターナス氏はクック氏に謝意を示し、アップルは「自身の […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンビニ店員に万引き注意され…熱湯入れた直後のスープパスタを顔面にかけた疑い　無職の５５歳女を現行犯逮捕　京都・舞鶴市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7eb2f1c2ccb05b492b6e912a372137987dea06b2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7eb2f1c2ccb05b492b6e912a372137987dea06b2?source=rss"/>
+        <updated>2026-09-02T07:29:09.000Z</updated>
+        <summary type="html"><![CDATA[２日早朝、京都府舞鶴市のコンビニエンスストアで万引きした上、店員に注意された際に、熱湯を入れた直後のスープパスタをかけた疑いで、５５歳の女が現行犯逮捕されました。
+
+　事後強盗の疑いで現行犯逮捕され]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランス、ファストファッション製品に課金　中国「SHEIN」や「Temu」を標的に]]></title>
+        <id>https://www.bbc.com/japanese/articles/cjrxyl0wwzeo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cjrxyl0wwzeo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T07:28:37.000Z</updated>
+        <summary type="html"><![CDATA[フランス政府は1日、電子商取引（eコマース）サイトで販売される安価な衣料品の急増を抑えるため、ファストファッションの製品に課金する新たな制度を開始した。金額は当面、Tシャツが2ユーロ、ジャケットが12ユーロなどとなっており、2030年までに1品目あたり最大20ユーロに達する可能性がある。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダイソンが電動歯ブラシに参入。磨きながらウォーターフロスできる「CameraJet」発表]]></title>
         <id>https://gadget.phileweb.com/?p=132209</id>
