@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T14:54:08.926Z</updated>
+    <updated>2026-09-02T15:12:33.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「アナザーエデン ビギンズ」，体験版を配信開始。メインストーリーを第6章までプレイでき，セーブデータは製品版に引き継ぎ可能]]></title>
+        <id>https://www.4gamer.net/games/981/G098195/20260902042/</id>
+        <link href="https://www.4gamer.net/games/981/G098195/20260902042/"/>
+        <updated>2026-09-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ライトフライヤースタジオは本日，タイムトラベルRPG「アナザーエデンビギンズ」の体験版を配信開始した。ゲーム冒頭からメインストーリー第6章までプレイでき，セーブデータは2026年9月17日発売の製品版に引き継げる。主人公アルドたちの時空を超える冒険や，強敵とのバトルを収録したファイナルトレイラーも公開された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[養命酒]]></title>
         <id>https://logipara.com/?p=13430</id>
