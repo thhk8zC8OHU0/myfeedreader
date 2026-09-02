@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T09:38:49.931Z</updated>
+    <updated>2026-09-02T09:51:57.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[３日夜から４日朝昼　近畿に警報級大雨の可能性「高」　 台風と秋雨前線の「危険な関係」 千葉も石川・福井も“予想の上振れ”豪雨だった(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/75e117c3df26144c9e5679e2a9c94ffa649dfac6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/75e117c3df26144c9e5679e2a9c94ffa649dfac6?source=rss"/>
+        <updated>2026-09-02T09:42:07.000Z</updated>
+        <summary type="html"><![CDATA[今年はハイペースで台風が発生しています。現在、日本列島の周辺には2つの台風が同時に存在しています。今後の進路と天気について、気象予報士の岡雄介さんが説明します。
+　岡さんは、台風が接近していなくても]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「レゴ ハリー・ポッター コレクション」，Switch2向けに発売決定。レゴで完全再現されたハリー・ポッターの世界を冒険できる]]></title>
         <id>https://www.4gamer.net/games/038/G103877/20260902036/</id>
