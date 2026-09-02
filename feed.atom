@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T15:12:33.231Z</updated>
+    <updated>2026-09-02T15:31:20.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -25986,16 +25986,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[イランは3日、ホルムズ海峡での商業船舶の航行再開を可能にするため、一時的な航路の設定についてオマーンと「合意」に向けて交渉中だと発表した。ただ、アメリカとは協議する予定はないとし、前日のトランプ米大統領の主張を否定した。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RapidusとCadence、AIエージェント活用SoC設計で協業]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2607/31/news015.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2607/31/news015.html"/>
-        <updated>2026-08-04T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[RapidusとCadenceは、先端SoC（System on Chip）設計向けAIエージェント技術で協業すると発表した。設計フローを自動化し、従来比で最大2倍の設計ターンアラウンドタイム短縮を目指す。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
