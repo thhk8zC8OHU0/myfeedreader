@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T01:22:28.235Z</updated>
+    <updated>2026-09-02T01:40:59.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】原発避難者訴訟　大阪地裁は国の責任認めず　東電のみ賠償命令(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d3103aa9e9ba73b1bc0ad61ba1379c9e286e2cf7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d3103aa9e9ba73b1bc0ad61ba1379c9e286e2cf7?source=rss"/>
+        <updated>2026-09-02T01:29:53.000Z</updated>
+        <summary type="html"><![CDATA[東日本大震災で起きた福島第１原発事故により、関西に避難した人たちが国と東京電力に損害賠償を求めた裁判で、大阪地裁は２日、国の責任を認めませんでした。
+
+　一方で、東京電力の責任は認め、賠償を命じまし]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[河野ゆかり、駅で目撃「失禁したまま立っているおばあちゃんがいて」「何が怖いって、この20分間誰1人おばあちゃんに見向きもしない」]]></title>
         <id>https://itainews.com/archives/2066744.html</id>
