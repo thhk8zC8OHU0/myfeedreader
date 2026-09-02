@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T03:07:22.624Z</updated>
+    <updated>2026-09-02T03:24:26.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中２男子いじめ自殺　市が遺族に解決金支払い和解へ　学校側の対応不適切と訴え　兵庫・相生市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7ab70909ab1e4a37557b02f0e4de6f626d0d65b0?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7ab70909ab1e4a37557b02f0e4de6f626d0d65b0?source=rss"/>
+        <updated>2026-09-02T03:18:55.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県相生市で２０２３年、中学２年の男子生徒がいじめを苦に自殺した問題で、市が、解決金７００万円を支払うことなどで遺族と和解する方針であることが分かりました。
+
+　２０２３年３月、相生市で中学２年生]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「マリオカート8 デラックス」，Switch 2の性能を活かした機能が利用可能に。画面分割による8人プレイやカメラプレイに対応]]></title>
+        <id>https://www.4gamer.net/games/368/G036843/20260902007/</id>
+        <link href="https://www.4gamer.net/games/368/G036843/20260902007/"/>
+        <updated>2026-09-02T03:17:44.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は本日（2026年9月2日），「マリオカート8デラックス」で無料アップデートを配信した。このたびのアップデートでは，NintendoSwitch2の性能を活かした機能が利用できるようになり，画面分割による8人プレイやカメラプレイに対応している。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くら寿司×ちいかわ「1万8000円食べてもフィギュアが一つも出ない」困惑の声相次ぐ]]></title>
         <id>https://itainews.com/archives/2066743.html</id>
