@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T01:06:31.639Z</updated>
+    <updated>2026-09-02T01:22:28.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
 駅構内で、失禁したまま立っているおばあちゃんがいて。手ぶらだし心配で、話しかけるも意思疎通が困難で駅員さんに伝えるも忙しそうですぐ対応してもらえず。とりあえずポカリを渡し、県警に連...]]></summary>
         <author>
             <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スターバックス】とろり蜜芋 紅はるかフラペチーノ【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317587</id>
+        <link href="https://foodfighter.jp/starbucks-mitsuimo"/>
+        <updated>2026-09-02T00:56:43.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「とろり蜜芋 紅はるかフラペチーノ」を世界一詳しく調査しました。   【 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
         </author>
     </entry>
     <entry>
@@ -24967,16 +24977,6 @@ https://www.digitalcameraworld.com/cameras/an-earthquake-has-halted-production-a
 The largest image sensor plant from Sony – the world’s biggest manufacturer of image sensors – has halted production after an earthquake hit Japan’s Kumamoto Prefecture on July 28. As of July 31, production still has not resumed, Sony said during an earnings report.]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目標]]></title>
-        <id>https://logipara.com/?p=13329</id>
-        <link href="https://logipara.com/diary-text/2026-08-04/"/>
-        <updated>2026-08-03T13:08:52.000Z</updated>
-        <summary type="html"><![CDATA[幼少期：目標に向かって努力しても、報われないかもしれないのが辛い 　 青年期：目標に向かって努力するのが辛い 　 老年期：目標がそもそもないのが辛い]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
