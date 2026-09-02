@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T18:42:29.977Z</updated>
+    <updated>2026-09-02T18:53:19.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -25956,16 +25956,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[この動画は再投稿です。フルの演奏は関連動画からご覧いただけます。【Special Thanks】　Music→すぎやまこういち Koichi ​⁠Sugiyama​⁠@squareenix @squareenixmusicchannel9893 Gameplay:​⁠@viridian-game-BGM ​⁠​⁠...]]></summary>
         <author>
             <name>みつ美《母ちゃんのクラリネット》</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアのビーチ、ウクライナの民家……双方で民間人の死傷続く]]></title>
-        <id>https://www.bbc.com/japanese/articles/c9d86087gxjo#4</id>
-        <link href="https://www.bbc.com/japanese/articles/c9d86087gxjo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-04T06:42:46.000Z</updated>
-        <summary type="html"><![CDATA[ロシアで観光客らに人気のビーチで、ウクライナのドローンによって、子ども3人を含む7人が殺害された。ウクライナはロシアの小売り大手の倉庫も攻撃し続けている。他方、ウクライナでもロシアの攻撃によって市民の死者が増え続けている。ウクライナだけでなくロシアの国民にとっても戦争が身近に迫る状況について、BBCのジェイムズ・ランデイル外交担当編集委員が報告する。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
