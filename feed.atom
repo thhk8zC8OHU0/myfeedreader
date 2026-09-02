@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T02:37:54.932Z</updated>
+    <updated>2026-09-02T02:53:30.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米軍が空爆、結婚披露宴の4人死亡との報道　イランは報復攻撃]]></title>
+        <id>https://www.bbc.com/japanese/articles/cr4v22wqndqo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cr4v22wqndqo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T02:40:45.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの中央軍は1日、イランに対する空爆を再開したと発表した。ホルムズ海峡における、イランのイスラム革命防衛隊（IRGC）による商船への「最近の攻撃の試み」を受けたものだと説明している。イラン側は民間人が殺害されたとし、報復攻撃に出ている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大戸屋のタブレット注文が「分かりづらい」と波紋　漫画家『チキンかあさん煮』が「鶏肉ページに無い」と困惑「UIが悪い」]]></title>
         <id>https://itainews.com/archives/2066750.html</id>
