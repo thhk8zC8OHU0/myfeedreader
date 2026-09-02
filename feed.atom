@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T03:37:45.747Z</updated>
+    <updated>2026-09-02T03:50:24.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[恋愛感情満たされず女性従業員殺害か　神戸・福原の風俗店男女死亡　男を容疑者死亡のまま書類送検　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7f8a613416a64c6302009240d98af15bd03773fe?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7f8a613416a64c6302009240d98af15bd03773fe?source=rss"/>
+        <updated>2026-09-02T03:47:31.000Z</updated>
+        <summary type="html"><![CDATA[神戸市兵庫区福原町の風俗店で６月、男女が倒れているのが見つかり、その後、２人とも死亡した事件で、警察は従業員の女性を殺害したとして、大阪市生野区の不動産業の男（３３）を容疑者死亡のまま書類送検しまし]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】阪急京都線で運転見合わせ　人身事故の影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a5bf1ad09a05ae8dc1e52d31c866b7e6b02fc271?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a5bf1ad09a05ae8dc1e52d31c866b7e6b02fc271?source=rss"/>
+        <updated>2026-09-02T03:37:14.000Z</updated>
+        <summary type="html"><![CDATA[阪急電鉄によりますと、２日午後０時８分ごろ京都線・西山天王山駅で人身事故が発生したということです。
+
+　この影響で京都線は京都河原町－大阪梅田駅間の全線で運転を見合わせています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[総務省、ガールズちゃんねる、好き嫌い.comを誹謗中傷を流通・拡散しているサイトに追加してしまう…]]></title>
         <id>https://itainews.com/archives/2066745.html</id>
