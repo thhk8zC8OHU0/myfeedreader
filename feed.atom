@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T01:40:59.093Z</updated>
+    <updated>2026-09-02T02:01:17.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[維新・吉村代表「選挙目当ての野合談合集団だったんですね。自分達ファースト。寄付は返金すべき」]]></title>
+        <id>https://itainews.com/archives/2066748.html</id>
+        <link href="https://itainews.com/archives/2066748.html"/>
+        <updated>2026-09-02T02:01:05.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/09/01(火) 16:26:18.18 ID:GK7Pjs4d0●.net
+
+
+
+
+
+
+
+
+
+吉村代表、中道ディスが止まらない「もう分裂ということですから選挙目当ての野合談合集団だったと自分たちで証明したんだと思います」「約1億円を超えるクラファンを集めたということですけれどもそのわず...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】原発避難者訴訟　大阪地裁は国の責任認めず　東電のみ賠償命令(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/d3103aa9e9ba73b1bc0ad61ba1379c9e286e2cf7?source=rss</id>
