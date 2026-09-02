@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T16:27:01.607Z</updated>
+    <updated>2026-09-02T16:40:40.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -25966,16 +25966,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[ロシアで観光客らに人気のビーチで、ウクライナのドローンによって、子ども3人を含む7人が殺害された。ウクライナはロシアの小売り大手の倉庫も攻撃し続けている。他方、ウクライナでもロシアの攻撃によって市民の死者が増え続けている。ウクライナだけでなくロシアの国民にとっても戦争が身近に迫る状況について、BBCのジェイムズ・ランデイル外交担当編集委員が報告する。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIアプリケーション開発支援のAIアシスタント、Axelera AI]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/01/news001.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/01/news001.html"/>
-        <updated>2026-08-04T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Axelera AIは、AIアプリケーション開発を支援するAIアシスタント「Voyager Wingman」を発表した。自然言語で推論パイプラインの構築やデバッグ、最適化を支援する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
