@@ -2033,6 +2033,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/a02c569cbcefd743e9bb2ce4eecaba0433cece82?source=rss",
+          "author": null,
+          "description": "大手回転ずしチェーンのスシローは来月、ニューヨーク中心部にアメリカ１号店を開業すると発表しました。最も安いもので、１皿２貫約８００円で販売するということです。\n\n　回転ずしチェーンのスシローは来月、",
+          "link": "https://news.yahoo.co.jp/articles/a02c569cbcefd743e9bb2ce4eecaba0433cece82?source=rss",
+          "publishedOn": "2026-09-02T05:10:19.000Z",
+          "wordCount": 1693,
+          "title": "スシローがアメリカ１号店を来月オープンへ　場所はニューヨークのタイムズスクエア付近　１皿２貫約８００円～　大トロは１６００円(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00082325-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/01b691f6fc8a83c3bb4b1e3387c6035892e47cd5?source=rss",
           "author": null,
           "description": "大阪市天王寺区の地下街で６月、女性が刺され現金などが奪われた事件で、警察は関与が疑われているベトナム国籍の男を全国に指名手配して情報提供を呼びかけています。\n\n　強盗殺人未遂の疑いで全国に指名手配さ",
@@ -5389,6 +5399,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c4glp3p694go#0",
+          "author": null,
+          "description": "イスラエルのサール外相は1日、占領下のパレスチナ・ヨルダン川西岸地区における入植地拡大の可能性を理由にイギリスがイスラエルに制裁を科した場合、イスラエルは報復措置を取ると警告した。",
+          "link": "https://www.bbc.com/japanese/articles/c4glp3p694go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-02T05:09:08.000Z",
+          "wordCount": 1839,
+          "title": "イスラエル外相、イギリスへの報復を警告　入植地めぐり制裁科した場合",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/9a5b/live/71d0d490-a628-11f1-b384-1f35d0eeee9d.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c98611xj4ldo#0",
           "author": null,
