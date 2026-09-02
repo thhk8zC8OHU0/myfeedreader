@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T14:07:42.313Z</updated>
+    <updated>2026-09-02T14:25:44.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[養命酒]]></title>
+        <id>https://logipara.com/?p=13430</id>
+        <link href="https://logipara.com/diary-text/2026-09-03/"/>
+        <updated>2026-09-02T14:13:53.000Z</updated>
+        <summary type="html"><![CDATA[毎日、養命酒を飲んでいました。 「いました」と過去形なのは、 「なんとなく習慣で飲み続けてるけど、養命酒、本当に効果あるのか？惰性で続けてるだけじゃない？」 と思い、止めたからです。 　 　 　 結果、しっかりと胃腸が弱 […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みいちゃんと山田さん』アニメ化で賛否…「“いい障害者”しか描けない社会の危うさ」乙武洋匡氏]]></title>
         <id>https://itainews.com/archives/2066773.html</id>
