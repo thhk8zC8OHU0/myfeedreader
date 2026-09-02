@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T00:11:45.253Z</updated>
+    <updated>2026-09-02T00:34:29.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【話題】厚木市文化会館近くのガソリンスタンドENEOS「Dr.Driveセルフ厚木インター店」が改装工事のため休業中です。]]></title>
+        <id>https://atsugi-lab.com/?p=61309</id>
+        <link href="https://atsugi-lab.com/renovation-eneos-atsugi-inter2026/"/>
+        <updated>2026-09-02T00:23:32.000Z</updated>
+        <summary type="html"><![CDATA[車を使う機会が多いと、大通り沿いのガソリンスタンドって利用しやすくて便利ですよね。こんにちは、しの＠あつらぼです。 先日、国道246号を車で通っていたところ、厚木市文化会館近くにあるENEOS「Dr.Driveセルフ厚木インター店」にお知ら…]]></summary>
+        <author>
+            <name>shino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米農家さま「政府は早く米を買い支えろ！余った米を市場から隔離しろ！農家に補償しろ！！」]]></title>
         <id>https://itainews.com/archives/2066735.html</id>
