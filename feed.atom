@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T18:53:19.558Z</updated>
+    <updated>2026-09-02T19:07:06.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More coverage of Sony TSMC collab]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/08/more-coverage-of-sony-tsmc-collab.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/08/more-coverage-of-sony-tsmc-collab.html"/>
+        <updated>2026-09-02T18:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Link: https://www.techtimes.com/articles/323736/20260810/sony-splits-sensor-manufacturing-tsmc-63b-deal-capture-physical-ai-market.htm
+Some excerpts below. 
+Sony Splits Sensor Manufacturing With TSMC in $6.3B Deal to Capture Physical AI Market
+Joint Venture Keeps Pixel IP at Sony While TSMC Supplies Logic Process for Cars and Robots 
+Sony Group and Taiwan Semiconductor Manufacturing Co. announced Monday that they plan to invest approximately ¥1 trillion (approximately $6.3 billion USD) in a joint venture to manufacture next-generation image sensors at Sony's Koshi City fab in Kumamoto Prefecture, with commercial production targeted for 2029, according to the Japan Times. The investment is not an incremental expansion of Sony's existing manufacturing footprint — it is an acknowledgment that…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「アナザーエデン ビギンズ」，体験版を配信開始。メインストーリーを第6章までプレイでき，セーブデータは製品版に引き継ぎ可能]]></title>
         <id>https://www.4gamer.net/games/981/G098195/20260902042/</id>
