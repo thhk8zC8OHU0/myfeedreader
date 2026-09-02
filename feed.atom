@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T09:25:53.836Z</updated>
+    <updated>2026-09-02T09:38:49.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「レゴ ハリー・ポッター コレクション」，Switch2向けに発売決定。レゴで完全再現されたハリー・ポッターの世界を冒険できる]]></title>
+        <id>https://www.4gamer.net/games/038/G103877/20260902036/</id>
+        <link href="https://www.4gamer.net/games/038/G103877/20260902036/"/>
+        <updated>2026-09-02T09:35:56.000Z</updated>
+        <summary type="html"><![CDATA[セガは本日（2026年9月2日），WBGamesのNintendoSwitch2用ソフト「レゴハリー・ポッターコレクション」を日本国内でリリースすると発表した。10月16日にダウンロード版が，10月29日にパッケージ版がそれぞれ登場する。価格は6578円（税込）。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【神戸】「ペットボトルの回し飲みで体内に入った可能性否定できない」コカイン使用の罪に問われた元神戸大の男子学生に無罪判決]]></title>
         <id>https://itainews.com/archives/2066765.html</id>
