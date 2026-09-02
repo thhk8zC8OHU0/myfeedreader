@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T13:41:19.380Z</updated>
+    <updated>2026-09-02T13:52:18.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪・枚方市で約１０００軒が停電　東部大阪にはレベル３大雨警報(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/355f67e1648ecc9d9b79bf3fc50849403426a4b2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/355f67e1648ecc9d9b79bf3fc50849403426a4b2?source=rss"/>
+        <updated>2026-09-02T13:49:47.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、２日午後１０時半ごろの時点で、大阪府枚方市で停電が発生しています。
+
+　停電しているのは約１０４０軒で、長尾家具町（約６３０軒）や長尾元町（約３９０軒）などの地域です。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【北海道旭川】河川敷で面識の無い女子高生の髪をつかみ腹部蹴った疑い…15歳女子高生を逮捕　「蹴っていない」と容疑否認]]></title>
         <id>https://itainews.com/archives/2066775.html</id>

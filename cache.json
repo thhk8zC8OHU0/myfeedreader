@@ -2153,6 +2153,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/355f67e1648ecc9d9b79bf3fc50849403426a4b2?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、２日午後１０時半ごろの時点で、大阪府枚方市で停電が発生しています。\n\n　停電しているのは約１０４０軒で、長尾家具町（約６３０軒）や長尾元町（約３９０軒）などの地域です。",
+          "link": "https://news.yahoo.co.jp/articles/355f67e1648ecc9d9b79bf3fc50849403426a4b2?source=rss",
+          "publishedOn": "2026-09-02T13:49:47.000Z",
+          "wordCount": 1635,
+          "title": "【速報】大阪・枚方市で約１０００軒が停電　東部大阪にはレベル３大雨警報(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00082343-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/fd5e6862963180d2e431bc0c7dde0807ff443358?source=rss",
           "author": null,
           "description": "兵庫県宝塚市の整体店で、女性客の胸や下半身を触ったとして、従業員の男が２日に逮捕されました。\n\n　不同意わいせつの疑いで逮捕されたのは、兵庫県川西市に住む川崎誠明容疑者（３１）です。\n\n　川崎容疑者",
