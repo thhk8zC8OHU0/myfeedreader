@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T05:41:25.774Z</updated>
+    <updated>2026-09-02T05:51:41.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[収監中の香港民主活動家、外国勢力との結託認める]]></title>
+        <id>https://www.bbc.com/japanese/articles/c62j5n43xzko#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c62j5n43xzko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T05:47:39.000Z</updated>
+        <summary type="html"><![CDATA[香港の著名な民主化運動家の黄之鋒（ジョシュア・ウォン）氏（29）は2日、外国勢力と結託した罪について有罪を認めた。量刑の言い渡しは後日となる予定。この罪は、香港国家安全維持法（国安法）の下では、最高で終身刑となる可能性がある。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イスラエルがハマス治安部門責任者を拘束、ガザ急襲作戦で　少なくとも4人死亡]]></title>
         <id>https://www.bbc.com/japanese/articles/cn9wvyldyllo#0</id>
