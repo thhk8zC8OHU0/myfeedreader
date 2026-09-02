@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/004/G100451/20260902025/",
+          "author": null,
+          "description": "VTuber/バーチャルライバーグループ「にじさんじ」の公式YouTubeチャンネルで，「にじさんじ遊戯王マスターデュエル祭2026」の開催発表会が本日（2026年9月2日）20：00に配信される。5回目の開催となる今回は，初のチーム対抗戦を実施する。",
+          "link": "https://www.4gamer.net/games/004/G100451/20260902025/",
+          "publishedOn": "2026-09-02T06:49:43.000Z",
+          "wordCount": 8465,
+          "title": "「にじさんじ遊戯王マスターデュエル祭2026」開催発表会が本日20：00に配信。初のチーム対抗戦を実施",
+          "imageUrl": "https://www.4gamer.net/games/004/G100451/20260902025/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/724/G072455/20260902018/",
           "author": null,
           "description": "架け橋ゲームズは本日（2026年9月2日），東京ゲームショウ2026の出展情報を公開した。同社ブースには，ガラクタを積み上げてタワーを作る「WhatGoesUp」や，リアルタイムストラテジー「Stronghold4」など，9作品が試遊出展される。",
@@ -2052,6 +2062,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/fc1be5fe4ffdc1cbb18173d996b52f56b8ae9eb7?source=rss",
+          "author": null,
+          "description": "先月２７日、兵庫県三田市の公園で人骨のようなものが見つかり、警察が確認を進めています。\n\n　先月２７日の夕方、兵庫県三田市武庫が丘にある公園で、犬の散歩をしていた女性が「人骨のようなものが落ちている",
+          "link": "https://news.yahoo.co.jp/articles/fc1be5fe4ffdc1cbb18173d996b52f56b8ae9eb7?source=rss",
+          "publishedOn": "2026-09-02T06:36:11.000Z",
+          "wordCount": 1663,
+          "title": "【速報】兵庫・三田市の住宅街などに囲まれた公園で「人骨のようなもの」見つかる　長さ４０センチほどの１本　ベンチの前の地面で見つかる　警察が確認進める(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00082329-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a3e9101c07461fb47197712f36deb039835e3243?source=rss",
           "author": null,
@@ -14352,16 +14372,6 @@
           "publishedOn": "2026-08-05T19:44:00.000Z",
           "wordCount": 4765,
           "title": "indie / ams OSRAM deal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/08/recent-earthquake-disrupts-sonys-image.html",
-          "author": null,
-          "description": "Yahoo news July 28, 2026 \nhttps://www.yahoo.com/news/world/articles/sony-fujifilm-plants-evacuate-7-160448320.html\nSony, Fujifilm plants evacuate as 7.1-magnitude earthquake hits Japan's image sensor hub \nSony press release July 31, 2026\n \nhttps://www.sony-semicon.com/en/info/2026/2026073101.html\nStatus of Sony Semiconductor Solutions Group Manufacturing Operations Affected by 2026 Kumamoto Earthquakes (Second Update) \nThe current status of the impact on our operations from the earthquake that occurred in the Kumamoto region on July 28, 2026, is as follows:\nSony Semiconductor Manufacturing Corporation's Kumamoto Technology Center (located in Kikuyo-machi, Kumamoto Prefecture), which temporarily was halted after the earthquake, has completed safety inspections of its buildings and facilities, and has been carrying out recovery work. As a result, the site is scheduled to resume operations in stages beginning August 4, 2026. The Kumamoto Technology Center is expected to return to its pre-earthquake operating level by mid-August 2026.\nFurther updates will be provided promptly should any new information become available.\nDigital Camera World July 31, 2026 \nhttps://www.digitalcameraworld.com/cameras/an-earthquake-has-halted-production-at-the-worlds-largest-camera-sensor-hub-sony-confirms-could-camera-shipments-be-delayed\nThe largest image sensor plant from Sony – the world’s biggest manufacturer of image sensors – has halted production after an earthquake hit Japan’s Kumamoto Prefecture on July 28. As of July 31, production still has not resumed, Sony said during an earnings report.",
-          "link": "https://image-sensors-world.blogspot.com/2026/08/recent-earthquake-disrupts-sonys-image.html",
-          "publishedOn": "2026-08-03T18:35:45.575Z",
-          "wordCount": 3961,
-          "title": "Recent earthquake disrupts Sony's image sensor fab",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T06:34:50.110Z</updated>
+    <updated>2026-09-02T06:54:56.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「にじさんじ遊戯王マスターデュエル祭2026」開催発表会が本日20：00に配信。初のチーム対抗戦を実施]]></title>
+        <id>https://www.4gamer.net/games/004/G100451/20260902025/</id>
+        <link href="https://www.4gamer.net/games/004/G100451/20260902025/"/>
+        <updated>2026-09-02T06:49:43.000Z</updated>
+        <summary type="html"><![CDATA[VTuber/バーチャルライバーグループ「にじさんじ」の公式YouTubeチャンネルで，「にじさんじ遊戯王マスターデュエル祭2026」の開催発表会が本日（2026年9月2日）20：00に配信される。5回目の開催となる今回は，初のチーム対抗戦を実施する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】兵庫・三田市の住宅街などに囲まれた公園で「人骨のようなもの」見つかる　長さ４０センチほどの１本　ベンチの前の地面で見つかる　警察が確認進める(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fc1be5fe4ffdc1cbb18173d996b52f56b8ae9eb7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fc1be5fe4ffdc1cbb18173d996b52f56b8ae9eb7?source=rss"/>
+        <updated>2026-09-02T06:36:11.000Z</updated>
+        <summary type="html"><![CDATA[先月２７日、兵庫県三田市の公園で人骨のようなものが見つかり、警察が確認を進めています。
+
+　先月２７日の夕方、兵庫県三田市武庫が丘にある公園で、犬の散歩をしていた女性が「人骨のようなものが落ちている]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカ人観光客、旅行で来てきた日本のホテルに火をつけ宿泊客18人を殺害しようとした疑いで逮捕]]></title>
         <id>https://itainews.com/archives/2066757.html</id>
@@ -25450,28 +25472,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、幅3.6mmのパッケージを採用した車載向け1MBd高速フォトカプラ「VOMHA43A」を発表した。CMTIが最小保証40kV/マイクロ秒になっている。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent earthquake disrupts Sony's image sensor fab]]></title>
-        <id>https://image-sensors-world.blogspot.com/2026/08/recent-earthquake-disrupts-sonys-image.html</id>
-        <link href="https://image-sensors-world.blogspot.com/2026/08/recent-earthquake-disrupts-sonys-image.html"/>
-        <updated>2026-08-03T18:35:45.575Z</updated>
-        <summary type="html"><![CDATA[Yahoo news July 28, 2026 
-https://www.yahoo.com/news/world/articles/sony-fujifilm-plants-evacuate-7-160448320.html
-Sony, Fujifilm plants evacuate as 7.1-magnitude earthquake hits Japan's image sensor hub 
-Sony press release July 31, 2026
- 
-https://www.sony-semicon.com/en/info/2026/2026073101.html
-Status of Sony Semiconductor Solutions Group Manufacturing Operations Affected by 2026 Kumamoto Earthquakes (Second Update) 
-The current status of the impact on our operations from the earthquake that occurred in the Kumamoto region on July 28, 2026, is as follows:
-Sony Semiconductor Manufacturing Corporation's Kumamoto Technology Center (located in Kikuyo-machi, Kumamoto Prefecture), which temporarily was halted after the earthquake, has completed safety inspections of its buildings and facilities, and has been carrying out recovery work. As a result, the site is scheduled to resume operations in stages beginning August 4, 2026. The Kumamoto Technology Center is expected to return to its pre-earthquake operating level by mid-August 2026.
-Further updates will be provided promptly should any new information become available.
-Digital Camera World July 31, 2026 
-https://www.digitalcameraworld.com/cameras/an-earthquake-has-halted-production-at-the-worlds-largest-camera-sensor-hub-sony-confirms-could-camera-shipments-be-delayed
-The largest image sensor plant from Sony – the world’s biggest manufacturer of image sensors – has halted production after an earthquake hit Japan’s Kumamoto Prefecture on July 28. As of July 31, production still has not resumed, Sony said during an earnings report.]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
