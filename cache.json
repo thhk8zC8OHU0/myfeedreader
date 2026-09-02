@@ -7117,6 +7117,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/02/news041.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、VCSELを内蔵した短距離近接センサー「VCNL36829UM」を発表した。5μAの低アイドル電流と14ビットの近接検出分解能を備えている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/02/news041.html",
+          "publishedOn": "2026-09-02T00:30:00.000Z",
+          "wordCount": 2621,
+          "title": "アイドル電流わずか5μA、VCSEL内蔵近接センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/02/cover_news041.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news012.html",
           "author": null,
           "description": "Kinetic Technologiesは、車載電源ラインを異常電源や負荷状態から保護するAEC-Q100準拠ロードスイッチ「KTS1642Q」を発表した。",
@@ -8710,6 +8720,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066744.html",
+          "author": "nobi0929",
+          "description": "1 名前：muffin ★：2026/09/01(火) 15:47:54.39 ID:eBklfZpC9.net\n\n\n\n\n\n\n\n駅構内で、失禁したまま立っているおばあちゃんがいて。手ぶらだし心配で、話しかけるも意思疎通が困難で駅員さんに伝えるも忙しそうですぐ対応してもらえず。とりあえずポカリを渡し、県警に連...",
+          "link": "https://itainews.com/archives/2066744.html",
+          "publishedOn": "2026-09-02T01:00:57.000Z",
+          "wordCount": 3005,
+          "title": "河野ゆかり、駅で目撃「失禁したまま立っているおばあちゃんがいて」「何が怖いって、この20分間誰1人おばあちゃんに見向きもしない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/6/b60155d1-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066735.html",
           "author": "nobi0929",

@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T00:53:18.225Z</updated>
+    <updated>2026-09-02T01:06:31.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[河野ゆかり、駅で目撃「失禁したまま立っているおばあちゃんがいて」「何が怖いって、この20分間誰1人おばあちゃんに見向きもしない」]]></title>
+        <id>https://itainews.com/archives/2066744.html</id>
+        <link href="https://itainews.com/archives/2066744.html"/>
+        <updated>2026-09-02T01:00:57.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：muffin ★：2026/09/01(火) 15:47:54.39 ID:eBklfZpC9.net
+
+
+
+
+
+
+
+駅構内で、失禁したまま立っているおばあちゃんがいて。手ぶらだし心配で、話しかけるも意思疎通が困難で駅員さんに伝えるも忙しそうですぐ対応してもらえず。とりあえずポカリを渡し、県警に連...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイドル電流わずか5μA、VCSEL内蔵近接センサー]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/02/news041.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/02/news041.html"/>
+        <updated>2026-09-02T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、VCSELを内蔵した短距離近接センサー「VCNL36829UM」を発表した。5μAの低アイドル電流と14ビットの近接検出分解能を備えている。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【話題】厚木市文化会館近くのガソリンスタンドENEOS「Dr.Driveセルフ厚木インター店」が改装工事のため休業中です。]]></title>
         <id>https://atsugi-lab.com/?p=61309</id>
