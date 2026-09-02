@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/918/G091829/20260902054/",
+          "author": null,
+          "description": "セガは本日（2026年9月2日），「東京ゲームショウ2026」における，セガ／アトラスブースの出展情報を公開した。",
+          "link": "https://www.4gamer.net/games/918/G091829/20260902054/",
+          "publishedOn": "2026-09-02T12:02:20.000Z",
+          "wordCount": 8550,
+          "title": "「東京ゲームショウ2026」セガ／アトラスブースの出展情報が公開。「ペルソナ4 リバイバル」の試遊や「ペルソナ」シリーズ30周年記念DJライブを実施",
+          "imageUrl": "https://www.4gamer.net/games/918/G091829/20260902054/SS/020.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/521/G052100/20260902051/",
           "author": null,
           "description": "PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2   配信元 セガ 配信日 2026/09/02    『PSO2 ニュージェネシ…",
@@ -8065,16 +8075,6 @@
           "wordCount": 2636,
           "title": "第3世代MRDIMM用メモリI/Fチップセット、ルネサス",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/04/cover_news025.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/04/news035.html",
-          "author": null,
-          "description": "ビシェイ・インターテクノロジーは、幅3.6mmのパッケージを採用した車載向け1MBd高速フォトカプラ「VOMHA43A」を発表した。CMTIが最小保証40kV/マイクロ秒になっている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/04/news035.html",
-          "publishedOn": "2026-08-04T00:00:00.000Z",
-          "wordCount": 2619,
-          "title": "車載向け1MBd高速フォトカプラ、ビシェイ",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/04/cover_news035.jpg"
         }
       ]
     },
@@ -9200,6 +9200,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066772.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/02(水) 09:53:15.04 ID:GgtR8aMJ0●.net 2BP(2000)\n\n\n\n\n\n\n\n【速報】プーチン大統領、関係悪化「日本に全責任」　北方領土訪問、反応に「驚きなし」―ロシア https://t.co/dRfJEHAqeL— 時事ドットコム（時事通信ニュース） (@jijicom) September 1, 20...",
+          "link": "https://itainews.com/archives/2066772.html",
+          "publishedOn": "2026-09-02T12:04:56.000Z",
+          "wordCount": 3081,
+          "title": "プーチン大統領「日ロ関係の悪化は全て日本の責任だ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/73859590-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066774.html",
           "author": "damono3856",
@@ -15198,6 +15208,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127368/",
+          "author": null,
+          "description": "9月29日から始まる「天は赤い河のほとり」第2クールのオープニング主題歌が、水樹奈々が歌う「暁の星」に決定した。水樹は、キーキャラクターとなるウルスラ（偽イシュタル）役で本編にも出演する。 篠原...",
+          "link": "https://anime.eiga.com/news/127368/",
+          "publishedOn": "2026-09-02T12:00:00.000Z",
+          "wordCount": 771,
+          "title": "「天は赤い河のほとり」第2クールのOP主題歌を水樹奈々が歌唱　ウルスラ役で本編にも出演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127365/",
           "author": null,

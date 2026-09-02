@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T11:50:34.294Z</updated>
+    <updated>2026-09-02T12:09:55.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プーチン大統領「日ロ関係の悪化は全て日本の責任だ」]]></title>
+        <id>https://itainews.com/archives/2066772.html</id>
+        <link href="https://itainews.com/archives/2066772.html"/>
+        <updated>2026-09-02T12:04:56.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/02(水) 09:53:15.04 ID:GgtR8aMJ0●.net 2BP(2000)
+
+
+
+
+
+
+
+【速報】プーチン大統領、関係悪化「日本に全責任」　北方領土訪問、反応に「驚きなし」―ロシア https://t.co/dRfJEHAqeL— 時事ドットコム（時事通信ニュース） (@jijicom) September 1, 20...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「東京ゲームショウ2026」セガ／アトラスブースの出展情報が公開。「ペルソナ4 リバイバル」の試遊や「ペルソナ」シリーズ30周年記念DJライブを実施]]></title>
+        <id>https://www.4gamer.net/games/918/G091829/20260902054/</id>
+        <link href="https://www.4gamer.net/games/918/G091829/20260902054/"/>
+        <updated>2026-09-02T12:02:20.000Z</updated>
+        <summary type="html"><![CDATA[セガは本日（2026年9月2日），「東京ゲームショウ2026」における，セガ／アトラスブースの出展情報を公開した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「天は赤い河のほとり」第2クールのOP主題歌を水樹奈々が歌唱　ウルスラ役で本編にも出演]]></title>
+        <id>https://anime.eiga.com/news/127368/</id>
+        <link href="https://anime.eiga.com/news/127368/"/>
+        <updated>2026-09-02T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月29日から始まる「天は赤い河のほとり」第2クールのオープニング主題歌が、水樹奈々が歌う「暁の星」に決定した。水樹は、キーキャラクターとなるウルスラ（偽イシュタル）役で本編にも出演する。 篠原...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「NGS ver.2」，「超・ずんだもん祭」を開催中]]></title>
         <id>https://www.4gamer.net/games/521/G052100/20260902051/</id>
@@ -25880,16 +25918,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <link href="https://edn.itmedia.co.jp/edn/articles/2608/04/news025.html"/>
         <updated>2026-08-04T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[ルネサス エレクトロニクスは、次世代AIや高性能コンピューティング（HPC）に向けた第3世代MRDIMM用「メモリインタフェースチップセット」を発表した。DDR5ベースのサーバプラットフォームと互換性を保ちながらメモリ帯域幅を25％改善し、最大16000Mトランスファ/秒の高速データ伝送を実現する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[車載向け1MBd高速フォトカプラ、ビシェイ]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/04/news035.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/04/news035.html"/>
-        <updated>2026-08-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、幅3.6mmのパッケージを採用した車載向け1MBd高速フォトカプラ「VOMHA43A」を発表した。CMTIが最小保証40kV/マイクロ秒になっている。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>
