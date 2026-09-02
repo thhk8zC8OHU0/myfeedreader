@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T08:08:49.702Z</updated>
+    <updated>2026-09-02T08:27:10.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モンスターハンターNow 公式 のライブ配信]]></title>
+        <id>https://www.youtube.com/watch?v=ZRkgNZnDrS0</id>
+        <link href="https://www.youtube.com/watch?v=ZRkgNZnDrS0"/>
+        <updated>2026-09-02T08:18:47.000Z</updated>
+        <author>
+            <name>モンスターハンターNow 公式</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】なぜ日本企業はAIの活用に消極的なのか]]></title>
+        <id>https://www.bbc.com/japanese/articles/cgjepx08396o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cgjepx08396o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T08:17:21.000Z</updated>
+        <summary type="html"><![CDATA[深刻な労働力不足、高齢化、慢性的な生産性問題に直面する日本企業は、人工知能（AI）の導入するのに適した環境であるはずだ。しかし、イギリスやアメリカと比較すると、依然として多くの職場でAIの導入は遅く、慎重な姿勢が見られる。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「彼方から」に斉藤貴美子、宮澤正、中野泰佑、伊藤美来が出演　主題歌は「原因は自分にある。」と「名無し之太郎」が担当]]></title>
+        <id>https://anime.eiga.com/news/127367/</id>
+        <link href="https://anime.eiga.com/news/127367/"/>
+        <updated>2026-09-02T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[10月4日から放送を開始するテレビアニメ「彼方から」に、斉藤貴美子、宮澤正、中野泰佑、伊藤美来の出演が決定した。あわせて、オープニング＆エンディング主題歌、本PVも発表された。 ひかわきょうこ氏...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玉城デニー氏「自民党は下地幹郎さんと裏取引をした！！😡」]]></title>
         <id>https://itainews.com/archives/2066764.html</id>

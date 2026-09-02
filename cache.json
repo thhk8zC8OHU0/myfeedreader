@@ -5470,6 +5470,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cgjepx08396o#0",
+          "author": null,
+          "description": "深刻な労働力不足、高齢化、慢性的な生産性問題に直面する日本企業は、人工知能（AI）の導入するのに適した環境であるはずだ。しかし、イギリスやアメリカと比較すると、依然として多くの職場でAIの導入は遅く、慎重な姿勢が見られる。",
+          "link": "https://www.bbc.com/japanese/articles/cgjepx08396o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-02T08:17:21.000Z",
+          "wordCount": 1842,
+          "title": "【解説】なぜ日本企業はAIの活用に消極的なのか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cjrxyl0wwzeo#0",
           "author": null,
           "description": "フランス政府は1日、電子商取引（eコマース）サイトで販売される安価な衣料品の急増を抑えるため、ファストファッションの製品に課金する新たな制度を開始した。金額は当面、Tシャツが2ユーロ、ジャケットが12ユーロなどとなっており、2030年までに1品目あたり最大20ユーロに達する可能性がある。",
@@ -15009,6 +15019,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127367/",
+          "author": null,
+          "description": "10月4日から放送を開始するテレビアニメ「彼方から」に、斉藤貴美子、宮澤正、中野泰佑、伊藤美来の出演が決定した。あわせて、オープニング＆エンディング主題歌、本PVも発表された。 ひかわきょうこ氏...",
+          "link": "https://anime.eiga.com/news/127367/",
+          "publishedOn": "2026-09-02T08:15:00.000Z",
+          "wordCount": 780,
+          "title": "「彼方から」に斉藤貴美子、宮澤正、中野泰佑、伊藤美来が出演　主題歌は「原因は自分にある。」と「名無し之太郎」が担当",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127354/",
           "author": null,
           "description": "「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」の2週目入場特典（来場者特典）として、9月5～11日の期間に「蒼樹うめ描きおろしミニ色紙［第2弾］」が配布される。 同特典は、1週目入場特典...",
@@ -19223,6 +19248,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCigI38jFeroJWgbgMXYh2zw",
       "siteUrl": "https://www.youtube.com/channel/UCigI38jFeroJWgbgMXYh2zw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ZRkgNZnDrS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZRkgNZnDrS0",
+          "publishedOn": "2026-09-02T08:18:47.000Z",
+          "wordCount": null,
+          "title": "モンスターハンターNow 公式 のライブ配信",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/4FUe9M5g5qI",
           "author": null,
