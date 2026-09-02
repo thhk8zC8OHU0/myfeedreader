@@ -2033,6 +2033,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/7303416341e051fcc04eeeb6ddee5087e280c187?source=rss",
+          "author": null,
+          "description": "住宅街の細い路地を、車が抜け道として走り抜けていく。そこは小学生が毎朝通う通学路でもある。そうした\"生活道路\"の法定速度が、９月１日から６０km/hから３０km/hへと引き下げられました。\n\n　単な",
+          "link": "https://news.yahoo.co.jp/articles/7303416341e051fcc04eeeb6ddee5087e280c187?source=rss",
+          "publishedOn": "2026-09-02T04:19:14.000Z",
+          "wordCount": 1719,
+          "title": "生活道路の法定速度　９月から時速３０キロに　「行ってきます」「おかえり」を守るために…事故で娘を失った父の思い【岩本計介 ニュースの現場から】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260902-00082326-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/7f8a613416a64c6302009240d98af15bd03773fe?source=rss",
           "author": null,
           "description": "神戸市兵庫区福原町の風俗店で６月、男女が倒れているのが見つかり、その後、２人とも死亡した事件で、警察は従業員の女性を殺害したとして、大阪市生野区の不動産業の男（３３）を容疑者死亡のまま書類送検しまし",
@@ -5369,6 +5379,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c98611xj4ldo#0",
+          "author": null,
+          "description": "イギリスの前首相サー・キア・スターマーは1日、国際問題や女性・少女への暴力対策に専念するため、下院議員を辞任すると発表した。今年7月に首相を辞任したスターマー氏は以前、2029年に予定されている次の総選挙まで下院議員に留まると述べていた。",
+          "link": "https://www.bbc.com/japanese/articles/c98611xj4ldo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-02T04:15:53.000Z",
+          "wordCount": 1833,
+          "title": "スターマー前英首相が下院議員辞任を発表、国際問題などに専念と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/93a0/live/f854a560-a5fa-11f1-8348-fb0cb1cd9761.png"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/ce8em105dx4o#0",
           "author": null,

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T04:07:24.347Z</updated>
+    <updated>2026-09-02T04:27:26.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生活道路の法定速度　９月から時速３０キロに　「行ってきます」「おかえり」を守るために…事故で娘を失った父の思い【岩本計介 ニュースの現場から】(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7303416341e051fcc04eeeb6ddee5087e280c187?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7303416341e051fcc04eeeb6ddee5087e280c187?source=rss"/>
+        <updated>2026-09-02T04:19:14.000Z</updated>
+        <summary type="html"><![CDATA[住宅街の細い路地を、車が抜け道として走り抜けていく。そこは小学生が毎朝通う通学路でもある。そうした"生活道路"の法定速度が、９月１日から６０km/hから３０km/hへと引き下げられました。
+
+　単な]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スターマー前英首相が下院議員辞任を発表、国際問題などに専念と]]></title>
+        <id>https://www.bbc.com/japanese/articles/c98611xj4ldo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c98611xj4ldo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T04:15:53.000Z</updated>
+        <summary type="html"><![CDATA[イギリスの前首相サー・キア・スターマーは1日、国際問題や女性・少女への暴力対策に専念するため、下院議員を辞任すると発表した。今年7月に首相を辞任したスターマー氏は以前、2029年に予定されている次の総選挙まで下院議員に留まると述べていた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】星野真里、難病の娘の“孤立”訴えに一部から先生・同級生を気づかう声…全国放送での“学校批判”に広がる波紋]]></title>
         <id>https://itainews.com/archives/2066753.html</id>
