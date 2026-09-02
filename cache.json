@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/617/G061733/20260902034/",
+          "author": null,
+          "description": "スクウェア・エニックスは本日（2026年9月2日），RPG「LIVEALIVE（ライブアライブ）」が発売から32周年を迎えたことを発表した。これを記念して，キャンバスアートやコラボアパレルを展示・販売するポップアップストアが9月4日より秋葉原の書泉ブックタワーで開催される。",
+          "link": "https://www.4gamer.net/games/617/G061733/20260902034/",
+          "publishedOn": "2026-09-02T08:34:14.000Z",
+          "wordCount": 8414,
+          "title": "「LIVE A LIVE」，本日で発売から32周年。9月4日より秋葉原で開催するポップアップストアの詳細も公開に",
+          "imageUrl": "https://www.4gamer.net/games/617/G061733/20260902034/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/038/G103840/20260902017/",
           "author": null,
           "description": "ハムスターは本日，アーケードアーカイブス版「アルカノイドリベンジオブDOH」を2026年9月3日に配信すると発表した。「アルカノイドリベンジオブDOH」は，1987年にタイトーが発売したブロックくずしゲームの続編だ。基本ルールを踏襲しつつ，L面やR面への分岐やアイテム数の増加など，新要素を導入している。",
@@ -5469,6 +5479,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cvgy5vqyg8zo#0",
+          "author": null,
+          "description": "アフリカ北端のスペイン飛び地領土セウタで、7月末に数万人の移民が流入してからの約1カ月間で、計23件の性的暴行事件が記録されている。うち9件の被害者は子どもとなっている。スペインの検察当局が明らかにした。",
+          "link": "https://www.bbc.com/japanese/articles/cvgy5vqyg8zo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-02T08:22:38.000Z",
+          "wordCount": 1868,
+          "title": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cgjepx08396o#0",
           "author": null,

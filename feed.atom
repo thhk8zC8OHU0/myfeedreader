@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T08:27:10.159Z</updated>
+    <updated>2026-09-02T08:41:16.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「LIVE A LIVE」，本日で発売から32周年。9月4日より秋葉原で開催するポップアップストアの詳細も公開に]]></title>
+        <id>https://www.4gamer.net/games/617/G061733/20260902034/</id>
+        <link href="https://www.4gamer.net/games/617/G061733/20260902034/"/>
+        <updated>2026-09-02T08:34:14.000Z</updated>
+        <summary type="html"><![CDATA[スクウェア・エニックスは本日（2026年9月2日），RPG「LIVEALIVE（ライブアライブ）」が発売から32周年を迎えたことを発表した。これを記念して，キャンバスアートやコラボアパレルを展示・販売するポップアップストアが9月4日より秋葉原の書泉ブックタワーで開催される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局]]></title>
+        <id>https://www.bbc.com/japanese/articles/cvgy5vqyg8zo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cvgy5vqyg8zo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-02T08:22:38.000Z</updated>
+        <summary type="html"><![CDATA[アフリカ北端のスペイン飛び地領土セウタで、7月末に数万人の移民が流入してからの約1カ月間で、計23件の性的暴行事件が記録されている。うち9件の被害者は子どもとなっている。スペインの検察当局が明らかにした。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モンスターハンターNow 公式 のライブ配信]]></title>
         <id>https://www.youtube.com/watch?v=ZRkgNZnDrS0</id>
