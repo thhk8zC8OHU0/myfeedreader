@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T07:07:39.249Z</updated>
+    <updated>2026-09-02T07:25:26.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダイソンが電動歯ブラシに参入。磨きながらウォーターフロスできる「CameraJet」発表]]></title>
+        <id>https://gadget.phileweb.com/?p=132209</id>
+        <link href="https://gadget.phileweb.com/post-132209/"/>
+        <updated>2026-09-02T07:10:12.000Z</updated>
+        <summary type="html"><![CDATA[ダイソンは、オーラルケア領域への参入を発表。新製品となる電動歯ブラシ「Dyson CameraJet」を9月1日に発売する。カラーはセラミックピンク、セラミックウルトラブルーの2色。公式ストアにおける販売価格は79,800円（税込）。 ウォーターフロッサー（口腔洗浄器）の機能を搭載し、ブラッシングを […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【旭川】陸上自衛隊“格闘訓練のまねごと”でゴム製の模擬ナイフではなく、誤って「本物のナイフ」で後輩隊員を突き刺す]]></title>
         <id>https://itainews.com/archives/2066760.html</id>
