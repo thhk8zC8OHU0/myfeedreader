@@ -8075,16 +8075,6 @@
           "wordCount": 2660,
           "title": "RapidusとCadence、AIエージェント活用SoC設計で協業",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2607/31/l_edn20260727edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/04/news025.html",
-          "author": null,
-          "description": "ルネサス エレクトロニクスは、次世代AIや高性能コンピューティング（HPC）に向けた第3世代MRDIMM用「メモリインタフェースチップセット」を発表した。DDR5ベースのサーバプラットフォームと互換性を保ちながらメモリ帯域幅を25％改善し、最大16000Mトランスファ/秒の高速データ伝送を実現する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/04/news025.html",
-          "publishedOn": "2026-08-04T01:00:00.000Z",
-          "wordCount": 2636,
-          "title": "第3世代MRDIMM用メモリI/Fチップセット、ルネサス",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/04/cover_news025.jpg"
         }
       ]
     },
@@ -9210,6 +9200,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066775.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/09/02(水) 13:24:53.18 ID:j4kpWn3B9.net\n\n\n\n\n\n\n\n河川敷で女子高校生の髪をつかみ腹部蹴った疑い…15歳女子高校生を逮捕　「蹴っていない」と容疑否認　北海道旭川市 https://t.co/QIiEHq8ZnX— HBC NEWS 北海道放送 (@HBCnewsJNN) Sept...",
+          "link": "https://itainews.com/archives/2066775.html",
+          "publishedOn": "2026-09-02T13:03:48.000Z",
+          "wordCount": 3087,
+          "title": "【北海道旭川】河川敷で面識の無い女子高生の髪をつかみ腹部蹴った疑い…15歳女子高生を逮捕　「蹴っていない」と容疑否認",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/6/06d14910-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066781.html",
           "author": "damono3856",

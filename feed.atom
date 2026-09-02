@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T12:54:15.107Z</updated>
+    <updated>2026-09-02T13:07:24.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【北海道旭川】河川敷で面識の無い女子高生の髪をつかみ腹部蹴った疑い…15歳女子高生を逮捕　「蹴っていない」と容疑否認]]></title>
+        <id>https://itainews.com/archives/2066775.html</id>
+        <link href="https://itainews.com/archives/2066775.html"/>
+        <updated>2026-09-02T13:03:48.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：おっさん友の会 ★：2026/09/02(水) 13:24:53.18 ID:j4kpWn3B9.net
+
+
+
+
+
+
+
+河川敷で女子高校生の髪をつかみ腹部蹴った疑い…15歳女子高校生を逮捕　「蹴っていない」と容疑否認　北海道旭川市 https://t.co/QIiEHq8ZnX— HBC NEWS 北海道放送 (@HBCnewsJNN) Sept...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【沖縄】野良犬がヤギ60頭襲撃、ほとんど死ぬ　宮古島市「人が襲われないか」　3メートルの柵乗り越える例も]]></title>
         <id>https://itainews.com/archives/2066781.html</id>
@@ -25938,16 +25956,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[ロシア南部の観光客らで混み合うビーチで3日、ウクライナのドローンによって子ども3人を含む7人が殺害された。地元当局が発表した。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3世代MRDIMM用メモリI/Fチップセット、ルネサス]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/04/news025.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/04/news025.html"/>
-        <updated>2026-08-04T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ルネサス エレクトロニクスは、次世代AIや高性能コンピューティング（HPC）に向けた第3世代MRDIMM用「メモリインタフェースチップセット」を発表した。DDR5ベースのサーバプラットフォームと互換性を保ちながらメモリ帯域幅を25％改善し、最大16000Mトランスファ/秒の高速データ伝送を実現する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
