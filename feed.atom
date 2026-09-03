@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T21:07:46.507Z</updated>
+    <updated>2026-09-03T21:24:01.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[奈良・薬師寺の国宝に液体かけたとして台湾出身の39歳女性に罰金50万円の略式命令(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c73af347862ab6764af1209781bd3a5af7d3365e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c73af347862ab6764af1209781bd3a5af7d3365e?source=rss"/>
+        <updated>2026-09-03T21:12:06.000Z</updated>
+        <summary type="html"><![CDATA[奈良県の薬師寺で国宝の「仏足石」に液体をかけて汚したとして、台湾出身の３９歳の女性が文化財保護法違反の罪で略式起訴され、罰金５０万円の略式命令を受けました。
+
+　台湾出身で自称・司会業の３９歳の女性]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“直径38mm”細くて軽い水拭きクリーナー、ダイソン「PencilWash」]]></title>
         <id>https://gadget.phileweb.com/?p=132422</id>
