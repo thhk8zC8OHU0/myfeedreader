@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T14:08:03.791Z</updated>
+    <updated>2026-09-03T14:27:04.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あのサメゲーが帰ってきた。新作アクションRPG「Maneater 2」が2027年内に発売決定]]></title>
+        <id>https://www.4gamer.net/games/039/G103929/20260903085/</id>
+        <link href="https://www.4gamer.net/games/039/G103929/20260903085/"/>
+        <updated>2026-09-03T14:23:25.000Z</updated>
+        <summary type="html"><![CDATA[TripwireInteractiveの新作アクションRPG「Maneater2」（PC/PS5/XboxSeriesX|S/Switch2）のトレイラーが，本日（2026年9月3日）配信されたデジタルイベント「StateofPlay」で発表された。リリースは2027年内を予定している。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フルリメイク版「Fate/EXTRA Record」の発売日が2027年1月28日に決定！　最新トレイラーでおなじみのサーヴァント達の姿も]]></title>
+        <id>https://www.4gamer.net/games/520/G052062/20260903088/</id>
+        <link href="https://www.4gamer.net/games/520/G052062/20260903088/"/>
+        <updated>2026-09-03T14:15:23.000Z</updated>
+        <summary type="html"><![CDATA[アニプレックスは，ソニー・インタラクティブエンタテインメントが本日配信した情報番組「StateofPlay」にて，「Fate/EXTRA」のフルリメイク作品「Fate/EXTRARecord」を2027年1月28日に発売すると発表した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局]]></title>
         <id>https://itainews.com/archives/2066824.html</id>
