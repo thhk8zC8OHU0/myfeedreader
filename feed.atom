@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T14:40:18.773Z</updated>
+    <updated>2026-09-03T14:53:03.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「デジモンストーリー タイムストレンジャー」，大型DLC「英雄の遺志」の最新トレイラーを公開。ゲーム本編から3年後の世界が描かれる]]></title>
+        <id>https://www.4gamer.net/games/881/G088188/20260903092/</id>
+        <link href="https://www.4gamer.net/games/881/G088188/20260903092/"/>
+        <updated>2026-09-03T14:51:06.000Z</updated>
+        <summary type="html"><![CDATA[バンダイナムコエンターテインメントは本日（2026年9月3日），PlayStation関連の新情報を紹介する公式番組「StateofPlay2026.9.3」で，「デジモンストーリータイムストレンジャー」の大型DLC「英雄の遺志」の最新トレイラーを公開した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒気帯び運転で人身事故起こした大阪府警の警察官が懲戒免職に(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5ca74a10ef613b655c30a9441d878c35063bb153?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5ca74a10ef613b655c30a9441d878c35063bb153?source=rss"/>
+        <updated>2026-09-03T14:47:01.000Z</updated>
+        <summary type="html"><![CDATA[酒気帯び運転で事故を起こし、女性２人に軽傷を負わせた大阪府警堺警察署の男性警察官について、大阪府警は３日、懲戒免職処分にしたと発表しました。
+
+　大阪府警堺警察署の２２歳の男性巡査は２月２２日午前２]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ドラゴンクエストモンスターズ4」の最新トレイラー公開。ローグライクな新コンテンツを収録予定]]></title>
         <id>https://www.4gamer.net/games/010/G101055/20260903053/</id>
