@@ -56,6 +56,16 @@
           "imageUrl": "https://www.4gamer.net/games/520/G052062/20260903088/SS/001.png"
         },
         {
+          "id": "https://www.4gamer.net/games/013/G101385/20260903077/",
+          "author": null,
+          "description": "スクウェア・エニックスは本日配信された「StateofPlay」にて，「FINALFANTASYVIIREVELATION」を2027年4月8日に発売すると発表した。「FINALFANTASYVIIリメイクシリーズ」3部作の完結編となる作品だ。",
+          "link": "https://www.4gamer.net/games/013/G101385/20260903077/",
+          "publishedOn": "2026-09-03T13:45:26.000Z",
+          "wordCount": 8558,
+          "title": "「FINAL FANTASY VII REVELATION」の発売日が2027年4月8日に決定。リメイクシリーズ3部作の完結編",
+          "imageUrl": "https://www.4gamer.net/games/013/G101385/20260903077/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/999/G999903/20260903074/",
           "author": null,
           "description": "StateofPlay2026.9.3で，スクウェア・エニックスは2026年10月22日に発売予定の新作「ファイナルファンタジーレゾナンス」の新トレイラーを公開し，体験版を9月4日に配信すると発表した。",
@@ -2382,6 +2392,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/2bf4b764cd6c0aad72b2339d2353b5009231a24b?source=rss",
+          "author": null,
+          "description": "大阪市天王寺区で起きた強盗殺人未遂事件で、指名手配されていたベトナム国籍の男が、東京都内で逮捕されました。\n\n　クアン・バン・ジャオ容疑者（２６）は６月、別の男らと共謀し、天王寺区の地下街でベトナム",
+          "link": "https://news.yahoo.co.jp/articles/2bf4b764cd6c0aad72b2339d2353b5009231a24b?source=rss",
+          "publishedOn": "2026-09-03T15:20:13.000Z",
+          "wordCount": 1562,
+          "title": "「あべちか」強盗殺人未遂事件で全国指名手配のベトナム国籍の男を東京都内で逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2c237dc8d971c59f47584f9dfd6fee7f3fee806b?source=rss",
           "author": null,
@@ -8088,16 +8108,6 @@
           "wordCount": 1270,
           "title": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6bb4/live/1636a630-9036-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo#3",
-          "author": null,
-          "description": "ウクライナのゼレンスキー大統領は4日、ウクライナ南部でドローンが男性を追い回す様子を捉えた映像をソーシャルメディアで公開した。民間人を標的にしたロシアによる「人間狩り」攻撃の一例だとしている。",
-          "link": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-05T03:11:04.000Z",
-          "wordCount": 2144,
-          "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8b14/live/522923f0-9074-11f1-a7ab-8b30adf0800a.jpg"
         }
       ]
     },
@@ -15571,6 +15581,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=317701",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/mcdonalds-tsukimi-double",
+          "publishedOn": "2026-09-03T15:24:46.000Z",
+          "wordCount": 2067,
+          "title": "【マクドナルド】チーズチーズ倍月見【月見ファミリー・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/8bb87c95a50ee415a62d932481c2ff01.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=317674",
           "author": "foodfighter",
