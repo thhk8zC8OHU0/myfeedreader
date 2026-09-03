@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T11:51:10.327Z</updated>
+    <updated>2026-09-03T12:10:20.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【芸能】整形公表、元KAT-TUN・田口淳之介「誰だよ、前が良いって言ってるの」意味深投稿　若返り“激変”に分かれていた賛否]]></title>
+        <id>https://itainews.com/archives/2066806.html</id>
+        <link href="https://itainews.com/archives/2066806.html"/>
+        <updated>2026-09-03T12:04:07.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：冬月記者 ★：2026/09/03(木) 08:59:43.37 ID:5+aQerEa9.net
+
+
+
+
+
+
+
+整形公表の田口淳之介「誰だよ、前が良いって言ってるの」意味深投稿 若返り“激変”に分かれていた賛否 https://t.co/zILsQ8k63l— ピンズバNEWS (@pinzubanews) September 2, 2026 
+
+
+
+
+
+
+ht...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「薬屋のひとりごと」芦田愛菜主演で実写ドラマ化　監督はYuki Saito、脚本は吉田恵里香]]></title>
+        <id>https://anime.eiga.com/news/127198/</id>
+        <link href="https://anime.eiga.com/news/127198/"/>
+        <updated>2026-09-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日向夏氏による大ヒット小説「薬屋のひとりごと」の実写ドラマ化が決定し、主人公・猫猫（マオマオ）を芦田愛菜が演じることがわかった。Amazon MGMスタジオと東宝の共同製作となり、Prime O...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[指名手配のベトナム国籍の男を都内で確保　大阪「あべちか」の強盗殺人未遂事件(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/b7931428bbf2c0aab767b6903e3fff893002753d?source=rss</id>
@@ -27154,16 +27189,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 今回は閉店情報です。 居酒屋「やまだいスタンド 大のじ」が、いつの間にか閉店していたみたい…！ 気になって現地を見てまいりました。 「やまだいスタンド 大のじ」場所は厚木市中町、本厚木駅から徒歩すぐ。 お…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluetooth 6対応の超小型BLEモジュール、マルチプロトコルも対応]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/05/news039.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/05/news039.html"/>
-        <updated>2026-08-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FDKはBluetooth Low Energy（BLE）モジュール製品の第3弾としてBluetooth 6対応の「HY0025」を開発した。Nordic Semiconductorの「nRF54L15」を搭載し、従来のBLE通信機能に加え長距離通信やChannel Sounding機能にも対応。Threadなどマルチプロトコルにも対応する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>

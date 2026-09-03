@@ -8545,16 +8545,6 @@
           "wordCount": 2629,
           "title": "ロームの第2世代テラヘルツ波発振デバイス、出力4倍に",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/05/cover_news068.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/05/news039.html",
-          "author": null,
-          "description": "FDKはBluetooth Low Energy（BLE）モジュール製品の第3弾としてBluetooth 6対応の「HY0025」を開発した。Nordic Semiconductorの「nRF54L15」を搭載し、従来のBLE通信機能に加え長距離通信やChannel Sounding機能にも対応。Threadなどマルチプロトコルにも対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/05/news039.html",
-          "publishedOn": "2026-08-05T00:00:00.000Z",
-          "wordCount": 2663,
-          "title": "Bluetooth 6対応の超小型BLEモジュール、マルチプロトコルも対応",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/05/cover_news039.jpg"
         }
       ]
     },
@@ -9750,6 +9740,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066806.html",
+          "author": "takakichi5346",
+          "description": "1 名前：冬月記者 ★：2026/09/03(木) 08:59:43.37 ID:5+aQerEa9.net\n\n\n\n\n\n\n\n整形公表の田口淳之介「誰だよ、前が良いって言ってるの」意味深投稿 若返り“激変”に分かれていた賛否 https://t.co/zILsQ8k63l— ピンズバNEWS (@pinzubanews) September 2, 2026 \n\n\n\n\n\n\nht...",
+          "link": "https://itainews.com/archives/2066806.html",
+          "publishedOn": "2026-09-03T12:04:07.000Z",
+          "wordCount": 3072,
+          "title": "【芸能】整形公表、元KAT-TUN・田口淳之介「誰だよ、前が良いって言ってるの」意味深投稿　若返り“激変”に分かれていた賛否",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/5/f5833ca9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066823.html",
           "author": "damono3856",
@@ -16048,6 +16048,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127198/",
+          "author": null,
+          "description": "日向夏氏による大ヒット小説「薬屋のひとりごと」の実写ドラマ化が決定し、主人公・猫猫（マオマオ）を芦田愛菜が演じることがわかった。Amazon MGMスタジオと東宝の共同製作となり、Prime O...",
+          "link": "https://anime.eiga.com/news/127198/",
+          "publishedOn": "2026-09-03T12:00:00.000Z",
+          "wordCount": 779,
+          "title": "「薬屋のひとりごと」芦田愛菜主演で実写ドラマ化　監督はYuki Saito、脚本は吉田恵里香",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127240/",
           "author": null,
