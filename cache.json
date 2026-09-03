@@ -2413,6 +2413,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/f638f2ef707c470d33d87666d7f2325b802fa06d?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、４日午前７時半ごろの時点で、ＪＲきのくに線は串本～周参見駅間で運転を見合わせています。\n\n　大雨の影響ということで、再開のめどは立っていないということです。\n\n　今後の情報に",
+          "link": "https://news.yahoo.co.jp/articles/f638f2ef707c470d33d87666d7f2325b802fa06d?source=rss",
+          "publishedOn": "2026-09-03T23:03:05.000Z",
+          "wordCount": 1614,
+          "title": "【速報】ＪＲきのくに線で一部運転見合わせ　大雨の影響　再開のめど立たず　和歌山(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082370-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c73af347862ab6764af1209781bd3a5af7d3365e?source=rss",
           "author": null,
           "description": "奈良県の薬師寺で国宝の「仏足石」に液体をかけて汚したとして、台湾出身の３９歳の女性が文化財保護法違反の罪で略式起訴され、罰金５０万円の略式命令を受けました。\n\n　台湾出身で自称・司会業の３９歳の女性",
@@ -9850,6 +9860,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066808.html",
+          "author": "takakichi5346",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2026/09/03(木) 11:22:13.20 ID:0A4Dn+Im9.net\n\n\n\n\n\n\n\n「スーパーでバイトしてます」…前山剛久”息をするだけで誹謗中傷される”人生でたどり着いた境地　https://t.co/pnbzBITn72#フライデー #前山剛久— FRIDAY (@FRIDAY_twit) Se...",
+          "link": "https://itainews.com/archives/2066808.html",
+          "publishedOn": "2026-09-03T23:01:02.000Z",
+          "wordCount": 3095,
+          "title": "【芸能】「スーパーでバイトしてます」…神田沙也加さん元恋人・前山剛久”息をするだけで誹謗中傷される”人生でたどり着いた境地",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab13b454-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066805.html",
           "author": "nobi0929",
@@ -20250,16 +20270,6 @@
           "publishedOn": "2026-08-06T11:01:36.000Z",
           "wordCount": null,
           "title": "朝から甘えんぼな猫に捕まって身動き取れず困ってます、、",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2XhYGDw-4ow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2XhYGDw-4ow",
-          "publishedOn": "2026-08-05T11:01:07.000Z",
-          "wordCount": null,
-          "title": "寝る支度してるもちとのんびり屋なはなちゃんが可愛すぎました笑",
           "imageUrl": null
         }
       ]
