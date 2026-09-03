@@ -2323,6 +2323,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b798e37348970850a0fe76e076f3ffb0fc370937?source=rss",
+          "author": null,
+          "description": "ＬＣＣ＝格安航空会社のピーチが、来月から乗務員らが着用する新たな制服を公開しました。\n\n　今年創業１５周年を迎え、ブランドリニューアルに取り組むピーチは３日、来月１日から客室乗務員らが着用する新しい",
+          "link": "https://news.yahoo.co.jp/articles/b798e37348970850a0fe76e076f3ffb0fc370937?source=rss",
+          "publishedOn": "2026-09-03T13:14:32.000Z",
+          "wordCount": 1641,
+          "title": "ＬＣＣ「ピーチ」が来月導入の新制服を公開　関空成長で大阪府と連携協定も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00082364-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/b7931428bbf2c0aab767b6903e3fff893002753d?source=rss",
           "author": null,
           "description": "大阪市天王寺区の地下街「あべちか」で起きた強盗殺人未遂事件で、指名手配されていたベトナム国籍の男の身柄が東京都内で確保されたことが、捜査関係者への取材で分かりました。\n\n　強盗殺人未遂の疑いで全国に",
@@ -15346,16 +15356,6 @@
           "wordCount": 843,
           "title": "【花火大会情報】8月に花火を楽しもう♡厚木市周辺エリアで行われる花火大会まとめ！［清川村・綾瀬市・平塚市］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/08/hanabi-around2026.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=60826",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです。 今回は閉店情報です。 居酒屋「やまだいスタンド 大のじ」が、いつの間にか閉店していたみたい…！ 気になって現地を見てまいりました。 「やまだいスタンド 大のじ」場所は厚木市中町、本厚木駅から徒歩すぐ。 お…",
-          "link": "https://atsugi-lab.com/close-yamadai-stand-dainoji202607/",
-          "publishedOn": "2026-08-05T01:10:44.000Z",
-          "wordCount": 827,
-          "title": "【閉店】本厚木駅近くの居酒屋「やまだいスタンド 大のじ」が7月25日をもって閉店していた。［厚木市中町］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/08/dainoji202607.jpg"
         }
       ]
     },

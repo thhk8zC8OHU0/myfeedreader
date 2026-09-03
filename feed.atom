@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T13:07:42.862Z</updated>
+    <updated>2026-09-03T13:26:25.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＬＣＣ「ピーチ」が来月導入の新制服を公開　関空成長で大阪府と連携協定も(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b798e37348970850a0fe76e076f3ffb0fc370937?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b798e37348970850a0fe76e076f3ffb0fc370937?source=rss"/>
+        <updated>2026-09-03T13:14:32.000Z</updated>
+        <summary type="html"><![CDATA[ＬＣＣ＝格安航空会社のピーチが、来月から乗務員らが着用する新たな制服を公開しました。
+
+　今年創業１５周年を迎え、ブランドリニューアルに取り組むピーチは３日、来月１日から客室乗務員らが着用する新しい]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【広島】ミキサーに挟まれ…インドネシア国籍の技能実習生死亡　21歳、一人で作業中]]></title>
         <id>https://itainews.com/archives/2066814.html</id>
@@ -27228,16 +27240,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[ロームは、共鳴トンネルダイオード（RTD）を用いた「テラヘルツ波発振デバイス」の第2世代品を開発した。第1世代品に比べ発振出力を4倍に高めた。第2世代のサンプル品を含む評価キット「RTD-EVK-G2」も用意している。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【閉店】本厚木駅近くの居酒屋「やまだいスタンド 大のじ」が7月25日をもって閉店していた。［厚木市中町］]]></title>
-        <id>https://atsugi-lab.com/?p=60826</id>
-        <link href="https://atsugi-lab.com/close-yamadai-stand-dainoji202607/"/>
-        <updated>2026-08-05T01:10:44.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 今回は閉店情報です。 居酒屋「やまだいスタンド 大のじ」が、いつの間にか閉店していたみたい…！ 気になって現地を見てまいりました。 「やまだいスタンド 大のじ」場所は厚木市中町、本厚木駅から徒歩すぐ。 お…]]></summary>
-        <author>
-            <name>fumie</name>
         </author>
     </entry>
 </feed>
