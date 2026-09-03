@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T00:37:04.351Z</updated>
+    <updated>2026-09-03T00:54:42.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【なか卯】ウニ丼【期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317649</id>
+        <link href="https://foodfighter.jp/nakau-unidon-2026"/>
+        <updated>2026-09-03T00:54:11.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   【なか卯】ウニ丼【期間限 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開店・寒川町】食べ飲み放題も大人気！リゾート気分が味わえるイタリアンレストラン「PISOLA 寒川倉見店」が11月頃オープン予定☆]]></title>
         <id>https://atsugi-lab.com/?p=61249</id>
