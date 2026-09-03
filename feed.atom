@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T05:43:28.908Z</updated>
+    <updated>2026-09-03T05:59:39.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【松屋】選べる玉子のピリ辛ニラたま飯【店舗限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317674</id>
+        <link href="https://foodfighter.jp/matsuya-niratamameshi-2026"/>
+        <updated>2026-09-03T05:54:20.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「こだわりラーメン館 Nintendo Switch 2 Edition」，本日発売。4K対応や表示範囲の拡大，Joy-Con 2のマウス操作に対応]]></title>
         <id>https://www.4gamer.net/games/038/G103897/20260903028/</id>
