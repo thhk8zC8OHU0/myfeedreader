@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T16:08:11.502Z</updated>
+    <updated>2026-09-03T16:26:16.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[京都・舞鶴市の住宅に親子とみられる２頭のクマ　京都府で初となる緊急銃猟で駆除(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2cbb50d138ad3795dc280df79a140c4ff2b08c18?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2cbb50d138ad3795dc280df79a140c4ff2b08c18?source=rss"/>
+        <updated>2026-09-03T16:10:27.000Z</updated>
+        <summary type="html"><![CDATA[京都府舞鶴市の住宅の軒下で、親子とみられるツキノワグマ２頭がみつかり、自治体の判断で発砲を可能とする「緊急銃猟」が実施されました。
+
+　きのう午後５時１０分ごろ、舞鶴市の住宅の軒下にクマがいると、警]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Castlevania: Belmont's Curse」の最新トレイラー公開。主人公ローズ・ベルモンドのアクションや，立ちはだかるボスたちの姿を収録]]></title>
         <id>https://www.4gamer.net/games/983/G098352/20260903055/</id>
