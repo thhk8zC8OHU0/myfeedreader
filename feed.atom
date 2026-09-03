@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T01:28:26.623Z</updated>
+    <updated>2026-09-03T01:42:23.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[ハピネットは本日，新作アドベンチャーゲーム「LostMuseum-カイガミ追想譚-」を2027年夏に発売すると発表した。絵画に込められた想いと記憶から生まれた「カイガミ」たちが暮らす美術館を舞台に，手がかりを集めて失われた記憶を読み解いていく。TGS2026では試遊も実施する。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADI、ハードウェア評価作業を1つの環境に統合]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/03/news035.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/03/news035.html"/>
+        <updated>2026-09-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アナログ・デバイセズ（ADI）は、自社製品の設定や制御、評価、可視化および、分析などの作業を、統一した環境で行えるデスクトップアプリケーション「Evaluation Studio」を発表した。技術者はセットアップやソフトウェア管理などに費やす時間を軽減でき、ハードウェアの評価作業を迅速に行うことが可能となる。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

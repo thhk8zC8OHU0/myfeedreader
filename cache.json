@@ -7567,6 +7567,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/03/news035.html",
+          "author": null,
+          "description": "アナログ・デバイセズ（ADI）は、自社製品の設定や制御、評価、可視化および、分析などの作業を、統一した環境で行えるデスクトップアプリケーション「Evaluation Studio」を発表した。技術者はセットアップやソフトウェア管理などに費やす時間を軽減でき、ハードウェアの評価作業を迅速に行うことが可能となる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/03/news035.html",
+          "publishedOn": "2026-09-03T01:00:00.000Z",
+          "wordCount": 2649,
+          "title": "ADI、ハードウェア評価作業を1つの環境に統合",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/03/cover_news035.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/03/news044.html",
           "author": null,
           "description": "シリコン・ラボラトリーズは、BLE対応ワイヤレスSoC「BG2B」を発表した。同社で最も消費電力が低いアーキテクチャを採用。MCUアクティブ電流が同社従来品から14～15％低減している。",
