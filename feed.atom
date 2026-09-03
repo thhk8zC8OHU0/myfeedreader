@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T11:07:28.044Z</updated>
+    <updated>2026-09-03T11:23:33.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[９年前の連続コンビニ強盗事件　３５歳の無職男を逮捕　容疑認める(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1aa96e875690062edac38ed885b0d7f56cd71594?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1aa96e875690062edac38ed885b0d7f56cd71594?source=rss"/>
+        <updated>2026-09-03T11:18:14.000Z</updated>
+        <summary type="html"><![CDATA[連続コンビ二強盗事件。９年越しに逮捕です。
+
+　東大阪市の無職・岩田大介容疑者（３５）は２０１７年７月、大阪府枚方市のコンビニ３軒に相次いで押し入り、店員に刃物を突きつけるなどして、計約２０万円を奪]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滋賀・彦根城が世界遺産の国内推薦候補に　再来年の登録目指す(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/12a617eefdd3048a0ee578dbf8da9fc1a3b9ccb2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/12a617eefdd3048a0ee578dbf8da9fc1a3b9ccb2?source=rss"/>
+        <updated>2026-09-03T11:14:41.000Z</updated>
+        <summary type="html"><![CDATA[３０年越しの悲願へ。彦根城が世界遺産の国内候補になりました。
+
+　国宝の彦根城は極めて保存状態がよく、天守をはじめ、櫓や堀などが当時の姿をとどめています。
+
+　文化庁の審議会は、２０２８年の世界遺産]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[児童相談の内容を流出させたか　大阪・羽曳野市職員を逮捕　容疑否認(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/917fbe28435b93424e697554bf0b7b712be7760f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/917fbe28435b93424e697554bf0b7b712be7760f?source=rss"/>
+        <updated>2026-09-03T11:08:23.000Z</updated>
+        <summary type="html"><![CDATA[市役所職員を逮捕。相談内容を流出させたか。
+
+　偽計業務妨害などの疑いで逮捕・送検されたのは、大阪府羽曳野市生活福祉課の主幹・野上伸一容疑者（５０）です。
+
+　野上容疑者は今年１月から４月にかけて、]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゴルフ】タイガー・ウッズ選手に5年間の運転免許停止と罰金1500ドルの支払いなど命じる 3月の自動車事故]]></title>
         <id>https://itainews.com/archives/2066803.html</id>
