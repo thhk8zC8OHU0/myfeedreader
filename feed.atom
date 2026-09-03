@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T09:07:44.647Z</updated>
+    <updated>2026-09-03T09:26:35.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シーズン11始動！追加モンスターの情報が公開！ #モンハンNow #Nowナビ]]></title>
+        <id>https://www.youtube.com/shorts/e4kjHPEMfho</id>
+        <link href="https://www.youtube.com/shorts/e4kjHPEMfho"/>
+        <updated>2026-09-03T09:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>モンスターハンターNow 公式</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「どこかで見た“あのゲー”ムたちを棒人間で作ってみたけれど，果たしてあなたはクリアできるのか？1+2＆激」，Switch2向けに12月3日発売]]></title>
+        <id>https://www.4gamer.net/games/039/G103908/20260903040/</id>
+        <link href="https://www.4gamer.net/games/039/G103908/20260903040/"/>
+        <updated>2026-09-03T09:15:17.000Z</updated>
+        <summary type="html"><![CDATA[ディースリー・パブリッシャーは本日，Switch2用ソフト「どこかで見た“あのゲー”ムたちを棒人間で作ってみたけれど，果たしてあなたはクリアできるのか？1+2＆激」を2026年12月3日に発売すると発表した。「あのゲー」シリーズ3作品の全16種類，655ステージを収録する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】万葉まほろば線・和歌山線の一部区間で運転見合わせ　大雨の影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/47d1d214b9227cbfb46853206e2939fcf690784a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/47d1d214b9227cbfb46853206e2939fcf690784a?source=rss"/>
+        <updated>2026-09-03T09:14:31.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、大雨のため、万葉まほろば線の奈良ー高田駅間、和歌山線の高田ー五条駅間で運転を見合わせています。運転再開のめどは立っていないということです。
+
+　３日午後６時現在で、ＪＲ西日本]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彦根城の世界文化遺産への推薦決定　2028年の登録目指す国内候補に(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/76a14c9152e80a843fb087de8bd4522626dbb610?source=rss</id>
