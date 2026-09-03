@@ -2313,6 +2313,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6d85cc606f2034981c3d717093567b62aa624a9d?source=rss",
+          "author": null,
+          "description": "今年５月に「特区民泊」の新規受付を終了した大阪市は、旅館業法に基づく民泊の開業についても、規制を強化する方針です。\n\n　市によりますと、これまで月１０～２０件だった旅館業法に関連する「計画届」の提出",
+          "link": "https://news.yahoo.co.jp/articles/6d85cc606f2034981c3d717093567b62aa624a9d?source=rss",
+          "publishedOn": "2026-09-03T09:55:17.000Z",
+          "wordCount": 1652,
+          "title": "大阪市、民泊開業の規制強化方針　9月議会に条例改正案を提出へ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00082354-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/cdb8e51813c087efbd6fb51309a91fafe8b40b43?source=rss",
           "author": null,
           "description": "大阪市鶴見区の路上で知人男性を複数回刺して殺害しようとしたとして逮捕されたスリランカ国籍の留学生の男性（２１）について、大阪地検は３日、不起訴処分としました。「証拠関係に照らし、不起訴処分とした」と",
@@ -9641,6 +9651,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066802.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/03(木) 06:26:36.52 ID:TQiCtVx+0.net\n\n\n\n\n\n\n\n兵庫県庁前でカメラ用三脚壊した疑い、44歳男を逮捕　容疑を否認　斎藤知事へのデモ活動の最中https://t.co/c6r397JpB4兵庫県の斎藤元彦知事に関するデモ活動があった県庁前で、三脚を壊したとして、生田...",
+          "link": "https://itainews.com/archives/2066802.html",
+          "publishedOn": "2026-09-03T10:01:26.000Z",
+          "wordCount": 3116,
+          "title": "斎藤元彦人◯しコールを毎週やっているしばき隊難波文男(44)を逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f7960bfc-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066804.html",
           "author": "takakichi5346",
           "description": "1 名前：ぐれ ★：2026/09/03(木) 09:27:19.42 ID:0zQOO3Tg9.net\n\n\n\n\n\n\n\n椅子投げ＆英語で罵声のパワハラ報道 タクシー会社「東京エムケイ」が会見「62歳の弟に姉が大ゲンカ」「またオーナーが来て暴れたときには、弟ながら警察を呼ぶしかない」（ABEMA TIMES） https://...",
@@ -15898,6 +15918,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127373/",
+          "author": null,
+          "description": "アニメ「ドラゴンボール超（スーパー） ビルス」の放送が10月11日からスタートすることが決まり、「超開幕ビジュアル」と「超開幕トレーラー」が公開された。あわせて、主題歌詳細も発表された。 同作は...",
+          "link": "https://anime.eiga.com/news/127373/",
+          "publishedOn": "2026-09-03T10:00:00.000Z",
+          "wordCount": 761,
+          "title": "「ドラゴンボール超 ビルス」10月11日放送開始　新トレーラー＆ビジュアル公開、主題歌も発表",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127372/",
           "author": null,
