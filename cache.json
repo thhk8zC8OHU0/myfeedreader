@@ -2313,6 +2313,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/cdb8e51813c087efbd6fb51309a91fafe8b40b43?source=rss",
+          "author": null,
+          "description": "大阪市鶴見区の路上で知人男性を複数回刺して殺害しようとしたとして逮捕されたスリランカ国籍の留学生の男性（２１）について、大阪地検は３日、不起訴処分としました。「証拠関係に照らし、不起訴処分とした」と",
+          "link": "https://news.yahoo.co.jp/articles/cdb8e51813c087efbd6fb51309a91fafe8b40b43?source=rss",
+          "publishedOn": "2026-09-03T09:28:04.000Z",
+          "wordCount": 1636,
+          "title": "スリランカ国籍の留学生を不起訴処分　大阪地検「証拠関係に照らした」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00082352-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/47d1d214b9227cbfb46853206e2939fcf690784a?source=rss",
           "author": null,
           "description": "ＪＲ西日本によりますと、大雨のため、万葉まほろば線の奈良ー高田駅間、和歌山線の高田ー五条駅間で運転を見合わせています。運転再開のめどは立っていないということです。\n\n　３日午後６時現在で、ＪＲ西日本",
@@ -9630,6 +9640,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066804.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/09/03(木) 09:27:19.42 ID:0zQOO3Tg9.net\n\n\n\n\n\n\n\n椅子投げ＆英語で罵声のパワハラ報道 タクシー会社「東京エムケイ」が会見「62歳の弟に姉が大ゲンカ」「またオーナーが来て暴れたときには、弟ながら警察を呼ぶしかない」（ABEMA TIMES） https://...",
+          "link": "https://itainews.com/archives/2066804.html",
+          "publishedOn": "2026-09-03T09:33:05.000Z",
+          "wordCount": 3066,
+          "title": "【MK】椅子投げ＆英語で罵声のパワハラ報道 タクシー会社「東京エムケイ」が会見「62歳の弟に姉が大ゲンカ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/4/940f0e33-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066799.html",
           "author": "damono3856",
