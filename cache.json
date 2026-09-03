@@ -7547,6 +7547,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/03/news044.html",
+          "author": null,
+          "description": "シリコン・ラボラトリーズは、BLE対応ワイヤレスSoC「BG2B」を発表した。同社で最も消費電力が低いアーキテクチャを採用。MCUアクティブ電流が同社従来品から14～15％低減している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/03/news044.html",
+          "publishedOn": "2026-09-03T00:00:00.000Z",
+          "wordCount": 2644,
+          "title": "「シリコン・ラボ史上最も低電力」のBLE SoC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/03/cover_news044.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/01/news010.html",
           "author": null,
           "description": "VIAVI Solutionsは、6GやWi-Fi 7／8のテストに対応するチャネルエミュレーター「Vertex 6.0」を発表した。",
@@ -14307,6 +14317,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=61249",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 昨年の初め頃まではそれほど店舗数が多くなかったのですが、その後急速に国内各地に店舗を増やしている大人気イタリアン「PISOLA」。 4月にも伊勢原店がオープンし話題となりましたが、 お次は、寒川町にオープ…",
+          "link": "https://atsugi-lab.com/news-pisola-samukawa202611/",
+          "publishedOn": "2026-09-03T00:31:53.000Z",
+          "wordCount": 826,
+          "title": "【開店・寒川町】食べ飲み放題も大人気！リゾート気分が味わえるイタリアンレストラン「PISOLA 寒川倉見店」が11月頃オープン予定☆",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/pisola-samu202611.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=61309",
           "author": "shino",
