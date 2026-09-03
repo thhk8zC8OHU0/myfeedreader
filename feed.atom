@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T14:27:04.905Z</updated>
+    <updated>2026-09-03T14:40:18.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ドラゴンクエストモンスターズ4」の最新トレイラー公開。ローグライクな新コンテンツを収録予定]]></title>
+        <id>https://www.4gamer.net/games/010/G101055/20260903053/</id>
+        <link href="https://www.4gamer.net/games/010/G101055/20260903053/"/>
+        <updated>2026-09-03T14:29:03.000Z</updated>
+        <summary type="html"><![CDATA[スクウェア・エニックスは，本日（2026年9月3日）配信された「StateofPlay日本」で，「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新トレイラーを公開した。ここでは，ローグライクな新コンテンツを収録予定であることも明かされている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あのサメゲーが帰ってきた。新作アクションRPG「Maneater 2」が2027年内に発売決定]]></title>
         <id>https://www.4gamer.net/games/039/G103929/20260903085/</id>
@@ -27285,16 +27295,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は4日、ウクライナ南部でドローンが男性を追い回す様子を捉えた映像をソーシャルメディアで公開した。民間人を標的にしたロシアによる「人間狩り」攻撃の一例だとしている。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロームの第2世代テラヘルツ波発振デバイス、出力4倍に]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/05/news068.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/05/news068.html"/>
-        <updated>2026-08-05T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ロームは、共鳴トンネルダイオード（RTD）を用いた「テラヘルツ波発振デバイス」の第2世代品を開発した。第1世代品に比べ発振出力を4倍に高めた。第2世代のサンプル品を含む評価キット「RTD-EVK-G2」も用意している。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/010/G101055/20260903053/",
+          "author": null,
+          "description": "スクウェア・エニックスは，本日（2026年9月3日）配信された「StateofPlay日本」で，「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新トレイラーを公開した。ここでは，ローグライクな新コンテンツを収録予定であることも明かされている。",
+          "link": "https://www.4gamer.net/games/010/G101055/20260903053/",
+          "publishedOn": "2026-09-03T14:29:03.000Z",
+          "wordCount": 8290,
+          "title": "「ドラゴンクエストモンスターズ4」の最新トレイラー公開。ローグライクな新コンテンツを収録予定",
+          "imageUrl": "https://www.4gamer.net/games/010/G101055/20260903053/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/039/G103929/20260903085/",
           "author": null,
           "description": "TripwireInteractiveの新作アクションRPG「Maneater2」（PC/PS5/XboxSeriesX|S/Switch2）のトレイラーが，本日（2026年9月3日）配信されたデジタルイベント「StateofPlay」で発表された。リリースは2027年内を予定している。",
@@ -8575,16 +8585,6 @@
           "wordCount": 2639,
           "title": "MIKROEが超低消費電力RTCボード、ウェアラブルなどに",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/02/cover_news001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/05/news068.html",
-          "author": null,
-          "description": "ロームは、共鳴トンネルダイオード（RTD）を用いた「テラヘルツ波発振デバイス」の第2世代品を開発した。第1世代品に比べ発振出力を4倍に高めた。第2世代のサンプル品を含む評価キット「RTD-EVK-G2」も用意している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/05/news068.html",
-          "publishedOn": "2026-08-05T02:30:00.000Z",
-          "wordCount": 2629,
-          "title": "ロームの第2世代テラヘルツ波発振デバイス、出力4倍に",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/05/cover_news068.jpg"
         }
       ]
     },
