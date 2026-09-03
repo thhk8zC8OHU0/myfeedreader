@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T12:10:20.505Z</updated>
+    <updated>2026-09-03T12:32:30.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[祭りに行ってきます！]]></title>
+        <id>https://logipara.com/?p=13432</id>
+        <link href="https://logipara.com/diary-text/2026-09-04/"/>
+        <updated>2026-09-03T12:28:20.000Z</updated>
+        <summary type="html"><![CDATA[水曜どうでしょう祭UNITE2026 こちらに参加するため、北海道に行ってきます！ 北海道のみんな！祭りに参加するみんな！僕と握手☆（にかっ）（くすんだ歯）]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【芸能】整形公表、元KAT-TUN・田口淳之介「誰だよ、前が良いって言ってるの」意味深投稿　若返り“激変”に分かれていた賛否]]></title>
         <id>https://itainews.com/archives/2066806.html</id>
