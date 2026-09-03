@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/038/G103897/20260903028/",
+          "author": null,
+          "description": "カイロソフトは本日，「こだわりラーメン館NintendoSwitch2Edition」を発売した。ラーメン店を経営するシミュレーションゲームで，麺やスープ，トッピングを組み合わせて自分だけのラーメンを開発し，店舗を増やしながら日本一を目指す。4K解像度や表示範囲の拡大，Joy-Con2によるマウス操作にも対応する。",
+          "link": "https://www.4gamer.net/games/038/G103897/20260903028/",
+          "publishedOn": "2026-09-03T05:38:42.000Z",
+          "wordCount": 8332,
+          "title": "「こだわりラーメン館 Nintendo Switch 2 Edition」，本日発売。4K対応や表示範囲の拡大，Joy-Con 2のマウス操作に対応",
+          "imageUrl": "https://www.4gamer.net/games/038/G103897/20260903028/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/020/G102072/20260903023/",
           "author": null,
           "description": "アークシステムワークスは本日，新作RPG「神貌のクリファ」のゲームシステムを公開した。タイムラインを確認しながら敵の攻撃にカウンターを合わせるバトルが特徴で，主人公のレナとソウマのスキルを組み合わせて戦う。また，Switch向けダウンロード版の予約受付も始まっている。",
@@ -8323,6 +8333,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132335",
+          "author": "多根清史",
+          "description": "アップルは、macOS 13 Ventura以降を必須とするMac App Store配布のユニバーサルアプリについて、インテルチップ搭載Macへの対応を外せるようになったことを開発者に通知した。これにより、今後はアプリによってインテルMacでアップデートが受け取れなくなる可能性がある。 アップルは […]",
+          "link": "https://gadget.phileweb.com/post-132335/",
+          "publishedOn": "2026-09-03T05:30:00.000Z",
+          "wordCount": 720,
+          "title": "アップル、Mac App Storeアプリにインテル対応終了を解禁。Appleシリコンへ統一開始",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/7779c5c53eba272f7f45e7802bf2fded.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132303",
           "author": "多根清史",

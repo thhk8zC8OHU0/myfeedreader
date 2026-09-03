@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T05:08:06.799Z</updated>
+    <updated>2026-09-03T05:43:28.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「こだわりラーメン館 Nintendo Switch 2 Edition」，本日発売。4K対応や表示範囲の拡大，Joy-Con 2のマウス操作に対応]]></title>
+        <id>https://www.4gamer.net/games/038/G103897/20260903028/</id>
+        <link href="https://www.4gamer.net/games/038/G103897/20260903028/"/>
+        <updated>2026-09-03T05:38:42.000Z</updated>
+        <summary type="html"><![CDATA[カイロソフトは本日，「こだわりラーメン館NintendoSwitch2Edition」を発売した。ラーメン店を経営するシミュレーションゲームで，麺やスープ，トッピングを組み合わせて自分だけのラーメンを開発し，店舗を増やしながら日本一を目指す。4K解像度や表示範囲の拡大，Joy-Con2によるマウス操作にも対応する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、Mac App Storeアプリにインテル対応終了を解禁。Appleシリコンへ統一開始]]></title>
+        <id>https://gadget.phileweb.com/?p=132335</id>
+        <link href="https://gadget.phileweb.com/post-132335/"/>
+        <updated>2026-09-03T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、macOS 13 Ventura以降を必須とするMac App Store配布のユニバーサルアプリについて、インテルチップ搭載Macへの対応を外せるようになったことを開発者に通知した。これにより、今後はアプリによってインテルMacでアップデートが受け取れなくなる可能性がある。 アップルは […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】BYDの軽EVラッコ、2026年8月の販売台数は81台！！]]></title>
         <id>https://itainews.com/archives/2066788.html</id>
