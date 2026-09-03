@@ -8645,16 +8645,6 @@
           "wordCount": 2681,
           "title": "低周波ノイズ抑制に効果　「Silent Switcher 3」に42V入力品が登場",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/05/cover_news091.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/02/news001.html",
-          "author": null,
-          "description": "MIKROEは、超低消費電力のリアルタイムクロックボード「RTC 27 Click」を発売した。アラームやウォッチドッグ機能を搭載し、温度補償によって高精度な時刻管理を実現する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/02/news001.html",
-          "publishedOn": "2026-08-05T06:30:00.000Z",
-          "wordCount": 2639,
-          "title": "MIKROEが超低消費電力RTCボード、ウェアラブルなどに",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/02/cover_news001.jpg"
         }
       ]
     },

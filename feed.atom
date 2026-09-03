@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T18:28:27.095Z</updated>
+    <updated>2026-09-03T18:44:10.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -27488,16 +27488,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[ロシアで3日夜から翌朝にかけ、同国最大のオンライン小売業者ワイルドベリーズの倉庫2カ所がウクライナの攻撃を受けた。また、同社と関連があるとみられるモスクワ近郊の別の施設も被害を受けた。ウクライナは最近、「ロシア版アマゾン」と呼ばれるワイルドベリーズの施設を狙った攻撃を続けている。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIKROEが超低消費電力RTCボード、ウェアラブルなどに]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/02/news001.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/02/news001.html"/>
-        <updated>2026-08-05T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[MIKROEは、超低消費電力のリアルタイムクロックボード「RTC 27 Click」を発売した。アラームやウォッチドッグ機能を搭載し、温度補償によって高精度な時刻管理を実現する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
