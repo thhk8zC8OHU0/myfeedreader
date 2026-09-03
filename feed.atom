@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T19:06:28.526Z</updated>
+    <updated>2026-09-03T19:21:33.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -27466,26 +27466,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <link href="https://www.bbc.com/japanese/articles/cpvwdymg04do?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-05T07:38:45.000Z</updated>
         <summary type="html"><![CDATA[パレスチナ・ガザ地区での戦争初期の2023年末に、イスラエル軍によるガザ市の住宅街への攻撃で殺された112人の合同葬儀が、4日に同市で執り行われた。殺されたのは二つの大家族に属する人々で、主に女性と子どもだった。遺体はこのほど、2週間にわたる捜索活動を経て、がれきの下から収容されたばかり。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低周波ノイズ抑制に効果　「Silent Switcher 3」に42V入力品が登場]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/05/news091.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/05/news091.html"/>
-        <updated>2026-08-05T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Analog Devicesは超低ノイズのスイッチングレギュレーター「Silent Switcher 3」の新製品として、42V対応の「LT83401／LT83402」を発表した。自動車などの高電圧対応が求められるアプリケーションに使用できるようになる。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ、ロシア通販大手の倉庫をさらに攻撃　モスクワ近郊で5人死亡]]></title>
-        <id>https://www.bbc.com/japanese/articles/c4g37gmj6v9o#3</id>
-        <link href="https://www.bbc.com/japanese/articles/c4g37gmj6v9o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-05T07:07:09.000Z</updated>
-        <summary type="html"><![CDATA[ロシアで3日夜から翌朝にかけ、同国最大のオンライン小売業者ワイルドベリーズの倉庫2カ所がウクライナの攻撃を受けた。また、同社と関連があるとみられるモスクワ近郊の別の施設も被害を受けた。ウクライナは最近、「ロシア版アマゾン」と呼ばれるワイルドベリーズの施設を狙った攻撃を続けている。]]></summary>
         <author>
             <name>BBC Japanese</name>
         </author>
