@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T13:26:25.973Z</updated>
+    <updated>2026-09-03T13:39:53.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ファイナルファンタジー レゾナンス」体験版が9月4日に配信。魔人フィーナやセフィロスの姿を映したPVをお披露目]]></title>
+        <id>https://www.4gamer.net/games/999/G999903/20260903074/</id>
+        <link href="https://www.4gamer.net/games/999/G999903/20260903074/"/>
+        <updated>2026-09-03T13:31:17.000Z</updated>
+        <summary type="html"><![CDATA[StateofPlay2026.9.3で，スクウェア・エニックスは2026年10月22日に発売予定の新作「ファイナルファンタジーレゾナンス」の新トレイラーを公開し，体験版を9月4日に配信すると発表した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＬＣＣ「ピーチ」が来月導入の新制服を公開　関空成長で大阪府と連携協定も(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/b798e37348970850a0fe76e076f3ffb0fc370937?source=rss</id>
