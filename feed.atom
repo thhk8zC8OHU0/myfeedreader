@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T11:37:15.149Z</updated>
+    <updated>2026-09-03T11:51:10.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[指名手配のベトナム国籍の男を都内で確保　大阪「あべちか」の強盗殺人未遂事件(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b7931428bbf2c0aab767b6903e3fff893002753d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b7931428bbf2c0aab767b6903e3fff893002753d?source=rss"/>
+        <updated>2026-09-03T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[大阪市天王寺区の地下街「あべちか」で起きた強盗殺人未遂事件で、指名手配されていたベトナム国籍の男の身柄が東京都内で確保されたことが、捜査関係者への取材で分かりました。
+
+　強盗殺人未遂の疑いで全国に]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】京都・舞鶴市でクマ　ツキノワグマ２頭で親子か　緊急銃猟実施の可能性(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/153e84c7c65f06af7d039f6f6aeff3af80b037ae?source=rss</id>
