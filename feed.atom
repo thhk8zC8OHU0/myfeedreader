@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T11:23:33.383Z</updated>
+    <updated>2026-09-03T11:37:15.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】京都・舞鶴市でクマ　ツキノワグマ２頭で親子か　緊急銃猟実施の可能性(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/153e84c7c65f06af7d039f6f6aeff3af80b037ae?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/153e84c7c65f06af7d039f6f6aeff3af80b037ae?source=rss"/>
+        <updated>2026-09-03T11:32:48.000Z</updated>
+        <summary type="html"><![CDATA[３日午後５時ごろ、京都府舞鶴市にある住宅の軒下にクマがいると警察に通報がありました。
+
+　舞鶴市によりますと確認されたのはツキノワグマ２頭で親子とみられます。
+
+　今後、麻酔銃による緊急銃猟を実施す]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【カニラーメン】体調不良は8月末で116人　東京・麻布十番まつりの食中毒疑い、港区は厚労省に未報告]]></title>
+        <id>https://itainews.com/archives/2066823.html</id>
+        <link href="https://itainews.com/archives/2066823.html"/>
+        <updated>2026-09-03T11:31:42.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：おっさん友の会 ★：2026/09/03(木) 15:21:51.58 ID:skfOQVqV9.net
+
+
+
+
+
+
+
+麻布十番納涼祭りにおける「食中毒事故」に関するお詫びとご報告。体調を崩された皆様、ご家族の皆様、そして関係者の皆様に、多大なる苦痛とご迷惑、ご心配をおかけしましたこと、心よ...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[９年前の連続コンビニ強盗事件　３５歳の無職男を逮捕　容疑認める(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/1aa96e875690062edac38ed885b0d7f56cd71594?source=rss</id>

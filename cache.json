@@ -2323,6 +2323,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/153e84c7c65f06af7d039f6f6aeff3af80b037ae?source=rss",
+          "author": null,
+          "description": "３日午後５時ごろ、京都府舞鶴市にある住宅の軒下にクマがいると警察に通報がありました。\n\n　舞鶴市によりますと確認されたのはツキノワグマ２頭で親子とみられます。\n\n　今後、麻酔銃による緊急銃猟を実施す",
+          "link": "https://news.yahoo.co.jp/articles/153e84c7c65f06af7d039f6f6aeff3af80b037ae?source=rss",
+          "publishedOn": "2026-09-03T11:32:48.000Z",
+          "wordCount": 1626,
+          "title": "【速報】京都・舞鶴市でクマ　ツキノワグマ２頭で親子か　緊急銃猟実施の可能性(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00082363-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/1aa96e875690062edac38ed885b0d7f56cd71594?source=rss",
           "author": null,
           "description": "連続コンビ二強盗事件。９年越しに逮捕です。\n\n　東大阪市の無職・岩田大介容疑者（３５）は２０１７年７月、大阪府枚方市のコンビニ３軒に相次いで押し入り、店員に刃物を突きつけるなどして、計約２０万円を奪",
@@ -9730,6 +9740,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066823.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/09/03(木) 15:21:51.58 ID:skfOQVqV9.net\n\n\n\n\n\n\n\n麻布十番納涼祭りにおける「食中毒事故」に関するお詫びとご報告。体調を崩された皆様、ご家族の皆様、そして関係者の皆様に、多大なる苦痛とご迷惑、ご心配をおかけしましたこと、心よ...",
+          "link": "https://itainews.com/archives/2066823.html",
+          "publishedOn": "2026-09-03T11:31:42.000Z",
+          "wordCount": 3103,
+          "title": "【カニラーメン】体調不良は8月末で116人　東京・麻布十番まつりの食中毒疑い、港区は厚労省に未報告",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/d/ddfcc078.png"
+        },
         {
           "id": "https://itainews.com/archives/2066803.html",
           "author": "damono3856",
