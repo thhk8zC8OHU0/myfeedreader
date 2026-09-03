@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T09:39:59.721Z</updated>
+    <updated>2026-09-03T09:51:55.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新シーズン追加モンスター ブラキディオスの討伐結果は...!? #モンハンNow #Nowナビ]]></title>
+        <id>https://www.youtube.com/shorts/XntRaOuS77o</id>
+        <link href="https://www.youtube.com/shorts/XntRaOuS77o"/>
+        <updated>2026-09-03T09:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>モンスターハンターNow 公式</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【MK】椅子投げ＆英語で罵声のパワハラ報道 タクシー会社「東京エムケイ」が会見「62歳の弟に姉が大ゲンカ」]]></title>
         <id>https://itainews.com/archives/2066804.html</id>
