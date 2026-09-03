@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T06:55:49.837Z</updated>
+    <updated>2026-09-03T07:08:29.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[笹川平和財団「自衛隊に外国人を登用しよう」]]></title>
+        <id>https://itainews.com/archives/2066791.html</id>
+        <link href="https://itainews.com/archives/2066791.html"/>
+        <updated>2026-09-03T07:01:37.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/02(水) 20:47:55.00 ID:wwvmsG+f0●.net PLT(14121)
+
+
+
+
+
+
+
+「自衛隊へ外国人登用検討を」　笹川平和財団が小泉防衛相に提言 https://t.co/2QjzeFP5rK— 毎日新聞ニュース (@mainichijpnews) September 2, 2026 
+
+
+
+
+
+
+笹川平和財団は2日、防衛力の人...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父親の死因は「失血死」　首をハサミで突き刺した疑いの娘は殺意を否認(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/0ab4ce8d9a7571a1ca00362cbcc0956b4396ddb5?source=rss</id>
@@ -26654,15 +26679,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[FDKはBluetooth Low Energy（BLE）モジュール製品の第3弾としてBluetooth 6対応の「HY0025」を開発した。Nordic Semiconductorの「nRF54L15」を搭載し、従来のBLE通信機能に加え長距離通信やChannel Sounding機能にも対応。Threadなどマルチプロトコルにも対応する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上司に出したコーヒーが不味いと言われ、本格的に淹れて見返すOL【ジェラードン】]]></title>
-        <id>https://www.youtube.com/watch?v=qWHfeqEw8YU</id>
-        <link href="https://www.youtube.com/watch?v=qWHfeqEw8YU"/>
-        <updated>2026-08-04T15:05:22.000Z</updated>
-        <author>
-            <name>ジェラードンチャンネル</name>
         </author>
     </entry>
 </feed>
