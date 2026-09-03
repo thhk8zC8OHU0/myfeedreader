@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T16:52:54.357Z</updated>
+    <updated>2026-09-03T17:06:54.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -27498,16 +27498,6 @@ With primary operations in Belgium and Portugal, this product line includes inte
         <summary type="html"><![CDATA[MIKROEは、超低消費電力のリアルタイムクロックボード「RTC 27 Click」を発売した。アラームやウォッチドッグ機能を搭載し、温度補償によって高精度な時刻管理を実現する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像]]></title>
-        <id>https://www.bbc.com/japanese/articles/cd9wk95y3nxo#4</id>
-        <link href="https://www.bbc.com/japanese/articles/cd9wk95y3nxo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-05T04:56:55.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は4日、同国南部でドローンが男性を追い回す様子を捉えた映像をソーシャルメディアで公開した。遠隔操作のドローンによる民間人への攻撃は「人間狩り」とも呼ばれ、ウクライナの前線地域の住民を恐怖に陥れるためにロシアがたびたび行っている。BBCのアダムス外交担当編集委員が報告する。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
