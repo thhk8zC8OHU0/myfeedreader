@@ -2303,6 +2303,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/76a14c9152e80a843fb087de8bd4522626dbb610?source=rss",
+          "author": null,
+          "description": "文化庁は３日、２０２８年の世界文化遺産への登録を目指し、彦根城を国内の候補として推薦することを決定したと発表しました。\n\n　国宝に指定されている彦根城は極めて保存状態がよく、天守をはじめ、櫓や堀、大",
+          "link": "https://news.yahoo.co.jp/articles/76a14c9152e80a843fb087de8bd4522626dbb610?source=rss",
+          "publishedOn": "2026-09-03T09:05:25.000Z",
+          "wordCount": 1613,
+          "title": "彦根城の世界文化遺産への推薦決定　2028年の登録目指す国内候補に(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260903-00082351-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/0ab4ce8d9a7571a1ca00362cbcc0956b4396ddb5?source=rss",
           "author": null,
           "description": "滋賀県近江八幡市で２日、父親の首をハサミで突き刺し殺害しようとした疑いで、１７歳の女子高校生が逮捕された事件で、警察は３日、父親の死因が「失血死」だったと発表しました。\n\n　女子高校生は、「けんかに",
@@ -5859,6 +5869,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cr7d27dkn15o#0",
+          "author": null,
+          "description": "サウジアラビアは2日、同国の超大型タンカー1隻がホルムズ海峡で8月31日夜にイランの攻撃を受けたとして、イランを非難した。この攻撃で、フィリピン人の船員2人が死亡したという。",
+          "link": "https://www.bbc.com/japanese/articles/cr7d27dkn15o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-03T08:55:22.000Z",
+          "wordCount": 1884,
+          "title": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7003/live/d674cf10-a6ef-11f1-9e4c-79c1c0e340c6.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c0j3gjxjdp6o#0",
           "author": null,
@@ -9590,6 +9610,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066799.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/02(水) 23:26:26.45 ID:luuCe/OA0.net\n\n\n\n\n\n\n\n公式LINEで同じ文章を流しておいて「アカウントを間違えました」は通用しないだろ。 pic.twitter.com/XoktTomMMl— 田中けい (@TANAKA_Kei) September 2, 2026 \n\n\n\n\n\n\n昨日の投稿について\n\n\n\n玉城デニー事...",
+          "link": "https://itainews.com/archives/2066799.html",
+          "publishedOn": "2026-09-03T09:02:58.000Z",
+          "wordCount": 3134,
+          "title": "玉城デニーさん「事務所がXアカウント間違えて陰謀論デマ流してました」LINEでも同じデマ拡散",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/b/8bfdb12d-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066798.html",
           "author": "damono3856",
@@ -15828,6 +15858,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127372/",
+          "author": null,
+          "description": "「別冊少年マガジン」（講談社刊）で連載中の漫画をテレビアニメ化する「菌と鉄」のティザービジュアル第2弾が公開された。あわせてメインスタッフが発表され、「デート・ア・ライブ」「はめつのおうこく」「...",
+          "link": "https://anime.eiga.com/news/127372/",
+          "publishedOn": "2026-09-03T09:00:00.000Z",
+          "wordCount": 737,
+          "title": "「菌と鉄」主人公が強大な敵に立ち向かう――新ティザービジュアル公開　監督は元永慶太郎",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127342/",
           "author": null,
