@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T22:39:54.669Z</updated>
+    <updated>2026-09-03T22:56:22.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【スターバックス】とろり蜜芋 紅はるかムースティーラテ【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317742</id>
+        <link href="https://foodfighter.jp/starbucks-mitsuimo-tea"/>
+        <updated>2026-09-03T22:42:20.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「とろり蜜芋 紅はるかムースティーラテ」を世界一詳しく調査しました。   […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【鹿児島中3男子自殺】学校中に響く大声で怒鳴り、不可能な指示を出して放置…判決で“違法”と断罪された女性教師の「恐怖指導」]]></title>
         <id>https://itainews.com/archives/2066805.html</id>
