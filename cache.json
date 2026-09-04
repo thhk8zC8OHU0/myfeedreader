@@ -8137,6 +8137,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/04/news044.html",
+          "author": null,
+          "description": "キヤノンは、第8世代ガラス基板に対応するFPD露光装置「MPAsp-H1003H」向けのLED照明オプションを発売する。新設装置向けのオプションで、従来の水銀ランプをLED光源に置き換えられる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/04/news044.html",
+          "publishedOn": "2026-09-04T00:00:00.000Z",
+          "wordCount": 2615,
+          "title": "65％低電力化、キヤノンがFPD露光装置向けLED照明",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/04/cover_news044.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/03/news038.html",
           "author": null,
           "description": "「何でも屋」と呼ばれる半導体プロセスエンジニア。今回は、その理由を「半導体工場を支えるインフラおよびユーティリティー」の視点で解説していきます。",

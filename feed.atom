@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T00:12:29.777Z</updated>
+    <updated>2026-09-04T00:35:57.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
 くら寿司、「ちいかわ」コラボグッズの不適切な取り扱いめぐり謝罪　事実関係を調査「法的措置も含め厳格に対応」（写真 全3枚）https://t.co/9PGdch2mBh— オリコンニュース【ア...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[65％低電力化、キヤノンがFPD露光装置向けLED照明]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/04/news044.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/04/news044.html"/>
+        <updated>2026-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キヤノンは、第8世代ガラス基板に対応するFPD露光装置「MPAsp-H1003H」向けのLED照明オプションを発売する。新設装置向けのオプションで、従来の水銀ランプをLED光源に置き換えられる。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
