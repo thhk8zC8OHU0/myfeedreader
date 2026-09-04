@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T01:38:05.511Z</updated>
+    <updated>2026-09-04T01:53:31.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EUとNATO、ロシアへの圧力強化を誓う　ドイツでの「新たなエスカレーション」受け]]></title>
+        <id>https://www.bbc.com/japanese/articles/ckgxzr93v08o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ckgxzr93v08o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-04T01:38:23.000Z</updated>
+        <summary type="html"><![CDATA[北大西洋条約機構（NATO）と欧州委員会の両トップが、ロシアが無謀さを増していると警告を発した。そして、「新たな常態」に対応する姿勢を鮮明にした。ドイツ・ライプツィヒ空港であったドローン攻撃未遂について、ドイツ政府がロシアを非難したのを受けての発言だった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沖縄県知事選挙。選挙権がない人間に投票用紙が配られた模様。しかも有効票に]]></title>
         <id>https://itainews.com/archives/2066809.html</id>
