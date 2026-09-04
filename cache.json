@@ -2443,6 +2443,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d92e13c08af93c654c20d5dc4667b421259a7dcb?source=rss",
+          "author": null,
+          "description": "関西各地でインフルエンザの患者数が増えています。\n\n　滋賀県は３日、インフルエンザが流行期に入ったと発表しました。８月２４日から３０日の１週間で県内にある３９の医療機関から報告された患者の数が、１医",
+          "link": "https://news.yahoo.co.jp/articles/d92e13c08af93c654c20d5dc4667b421259a7dcb?source=rss",
+          "publishedOn": "2026-09-04T07:44:45.000Z",
+          "wordCount": 1629,
+          "title": "滋賀・京都でインフルエンザ「流行期」に　滋賀は２００９年に次ぎ過去２番目の早さ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082387-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/02e19c8cb8d38f3516e946dd270b7e9619adece7?source=rss",
           "author": null,
           "description": "大阪高等裁判所は４日、オンライン会議のチームを作成する際に、不必要な外部のアカウントを誤って登録し、一時的にお互いのメールアドレスなどが確認できる状態になっていたと発表しました。\n\n　大阪高裁の民事",
@@ -16082,16 +16092,6 @@
           "publishedOn": "2026-08-07T19:49:00.000Z",
           "wordCount": 3784,
           "title": "Single Photon Workshop 2026 materials available",
-          "imageUrl": null
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/08/indie-ams-osram-deal.html",
-          "author": null,
-          "description": "Link: https://www.businesswire.com/news/home/20260511959181/en/indie-to-Acquire-CMOS-Image-Sensor-Product-Line-from-ams-OSRAM\nindie to Acquire CMOS Image Sensor Product Line from ams OSRAM \nALISO VIEJO, Calif.--(BUSINESS WIRE)--indie Semiconductor (Nasdaq: INDI), an automotive solutions innovator, has announced the signing of a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM AG for a total consideration of 40 million euros.\nWith primary operations in Belgium and Portugal, this product line includes intelligent, high‑performance CMOS image sensors for a broad range of industrial, automation, and physical artificial intelligence (AI) applications. This portfolio of products, IP, and designs aligns with indie’s automotive ADAS sensing solutions and further s…",
-          "link": "https://image-sensors-world.blogspot.com/2026/08/indie-ams-osram-deal.html",
-          "publishedOn": "2026-08-05T19:44:00.000Z",
-          "wordCount": 4765,
-          "title": "indie / ams OSRAM deal",
           "imageUrl": null
         }
       ]

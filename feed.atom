@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T07:38:44.517Z</updated>
+    <updated>2026-09-04T07:56:48.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[滋賀・京都でインフルエンザ「流行期」に　滋賀は２００９年に次ぎ過去２番目の早さ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d92e13c08af93c654c20d5dc4667b421259a7dcb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d92e13c08af93c654c20d5dc4667b421259a7dcb?source=rss"/>
+        <updated>2026-09-04T07:44:45.000Z</updated>
+        <summary type="html"><![CDATA[関西各地でインフルエンザの患者数が増えています。
+
+　滋賀県は３日、インフルエンザが流行期に入ったと発表しました。８月２４日から３０日の１週間で県内にある３９の医療機関から報告された患者の数が、１医]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪高裁でオンライン会議に約６０００アカウントを誤登録　事件の情報漏えいは確認されず(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/02e19c8cb8d38f3516e946dd270b7e9619adece7?source=rss</id>
@@ -28219,19 +28231,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[アンリツは、1.31μm帯の半導体光増幅器「AA3TB10EY」の販売を開始した。データセンター間接続で用いる光トランシーバー向けの製品で、光通信機器メーカーなどでの利用を見込む。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[indie / ams OSRAM deal]]></title>
-        <id>https://image-sensors-world.blogspot.com/2026/08/indie-ams-osram-deal.html</id>
-        <link href="https://image-sensors-world.blogspot.com/2026/08/indie-ams-osram-deal.html"/>
-        <updated>2026-08-05T19:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Link: https://www.businesswire.com/news/home/20260511959181/en/indie-to-Acquire-CMOS-Image-Sensor-Product-Line-from-ams-OSRAM
-indie to Acquire CMOS Image Sensor Product Line from ams OSRAM 
-ALISO VIEJO, Calif.--(BUSINESS WIRE)--indie Semiconductor (Nasdaq: INDI), an automotive solutions innovator, has announced the signing of a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM AG for a total consideration of 40 million euros.
-With primary operations in Belgium and Portugal, this product line includes intelligent, high‑performance CMOS image sensors for a broad range of industrial, automation, and physical artificial intelligence (AI) applications. This portfolio of products, IP, and designs aligns with indie’s automotive ADAS sensing solutions and further s…]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
