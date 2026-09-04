@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T05:54:01.660Z</updated>
+    <updated>2026-09-04T06:16:17.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 27に「iPhone Handoff」が導入。1つの電話番号を2台で切替可能に]]></title>
+        <id>https://gadget.phileweb.com/?p=132441</id>
+        <link href="https://gadget.phileweb.com/post-132441/"/>
+        <updated>2026-09-04T06:09:39.000Z</updated>
+        <summary type="html"><![CDATA[iOS 27では、同じ電話番号を2台のiPhoneで切り替えて使える新機能「iPhone Handoff」が追加される。2台のうち一方をメイン、もう一方をコンパニオンとして登録する仕組みとなる。 この機能は、6月に開催されたWWDC26の基調講演で、iOS 27の新機能の一つとして初めて紹介されてい […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレ東BIZ「今回のインタビューは元日本赤軍の最高幹部・重信房子さん。」]]></title>
+        <id>https://itainews.com/archives/2066829.html</id>
+        <link href="https://itainews.com/archives/2066829.html"/>
+        <updated>2026-09-04T06:01:09.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/09/03(木) 20:42:05.41 ID:EMLOK26g0●.net
+
+
+
+
+
+
+
+
+有料会員登録（7日間無料）で視聴いただけます👀https://t.co/0VunDFbcEU— テレ東BIZ (@txbiz_ondemand) September 1, 2026 
+
+
+
+
+
+
+
+
+
+池上彰がいま話を聞きたい30人。
+
+今回は元日本赤軍の最高幹部・重信...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こめおの麻布十番まつりのカニラーメン食中毒はサルモネラ属菌と断定　「割烹こめを」に7日間の営業停止命令　こめおは謝罪]]></title>
         <id>https://itainews.com/archives/2066828.html</id>
