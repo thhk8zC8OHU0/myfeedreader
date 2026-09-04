@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T13:06:58.367Z</updated>
+    <updated>2026-09-04T13:25:40.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -28689,16 +28689,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[筆者が修理の技術を指導している友人が、難しいオシロスコープの修理に挑戦していた。今回はその修理の過程を報告する。修理していたオシロスコープは中国Hantekの「DS05062B」で、ヤフオクにジャンク品として出品されていたものだ。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【イベント】フィナーレには花火も♪「第41回 森の里夏まつり」が8月15日に開催！演奏や盆踊りなど催しがいっぱい☆［厚木市森の里］]]></title>
-        <id>https://atsugi-lab.com/?p=60924</id>
-        <link href="https://atsugi-lab.com/event-morinosato-natsumatsuri2026/"/>
-        <updated>2026-08-06T01:15:44.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、しの＠あつらぼです。 夏のワクワクするイベントといえば、夏まつり♪ 厚木市森の里で、地域の恒例イベント「第41回 森の里夏まつり」が8月15日（土）に開催されます！ 今年もさまざまな催しが予定されていますよ♪ 「第41回 森の里…]]></summary>
-        <author>
-            <name>shino</name>
         </author>
     </entry>
 </feed>
