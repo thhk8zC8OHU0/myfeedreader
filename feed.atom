@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T08:08:50.562Z</updated>
+    <updated>2026-09-04T08:34:15.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[水面を滑るように飛ぶ地面効果翼機「シーグライダー」が初の有人飛行に成功。製品納入に向け前進]]></title>
+        <id>https://gadget.phileweb.com/?p=132488</id>
+        <link href="https://gadget.phileweb.com/post-132488/"/>
+        <updated>2026-09-04T08:32:38.000Z</updated>
+        <summary type="html"><![CDATA[航空機および船舶の研究開発のエキスパートが集まり、2020年に設立されたスタートアップ企業REGENT Craftが、水上飛行機、地面効果翼(WIG)、水中翼をひとつの機体に組み合わせ、水上を這うように飛行する「Seaglider」の試作機を用い、初の有人飛行に成功した。 通称「Viceroy」と呼 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9/18(金) 配信リリース🎧✨セルフカバーアルバム「#ウタウタイタイ」収録曲「虹」先行配信 & Music Video 公開中！]]></title>
+        <id>https://www.youtube.com/shorts/ZQ_b_H_qlmY</id>
+        <link href="https://www.youtube.com/shorts/ZQ_b_H_qlmY"/>
+        <updated>2026-09-04T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[9/18(金) 配信リリース🎧✨セルフカバーアルバム「#ウタウタイタイ」収録曲「虹」先行配信 & Music Video 公開中！]]></summary>
+        <author>
+            <name>GRe4N BOYZ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不正会計のニデック　調査委が不適切行為８４４件を認定　「不健全な状態が定着」と指摘(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/18193105c5277e3950151864206ca1032a7d83b7?source=rss</id>
