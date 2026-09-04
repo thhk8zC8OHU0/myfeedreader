@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T01:53:31.337Z</updated>
+    <updated>2026-09-04T02:14:57.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【悲報】立憲民主党「中道に行ったやつらの復党？受け入れないよ」]]></title>
+        <id>https://itainews.com/archives/2066815.html</id>
+        <link href="https://itainews.com/archives/2066815.html"/>
+        <updated>2026-09-04T02:02:35.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：それでも動く名無し：2026/09/02(水) 16:49:09.53 ID:+RfkQqxd0.net
+
+
+
+
+
+
+
+【速報】中道分裂、立民出身者復党考えずと田名部氏https://t.co/U9LDPWJ13h— 47NEWS (@47news_official) September 2, 2026 
+
+
+
+
+
+
+【速報】中道分裂、立民出身者復党考えずと田名部...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イランの主張を調査中とヴァンス氏、米軍のミサイルが結婚披露宴を直撃か]]></title>
+        <id>https://www.bbc.com/japanese/articles/c4gq2ep8ldyo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c4gq2ep8ldyo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-04T01:55:20.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのJ・D・ヴァンス副大統領は3日、アメリカが1日にイランに対して行った攻撃で、結婚披露宴に参列していた子ども2人を含む民間人少なくとも4人が殺害されたとするイランの主張について、米軍が調査していると述べた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル人入植者がヨルダン川西岸の村を襲撃、10代のパレスチナ人2人死亡と地元当局]]></title>
+        <id>https://www.bbc.com/japanese/articles/cz0z1yx9zjzo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cz0z1yx9zjzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-04T01:53:44.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル占領下のパレスチナ・ヨルダン川西岸地区で2日、イスラエル人入植者とイスラエル兵がアル・ムガイヤル村を襲撃し、10代のパレスチナ人2人が死亡した。地元当局が発表した。翌3日には2人の葬儀が執り行われた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUとNATO、ロシアへの圧力強化を誓う　ドイツでの「新たなエスカレーション」受け]]></title>
         <id>https://www.bbc.com/japanese/articles/ckgxzr93v08o#0</id>
@@ -27597,16 +27642,6 @@ ALISO VIEJO, Calif.--(BUSINESS WIRE)--indie Semiconductor (Nasdaq: INDI), an aut
 With primary operations in Belgium and Portugal, this product line includes intelligent, high‑performance CMOS image sensors for a broad range of industrial, automation, and physical artificial intelligence (AI) applications. This portfolio of products, IP, and designs aligns with indie’s automotive ADAS sensing solutions and further s…]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出社]]></title>
-        <id>https://logipara.com/?p=13337</id>
-        <link href="https://logipara.com/diary-text/2026-08-06/"/>
-        <updated>2026-08-05T14:06:55.000Z</updated>
-        <summary type="html"><![CDATA[普段は在宅勤務ですが、今日は大事な用件があるため、朝から出社しました。 　 　 　 出社途中の乗り換え駅で、仕事用ノートPCをまるっと自宅に忘れていることに気づきました 　 　 　 慌ててて自宅に戻り、ノートPCを回収し […]]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
