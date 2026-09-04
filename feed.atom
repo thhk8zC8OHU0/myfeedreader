@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T23:06:57.806Z</updated>
+    <updated>2026-09-04T23:21:35.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ビアードパパ】キャラメルマキアートシュー（シュークリーム）【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317786</id>
+        <link href="https://foodfighter.jp/beardpapa-caramel-macchiato"/>
+        <updated>2026-09-04T23:19:12.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「キャラメルマキアートシュー」を世界一詳しく調査しました。   【ビアードパパ】キャラメルマ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水曜どうでしょう祭UNITE2026 1日目]]></title>
+        <id>https://logipara.com/?p=13435</id>
+        <link href="https://logipara.com/diary-text/2026-09-05/"/>
+        <updated>2026-09-04T23:17:02.000Z</updated>
+        <summary type="html"><![CDATA[飛行機が遅延し、前夜祭に行けませんでした（1敗目) 　　 　 とりあえず三次会まで呑みました]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小泉防衛相、外国人の自衛隊登用否定　笹川財団提言に]]></title>
         <id>https://itainews.com/archives/2066847.html</id>
