@@ -9115,16 +9115,6 @@
           "wordCount": 2637,
           "title": "オンデバイスAI向けUFS 5.0対応メモリ、キオクシア",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/07/cover_news036.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/06/news019.html",
-          "author": null,
-          "description": "Cadenceは、PCBおよび先端パッケージ設計向けのエージェントAIプラットフォーム「AuraStack AI Super Agent」を発表した。設計期間の短縮と生産性向上を実現するという。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/06/news019.html",
-          "publishedOn": "2026-08-06T03:30:00.000Z",
-          "wordCount": 2662,
-          "title": "PCBや先端パッケージ設計向けエージェントAIシステム、Cadence",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/06/l_edn20260804edn001.jpg"
         }
       ]
     },
@@ -20239,6 +20229,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ntlgABlHyCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ntlgABlHyCw",
+          "publishedOn": "2026-09-04T15:28:34.000Z",
+          "wordCount": null,
+          "title": "二人の思い出の歌で、とり憑かれた彼女を正気に戻したいけど、当時の歌詞がだいぶ恥ずかしい【ジェラードン】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=65XHWzf0bhE",
           "author": null,

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T15:25:52.167Z</updated>
+    <updated>2026-09-04T15:39:02.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[二人の思い出の歌で、とり憑かれた彼女を正気に戻したいけど、当時の歌詞がだいぶ恥ずかしい【ジェラードン】]]></title>
+        <id>https://www.youtube.com/watch?v=ntlgABlHyCw</id>
+        <link href="https://www.youtube.com/watch?v=ntlgABlHyCw"/>
+        <updated>2026-09-04T15:28:34.000Z</updated>
+        <author>
+            <name>ジェラードンチャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年9月8日(火)コミック新刊 - コミック新刊チェック]]></title>
         <id>https://comic.sumikko.info/date-item/2026-09-08/</id>
@@ -28848,16 +28857,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[ウクライナ各地で5日未明、ロシアの弾道ミサイルとドローンによる攻撃があり、少なくとも21人が殺害された。ウクライナのゼレンスキー大統領は、迎撃ミサイルがあれば「人命を救えたはずだ」と述べた。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCBや先端パッケージ設計向けエージェントAIシステム、Cadence]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/06/news019.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/06/news019.html"/>
-        <updated>2026-08-06T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Cadenceは、PCBおよび先端パッケージ設計向けのエージェントAIプラットフォーム「AuraStack AI Super Agent」を発表した。設計期間の短縮と生産性向上を実現するという。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
