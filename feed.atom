@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T14:38:35.954Z</updated>
+    <updated>2026-09-04T14:51:42.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9月8日23：00に「ゼルダの伝説40周年 Direct 2026.9.8」，9月9日23：00に「Nintendo Direct 2026.9.9」が配信へ]]></title>
+        <id>https://www.4gamer.net/games/990/G999030/20260904063/</id>
+        <link href="https://www.4gamer.net/games/990/G999030/20260904063/"/>
+        <updated>2026-09-04T14:41:54.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は本日（2026年9月4日），9月8日23：00に「ゼルダの伝説40周年Direct2026.9.8」，9月9日23：00に「NintendoDirect2026.9.9」を配信すると発表した。「ゼルダの伝説40周年Direct」は約30分，「NintendoDirect」は約45分の予定だ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】大阪・新世界近くで強盗未遂事件　男３人組が通行人の男性らに催涙スプレー吹きかるなどし金銭要求か　警察が３人組の行方追う(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/6d7c064a00efe0831fdbdde96e33ac44e7feb29f?source=rss</id>
