@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T04:41:08.386Z</updated>
+    <updated>2026-09-04T04:55:54.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、折りたたみディスプレイMacBook開発中止か、別の有機ELモデルも取りやめとのうわさ]]></title>
+        <id>https://gadget.phileweb.com/?p=132437</id>
+        <link href="https://gadget.phileweb.com/post-132437/"/>
+        <updated>2026-09-04T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルが9月10日午前2時開催の「おはよう世界。」イベントで折りたたみiPhoneを発表するとみられているなか、その次に注目が集まるのは、長らく噂されてきた、折りたたみ式ディスプレイを搭載するMacBookだろう。 この折りたたみディスプレイ搭載のMacBook（以下、折りたたみ式MacBook） […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIチャットボットに登山計画を丸投げした一行、あえなく遭難。水も食料も必要量持たず、翌朝救助]]></title>
+        <id>https://gadget.phileweb.com/?p=132453</id>
+        <link href="https://gadget.phileweb.com/post-132453/"/>
+        <updated>2026-09-04T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[カリフォルニア州に住む3人の若者が、いずれも登山初心者であるにもかかわらず、同州北部にある標高4321.8mのシャスタ山への日帰り登山を敢行し、遭難した。若者たちは、登山の計画立案をGoogleのAIチャットボット「Gemini」に丸投げしていたという。 8月29日、3人はシャスタ山の標高2560m […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【結婚】初婚夫婦の25%が「年上妻」と過去最多。データで紐解く「令和婚のリアル」婚活を阻む「男は仕事・女は家庭」の罠]]></title>
         <id>https://itainews.com/archives/2066820.html</id>
