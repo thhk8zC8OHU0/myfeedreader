@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/039/G103968/20260904061/",
+          "author": null,
+          "description": "2Kは本日（2026年9月4日），バスケットボールゲーム「NBA2K27」を発売した。本作ではゲームプレイ全体の見直しとバランス調整が行われ，ProPlayを利用したモーションやオフェンスとディフェンスの仕組みが刷新された。",
+          "link": "https://www.4gamer.net/games/039/G103968/20260904061/",
+          "publishedOn": "2026-09-04T13:27:22.000Z",
+          "wordCount": 8369,
+          "title": "「NBA 2K27」本日発売。NBAを象徴する5つの時代から1つを選び，当時のスター選手たちと競い合う新モード「時代」が登場",
+          "imageUrl": "https://www.4gamer.net/games/039/G103968/20260904061/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/172/G017216/20260904051/",
           "author": null,
           "description": "DigitalExtremesは本日，「Warframe」のアップデート情報を公開した。次期大型アップデート「Narinの氷剣」は9月24日に無料配信され，氷を操る女性「Narin」が登場する。あわせて，PC版「Soulframe」のクローズドαテスト向けアップデート「プレリュード16：針と狼」を9月中旬に配信することも発表された。",
@@ -2512,6 +2522,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/8bff459ab02cbc7459a5953e866f289da16b7dc4?source=rss",
+          "author": null,
+          "description": "「大阪都構想」に反対する公明党大阪市議団が、全１６回にわたり問題点を市民に訴えてきたタウンミーティングの最終回が４日、開かれました。\n\n　平野区で開かれた「大阪のミライを考える会」は、大雨の影響で動",
+          "link": "https://news.yahoo.co.jp/articles/8bff459ab02cbc7459a5953e866f289da16b7dc4?source=rss",
+          "publishedOn": "2026-09-04T13:33:12.000Z",
+          "wordCount": 1627,
+          "title": "「都構想」反対の公明党大阪市議団　全１６回のタウンミーティングが終了(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082397-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fe320e7a88f8319ad94565e0c5c683169fba0337?source=rss",
+          "author": null,
+          "description": "ひとりひとりが自分らしい選択について考えるきっかけにしてもらおうと、天満橋のドーンセンターで「ドーンｄｅキラリ フェスティバル２０２６」が開かれています。\n\n　大阪府では毎年９月を「女性活躍推進月間",
+          "link": "https://news.yahoo.co.jp/articles/fe320e7a88f8319ad94565e0c5c683169fba0337?source=rss",
+          "publishedOn": "2026-09-04T13:33:12.000Z",
+          "wordCount": 1647,
+          "title": "男女ともに生きやすい社会目指して「ドーンｄｅキラリ フェスティバル」　トークショーに山之内すずさん・大倉士門さんが登場(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082396-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/dddf55005df596dfe02a68c67e3d1ad1ad853e38?source=rss",
           "author": null,
