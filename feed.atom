@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T06:16:17.800Z</updated>
+    <updated>2026-09-04T06:36:05.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり]]></title>
+        <id>https://www.bbc.com/japanese/articles/c3re878ypd3o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c3re878ypd3o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-04T06:30:49.000Z</updated>
+        <summary type="html"><![CDATA[ネパールと中国・チベットの国境沿いの地域で大規模な土石流が8月26日に発生してから9日目の4日、多くの作業員がトンネルに閉じ込められているネパールの水力発電所で、作業員の救出が始まった。最初の2人を引き上げると、救助隊員は歓声を上げた。2人は直ちに病院へと救急ヘリコプターで搬送された。土石流による死者は計1200人超に上り、5000人以上が行方不明となっている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「娘にやらせたくない」アスリートのユニフォーム“男女で露出の差”に物議　現役女子陸上選手が本音を激白]]></title>
+        <id>https://itainews.com/archives/2066819.html</id>
+        <link href="https://itainews.com/archives/2066819.html"/>
+        <updated>2026-09-04T06:30:11.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：muffin ★：2026/09/03(木) 16:19:52.85 ID:c9pY34VK9.net
+
+
+
+
+
+
+
+「娘にやらせたくない」アスリートのユニフォーム“男女で露出の差”に物議…現役女子陸上選手が本音を激白「言いたいことは分かるが…」科学的根拠を専門家が解説（ABEMA TIMES）https://t.co/h...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・西成の焼肉店店長が死亡　殺人・暴行の罪に問われた４０代男の初公判　弁護側は「正当防衛」と一部無罪を主張(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/bef4d05bf1f66d1ae209a6deda51c3cf26c9d7bd?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/bef4d05bf1f66d1ae209a6deda51c3cf26c9d7bd?source=rss"/>
+        <updated>2026-09-04T06:28:34.000Z</updated>
+        <summary type="html"><![CDATA[大阪市西成区の飲食店・店長に暴行を加え、背中を包丁で突き刺し殺害したなどとして殺人や暴行などの罪に問われた男の初公判が開かれ、殺人について弁護側は無罪を主張しました。
+
+　起訴状などによりますと、酒]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ポケモンとアスリートのわざ展」，9月19日より日本オリンピックミュージアムで開催。59種類がさまざまな競技の応援ポケモンに決定]]></title>
+        <id>https://www.4gamer.net/games/619/G061991/20260904030/</id>
+        <link href="https://www.4gamer.net/games/619/G061991/20260904030/"/>
+        <updated>2026-09-04T06:16:36.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンは本日（2026年9月4日），日本オリンピックミュージアム（JOM）にて，企画展「ポケモンとアスリートのわざ展」を，9月19日から11月23日まで開催すると発表した。入場は無料。本展は，さまざまな「わざ」を覚えてポケモン勝負をするポケモンと，磨き上げたわざで競技に挑むアスリートを比較していくものだ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 27に「iPhone Handoff」が導入。1つの電話番号を2台で切替可能に]]></title>
         <id>https://gadget.phileweb.com/?p=132441</id>
@@ -45,6 +95,16 @@
 今回は元日本赤軍の最高幹部・重信...]]></summary>
         <author>
             <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シリアル通信を知る　UART／I2C／SPIの違いからトラブル対策まで]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/04/news073.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/04/news073.html"/>
+        <updated>2026-09-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UART、I2C、SPIは、機器間でデータをやりとりするために広く使われているシリアル通信方式です。それぞれ接続構成や通信速度、信号数、クロックの有無などに違いがあり、用途に応じた使い分けが求められます。本稿では、EDN Japanがこれまで掲載してきた記事から、UART／I2C／SPIの違いやトラブル対策、応用について理解を深める上で役立つ記事をピックアップしてご紹介します。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
