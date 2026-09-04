@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T09:42:18.083Z</updated>
+    <updated>2026-09-04T09:59:15.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「大阪都構想」７回目の法定協　教員人事について意見分かれ継続協議に(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/eab6387cdd0ea7bc28e279077761ac87953750ca?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/eab6387cdd0ea7bc28e279077761ac87953750ca?source=rss"/>
+        <updated>2026-09-04T09:47:33.000Z</updated>
+        <summary type="html"><![CDATA[いわゆる大阪都構想の制度論を議論する７回目の法定協議会が開かれ、大阪市を特別区に再編した後の教員の人事については意見が分かれ、継続協議となりました。
+
+　４日、大阪市役所で開かれた法定協議会では、大]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【福生マッチョハンマー男】ネットが称賛した無職男（45）は病院で警官の股間を蹴り追起訴…窃盗事件も起訴、公判では深々と一礼　裁判]]></title>
         <id>https://itainews.com/archives/2066836.html</id>
