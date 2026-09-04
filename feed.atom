@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T15:51:12.226Z</updated>
+    <updated>2026-09-04T16:08:24.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -28845,16 +28845,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <link href="https://www.bbc.com/japanese/articles/cglj665533zo?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-06T04:20:49.000Z</updated>
         <summary type="html"><![CDATA[イランは5日、ホルムズ海峡を通過する船舶の航路について、オマーンと合意に達したと発表した。イラン外務省のバガイ報道官は、合意は「最終段階」にあると述べたが、それ以上の詳細は明らかにしなかった。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアの攻撃で少なくとも21人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏]]></title>
-        <id>https://www.bbc.com/japanese/articles/c0qv5z4w57no#3</id>
-        <link href="https://www.bbc.com/japanese/articles/c0qv5z4w57no?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-06T04:05:28.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ各地で5日未明、ロシアの弾道ミサイルとドローンによる攻撃があり、少なくとも21人が殺害された。ウクライナのゼレンスキー大統領は、迎撃ミサイルがあれば「人命を救えたはずだ」と述べた。]]></summary>
         <author>
             <name>BBC Japanese</name>
         </author>
