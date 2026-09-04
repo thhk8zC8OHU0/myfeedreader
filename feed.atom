@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T13:52:10.796Z</updated>
+    <updated>2026-09-04T14:07:02.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【長崎】「会話するため近づいた」70代の男性作業員が使っていた草刈り機の刃が66歳男性作業員の右脚にあたり…出血性ショックで死亡]]></title>
+        <id>https://itainews.com/archives/2066858.html</id>
+        <link href="https://itainews.com/archives/2066858.html"/>
+        <updated>2026-09-04T14:01:30.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/09/04(金) 14:50:04.01 ID:+phZ77SH9.net
+
+
+
+
+
+
+
+「会話するため近づいた」草刈り機の刃が作業員の右脚にあたり66歳男性が出血性ショックで死亡https://t.co/wFJHZTD7NW#長崎ニュース #長崎— 長崎ニュース！NBC報道制作部（公式） (@nbc_nagasaki...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「都構想」反対の公明党大阪市議団　全１６回のタウンミーティングが終了(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/8bff459ab02cbc7459a5953e866f289da16b7dc4?source=rss</id>
@@ -28711,16 +28729,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <link href="https://edn.itmedia.co.jp/edn/articles/2608/06/news019.html"/>
         <updated>2026-08-06T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[Cadenceは、PCBおよび先端パッケージ設計向けのエージェントAIプラットフォーム「AuraStack AI Super Agent」を発表した。設計期間の短縮と生産性向上を実現するという。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャンク品の中華製オシロスコープを修理する（1）]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/06/news016.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/06/news016.html"/>
-        <updated>2026-08-06T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筆者が修理の技術を指導している友人が、難しいオシロスコープの修理に挑戦していた。今回はその修理の過程を報告する。修理していたオシロスコープは中国Hantekの「DS05062B」で、ヤフオクにジャンク品として出品されていたものだ。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>

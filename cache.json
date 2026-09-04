@@ -9105,16 +9105,6 @@
           "wordCount": 2662,
           "title": "PCBや先端パッケージ設計向けエージェントAIシステム、Cadence",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/06/l_edn20260804edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/06/news016.html",
-          "author": null,
-          "description": "筆者が修理の技術を指導している友人が、難しいオシロスコープの修理に挑戦していた。今回はその修理の過程を報告する。修理していたオシロスコープは中国Hantekの「DS05062B」で、ヤフオクにジャンク品として出品されていたものだ。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/06/news016.html",
-          "publishedOn": "2026-08-06T02:00:00.000Z",
-          "wordCount": 2714,
-          "title": "ジャンク品の中華製オシロスコープを修理する（1）",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/06/cover_news016.jpg"
         }
       ]
     },
@@ -10390,6 +10380,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066858.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/04(金) 14:50:04.01 ID:+phZ77SH9.net\n\n\n\n\n\n\n\n「会話するため近づいた」草刈り機の刃が作業員の右脚にあたり66歳男性が出血性ショックで死亡https://t.co/wFJHZTD7NW#長崎ニュース #長崎— 長崎ニュース！NBC報道制作部（公式） (@nbc_nagasaki...",
+          "link": "https://itainews.com/archives/2066858.html",
+          "publishedOn": "2026-09-04T14:01:30.000Z",
+          "wordCount": 3095,
+          "title": "【長崎】「会話するため近づいた」70代の男性作業員が使っていた草刈り機の刃が66歳男性作業員の右脚にあたり…出血性ショックで死亡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/a/0aeef2c7-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066849.html",
           "author": "damono3856",
