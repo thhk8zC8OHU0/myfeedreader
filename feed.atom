@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T20:49:03.955Z</updated>
+    <updated>2026-09-04T21:07:13.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -28817,16 +28817,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[フライハイワークスは本日（2026年8月6日），パズルアドベンチャーゲーム「文字遊戯」のPS5版の発売日が8月20日に決定したことを発表した。また，「文字遊戯」の体験版であり前日譚となる「文字遊戯第零章」のNintendoSwitch版がリリースされた。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迎撃ミサイル不足で人命救えず……キーウ攻撃で見えたウクライナの苦境]]></title>
-        <id>https://www.bbc.com/japanese/articles/cvgv8k3llmko#3</id>
-        <link href="https://www.bbc.com/japanese/articles/cvgv8k3llmko?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-06T08:53:32.000Z</updated>
-        <summary type="html"><![CDATA[ミサイル迎撃システムがなければ、ウクライナの空は、ロシアの攻撃に対して完全に無防備になる。ウクライナのゼレンスキー大統領は5日、迎撃ミサイルがあれば「人命を救えたはずだ」と述べ、支援国に供給を呼びかけた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
