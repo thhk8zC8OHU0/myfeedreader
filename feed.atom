@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T14:24:48.977Z</updated>
+    <updated>2026-09-04T14:38:35.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪・新世界近くで強盗未遂事件　男３人組が通行人の男性らに催涙スプレー吹きかるなどし金銭要求か　警察が３人組の行方追う(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6d7c064a00efe0831fdbdde96e33ac44e7feb29f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6d7c064a00efe0831fdbdde96e33ac44e7feb29f?source=rss"/>
+        <updated>2026-09-04T14:30:12.000Z</updated>
+        <summary type="html"><![CDATA[４日午後、大阪市西成区のパチンコ店で、２人の男性が３人組の男に催涙スプレーをかけられ、殴られたということです。
+　警察が強盗未遂事件として逃げた男らの行方を追っています。
+
+　警察によりますと、４日]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【長崎】「会話するため近づいた」70代の男性作業員が使っていた草刈り機の刃が66歳男性作業員の右脚にあたり…出血性ショックで死亡]]></title>
         <id>https://itainews.com/archives/2066858.html</id>
