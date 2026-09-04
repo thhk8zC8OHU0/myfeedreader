@@ -2413,6 +2413,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c4394394866c2f73bf87ab1657d9a02950103ef4?source=rss",
+          "author": null,
+          "description": "秋雨前線と台風の影響で、近畿地方でも大雨に警戒が必要となっています。岩本計介アナウンサーが車の浸水から身を守る方法についてＪＡＦに取材しました。",
+          "link": "https://news.yahoo.co.jp/articles/c4394394866c2f73bf87ab1657d9a02950103ef4?source=rss",
+          "publishedOn": "2026-09-04T03:00:00.000Z",
+          "wordCount": 1734,
+          "title": "近畿各地で警報級大雨のおそれ　車に乗ってはいけない水位は”縁石が見えない”１５センチ　岩本計介アナが緊急脱出用ハンマーをJAFで体験(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082371-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/f638f2ef707c470d33d87666d7f2325b802fa06d?source=rss",
           "author": null,
           "description": "ＪＲ西日本によりますと、４日午前７時半ごろの時点で、ＪＲきのくに線は串本～周参見駅間で運転を見合わせています。\n\n　大雨の影響ということで、再開のめどは立っていないということです。\n\n　今後の情報に",
@@ -9911,6 +9921,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066834.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2026/09/04(金) 08:01:27.82 ID:dGPy4Whq9.net\n\n\n\n\n\n\n\n円急伸、一時155円30銭 － 日銀利上げ確実視で円買いhttps://t.co/qozkD0nKXg— 共同通信公式 (@kyodo_official) September 3, 2026  \n\n\n\n\n\n\n　【ニューヨーク共同】3日のニューヨーク外国為替市...",
+          "link": "https://itainews.com/archives/2066834.html",
+          "publishedOn": "2026-09-04T03:01:54.000Z",
+          "wordCount": 3077,
+          "title": "【為替】円急伸、一時155円30銭　日銀利上げ確実視で円買い",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/6/46c807ed-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066821.html",
           "author": "nobi0929",
           "description": "1 名前：ぐれ ★：2026/09/03(木) 16:59:54.14 ID:AAzWivot9.net\n\n\n\n\n\n\n\n農水省「コメ離れ見いだし難い」 － 国産需要動向分析、外国産増加かhttps://t.co/V8EKmcbOl5— 共同通信公式 (@kyodo_official) September 3, 2026 \n\n\n\n\n\n\n\n\n\n\n\n消費者の「コメ離れ」は起きていな...",
@@ -15722,6 +15742,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=317745",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]",
+          "link": "https://foodfighter.jp/matsuya-rich-beef-curry",
+          "publishedOn": "2026-09-04T02:55:32.000Z",
+          "wordCount": 2061,
+          "title": "【松屋】リッチビーフカレー【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/f626906758e082bc729cc8059dc1fbf1.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=317742",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「とろり蜜芋 紅はるかムースティーラテ」を世界一詳しく調査しました。   […]",
@@ -16318,6 +16348,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127288/",
+          "author": null,
+          "description": "是枝裕和が監督・脚本・編集を兼任し、藤本タツキ氏の人気漫画を実写映画化する「ルックバック」のクリエイターが発表され、米津玄師、三浦透子、アニメーション監督の久野遥子らが参加していることがわかった...",
+          "link": "https://anime.eiga.com/news/127288/",
+          "publishedOn": "2026-09-04T03:00:00.000Z",
+          "wordCount": 759,
+          "title": "是枝裕和監督作「ルックバック」米津玄師が“友情演奏”、三浦透子が劇中曲Vocal担当　演出の一部にロトスコープアニメーションを採用",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127378/",
           "author": null,
