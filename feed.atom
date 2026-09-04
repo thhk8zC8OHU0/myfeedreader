@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T05:08:38.801Z</updated>
+    <updated>2026-09-04T05:24:41.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【開店・続報】焼き芋専門店「芋やす 厚木店」のオープン予定日は9月10日になったみたい☆メニューの一部も判明！［厚木市旭町］]]></title>
+        <id>https://atsugi-lab.com/?p=61415</id>
+        <link href="https://atsugi-lab.com/open-imoyasu-honatsugi-20260910/"/>
+        <updated>2026-09-04T05:08:46.000Z</updated>
+        <summary type="html"><![CDATA[秋になるとお芋や栗、かぼちゃなどのスイーツが食べたくなるふみえ＠あつらぼです♪ 今回は写真付きの情報提供を頂きましたー！（ありがとうございます♡） 厚木市旭町に9月オープン予定、と求人情報が出ていた「芋やす 厚木店」の場所に 看板や告知の張…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[踏切の遮断棒が降りないまま回送列車通過　けが人なし　阪急京都本線　夜間作業で動作止めたままに(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/b22c4c885c0e3223985bb98c9dfca5f7fb0aac60?source=rss</id>
