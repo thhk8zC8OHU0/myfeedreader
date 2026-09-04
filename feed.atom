@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T08:34:15.057Z</updated>
+    <updated>2026-09-04T08:49:13.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポケモン，ハロウィンをテーマにしたグッズ「Pokémon Magic Hour Illusion!」を9月10日に発売]]></title>
+        <id>https://www.4gamer.net/games/897/G089789/20260904036/</id>
+        <link href="https://www.4gamer.net/games/897/G089789/20260904036/"/>
+        <updated>2026-09-04T08:43:23.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンは本日（2026年9月4日），ハロウィンをテーマにしたグッズ「PokémonMagicHourIllusion!」を，9月10日にポケモンセンターオンラインで，9月12日にポケモンセンターで発売すると発表した。ハロウィンパーティーで活躍しそうなグッズが展開される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水面を滑るように飛ぶ地面効果翼機「シーグライダー」が初の有人飛行に成功。製品納入に向け前進]]></title>
         <id>https://gadget.phileweb.com/?p=132488</id>
