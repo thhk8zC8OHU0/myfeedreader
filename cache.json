@@ -2504,16 +2504,6 @@
           "wordCount": 8449,
           "title": "「牧場物語」シリーズと「ルーンファクトリー」シリーズのアニバーサリーを記念した生放送が8月24日に実施決定",
           "imageUrl": "https://www.4gamer.net/games/656/G065685/20260806041/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/023/G102339/20260806039/",
-          "author": null,
-          "description": "グラビティゲームアライズは本日，「ジャレコアーケードコレクションVol.1」「ジャレコアーケードコレクションVol.2」に収録される未発表12タイトルを公開した。「P-47ACES」や「ビッグラン」などが加わり，全32タイトルのラインナップが出そろった。",
-          "link": "https://www.4gamer.net/games/023/G102339/20260806039/",
-          "publishedOn": "2026-08-06T09:55:31.000Z",
-          "wordCount": 8571,
-          "title": "「ジャレコアーケードコレクション Vol.1＆Vol.2」の収録32タイトルが出そろう。「P-47 ACES」「ビッグラン」など未発表12タイトルを公開",
-          "imageUrl": "https://www.4gamer.net/games/023/G102339/20260806039/SS/002.jpg"
         }
       ]
     },
@@ -10340,6 +10330,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066840.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/02(水) 14:41:55.61 ID:G3UxBtgT0●.net 2BP(2000)\n\n\n\n\n\n\n\n🇷🇺🤖🦾 Un robot intenta atacar a un cliente en una tienda de tecnologia en Rusia. Ocurrio despues de que el cliente empujara al robot. Las imagenes se han vuelto virales en red...",
+          "link": "https://itainews.com/archives/2066840.html",
+          "publishedOn": "2026-09-04T22:00:14.000Z",
+          "wordCount": 3113,
+          "title": "ロシアに導入された中国製ロボット、突然格闘攻撃モードに入る様子が撮影される",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/e/6edf7aaf-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066858.html",
           "author": "damono3856",
@@ -20741,16 +20741,6 @@
           "publishedOn": "2026-08-07T11:00:06.000Z",
           "wordCount": null,
           "title": "【FINAL FANTASY】再生回数ランキングTop10!!キッチンでクラリネット吹く人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bcs4KlOfVRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bcs4KlOfVRc",
-          "publishedOn": "2026-08-06T10:00:06.000Z",
-          "wordCount": null,
-          "title": "【FINAL FANTASY】ショート動画再生回数ランキングTop10!!キッチンでクラリネット吹く人",
           "imageUrl": null
         }
       ]
