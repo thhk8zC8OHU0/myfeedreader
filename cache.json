@@ -2443,6 +2443,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/067e42d19af28d6e86f401af216da1b5e73740f4?source=rss",
+          "author": null,
+          "description": "４日午後３時ごろ、兵庫県姫路市の姫路バイパス姫路西付近で、軽自動車とトラックが衝突する事故がありました。\n\n　警察や消防によりますと午後２時４８分、トラックの運転手から「軽自動車と接触し、軽自動車が",
+          "link": "https://news.yahoo.co.jp/articles/067e42d19af28d6e86f401af216da1b5e73740f4?source=rss",
+          "publishedOn": "2026-09-04T07:24:51.000Z",
+          "wordCount": 1623,
+          "title": "兵庫・姫路バイパスでトラックと衝突し軽自動車が横転する事故　５０代男性を病院搬送(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082385-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/cf152a3e06f38bb9cd6c1bba45d6467b454e3b9e?source=rss",
           "author": null,
           "description": "おととし、男性を車に監禁し暴行を加えたなどの疑いで公開手配されていた特殊詐欺グループのメンバーの男が４日、逮捕されました。男は国外に逃亡していたところを確保されたということです。\n\n　強盗傷害や営利",
@@ -8903,6 +8913,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132461",
+          "author": "多根清史",
+          "description": "米連邦最高裁は2026年2月、トランプ政権が導入した広範な関税を違法と判断した。この関税の影響を受けた企業では還付の手続きが進んでおり、その中には、大手ゲーム機メーカーも含まれている。 任天堂は8月6日に公表した決算資料で、米国の関税還付に伴う約3億ドルを売上原価から控除したことを明らかにした。また […]",
+          "link": "https://gadget.phileweb.com/post-132461/",
+          "publishedOn": "2026-09-04T07:29:09.000Z",
+          "wordCount": 713,
+          "title": "PS5・Xbox陣営、トランプ関税還付めぐる訴訟で任天堂に追随。公正価格での正当な取引と主張",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/2fe45d1bd7d68917456d250e5ee350cb.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132441",
           "author": "多根清史",

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T07:14:33.494Z</updated>
+    <updated>2026-09-04T07:29:58.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PS5・Xbox陣営、トランプ関税還付めぐる訴訟で任天堂に追随。公正価格での正当な取引と主張]]></title>
+        <id>https://gadget.phileweb.com/?p=132461</id>
+        <link href="https://gadget.phileweb.com/post-132461/"/>
+        <updated>2026-09-04T07:29:09.000Z</updated>
+        <summary type="html"><![CDATA[米連邦最高裁は2026年2月、トランプ政権が導入した広範な関税を違法と判断した。この関税の影響を受けた企業では還付の手続きが進んでおり、その中には、大手ゲーム機メーカーも含まれている。 任天堂は8月6日に公表した決算資料で、米国の関税還付に伴う約3億ドルを売上原価から控除したことを明らかにした。また […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兵庫・姫路バイパスでトラックと衝突し軽自動車が横転する事故　５０代男性を病院搬送(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/067e42d19af28d6e86f401af216da1b5e73740f4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/067e42d19af28d6e86f401af216da1b5e73740f4?source=rss"/>
+        <updated>2026-09-04T07:24:51.000Z</updated>
+        <summary type="html"><![CDATA[４日午後３時ごろ、兵庫県姫路市の姫路バイパス姫路西付近で、軽自動車とトラックが衝突する事故がありました。
+
+　警察や消防によりますと午後２時４８分、トラックの運転手から「軽自動車と接触し、軽自動車が]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】男性を車に監禁・暴行加えた疑い　公開手配の３０歳男を１年越しに逮捕　国外で身柄確保(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/cf152a3e06f38bb9cd6c1bba45d6467b454e3b9e?source=rss</id>
