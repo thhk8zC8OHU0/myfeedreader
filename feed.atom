@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T07:29:58.370Z</updated>
+    <updated>2026-09-04T07:38:44.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪高裁でオンライン会議に約６０００アカウントを誤登録　事件の情報漏えいは確認されず(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/02e19c8cb8d38f3516e946dd270b7e9619adece7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/02e19c8cb8d38f3516e946dd270b7e9619adece7?source=rss"/>
+        <updated>2026-09-04T07:36:48.000Z</updated>
+        <summary type="html"><![CDATA[大阪高等裁判所は４日、オンライン会議のチームを作成する際に、不必要な外部のアカウントを誤って登録し、一時的にお互いのメールアドレスなどが確認できる状態になっていたと発表しました。
+
+　大阪高裁の民事]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】阪急神戸線が全線で運転見合わせ　人身事故の影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ad216fe996c2a56f1ae2c3bac32944f2952be64d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ad216fe996c2a56f1ae2c3bac32944f2952be64d?source=rss"/>
+        <updated>2026-09-04T07:34:19.000Z</updated>
+        <summary type="html"><![CDATA[阪急電鉄によりますと、４日午後４時８分ごろ、神戸線・武庫之荘駅で人身事故が発生したということです。
+
+　この影響で、午後４時半現在、阪急神戸線は大阪梅田－新開地駅間の全線で運転を見合わせています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PS5・Xbox陣営、トランプ関税還付めぐる訴訟で任天堂に追随。公正価格での正当な取引と主張]]></title>
         <id>https://gadget.phileweb.com/?p=132461</id>
