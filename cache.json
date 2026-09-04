@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/660/G066036/20260904044/",
+          "author": null,
+          "description": "メビウスは本日，東方Projectの二次創作作品「東方少女綺想譚」のSwitch向けパッケージ版を2026年10月29日に発売すると発表した。プレイヤーは博麗霊夢ら8人を操作し，移動はアクション，戦闘はコマンドバトルで幻想郷を冒険する。設定資料集とアクスタが付属する限定版も販売される。",
+          "link": "https://www.4gamer.net/games/660/G066036/20260904044/",
+          "publishedOn": "2026-09-04T09:12:57.000Z",
+          "wordCount": 8181,
+          "title": "「東方少女綺想譚」，Switch向けパッケージ版を10月29日に発売。8人のキャラクターで幻想郷を駆けるアクションRPG",
+          "imageUrl": "https://www.4gamer.net/games/660/G066036/20260904044/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/983/G098352/20260904039/",
+          "author": null,
+          "description": "KONAMIは本日（2026年9月4日），幕張メッセにて9月17日から21日まで開催される東京ゲームショウ2026に出展するタイトル情報を公開した。今回は，「Castlevania:Belmont'sCurse」の国内初プレイアブル出展が実施される。さらに，隠しコマンド「↑↑↓↓←→←→BA」の40周年を記念した特別展示も設けられる。",
+          "link": "https://www.4gamer.net/games/983/G098352/20260904039/",
+          "publishedOn": "2026-09-04T09:09:58.000Z",
+          "wordCount": 8489,
+          "title": "KONAMI，TGS 2026に「Castlevania: Belmont's Curse」を国内初プレイアブル出展。隠しコマンド「↑↑↓↓←→←→BA」の40周年を記念した特別展示もあり",
+          "imageUrl": "https://www.4gamer.net/games/983/G098352/20260904039/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/897/G089789/20260904036/",
           "author": null,
           "description": "ポケモンは本日（2026年9月4日），ハロウィンをテーマにしたグッズ「PokémonMagicHourIllusion!」を，9月10日にポケモンセンターオンラインで，9月12日にポケモンセンターで発売すると発表した。ハロウィンパーティーで活躍しそうなグッズが展開される。",
@@ -2452,6 +2472,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/db43bc266430f951a942e4c768eb7070c7fa2e88?source=rss",
+          "author": null,
+          "description": "男性を車に監禁したうえ、スタンガンを押し付け現金２６０万円を奪うなどした疑いで公開手配されていた特殊詐欺グループのメンバーの男が逮捕されました。\n\n　男はカンボジアに逃亡していましたが、現地で身柄を",
+          "link": "https://news.yahoo.co.jp/articles/db43bc266430f951a942e4c768eb7070c7fa2e88?source=rss",
+          "publishedOn": "2026-09-04T09:07:14.000Z",
+          "wordCount": 1651,
+          "title": "特殊詐欺の報酬めぐりトラブルか　強盗傷害などの疑いで公開手配されていた男　カンボジアで身柄確保(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082389-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/18193105c5277e3950151864206ca1032a7d83b7?source=rss",
           "author": null,
@@ -16768,6 +16798,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127387/",
+          "author": null,
+          "description": "漫画「こちら葛飾区亀有公園前派出所」のコミックス第202巻の発売を記念して、集英社の「ゼブラック」と「ジャンプ＋」で、コミックス201巻までの漫画全話（第1965話まで）が無料公開されている。9...",
+          "link": "https://anime.eiga.com/news/127387/",
+          "publishedOn": "2026-09-04T09:30:00.000Z",
+          "wordCount": 675,
+          "title": "漫画「こち亀」201巻までの全1965話を9月6日午後2時まで無料公開　コミックス第202巻発売記念",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127381/",
           "author": null,
