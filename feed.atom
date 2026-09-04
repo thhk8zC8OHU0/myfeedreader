@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T06:36:05.431Z</updated>
+    <updated>2026-09-04T06:55:00.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネパールの地下トンネルから作業員が救出される瞬間]]></title>
+        <id>https://www.bbc.com/japanese/articles/cm2741zv9wyo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cm2741zv9wyo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-04T06:45:58.000Z</updated>
+        <summary type="html"><![CDATA[ネパールと中国・チベットの国境沿いの地域で大規模な土石流が8月26日に発生してから9日目の9月4日、水力発電所のトンネルから2人が救出された。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「鬼武者 Way of the Sword」，本日発売。江戸時代初期の京都を舞台に，若き宮本武蔵の剣戟譚を描くシリーズの完全新作]]></title>
+        <id>https://www.4gamer.net/games/865/G086595/20260904028/</id>
+        <link href="https://www.4gamer.net/games/865/G086595/20260904028/"/>
+        <updated>2026-09-04T06:37:23.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは2026年9月4日，アクションゲーム「鬼武者WayoftheSword」を発売した。本作は江戸時代初期の京都を舞台に，若き宮本武蔵の剣戟譚を描く「鬼武者」シリーズの完全新作だ。発売に伴い，ローンチトレイラーも公開された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり]]></title>
         <id>https://www.bbc.com/japanese/articles/c3re878ypd3o#0</id>
