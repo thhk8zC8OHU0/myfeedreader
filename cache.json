@@ -2423,6 +2423,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b22c4c885c0e3223985bb98c9dfca5f7fb0aac60?source=rss",
+          "author": null,
+          "description": "３日未明、阪急京都本線の長岡天神駅近くの踏切で、遮断棒が降りていない状態で回送列車が通過したことがわかりました。けが人はいないということです。\n\n　阪急電鉄によりますと、３日午前４時ごろ、長岡天神駅",
+          "link": "https://news.yahoo.co.jp/articles/b22c4c885c0e3223985bb98c9dfca5f7fb0aac60?source=rss",
+          "publishedOn": "2026-09-04T05:02:05.000Z",
+          "wordCount": 1639,
+          "title": "踏切の遮断棒が降りないまま回送列車通過　けが人なし　阪急京都本線　夜間作業で動作止めたままに(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082381-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a82b37aab25129279872ed5bb11f204a260ed59e?source=rss",
           "author": null,
           "description": "近畿日本鉄道によりますと、4日午後0時38分ごろ、橿原神宮前－吉野駅間で停電が発生した影響で、近鉄吉野線は吉野－橿原神宮前駅間の全線で運転を見合わせています。\n\n　運転再開は午後2時10分ごろの見込",
@@ -10060,6 +10070,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066822.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/03(木) 15:33:32.37 ID:1kvN5AjJ0●.net\n\n\n\n\n\n\n\n\n\n\n児童虐待か…「娘のほおを平手打ちしてしまった」53歳の父親が自ら警察に連絡 北海道苫小牧市 https://t.co/CB02JQfVcr— STVニュース北海道 (@stvhoudoubu) September 3, 2026 \n\n\n\n\n\n\n\n\n北海道・苫小牧...",
+          "link": "https://itainews.com/archives/2066822.html",
+          "publishedOn": "2026-09-04T05:01:55.000Z",
+          "wordCount": 3095,
+          "title": "父親(53)「娘のほおを平手打ちしてしまった」自ら警察に連絡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/9/f953bcdc.png"
+        },
         {
           "id": "https://itainews.com/archives/2066820.html",
           "author": "dqnplus",

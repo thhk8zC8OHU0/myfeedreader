@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T04:55:54.217Z</updated>
+    <updated>2026-09-04T05:08:38.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[踏切の遮断棒が降りないまま回送列車通過　けが人なし　阪急京都本線　夜間作業で動作止めたままに(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b22c4c885c0e3223985bb98c9dfca5f7fb0aac60?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b22c4c885c0e3223985bb98c9dfca5f7fb0aac60?source=rss"/>
+        <updated>2026-09-04T05:02:05.000Z</updated>
+        <summary type="html"><![CDATA[３日未明、阪急京都本線の長岡天神駅近くの踏切で、遮断棒が降りていない状態で回送列車が通過したことがわかりました。けが人はいないということです。
+
+　阪急電鉄によりますと、３日午前４時ごろ、長岡天神駅]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[父親(53)「娘のほおを平手打ちしてしまった」自ら警察に連絡]]></title>
+        <id>https://itainews.com/archives/2066822.html</id>
+        <link href="https://itainews.com/archives/2066822.html"/>
+        <updated>2026-09-04T05:01:55.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/09/03(木) 15:33:32.37 ID:1kvN5AjJ0●.net
+
+
+
+
+
+
+
+
+
+
+児童虐待か…「娘のほおを平手打ちしてしまった」53歳の父親が自ら警察に連絡 北海道苫小牧市 https://t.co/CB02JQfVcr— STVニュース北海道 (@stvhoudoubu) September 3, 2026 
+
+
+
+
+
+
+
+
+北海道・苫小牧...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、折りたたみディスプレイMacBook開発中止か、別の有機ELモデルも取りやめとのうわさ]]></title>
         <id>https://gadget.phileweb.com/?p=132437</id>
