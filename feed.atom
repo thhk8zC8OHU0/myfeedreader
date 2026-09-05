@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T14:07:00.761Z</updated>
+    <updated>2026-09-05T14:22:55.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くら寿司　「ちいかわ」コラボキャンペーン中止　従業員の不正行為が判明(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3b02ac2ff3700aace9b1ea1591330f7d39e2cc08?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3b02ac2ff3700aace9b1ea1591330f7d39e2cc08?source=rss"/>
+        <updated>2026-09-05T14:14:19.000Z</updated>
+        <summary type="html"><![CDATA[大手回転寿司チェーンの「くら寿司」（本部・大阪府堺市）は５日、人気キャラクター「ちいかわ」とのコラボキャンペーンを、６日からとりやめるとホームページ上で発表しました。従業員による不正行為が判明したた]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シェアハウス番組で、何の恋愛も発展しないまま10年間売れ残り続けてる２人【ジェラードン】]]></title>
+        <id>https://www.youtube.com/watch?v=kUdHOeBiu9I</id>
+        <link href="https://www.youtube.com/watch?v=kUdHOeBiu9I"/>
+        <updated>2026-09-05T14:08:23.000Z</updated>
+        <author>
+            <name>ジェラードンチャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セツナ】“暴行され”死亡の男子高校生　車に1km超追跡される　目撃者「尋常じゃない」相模原]]></title>
         <id>https://itainews.com/archives/2066893.html</id>

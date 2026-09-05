@@ -2423,6 +2423,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/3b02ac2ff3700aace9b1ea1591330f7d39e2cc08?source=rss",
+          "author": null,
+          "description": "大手回転寿司チェーンの「くら寿司」（本部・大阪府堺市）は５日、人気キャラクター「ちいかわ」とのコラボキャンペーンを、６日からとりやめるとホームページ上で発表しました。従業員による不正行為が判明したた",
+          "link": "https://news.yahoo.co.jp/articles/3b02ac2ff3700aace9b1ea1591330f7d39e2cc08?source=rss",
+          "publishedOn": "2026-09-05T14:14:19.000Z",
+          "wordCount": 1642,
+          "title": "くら寿司　「ちいかわ」コラボキャンペーン中止　従業員の不正行為が判明(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00082405-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/e88d5baba2de028ef4c77291419f354f0118b1de?source=rss",
           "author": null,
           "description": "「赤ちゃんポスト」と、「内密出産」の導入を目指す大阪府泉佐野市で、連携先の病院の改修工事が始まりました。\n\n　連携先の病院「りんくう総合医療センター」で、妊産婦らが利用できる相談窓口の改修工事が始ま",
@@ -20554,6 +20564,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kUdHOeBiu9I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kUdHOeBiu9I",
+          "publishedOn": "2026-09-05T14:08:23.000Z",
+          "wordCount": null,
+          "title": "シェアハウス番組で、何の恋愛も発展しないまま10年間売れ残り続けてる２人【ジェラードン】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ntlgABlHyCw",
           "author": null,
