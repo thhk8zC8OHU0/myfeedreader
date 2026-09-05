@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T08:07:25.462Z</updated>
+    <updated>2026-09-05T08:24:42.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】海水浴場で男性が行方不明に　波にさらわされたか　京都・舞鶴市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ead06be5df7c11b7be61221036720b576e64036e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ead06be5df7c11b7be61221036720b576e64036e?source=rss"/>
+        <updated>2026-09-05T08:18:03.000Z</updated>
+        <summary type="html"><![CDATA[５日午後、京都府舞鶴市の海水浴場に遊びに来ていた成人男性が行方不明になっています。
+
+　５日午後３時半ごろ、舞鶴市の神崎海水浴場で「成人男性１人が海で泳いでいて行方不明になった」と男性の友人から連絡]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国産ジャガイモ輸入解禁の害虫リスク、フードジャーナリスト「安心安全なものが少なくなり高くなる懸念」]]></title>
         <id>https://itainews.com/archives/2066873.html</id>
