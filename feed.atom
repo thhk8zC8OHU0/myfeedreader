@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T15:35:27.701Z</updated>
+    <updated>2026-09-05T15:49:21.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[盗んだバイクを積み込みトラック急発進　バイクの持ち主を引きずって逃走　強盗致傷容疑で捜査　大阪・堺市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/eb4243823f044fad8ed202f795a31e3ed6b8735f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/eb4243823f044fad8ed202f795a31e3ed6b8735f?source=rss"/>
+        <updated>2026-09-05T15:41:56.000Z</updated>
+        <summary type="html"><![CDATA[５日午後７時すぎ、大阪府堺市で、男が、盗んだバイクを積み込んだトラックを急発進させ、バイクの持ち主の男性を約１０メートル引きずって、そのまま逃走しました。
+
+　男性は負傷し、警察は強盗致傷容疑で捜査]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年9月9日(水)コミック新刊 - コミック新刊チェック]]></title>
         <id>https://comic.sumikko.info/date-item/2026-09-09/</id>
