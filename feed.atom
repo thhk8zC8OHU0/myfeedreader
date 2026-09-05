@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T15:22:55.312Z</updated>
+    <updated>2026-09-05T15:35:27.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29527,16 +29527,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[異常気象の深刻化が加速する中、中国では災害の様子を描いた偽の動画がインターネット上で急速に拡散し、現実世界でも問題を引き起こしている。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1100W出力のハーフブリック型PFCモジュール、Advanced Energy]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/07/news009.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/07/news009.html"/>
-        <updated>2026-08-07T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Advanced Energyは、1100W出力を半ブリックフォームファクターで実現するPFCコンバーター「AIH03ZPFC」を発表した。高効率と高電力密度を備え、多様な産業用途に対応する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
