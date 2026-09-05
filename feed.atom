@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T13:49:50.304Z</updated>
+    <updated>2026-09-05T14:07:00.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セツナ】“暴行され”死亡の男子高校生　車に1km超追跡される　目撃者「尋常じゃない」相模原]]></title>
+        <id>https://itainews.com/archives/2066893.html</id>
+        <link href="https://itainews.com/archives/2066893.html"/>
+        <updated>2026-09-05T14:01:47.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/09/05(土) 15:44:13.29 ID:XJEJvuVr9.net
+
+
+
+
+
+
+
+“暴行され”死亡の男子高校生　車に1km超追跡される　目撃者「尋常じゃない」相模原 ▼詳しくは画像をタッチhttps://t.co/4b3Uab5yfm@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 5, ...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[航空券も購入済みだったのに…帰国予定の外国人を国費で強制送還　「人権蹂躙」の上に税金のムダ使いでは？]]></title>
         <id>https://itainews.com/archives/2066889.html</id>
@@ -29420,16 +29438,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[GRYPHLINEは本日，3Dリアルタイム戦略アクションRPG「アークナイツ：エンドフィールド」のオペレーター「ペリカ」のコスチュームが「フォートナイト」で2026年8月14日（太平洋時間）に登場すると発表した。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LDO置き換えで実装面積半減、車載向け36V DC-DCコンバーター]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/07/news040.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/07/news040.html"/>
-        <updated>2026-08-07T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トレックスは2026年8月6日、車載向けの36V耐圧DC-DCコンバーター「XD9704／9705」シリーズの開発を発表した。開発中のDFN1820-6J品は、一般的な同等性能のLDOからの置き換えで実装面積を約2分の1にできるほか、発熱も37℃と約3分の1に改善できるという。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>
