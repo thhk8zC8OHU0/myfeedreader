@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T01:22:16.913Z</updated>
+    <updated>2026-09-05T01:36:01.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国連総会、アフリカの実際の面積を反映した世界地図への置き換えを決議]]></title>
+        <id>https://www.bbc.com/japanese/articles/cvgy7g9wlw8o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cvgy7g9wlw8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-05T01:30:35.000Z</updated>
+        <summary type="html"><![CDATA[国連総会は4日、従来の世界地図を、アフリカ大陸の大きさをより正確に反映したものに置き換える決議案を採択した。西アフリカのトーゴが提出し、アフリカ連合（AU）加盟国が支持した決議案は、フランスやイギリス、日本を含む164カ国の賛成を得て可決された。反対票を投じたのはアメリカのみで、棄権は6カ国だった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ保安庁本部をロシアがドローン攻撃、ゼレンスキー氏が発表　米特使の訪ロ予定を前に]]></title>
         <id>https://www.bbc.com/japanese/articles/ckgw2vvv5zdo#0</id>
