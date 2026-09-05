@@ -2414,16 +2414,6 @@
           "wordCount": 8702,
           "title": "「アークナイツ：エンドフィールド」，オペレーター「ペリカ」のコスチュームが「フォートナイト」で8月14日（太平洋時間）に登場",
           "imageUrl": "https://www.4gamer.net/games/622/G062211/20260807007/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/030/G103085/20260805057/",
-          "author": null,
-          "description": "モスは本日（2026年8月7日），2D弾幕シューティングゲーム「Caladrius2/DarkElement（カラドリウス2/ダークエレメント）」を今冬に発売すると発表した。対応機種はPS5とNintendoSwitch。本作は，初登場から13年を経てリリースされる「カラドリウス」シリーズの完全新作タイトルだ。",
-          "link": "https://www.4gamer.net/games/030/G103085/20260805057/",
-          "publishedOn": "2026-08-07T00:00:00.000Z",
-          "wordCount": 8338,
-          "title": "2D弾幕シューティングゲーム「Caladrius2/Dark Element」，今冬に発売。初登場から13年を経てリリースされる完全新作",
-          "imageUrl": "https://www.4gamer.net/games/030/G103085/20260805057/SS/001.jpg"
         }
       ]
     },
@@ -9065,16 +9055,6 @@
           "wordCount": 2630,
           "title": "LDO置き換えで実装面積半減、車載向け36V DC-DCコンバーター",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/07/cover_news040.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/07/news036.html",
-          "author": null,
-          "description": "キオクシアは、オンデバイスAIに対応したモバイル機器やエッジデバイス向けに、UFS 5.0対応組み込み式フラッシュメモリの1Tバイトおよび512Gバイト品のサンプル出荷を開始した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/07/news036.html",
-          "publishedOn": "2026-08-07T00:00:00.000Z",
-          "wordCount": 2637,
-          "title": "オンデバイスAI向けUFS 5.0対応メモリ、キオクシア",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/07/cover_news036.jpg"
         }
       ]
     },
@@ -10350,6 +10330,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066887.html",
+          "author": "damono3856",
+          "description": "1 名前：♪♪♪ ★：2026/09/05(土) 11:15:43.78 ID:1RT0pvw/9.net\n\n\n\n\n\n\n\n「相手が殴ろうとしてきたので刺した」同じ日本語学校の男性を刺し殺そうとした疑いで逮捕されたスリランカ人留学生を不起訴　大阪地検 https://t.co/qc5gWuC7D8#MBSニュース #ニュース— MBSニ...",
+          "link": "https://itainews.com/archives/2066887.html",
+          "publishedOn": "2026-09-05T12:03:39.000Z",
+          "wordCount": 3077,
+          "title": "「相手が殴ろうとしてきたので刺した」同じ日本語学校の男性を刺し殺そうとした疑いで逮捕されたスリランカ人留学生を不起訴　大阪地検",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/7/87ba88bf-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066895.html",
           "author": "damono3856",
@@ -17208,6 +17198,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127389/",
+          "author": null,
+          "description": "2006年の公開から20周年を記念し、現在渋谷ホワイトシネクイントにてリバイバル上映中の映画「ハチミツとクローバー」が、10月以降、全国各地の劇場でも上映されることが決定した。 羽海野チカの人気...",
+          "link": "https://anime.eiga.com/news/127389/",
+          "publishedOn": "2026-09-05T12:00:00.000Z",
+          "wordCount": 762,
+          "title": "櫻井翔、蒼井優共演「ハチミツとクローバー」リバイバル上映　好評につき10月以降全国各地で順次公開決定",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127388/",
           "author": null,

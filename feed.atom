@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T11:49:14.686Z</updated>
+    <updated>2026-09-05T12:08:20.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「相手が殴ろうとしてきたので刺した」同じ日本語学校の男性を刺し殺そうとした疑いで逮捕されたスリランカ人留学生を不起訴　大阪地検]]></title>
+        <id>https://itainews.com/archives/2066887.html</id>
+        <link href="https://itainews.com/archives/2066887.html"/>
+        <updated>2026-09-05T12:03:39.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：♪♪♪ ★：2026/09/05(土) 11:15:43.78 ID:1RT0pvw/9.net
+
+
+
+
+
+
+
+「相手が殴ろうとしてきたので刺した」同じ日本語学校の男性を刺し殺そうとした疑いで逮捕されたスリランカ人留学生を不起訴　大阪地検 https://t.co/qc5gWuC7D8#MBSニュース #ニュース— MBSニ...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[櫻井翔、蒼井優共演「ハチミツとクローバー」リバイバル上映　好評につき10月以降全国各地で順次公開決定]]></title>
+        <id>https://anime.eiga.com/news/127389/</id>
+        <link href="https://anime.eiga.com/news/127389/"/>
+        <updated>2026-09-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2006年の公開から20周年を記念し、現在渋谷ホワイトシネクイントにてリバイバル上映中の映画「ハチミツとクローバー」が、10月以降、全国各地の劇場でも上映されることが決定した。 羽海野チカの人気...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くら寿司　「ちいかわ」コラボキャンペーン中止を発表　従業員の不正行為判明「深くお詫び」]]></title>
         <id>https://itainews.com/archives/2066895.html</id>
@@ -29372,26 +29400,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <link href="https://edn.itmedia.co.jp/edn/articles/2608/07/news040.html"/>
         <updated>2026-08-07T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[トレックスは2026年8月6日、車載向けの36V耐圧DC-DCコンバーター「XD9704／9705」シリーズの開発を発表した。開発中のDFN1820-6J品は、一般的な同等性能のLDOからの置き換えで実装面積を約2分の1にできるほか、発熱も37℃と約3分の1に改善できるという。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2D弾幕シューティングゲーム「Caladrius2/Dark Element」，今冬に発売。初登場から13年を経てリリースされる完全新作]]></title>
-        <id>https://www.4gamer.net/games/030/G103085/20260805057/</id>
-        <link href="https://www.4gamer.net/games/030/G103085/20260805057/"/>
-        <updated>2026-08-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[モスは本日（2026年8月7日），2D弾幕シューティングゲーム「Caladrius2/DarkElement（カラドリウス2/ダークエレメント）」を今冬に発売すると発表した。対応機種はPS5とNintendoSwitch。本作は，初登場から13年を経てリリースされる「カラドリウス」シリーズの完全新作タイトルだ。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンデバイスAI向けUFS 5.0対応メモリ、キオクシア]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/07/news036.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/07/news036.html"/>
-        <updated>2026-08-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キオクシアは、オンデバイスAIに対応したモバイル機器やエッジデバイス向けに、UFS 5.0対応組み込み式フラッシュメモリの1Tバイトおよび512Gバイト品のサンプル出荷を開始した。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
         </author>
