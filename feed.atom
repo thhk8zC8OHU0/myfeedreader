@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T23:06:14.336Z</updated>
+    <updated>2026-09-05T23:21:46.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海水浴場で行方不明になった男性　遺体で発見　京都・舞鶴市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/90a662848cd32c8baadce19bdfa4f5e3823e825d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/90a662848cd32c8baadce19bdfa4f5e3823e825d?source=rss"/>
+        <updated>2026-09-05T23:12:08.000Z</updated>
+        <summary type="html"><![CDATA[京都府舞鶴市の海水浴場で５日、遊泳中の男性が行方不明になった事故で、舞鶴海上保安部などによる捜索が６日朝、再開され、波打ち際の近くで、この男性の遺体が見つかりました。
+
+　５日午後３時半ごろ、舞鶴市]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「エッチしないと帰さない」”タップル”で出会った女性を自宅連れ込み性的暴行疑い 高橋彩人容疑者(28)逮捕　女性がAIに相談し事件発覚]]></title>
         <id>https://itainews.com/archives/2066881.html</id>
