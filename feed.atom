@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T15:07:21.989Z</updated>
+    <updated>2026-09-05T15:22:55.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29537,16 +29537,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[Advanced Energyは、1100W出力を半ブリックフォームファクターで実現するPFCコンバーター「AIH03ZPFC」を発表した。高効率と高電力密度を備え、多様な産業用途に対応する。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「蒼き雷霆 ガンヴォルト トライアングル エディション Nintendo Switch 2 Edition」，追加シナリオ「ガンヴォルト GX」のPVを公開]]></title>
-        <id>https://www.4gamer.net/games/008/G100886/20260807014/</id>
-        <link href="https://www.4gamer.net/games/008/G100886/20260807014/"/>
-        <updated>2026-08-07T03:21:37.000Z</updated>
-        <summary type="html"><![CDATA[インティ・クリエイツは本日，「蒼き雷霆ガンヴォルトトライアングルエディションNintendoSwitch2Edition」の追加シナリオ「蒼き雷霆ガンヴォルトGX」のPVを公開した。ガンヴォルトとアキュラが共闘する追加シナリオで，新システム「インスピレーション」や「GXスキル」などの詳細も明らかになっている。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
