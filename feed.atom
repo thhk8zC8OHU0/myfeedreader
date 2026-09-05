@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T18:40:08.939Z</updated>
+    <updated>2026-09-05T18:51:32.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29489,16 +29489,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[D4エンタープライズは本日，ニンテンドーeショップで「EGGコンソールコンパイル夏休みセール2026」第2弾を開始した。このセールでは，「ぷよぷよMSX2」と「かーばんくるぴMSX2」を30％オフで購入できる。期間は2026年8月31日まで。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライブ配信で人気のハクトウワシ、ジャッキーが「重体」に　米カリフォルニア]]></title>
-        <id>https://www.bbc.com/japanese/articles/cn5n64g70q5o#4</id>
-        <link href="https://www.bbc.com/japanese/articles/cn5n64g70q5o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T06:47:37.000Z</updated>
-        <summary type="html"><![CDATA[ライブ配信映像で世界的に人気のハクトウワシのジャッキーが、重度の貧血と診断され、「重体」となっている。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
