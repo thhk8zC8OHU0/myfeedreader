@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T18:25:16.584Z</updated>
+    <updated>2026-09-05T18:40:08.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29499,16 +29499,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[ライブ配信映像で世界的に人気のハクトウワシのジャッキーが、重度の貧血と診断され、「重体」となっている。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Nintendo Store」，あと払い（ペイディ），Apple Pay，Google Payでの支払いに対応。入力の手間が省ける]]></title>
-        <id>https://www.4gamer.net/games/999/G999905/20260807032/</id>
-        <link href="https://www.4gamer.net/games/999/G999905/20260807032/"/>
-        <updated>2026-08-07T06:29:16.000Z</updated>
-        <summary type="html"><![CDATA[任天堂は本日（2026年8月7日），同社の公式オンラインストア「NintendoStore」で，新たに3つの支払い方法が利用可能になったことを発表した。このたび追加されたのは，あと払い（ペイディ），ApplePay，GooglePayの3つだ。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
