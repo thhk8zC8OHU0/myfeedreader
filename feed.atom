@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T04:23:47.995Z</updated>
+    <updated>2026-09-05T04:36:53.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「こんなことが日本では普通なのか？」「クレイジー」13年前のめちゃイケ映像が海外にも拡散し、出演者への批判が広がる]]></title>
+        <id>https://itainews.com/archives/2066856.html</id>
+        <link href="https://itainews.com/archives/2066856.html"/>
+        <updated>2026-09-05T04:31:06.000Z</updated>
+        <summary type="html"><![CDATA[1 ：muffin ★：2026/09/04(金) 17:50:53.03 ID:3HeIbrGt9.net
+
+
+
+
+
+
+
+
+
+「二度と表舞台に出るな」13年前の『めちゃイケ』が大炎上、海外にも拡散…“平成のテレビ”がいま断罪される不気味さhttps://t.co/J9SKAomVls— 集英社オンライン (@shueisha_online) September 3...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる]]></title>
+        <id>https://www.bbc.com/japanese/articles/c0465vwnnwzo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c0465vwnnwzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-05T04:26:21.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチンのミレイ大統領は3日、南大西洋にあるフォークランド諸島の周辺で石油採掘を行う企業に経済制裁を課すと警告した。領有権を争っているイギリスとの間で緊張が高まっている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北海道、ホテル価格が高騰しすぎて「テントで野営」が観光客に大流行⛺]]></title>
         <id>https://itainews.com/archives/2066855.html</id>
