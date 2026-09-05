@@ -6510,6 +6510,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cp30133k7lwo#0",
+          "author": null,
+          "description": "アルゼンチンの裁判所は4日、第2次世界大戦時にナチス・ドイツによって略奪され、2025年に同国で発見されたイタリアの名画について、正当な所有者の相続人に返還されなければならないとの判断を下した。後期バロック期の「婦人の肖像」は、アルゼンチンの首都ブエノスアイレス近郊の住宅を紹介するウェブ広告に写り込んでいるが見つかるまで、80年以上、行方不明になっていた。",
+          "link": "https://www.bbc.com/japanese/articles/cp30133k7lwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-05T03:50:08.000Z",
+          "wordCount": 1836,
+          "title": "ナチスが略奪した絵画、正当な所有者に返還へ　アルゼンチンの不動産広告で発見",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2474/live/53cd4fb0-8918-11f0-9cf6-cbf3e73ce2b9.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cy0zkn8k32wo#0",
           "author": null,
           "description": "アメリカ・マサチューセッツ州の裁判所は4日、幼い子ども3人を殺害した罪で起訴された母親の裁判で、審理無効を宣言した。被告側は、産後の精神疾患を患っていたとし、刑事責任を問われるべきではないと主張。陪審がどのような判断を示すかが大きく注目されたが、評決に至らなかった。",
@@ -10320,6 +10330,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066855.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/04(金) 15:51:31.58 ID:oDizjgFf0.net \n\n\n\n\n\n\n\n\n\n札幌ホテル高いけどそれはダメだわ pic.twitter.com/xLCGAStdo2— mat (@mat_pm1) September 3, 2026 \n\n\n\n\n\n\n\n\n\n札幌中島公園でテント張りが話題に ホテル高騰で議論\n最終更新:\n11 分前\n\n投稿者は「ホテル...",
+          "link": "https://itainews.com/archives/2066855.html",
+          "publishedOn": "2026-09-05T04:01:10.000Z",
+          "wordCount": 3093,
+          "title": "北海道、ホテル価格が高騰しすぎて「テントで野営」が観光客に大流行⛺",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/7/a754e3d3.png"
+        },
         {
           "id": "https://itainews.com/archives/2066853.html",
           "author": "dqnplus",
@@ -17028,6 +17048,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127384/",
+          "author": null,
+          "description": "ナガノ氏の漫画「ちいかわ なんか小さくてかわいいやつ」の最新・9巻が11月20日に発売される。 9巻は、ちいかわたちのくすっと笑える日常や、「パラレルワールド編」などのエピソードが収録される。さ...",
+          "link": "https://anime.eiga.com/news/127384/",
+          "publishedOn": "2026-09-05T04:00:00.000Z",
+          "wordCount": 726,
+          "title": "「ちいかわ」コミックス最新9巻が11月20日に発売　特装版には豪華ポストカードブック付属",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127376/",
           "author": null,
