@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T01:06:11.980Z</updated>
+    <updated>2026-09-05T01:22:16.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ保安庁本部をロシアがドローン攻撃、ゼレンスキー氏が発表　米特使の訪ロ予定を前に]]></title>
+        <id>https://www.bbc.com/japanese/articles/ckgw2vvv5zdo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ckgw2vvv5zdo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-05T01:14:33.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は4日、首都キーウ中心部にあるウクライナ保安庁（SBU）の本部庁舎が同日午後、ロシアのドローン攻撃を受けたと発表した。両国の和平を働きかけているアメリカの特使がロシアを5日に訪れる予定だと報じられるなかでの攻撃となった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ドジャース】大谷翔平に「完全に終わった」　長引く不振と故障で今後の二刀流にも暗雲＝米報道]]></title>
         <id>https://itainews.com/archives/2066843.html</id>
