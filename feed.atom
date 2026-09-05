@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T10:49:18.705Z</updated>
+    <updated>2026-09-05T11:06:08.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「これがダメなら全部ダメ？」ちいかわ自作フィギュアが物議、販売せずともSNS公開はNG？弁護士の見解]]></title>
+        <id>https://itainews.com/archives/2066877.html</id>
+        <link href="https://itainews.com/archives/2066877.html"/>
+        <updated>2026-09-05T11:02:37.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/09/04(金) 21:19:29.74 ID:jCCoVYT69.net
+
+
+
+
+
+
+
+セイ◯ーンのグッズが欲しかったの…どこも売り切れなの…だから作ったの「いつでもお見通しフィギュア」を pic.twitter.com/EZBWSdinBe— アルボック (@arubok1230) August 30, 2026 
+
+
+
+
+
+
+9/4(...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[800万円強盗か、中国人逮捕　1人は出国、東京・池袋]]></title>
         <id>https://itainews.com/archives/2066886.html</id>
@@ -29322,26 +29347,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <summary type="html"><![CDATA[キオクシアは、オンデバイスAIに対応したモバイル機器やエッジデバイス向けに、UFS 5.0対応組み込み式フラッシュメモリの1Tバイトおよび512Gバイト品のサンプル出荷を開始した。]]></summary>
         <author>
             <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運動は続かない。でもフィットボクシングは続いた――Switch2版「Fit Boxing 3」を体験し，開発者とたどるシリーズの歩みと広がり]]></title>
-        <id>https://www.4gamer.net/games/004/G100417/20260721021/</id>
-        <link href="https://www.4gamer.net/games/004/G100417/20260721021/"/>
-        <updated>2026-08-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1作目の登場から何年も継続して運動しているコアな「FitBoxing」プレイヤーのゲームライターが，開発/販売元のイマジニアに突撃。「FitBoxing3-Yourパーソナルトレーナー-NintendoSwitch2Edition」とシリーズが育んできたものに迫る。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひと夏の思い出に「桃鉄」100年プレイ。みんなで完走するための準備＆プレイガイド]]></title>
-        <id>https://www.4gamer.net/games/933/G093329/20260730034/</id>
-        <link href="https://www.4gamer.net/games/933/G093329/20260730034/"/>
-        <updated>2026-08-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[夏休みの思い出作りに「桃鉄」100年プレイを楽しむのはどうだろうか？　本稿ではシリーズ最新作「桃太郎電鉄2〜あなたの町もきっとある〜」で100年プレイを完遂するために役立つ情報をまとめてみた。長旅だが，それだけに忘れられないものになるはずだ。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
