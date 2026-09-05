@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T16:07:14.301Z</updated>
+    <updated>2026-09-05T16:24:03.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29527,16 +29527,6 @@ https://spw2026.org/poster-session-2]]></summary>
         <link href="https://www.bbc.com/japanese/articles/c86nvwgz8zno?at_medium=RSS&amp;at_campaign=rss"/>
         <updated>2026-08-07T04:57:26.000Z</updated>
         <summary type="html"><![CDATA[アメリカとイランとの戦争が6カ月目に入り、複数メディアは、アメリカの弾薬が枯渇していると報じている。ドナルド・トランプ米大統領は6日、こうした報道を否定したうえで、情報を漏えいした疑いのある者に「長期の禁錮刑」を科すよう求めると誓った。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【検証】 AI生成か本物か……中国で災害描いた偽動画が問題に]]></title>
-        <id>https://www.bbc.com/japanese/articles/cwylwg4xd7go#4</id>
-        <link href="https://www.bbc.com/japanese/articles/cwylwg4xd7go?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T04:22:52.000Z</updated>
-        <summary type="html"><![CDATA[異常気象の深刻化が加速する中、中国では災害の様子を描いた偽の動画がインターネット上で急速に拡散し、現実世界でも問題を引き起こしている。]]></summary>
         <author>
             <name>BBC Japanese</name>
         </author>
