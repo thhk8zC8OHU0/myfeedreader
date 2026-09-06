@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T07:24:10.711Z</updated>
+    <updated>2026-09-06T07:37:12.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29799,16 +29799,6 @@ https://spw2026.org/poster-session-1
 https://spw2026.org/poster-session-2]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「THQ Nordic デジタルショーケース 2026」発表情報まとめ。狩猟シミュレーション「Way of the Hunter 2」の発売日が9月29日に決定]]></title>
-        <id>https://www.4gamer.net/games/991/G999110/20260807063/</id>
-        <link href="https://www.4gamer.net/games/991/G999110/20260807063/"/>
-        <updated>2026-08-07T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[THQNordicは本日（2026年8月7日），公式番組「THQNordicデジタルショーケース2026」を配信した。狩猟シミュレーションゲーム「WayoftheHunter2」の発売日や，DigixArtが手掛ける「Road96」の世界を舞台にした新作などが発表された。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
