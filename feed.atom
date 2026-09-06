@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T08:38:47.016Z</updated>
+    <updated>2026-09-06T08:50:34.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】東海道新幹線　６日夜から遅れや運転見合わせの可能性　大雨予想で(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a2afdd214f9134641ea431706cd70cf5773f512e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a2afdd214f9134641ea431706cd70cf5773f512e?source=rss"/>
+        <updated>2026-09-06T08:42:36.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ東海は、東海道新幹線が６日の夜から７日の午前中にかけて大雨が予想されるため、列車の遅れや運転見合わせが発生する可能性があると発表しました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「人が刺された。ガソリンをまいている」とケーキ店から110番,焼け跡から2遺体・3人搬送 岐阜・本巣市]]></title>
         <id>https://itainews.com/archives/2066909.html</id>

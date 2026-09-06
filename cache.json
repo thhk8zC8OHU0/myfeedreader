@@ -2303,6 +2303,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/a2afdd214f9134641ea431706cd70cf5773f512e?source=rss",
+          "author": null,
+          "description": "ＪＲ東海は、東海道新幹線が６日の夜から７日の午前中にかけて大雨が予想されるため、列車の遅れや運転見合わせが発生する可能性があると発表しました。",
+          "link": "https://news.yahoo.co.jp/articles/a2afdd214f9134641ea431706cd70cf5773f512e?source=rss",
+          "publishedOn": "2026-09-06T08:42:36.000Z",
+          "wordCount": 1677,
+          "title": "【速報】東海道新幹線　６日夜から遅れや運転見合わせの可能性　大雨予想で(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00082410-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/2504a22b82db315b34b2bf71aedb131337efd8f8?source=rss",
           "author": null,
           "description": "５日、京都府舞鶴市の海水浴場で行方不明になっていた男性が６日朝、遺体で見つかりました。\n\n　舞鶴市の神崎海水浴場近くで遺体で見つかったのは、大阪府羽曳野市に住む３４歳の男性です。\n\n　男性は５日、知",
