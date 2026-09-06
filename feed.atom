@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T07:37:12.353Z</updated>
+    <updated>2026-09-06T07:49:29.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -29783,22 +29783,6 @@ Cuvieの一般向けエロマンガ。とってつけたような「とんでも
         <summary type="html"><![CDATA[最近、ロボットか人間かを判定するテストでめちゃくちゃ苦労するようになってきたので、身体の機械化が進んでいるんだと思う。さよなら、人類……（ｳｨｰﾝ）（起動音）]]></summary>
         <author>
             <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Photon Workshop 2026 materials available]]></title>
-        <id>https://image-sensors-world.blogspot.com/2026/07/single-photon-workshop-2026-materials.html</id>
-        <link href="https://image-sensors-world.blogspot.com/2026/07/single-photon-workshop-2026-materials.html"/>
-        <updated>2026-08-07T19:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Abstracts from the recently concluded SPW2026 in Naples, Italy are now available online:
-
-https://spw2026.org/programme
-
-https://spw2026.org/poster-session-1
-
-https://spw2026.org/poster-session-2]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
