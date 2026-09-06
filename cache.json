@@ -2303,6 +2303,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/2b4f4a67296913f6b9589c24d79a2af443a3084e?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと６日午後６時３０分ごろ、京都線の向日町駅と長岡京駅との間の踏切で、草津発・姫路行きの新快速電車が踏切内にあった自転車と接触しました。電車の乗客にけが人報はいないということです。",
+          "link": "https://news.yahoo.co.jp/articles/2b4f4a67296913f6b9589c24d79a2af443a3084e?source=rss",
+          "publishedOn": "2026-09-06T10:47:54.000Z",
+          "wordCount": 1622,
+          "title": "ＪＲ京都線・京都～高槻駅間で運転見合わせ　踏切で新快速が自転車と衝突　午後７時５０分ごろ再開見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00082412-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a2afdd214f9134641ea431706cd70cf5773f512e?source=rss",
           "author": null,
           "description": "ＪＲ東海は、東海道新幹線が６日の夜から７日の午前中にかけて大雨が予想されるため、列車の遅れや運転見合わせが発生する可能性があると発表しました。",

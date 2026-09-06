@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T10:37:09.787Z</updated>
+    <updated>2026-09-06T10:49:37.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ＪＲ京都線・京都～高槻駅間で運転見合わせ　踏切で新快速が自転車と衝突　午後７時５０分ごろ再開見込み(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2b4f4a67296913f6b9589c24d79a2af443a3084e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2b4f4a67296913f6b9589c24d79a2af443a3084e?source=rss"/>
+        <updated>2026-09-06T10:47:54.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと６日午後６時３０分ごろ、京都線の向日町駅と長岡京駅との間の踏切で、草津発・姫路行きの新快速電車が踏切内にあった自転車と接触しました。電車の乗客にけが人報はいないということです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くら寿司、「ちいかわ」キャンペーン中止→「お詫びの気持ち」割引を発表【概要】]]></title>
         <id>https://itainews.com/archives/2066919.html</id>
