@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T04:07:28.963Z</updated>
+    <updated>2026-09-06T04:24:42.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海水浴場で行方不明の男性が遺体で見つかる　知人らと飲酒後に遊泳、周辺の波はやや高く　京都・舞鶴市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2504a22b82db315b34b2bf71aedb131337efd8f8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2504a22b82db315b34b2bf71aedb131337efd8f8?source=rss"/>
+        <updated>2026-09-06T04:11:50.000Z</updated>
+        <summary type="html"><![CDATA[５日、京都府舞鶴市の海水浴場で行方不明になっていた男性が６日朝、遺体で見つかりました。
+
+　舞鶴市の神崎海水浴場近くで遺体で見つかったのは、大阪府羽曳野市に住む３４歳の男性です。
+
+　男性は５日、知]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初秋の味覚「豊岡ぶどう」収穫最盛期　甘さ酸味ともに上々の出来　兵庫・豊岡市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/610936400fa350d31a3886199263fac26ab29fd6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/610936400fa350d31a3886199263fac26ab29fd6?source=rss"/>
+        <updated>2026-09-06T04:11:36.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県豊岡市で、初秋の味覚として親しまれている「豊岡ぶどう」の収穫が最盛期を迎えています。
+
+　「豊岡ぶどう」は盆地特有の大きな寒暖差によりみずみずしい果汁、そしてさわやかな甘みが際立つ特産品です。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「シドマイヤーズ シヴィライゼーション VII」，第4の時代を追加する無料アップデート「Arc of Tomorrow」を2027年に配信。初の有償拡張パック「Earthrise」も発表]]></title>
         <id>https://www.4gamer.net/games/807/G080705/20260906002/</id>
