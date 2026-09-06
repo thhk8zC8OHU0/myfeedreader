@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T23:49:48.742Z</updated>
+    <updated>2026-09-06T00:12:50.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NHKクローズアップ現代でヤラセ発覚か　20代男性の節約生活を取材した回に違和感を訴える人相次ぐ]]></title>
+        <id>https://itainews.com/archives/2066890.html</id>
+        <link href="https://itainews.com/archives/2066890.html"/>
+        <updated>2026-09-06T00:03:55.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/05(土) 13:05:47.08 ID:rMy097Po0●.net 2BP(2000)
+
+
+
+
+
+
+
+突っ込みどころ満載でオモロイな・おにぎり、なぜラップを用意したのに手で握るのか？・明らかに自炊していない空っぽ冷蔵庫・極端な節約をしているのにペットボトル飲料・炊飯器の蓋が上の棚...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水曜どうでしょう祭UNITE2026 1日目（取り急ぎ版）]]></title>
+        <id>https://logipara.com/?p=13440</id>
+        <link href="https://logipara.com/diary-text/2026-09-06/"/>
+        <updated>2026-09-05T23:59:31.000Z</updated>
+        <summary type="html"><![CDATA[1日目に参加してきました！トイレにいくたびに階段の上り下りが発生して重労働！後ほどまとめます！]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海水浴場で行方不明になった男性　遺体で発見　京都・舞鶴市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/90a662848cd32c8baadce19bdfa4f5e3823e825d?source=rss</id>
