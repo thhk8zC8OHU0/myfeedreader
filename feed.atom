@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T22:23:25.361Z</updated>
+    <updated>2026-09-06T22:35:39.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【マクドナルド】チーズ月見【月見ファミリー・新商品】]]></title>
+        <id>https://foodfighter.jp/?p=317884</id>
+        <link href="https://foodfighter.jp/mcdonalds-tsukimi-cheese-2026"/>
+        <updated>2026-09-06T22:32:23.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水曜どうでしょう祭UNITE2026二日目（取り急ぎ版）]]></title>
+        <id>https://logipara.com/?p=13446</id>
+        <link href="https://logipara.com/diary-text/2026-09-07/"/>
+        <updated>2026-09-06T22:23:53.000Z</updated>
+        <summary type="html"><![CDATA[みなさんにお伝えしたいのは、水曜どうでしょう新作、間違いなく傑作、ということです。 放送は来年春！待てない！！]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「バイトで注意されただけで辞める…」急増する“怒られ慣れていない”若者たち。「ほめる育児」が裏目に出る残酷な理由]]></title>
         <id>https://itainews.com/archives/2066915.html</id>
