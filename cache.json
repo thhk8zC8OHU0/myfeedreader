@@ -2294,16 +2294,6 @@
           "wordCount": 8358,
           "title": "「THQ Nordic デジタルショーケース 2026」発表情報まとめ。狩猟シミュレーション「Way of the Hunter 2」の発売日が9月29日に決定",
           "imageUrl": "https://www.4gamer.net/games/991/G999110/20260807063/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/015/G101520/20260807068/",
-          "author": null,
-          "description": "アニメイトホールディングスは本日，2026年9月12日より東京・LUMINE0（ニュウマン新宿5F）で開催予定の「ファイナルファンタジーX」25周年記念イベント「FINALFANTASYXMUSEUM-幻光の記憶-」のチケット販売を開始した。あわせて，会場で販売されるグッズの一部情報も公開されている。",
-          "link": "https://www.4gamer.net/games/015/G101520/20260807068/",
-          "publishedOn": "2026-08-07T15:00:00.000Z",
-          "wordCount": 8396,
-          "title": "「FFX」25周年記念展覧会「FINAL FANTASY X MUSEUM-幻光の記憶-」チケット販売を開始。入場特典や限定グッズ情報も一部公開に",
-          "imageUrl": "https://www.4gamer.net/games/015/G101520/20260807068/SS/002.jpg"
         }
       ]
     },
@@ -10201,6 +10191,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066891.html",
+          "author": "dqnplus",
+          "description": "1 ：おっさん友の会 ★：2026/09/02(水) 11:56:44.64 ID:j4kpWn3B9.net\n\n\n\n\n\n\n\n\n\n\n婚活パーティー、条件は「同姓」　鈴木・佐藤…各回で募集―主催側「改姓の悩み解消へ」 https://t.co/s3ibouxC5K— 時事ドットコム（時事通信ニュース） (@jijicom) September 1, 2026 \n...",
+          "link": "https://itainews.com/archives/2066891.html",
+          "publishedOn": "2026-09-06T03:01:04.000Z",
+          "wordCount": 3054,
+          "title": "婚活パーティー、条件は「同姓」　鈴木・佐藤…各回で募集　主催側「改姓の悩み解消へ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/1/d1ae4284-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066894.html",
           "author": "dqnplus",
           "description": "1 ：それでも動く名無し：2026/09/05(土) 13:13:59.02 ID:klP3O5D10.net\n\n\n\n\n\n\n\n\n\n\nお騒がせしております。撮影許可はいただいておりますので、ご安心ください。二郎を愛するジロリアンの皆様ご丁寧に教えてくださりありがとうございます。 https://t.co/tCXB0xB3q9— ミ...",
@@ -17148,6 +17148,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127324/",
+          "author": null,
+          "description": "道枝駿佑が主演を務め、安斉星来が共演する映画「うるわしの宵の月」の場面写真が、このほど披露された。あわせて、2026年秋より、韓国で公開されることも決定した。 本作は、講談社「デザート」で連載中...",
+          "link": "https://anime.eiga.com/news/127324/",
+          "publishedOn": "2026-09-06T03:00:00.000Z",
+          "wordCount": 729,
+          "title": "道枝駿佑×安斉星来「うるわしの宵の月」原作でもおなじみの“あのシーン”を映し出す場面写真披露　韓国公開も決定",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127243/",
           "author": null,
