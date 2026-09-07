@@ -2343,6 +2343,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8ade13512b9a829d41b2e7aac858e3499f39f2d7?source=rss",
+          "author": null,
+          "description": "４２年前、滋賀県日野町で起きた強盗殺人事件で、服役中に死亡した阪原弘さんの再審＝「やり直し裁判」をめぐり、検察が有罪判決の根拠となった全ての証拠について、再審で撤回する方針であることがわかりました。",
+          "link": "https://news.yahoo.co.jp/articles/8ade13512b9a829d41b2e7aac858e3499f39f2d7?source=rss",
+          "publishedOn": "2026-09-07T13:11:04.000Z",
+          "wordCount": 1629,
+          "title": "「日野町事件」再審で検察が証拠を撤回へ　即日結審の可能性　服役中死亡の阪原弘さんに無罪見通し(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00082427-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/f6031e8ab63801fd45ab0120d72e95aad75bc5f8?source=rss",
           "author": null,
           "description": "女性の部屋を盗撮したとして懲戒免職処分です。\n\n　７日付で懲戒免職処分を受けたのは、堺消防署の消防士長の男性（３１）です。\n\n　男性は５月、自身が住む集合住宅で女性の部屋の玄関扉に設置されたポストか",
@@ -22474,6 +22484,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13450",
+          "author": "watanabe@logipara.com",
+          "description": "水曜どうでしょう祭UNITE2026から帰宅しました！疲れたけど楽しかったー！！ 　 　 　 　 　 　 それでは現実（体重計）と向き合います",
+          "link": "https://logipara.com/diary-text/2026-09-08/",
+          "publishedOn": "2026-09-07T13:21:46.000Z",
+          "wordCount": 2758,
+          "title": "帰宅！",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13446",
           "author": "watanabe@logipara.com",

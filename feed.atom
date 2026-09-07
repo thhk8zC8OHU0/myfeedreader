@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T13:09:34.904Z</updated>
+    <updated>2026-09-07T13:28:08.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[帰宅！]]></title>
+        <id>https://logipara.com/?p=13450</id>
+        <link href="https://logipara.com/diary-text/2026-09-08/"/>
+        <updated>2026-09-07T13:21:46.000Z</updated>
+        <summary type="html"><![CDATA[水曜どうでしょう祭UNITE2026から帰宅しました！疲れたけど楽しかったー！！ 　 　 　 　 　 　 それでは現実（体重計）と向き合います]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日野町事件」再審で検察が証拠を撤回へ　即日結審の可能性　服役中死亡の阪原弘さんに無罪見通し(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8ade13512b9a829d41b2e7aac858e3499f39f2d7?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8ade13512b9a829d41b2e7aac858e3499f39f2d7?source=rss"/>
+        <updated>2026-09-07T13:11:04.000Z</updated>
+        <summary type="html"><![CDATA[４２年前、滋賀県日野町で起きた強盗殺人事件で、服役中に死亡した阪原弘さんの再審＝「やり直し裁判」をめぐり、検察が有罪判決の根拠となった全ての証拠について、再審で撤回する方針であることがわかりました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アマゾン貨物機がマイアミ空港でオーバーラン、5人死亡5人負傷　Prime Air…7598]]></title>
         <id>https://itainews.com/archives/2066958.html</id>
