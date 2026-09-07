@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T00:12:48.411Z</updated>
+    <updated>2026-09-07T00:38:04.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
 《「史上最低だと思う」首相ランキング》増税・スキャンダル・失言…女性有権者1000人が烙印を押した1位は : https://t.co/kJtsIa9B5L #総理 #政治 #政治家 #議員— 週刊女性PRIME (@shujoprime)...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ER電池から置き換え可能　3.6V全固体電池モジュール]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/07/news036.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/07/news036.html"/>
+        <updated>2026-09-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マクセルは、ER電池と互換性を有する、ワイヤレス充電対応の全固体電池モジュールと専用充電器を開発した。モジュールは1/2AAサイズで、125℃対応品と150℃対応品を用意する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -8487,6 +8487,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/07/news036.html",
+          "author": null,
+          "description": "マクセルは、ER電池と互換性を有する、ワイヤレス充電対応の全固体電池モジュールと専用充電器を開発した。モジュールは1/2AAサイズで、125℃対応品と150℃対応品を用意する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/07/news036.html",
+          "publishedOn": "2026-09-07T00:00:00.000Z",
+          "wordCount": 2612,
+          "title": "ER電池から置き換え可能　3.6V全固体電池モジュール",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/07/cover_news036.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/04/news073.html",
           "author": null,
           "description": "UART、I2C、SPIは、機器間でデータをやりとりするために広く使われているシリアル通信方式です。それぞれ接続構成や通信速度、信号数、クロックの有無などに違いがあり、用途に応じた使い分けが求められます。本稿では、EDN Japanがこれまで掲載してきた記事から、UART／I2C／SPIの違いやトラブル対策、応用について理解を深める上で役立つ記事をピックアップしてご紹介します。",
