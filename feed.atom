@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T03:41:31.792Z</updated>
+    <updated>2026-09-07T03:53:37.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アマゾンの貨物機が滑走路をオーバーランし炎上、5人死亡　マイアミ国際空港]]></title>
+        <id>https://www.bbc.com/japanese/articles/cp84mq1gz8do#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cp84mq1gz8do?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-07T03:44:44.000Z</updated>
+        <summary type="html"><![CDATA[米フロリダ州マイアミ国際空港で6日、米アマゾンの貨物を輸送する「アマゾン・エア」の貨物機が着陸時に滑走路をオーバーランし、炎上した。この事故により、5人が死亡、5人が重傷を負った。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴリラ・川内ひろし「なぜ一般客なら不可のものが、古謝候補ならできるのか？？」　千円飲み放題疑問視]]></title>
         <id>https://itainews.com/archives/2066929.html</id>
