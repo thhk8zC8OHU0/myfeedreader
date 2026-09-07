@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T03:07:32.160Z</updated>
+    <updated>2026-09-07T03:27:32.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Switch 2「バッテリー交換かんたん」モデルが登場。背面を開ければすぐバッテリー、ネジも外しやすく]]></title>
+        <id>https://gadget.phileweb.com/?p=132506</id>
+        <link href="https://gadget.phileweb.com/post-132506/"/>
+        <updated>2026-09-07T03:26:04.000Z</updated>
+        <summary type="html"><![CDATA[数か月前、任天堂はEU向けにバッテリーを簡単交換できるNintendo Switch 2を投入すると予告していた。2027年2月18日施行のEU「電池規則」により、製品寿命を通じて消費者が自ら容易にバッテリーを交換できる設計が義務づけられるためだ。 では、改訂版Switch 2はどのようなものになっ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】象徴性あふれる和平協議、しかしロシアとウクライナの基本的立場の違いは残る……BBC外交担当編集委員]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyzqep9632o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyzqep9632o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-07T03:21:06.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領の特使たちは、ロシアとウクライナの首都を立て続けに訪問し、両国の大統領と会談した。しかし、根本的な食い違いは依然として残るため、ウクライナ政府は今後も戦いは続くし、厳しい冬を迎えることになるだろうと見ていると、BBCのジェイムズ・ランデイル外交担当編集委員が解説する。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勤務先の社長を殺害し遺体を乗せた車に放火した罪などに問われている男　初公判で起訴内容認める　“会社の金着服し発覚恐れて殺害”検察が冒頭陳述で指摘も　大阪地裁(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0329e016f9696f866df8fd058f69039752126b6b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0329e016f9696f866df8fd058f69039752126b6b?source=rss"/>
+        <updated>2026-09-07T03:12:58.000Z</updated>
+        <summary type="html"><![CDATA[去年１１月、勤務先の社長を殺害し、遺体を乗せた車に放火した罪などに問われている男が初公判で起訴内容を認めました。
+
+　起訴状などによりますと、浜田達也被告（３８）は去年１１月、奈良県大和高田市で勤務]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近畿地方では９日にかけ局地的に雷を伴った激しい雨が降る恐れ　大気の状態が不安定となる見込み　河川の増水などに注意(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ac08bb3230c46d6c34f48d9bd4ebd4c335896f0a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ac08bb3230c46d6c34f48d9bd4ebd4c335896f0a?source=rss"/>
+        <updated>2026-09-07T03:10:22.000Z</updated>
+        <summary type="html"><![CDATA[近畿地方は大気の状態が非常に不安定となっていて、局地的に雷を伴った、激しい雨が降るおそれがあります。
+
+　大阪管区気象台によりますと、暖かく湿った空気が本州付近に停滞する前線に向かって流れ込むため、]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くら寿司「ちいかわ」コラボ中止　従業員による景品横領が発覚か　６日から２日間全品１０％割引に(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/1ef6101ea47ccbc7d82140e8fcc5da97d377113f?source=rss</id>
