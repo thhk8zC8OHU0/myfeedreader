@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T03:27:32.505Z</updated>
+    <updated>2026-09-07T03:41:31.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゴリラ・川内ひろし「なぜ一般客なら不可のものが、古謝候補ならできるのか？？」　千円飲み放題疑問視]]></title>
+        <id>https://itainews.com/archives/2066929.html</id>
+        <link href="https://itainews.com/archives/2066929.html"/>
+        <updated>2026-09-07T03:31:14.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/09/06(日) 12:20:14.74 ID:85AEzPaU0●.net 
+
+
+
+
+
+
+
+
+
+さて、事実関係を整理します。まず、報道にある「2,420円のコース」は利用していません。実際は1,650円のコースをベースに、飲み物の提供時間を2時間から1時間に短縮するなど内容を変更し、会場と交渉し...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch 2「バッテリー交換かんたん」モデルが登場。背面を開ければすぐバッテリー、ネジも外しやすく]]></title>
         <id>https://gadget.phileweb.com/?p=132506</id>
