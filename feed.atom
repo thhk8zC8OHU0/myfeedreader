@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T01:52:14.350Z</updated>
+    <updated>2026-09-07T02:07:12.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[神奈川新聞記者「中国の人々によく言われたのは悪いのは日本の右翼。日本の市民とは仲良く歩みたい」]]></title>
+        <id>https://itainews.com/archives/2066925.html</id>
+        <link href="https://itainews.com/archives/2066925.html"/>
+        <updated>2026-09-07T02:00:14.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/09/04(金) 22:08:41.17 ID:sSP9HUap0●.net
+
+
+
+
+
+
+
+去年行った南京で中国の人々によく言われたのは、「悪いのは日本の右翼。日本の市民とは仲良くし、ともに歩みたい」ということだった。「日本の右翼」とは、歴史改竄を目論み軍国化を進める日本の政治...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[板野友美　YouTube撮影めぐる指摘に謝罪　大浴場の脱衣所でカメラを回し物議も「ホテル側より特別に撮影許可いただいた」]]></title>
         <id>https://itainews.com/archives/2066924.html</id>
