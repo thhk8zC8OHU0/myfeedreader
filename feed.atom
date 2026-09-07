@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T06:34:44.546Z</updated>
+    <updated>2026-09-07T06:56:18.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インドネシアで火山噴火、8空港で17万人が足止め]]></title>
+        <id>https://www.bbc.com/japanese/articles/c3v4d92w3vko#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c3v4d92w3vko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-07T06:33:55.000Z</updated>
+        <summary type="html"><![CDATA[インドネシアのジャワ島とスマトラ島のほぼ中間に位置するアナク・クラカタウ火山では、4日夜遅くに噴火が始まった。これにより、周辺地域では継続的な地震活動のほか、溶岩が吹き出したり、轟音が発生したりしている。当局によると、6日の早朝にもさらに2回の噴火が発生した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲報】ロバーツ監督「大谷は不調だと本性剥き出しで怖い…」]]></title>
         <id>https://itainews.com/archives/2066934.html</id>
