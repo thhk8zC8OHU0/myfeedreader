@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T09:11:13.259Z</updated>
+    <updated>2026-09-07T09:29:26.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くら寿司「ちいかわ」コラボ中止問題　ウラ側には一体･･･？　従業員の景品横領疑惑や非売品の告知用「のぼり旗」もフリマサイトに出品　くら寿司は出品の削除申請や警察への相談も(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/54ad851d81ce9bf76c40086b7bec7e286a9744bc?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/54ad851d81ce9bf76c40086b7bec7e286a9744bc?source=rss"/>
+        <updated>2026-09-07T09:19:55.000Z</updated>
+        <summary type="html"><![CDATA[大手回転ずしチェーンのくら寿司が実施していた人気キャラクター「ちいかわ」とのコラボキャンペーンが中止になった問題で、波紋が広がっています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「鬼武者 Way of the Sword」，全世界販売本数が発売初日に100万本を突破。シリーズ累計販売本数は1000万本を達成]]></title>
+        <id>https://www.4gamer.net/games/865/G086595/20260907031/</id>
+        <link href="https://www.4gamer.net/games/865/G086595/20260907031/"/>
+        <updated>2026-09-07T09:15:56.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは2026年9月7日，「鬼武者WayoftheSword」の全世界販売本数が発売初日に100万本を突破したと発表した。今回の販売伸長により，「鬼武者」シリーズの累計販売本数が1000万本を達成したことも明らかにされた。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【気象予報士解説】近畿地方で再び大雨警戒　８日に「激しい雨」のおそれも　９日にかけても要警戒　関東・東北エリアでは１時間に３０ミリ以上の激しい雨も･･･(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f8c8a9760772fa2fa8da316eaf47514165fb8f85?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f8c8a9760772fa2fa8da316eaf47514165fb8f85?source=rss"/>
+        <updated>2026-09-07T09:10:03.000Z</updated>
+        <summary type="html"><![CDATA[秋雨前線の影響で、６日から７日にかけて大雨となった関東・東北。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【長崎】酒酔い運転の疑いで逮捕された男が容態急変…警察署から救急搬送されるも死亡　佐世保]]></title>
         <id>https://itainews.com/archives/2066948.html</id>

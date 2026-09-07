@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/865/G086595/20260907031/",
+          "author": null,
+          "description": "カプコンは2026年9月7日，「鬼武者WayoftheSword」の全世界販売本数が発売初日に100万本を突破したと発表した。今回の販売伸長により，「鬼武者」シリーズの累計販売本数が1000万本を達成したことも明らかにされた。",
+          "link": "https://www.4gamer.net/games/865/G086595/20260907031/",
+          "publishedOn": "2026-09-07T09:15:56.000Z",
+          "wordCount": 8381,
+          "title": "「鬼武者 Way of the Sword」，全世界販売本数が発売初日に100万本を突破。シリーズ累計販売本数は1000万本を達成",
+          "imageUrl": "https://www.4gamer.net/games/865/G086595/20260907031/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/751/G075133/20260907030/",
           "author": null,
           "description": "PLAYISMは本日（2026年9月7日），KOTAKECREATEが開発を手掛けるウォーキングシミュレーター「8番出口」の累計販売本数が，300万本を突破したと発表した。現在，記念としてPSStoreを除く各プラットフォームにて，「8番出口」とその続編「8番のりば」のセールが実施されている。",
@@ -2342,6 +2352,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/54ad851d81ce9bf76c40086b7bec7e286a9744bc?source=rss",
+          "author": null,
+          "description": "大手回転ずしチェーンのくら寿司が実施していた人気キャラクター「ちいかわ」とのコラボキャンペーンが中止になった問題で、波紋が広がっています。",
+          "link": "https://news.yahoo.co.jp/articles/54ad851d81ce9bf76c40086b7bec7e286a9744bc?source=rss",
+          "publishedOn": "2026-09-07T09:19:55.000Z",
+          "wordCount": 1687,
+          "title": "くら寿司「ちいかわ」コラボ中止問題　ウラ側には一体･･･？　従業員の景品横領疑惑や非売品の告知用「のぼり旗」もフリマサイトに出品　くら寿司は出品の削除申請や警察への相談も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00082423-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f8c8a9760772fa2fa8da316eaf47514165fb8f85?source=rss",
+          "author": null,
+          "description": "秋雨前線の影響で、６日から７日にかけて大雨となった関東・東北。",
+          "link": "https://news.yahoo.co.jp/articles/f8c8a9760772fa2fa8da316eaf47514165fb8f85?source=rss",
+          "publishedOn": "2026-09-07T09:10:03.000Z",
+          "wordCount": 1736,
+          "title": "【気象予報士解説】近畿地方で再び大雨警戒　８日に「激しい雨」のおそれも　９日にかけても要警戒　関東・東北エリアでは１時間に３０ミリ以上の激しい雨も･･･(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00082422-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/af6ac31eac86e1c6ad0434d512f0bec131e413a3?source=rss",
           "author": null,
