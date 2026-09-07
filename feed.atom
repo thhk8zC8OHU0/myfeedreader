@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T04:26:40.111Z</updated>
+    <updated>2026-09-07T04:41:09.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「多くの人は、本田由紀先生というリベラルな女性教授の発言を撤回させるというゲームに興じたいだけ」]]></title>
+        <id>https://itainews.com/archives/2066931.html</id>
+        <link href="https://itainews.com/archives/2066931.html"/>
+        <updated>2026-09-07T04:31:55.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/09/06(日) 17:41:31.83 ID:85AEzPaU0●.net 
+
+
+
+
+
+
+
+
+
+
+多くの人は、本田先生というリベラルな女性教授の発言を撤回させるというゲームに興じたいだけなのだ。（さもなくば、彼らが今まで皇族の方々の権利を侵害してきた現行の法制度に黙っているはずがない）...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【コメダ珈琲店】お月見フルムーンバーガー【数量限定・期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=317905</id>
