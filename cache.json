@@ -9194,6 +9194,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=132567",
+          "author": "Munenori Taniguchi",
+          "description": "特定のコンピューターシステムのハードウェア・ソフトウェア環境を別の別のハードウェア・ソフトウェア環境で再現し、実行可能にするプログラムをエミュレーターと呼ぶが、いまPlayStation 5エミュレーター界隈では、『GTA V』のPS5版をPC上で快適に動かすため、急速な改善作業が行われている。 P […]",
+          "link": "https://gadget.phileweb.com/post-132567/",
+          "publishedOn": "2026-09-07T09:01:00.000Z",
+          "wordCount": 855,
+          "title": "PC版『GTA 6』を待ちきれないPCモッダーら、PS5エミュレーター上の『GTA V』動作を急激に改善してしまう",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/9775f7c48718017c59c15bf66cf99e9a.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=132520",
           "author": "多根清史",
           "description": "2026年8月末、スタートアップ企業Operation Bluebirdは、新たなSNS「Twitter.now」をオープンしたと発表した。これはイーロン・マスク氏が旧Twitter社を買収し、サービス名をXにリブランドした際に「Twitter」関連商標などをXが放棄したと主張し、それらの商標を引き […]",
@@ -10500,6 +10510,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066948.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/06(日) 20:54:38.13 ID:NNdPDRfl9.net\n\n\n\n\n\n\n\n【酒酔い運転疑いの男容態急変 死亡】https://t.co/zWNgVuE1mE— Yahoo!ニュース (@YahooNewsTopics) September 6, 2026  \n\n\n\n\n\n\n9/6(日) 10:45配信\nKTNテレビ長崎\n\n5日午後、酒酔い運転の疑いで逮...",
+          "link": "https://itainews.com/archives/2066948.html",
+          "publishedOn": "2026-09-07T09:02:44.000Z",
+          "wordCount": 3066,
+          "title": "【長崎】酒酔い運転の疑いで逮捕された男が容態急変…警察署から救急搬送されるも死亡　佐世保",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff134879-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066947.html",
           "author": "damono3856",
@@ -17828,6 +17848,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127394/",
+          "author": null,
+          "description": "秋本治氏の長寿ギャグ漫画を新たにテレビアニメ化する「新こちら葛飾区亀有公園前派出所」の放送が2027年にフジテレビでスタートすることが決定し、メインキャストが発表された。主人公の両津勘吉役を落合...",
+          "link": "https://anime.eiga.com/news/127394/",
+          "publishedOn": "2026-09-07T09:00:00.000Z",
+          "wordCount": 737,
+          "title": "「新こち亀」両津勘吉役の落合福嗣、中川役の蒼井翔太らメインキャスト発表　監督は大地丙太郎",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127323/",
           "author": null,
