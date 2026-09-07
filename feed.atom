@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T21:25:22.275Z</updated>
+    <updated>2026-09-07T21:38:04.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無許可操業データセンターが約1140万リットルの漏水事故。学校や役場など断水し一時閉鎖に]]></title>
+        <id>https://gadget.phileweb.com/?p=132579</id>
+        <link href="https://gadget.phileweb.com/post-132579/"/>
+        <updated>2026-09-07T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[先週、米オクラホマ州エル・レノの街にあるデータセンターが300万ガロン（約1140万リットル）もの冷却水が漏れる事故を起こした。これにより、周辺の学校や企業、市役所などで水道が使えなくなり一時的に閉鎖された。市当局は火災および生命安全に関する規則違反を理由にこのデータセンターに閉鎖命令を出す事態に発 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる]]></title>
         <id>https://www.bbc.com/japanese/articles/cqxv249pj9jo#0</id>

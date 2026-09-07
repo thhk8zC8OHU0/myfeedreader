@@ -9234,6 +9234,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=132579",
+          "author": "Munenori Taniguchi",
+          "description": "先週、米オクラホマ州エル・レノの街にあるデータセンターが300万ガロン（約1140万リットル）もの冷却水が漏れる事故を起こした。これにより、周辺の学校や企業、市役所などで水道が使えなくなり一時的に閉鎖された。市当局は火災および生命安全に関する規則違反を理由にこのデータセンターに閉鎖命令を出す事態に発 […]",
+          "link": "https://gadget.phileweb.com/post-132579/",
+          "publishedOn": "2026-09-07T21:30:00.000Z",
+          "wordCount": 704,
+          "title": "無許可操業データセンターが約1140万リットルの漏水事故。学校や役場など断水し一時閉鎖に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/4b479067948c70e7b6a1fc040d428271.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=132567",
           "author": "Munenori Taniguchi",
           "description": "特定のコンピューターシステムのハードウェア・ソフトウェア環境を別の別のハードウェア・ソフトウェア環境で再現し、実行可能にするプログラムをエミュレーターと呼ぶが、いまPlayStation 5エミュレーター界隈では、『GTA V』のPS5版をPC上で快適に動かすため、急速な改善作業が行われている。 P […]",
