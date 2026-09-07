@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T08:29:22.678Z</updated>
+    <updated>2026-09-07T08:44:28.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「8番出口」の累計販売本数が300万本を突破。記念として「8番出口」「8番のりば」のセールがスタート]]></title>
+        <id>https://www.4gamer.net/games/751/G075133/20260907030/</id>
+        <link href="https://www.4gamer.net/games/751/G075133/20260907030/"/>
+        <updated>2026-09-07T08:30:53.000Z</updated>
+        <summary type="html"><![CDATA[PLAYISMは本日（2026年9月7日），KOTAKECREATEが開発を手掛けるウォーキングシミュレーター「8番出口」の累計販売本数が，300万本を突破したと発表した。現在，記念としてPSStoreを除く各プラットフォームにて，「8番出口」とその続編「8番のりば」のセールが実施されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人気アニメフィギュアをこっそり…返還するよう声かけた客に暴行した疑いで男（55）逮捕「黙秘する、何も言いたくない」　鹿児島]]></title>
         <id>https://itainews.com/archives/2066947.html</id>
