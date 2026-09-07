@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T07:28:19.982Z</updated>
+    <updated>2026-09-07T07:43:51.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新「Twitter」名乗るサービスに対し、裁判所が名称使用を仮差し止め。一方「tweet」と鳥ロゴの使用は認める]]></title>
+        <id>https://gadget.phileweb.com/?p=132520</id>
+        <link href="https://gadget.phileweb.com/post-132520/"/>
+        <updated>2026-09-07T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月末、スタートアップ企業Operation Bluebirdは、新たなSNS「Twitter.now」をオープンしたと発表した。これはイーロン・マスク氏が旧Twitter社を買収し、サービス名をXにリブランドした際に「Twitter」関連商標などをXが放棄したと主張し、それらの商標を引き […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国道リニューアル工事に伴い中国道や阪神高速の一部区間が９月２８日夜から１０月１０日朝まで夜間通行止めに　防音シェルターの更新工事のため(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/af6ac31eac86e1c6ad0434d512f0bec131e413a3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/af6ac31eac86e1c6ad0434d512f0bec131e413a3?source=rss"/>
+        <updated>2026-09-07T07:27:34.000Z</updated>
+        <summary type="html"><![CDATA[ネクスコ西日本は７日、中国道のリニューアル工事に伴い、９月２８日夜から１０月１０日朝にかけ、土日・祝日を除き上下線の一部区間で夜間通行止めを実施すると発表しました。
+
+　ネクスコ西日本によりますと、]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学校でヘッドスカーフ着用禁止に、14歳未満の女子生徒　オーストリア]]></title>
         <id>https://www.bbc.com/japanese/articles/cvgy675d6jjo#0</id>

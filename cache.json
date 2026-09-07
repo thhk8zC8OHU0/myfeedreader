@@ -2323,6 +2323,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/af6ac31eac86e1c6ad0434d512f0bec131e413a3?source=rss",
+          "author": null,
+          "description": "ネクスコ西日本は７日、中国道のリニューアル工事に伴い、９月２８日夜から１０月１０日朝にかけ、土日・祝日を除き上下線の一部区間で夜間通行止めを実施すると発表しました。\n\n　ネクスコ西日本によりますと、",
+          "link": "https://news.yahoo.co.jp/articles/af6ac31eac86e1c6ad0434d512f0bec131e413a3?source=rss",
+          "publishedOn": "2026-09-07T07:27:34.000Z",
+          "wordCount": 1645,
+          "title": "中国道リニューアル工事に伴い中国道や阪神高速の一部区間が９月２８日夜から１０月１０日朝まで夜間通行止めに　防音シェルターの更新工事のため(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00082421-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/8be6f2a54c94a1dcc515e705f121c7dc6d33ba53?source=rss",
           "author": null,
           "description": "大手回転ずしチェーンのくら寿司が実施していた人気キャラクターとのコラボキャンペーンが中止になった問題で、非売品の「のぼり旗」がフリマサイトで出品されていたことが分かりました。\n\n　くら寿司は人気キャ",
@@ -9163,6 +9173,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132520",
+          "author": "多根清史",
+          "description": "2026年8月末、スタートアップ企業Operation Bluebirdは、新たなSNS「Twitter.now」をオープンしたと発表した。これはイーロン・マスク氏が旧Twitter社を買収し、サービス名をXにリブランドした際に「Twitter」関連商標などをXが放棄したと主張し、それらの商標を引き […]",
+          "link": "https://gadget.phileweb.com/post-132520/",
+          "publishedOn": "2026-09-07T07:30:00.000Z",
+          "wordCount": 737,
+          "title": "新「Twitter」名乗るサービスに対し、裁判所が名称使用を仮差し止め。一方「tweet」と鳥ロゴの使用は認める",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/67722b5be814e7f1f631e1d37fbae6a0.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132514",
           "author": "多根清史",
