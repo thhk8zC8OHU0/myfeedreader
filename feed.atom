@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T04:41:09.086Z</updated>
+    <updated>2026-09-07T04:53:29.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドイツ極右AfDが大勝へ、東部州議会選　過半数にはわずかに届かない見通し]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyzrn1ernpo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyzrn1ernpo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-07T04:43:23.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ東部ザクセン・アンハルト州で6日、州議会選挙があり、移民排斥を掲げる極右政党「ドイツのための選択肢（AfD）」が主要政党を大きく引き離し、劇的な勝利を収める見通しとなった。過半数には届かないとみられるが、AfDは議会運営を担う民意を得たと主張している。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「多くの人は、本田由紀先生というリベラルな女性教授の発言を撤回させるというゲームに興じたいだけ」]]></title>
         <id>https://itainews.com/archives/2066931.html</id>
