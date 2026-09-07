@@ -2323,6 +2323,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/dea7234d2b9bd72d230ada3a25dce7ecb46334b5?source=rss",
+          "author": null,
+          "description": "３月、岡山県新見市にあるＪＲ伯備線の駅近くの線路内で、作業員が複数人で点検をしていたところに列車が接近した事案が起きていたことが分かりました。\n　作業員らは踏切の警報音で接近に気付き、無事でした。",
+          "link": "https://news.yahoo.co.jp/articles/dea7234d2b9bd72d230ada3a25dce7ecb46334b5?source=rss",
+          "publishedOn": "2026-09-07T05:24:16.000Z",
+          "wordCount": 1672,
+          "title": "ＪＲ西日本・伯備線で保守工事中に列車が作業員に急接近　踏切の警報音で気気付き接触を回避　列車が予定より早く現場に到着したことが原因で接近に気付けず(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-00082419-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/188d61b1ab24697bdbf5623dac421b65f10b941e?source=rss",
           "author": null,
           "description": "集合住宅で、女性が住む部屋の玄関ポストからスマートフォンを差し込み室内を盗撮したとして、堺市は７日付で、消防職員を懲戒免職処分にしたと発表しました。\n\n　堺市によりますと、堺消防署の職員の男性（３１",
@@ -6540,6 +6550,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cn8e6977172o#0",
+          "author": null,
+          "description": "イランとアメリカの敵対関係が激化するなか、イラン側の交渉トップは6日、アメリカの攻撃に対して「より迅速で、より激しく、より痛みを伴う対等」を取ると警告した。イランとアメリカは1週間ほど前から戦闘を再開している。5日には、イランが米軍の艦船を攻撃したことへの報復として、アメリカがイランの石油タンカーを攻撃したと発表していた。",
+          "link": "https://www.bbc.com/japanese/articles/cn8e6977172o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-07T05:23:24.000Z",
+          "wordCount": 2043,
+          "title": "イラン、米の攻撃に「より迅速で、より激しく、より痛みを伴う対応」を行うと警告",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cwyzrn1ernpo#0",
           "author": null,
           "description": "ドイツ東部ザクセン・アンハルト州で6日、州議会選挙があり、移民排斥を掲げる極右政党「ドイツのための選択肢（AfD）」が主要政党を大きく引き離し、劇的な勝利を収める見通しとなった。過半数には届かないとみられるが、AfDは議会運営を担う民意を得たと主張している。",
@@ -10390,6 +10410,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066941.html",
+          "author": "nobi0929",
+          "description": "1 名前：Hitzeschleier ★：2026/09/06(日) 15:35:49.11 ID:klraAc1Z9.net\n\n\n\n\n\n\n\nBreakingDown格闘家の店が提供…麻布十番祭り「食中毒78人」蟹ラーメンから「ドブ川のヤバイ菌」が出ていたhttps://t.co/fn2drdVeeA— 観測者ID:みさお8001 (@AwtWEx1ajAcuglf) September...",
+          "link": "https://itainews.com/archives/2066941.html",
+          "publishedOn": "2026-09-07T05:30:31.000Z",
+          "wordCount": 3089,
+          "title": "BreakingDown格闘家の店が提供…麻布十番祭り「食中毒78人」冷やし蟹ラーメンから「ドブ川のヤバイ菌」が出ていた",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/3/e37da66e-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066936.html",
           "author": "dqnplus",
