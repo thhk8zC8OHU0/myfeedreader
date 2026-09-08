@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T04:07:38.380Z</updated>
+    <updated>2026-09-08T04:26:00.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪市　６月停止の住之江抽水所の応急処置や修理費用で約２１億円を計上する補正予算案を発表　来年度以降支払う債務負担行為と合わせると約６４億円に　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/8d11db097cb5eaffd9c416505a612fada815d5f9?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/8d11db097cb5eaffd9c416505a612fada815d5f9?source=rss"/>
+        <updated>2026-09-08T04:10:14.000Z</updated>
+        <summary type="html"><![CDATA[大阪市は、６月に大雨で停止した住之江抽水所の応急処置や修理費用に、約２１億円を計上する補正予算案を発表しました。
+
+　住之江抽水所は、大阪市南東部の浸水を防ぐために、雨水をためる地下水路「なにわ大放]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名作絵本「ぐりとぐら」めぐる投稿で福音館書店が謝罪　批判受け削除]]></title>
         <id>https://itainews.com/archives/2066964.html</id>
