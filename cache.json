@@ -6670,6 +6670,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c5yegwvq218o#0",
+          "author": null,
+          "description": "レバノン保健省は7日、イスラエルが同日未明にレバノン南部の村を空爆し、少なくとも12人が殺害されたと発表した。",
+          "link": "https://www.bbc.com/japanese/articles/c5yegwvq218o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-08T04:27:32.000Z",
+          "wordCount": 1792,
+          "title": "イスラエル、レバノン南部の村を空爆　少なくとも12人が殺害されたとレバノン発表",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/ceq87dyy0jgo#0",
           "author": null,
           "description": "インドネシアでアナク・クラカタウ火山の噴火が続いている。7日には、全国7カ所の空港が2日連続で閉鎖を余儀なくされたため、約3000便が欠航となり、インドネシア全土で34万人以上が足止めされた。その後、ジャカルタのスカルノ・ハッタ国際空港などは8日から再開した。",
@@ -10680,6 +10690,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066971.html",
+          "author": "dqnplus",
+          "description": "1 ：nita ★：2026/09/07(月) 19:52:20.12 ID:8d+BLImH9.net\n\n\n\n\n\n\n\n\n\n\n議員の端末から警告音、議事中断／八戸市議会https://t.co/XSFeOU8owC#東奥日報— 東奥日報（青森） (@toonippo) September 7, 2026 \n\n\n\n\n\n\n\n\n\n9/7(月) 19:19配信\n\n東奥日報\n\n\n\n　「トロイの木馬に...",
+          "link": "https://itainews.com/archives/2066971.html",
+          "publishedOn": "2026-09-08T04:31:29.000Z",
+          "wordCount": 3071,
+          "title": "「お使いのシステムはトロイの木馬型スパイウェアに感染しています」　議員の端末から警告音、議事中断／八戸市議会",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/9/a963fc99-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066964.html",
           "author": "dqnplus",

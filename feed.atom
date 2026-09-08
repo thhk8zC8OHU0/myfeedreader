@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T04:26:00.153Z</updated>
+    <updated>2026-09-08T04:40:54.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「お使いのシステムはトロイの木馬型スパイウェアに感染しています」　議員の端末から警告音、議事中断／八戸市議会]]></title>
+        <id>https://itainews.com/archives/2066971.html</id>
+        <link href="https://itainews.com/archives/2066971.html"/>
+        <updated>2026-09-08T04:31:29.000Z</updated>
+        <summary type="html"><![CDATA[1 ：nita ★：2026/09/07(月) 19:52:20.12 ID:8d+BLImH9.net
+
+
+
+
+
+
+
+
+
+
+議員の端末から警告音、議事中断／八戸市議会https://t.co/XSFeOU8owC#東奥日報— 東奥日報（青森） (@toonippo) September 7, 2026 
+
+
+
+
+
+
+
+
+
+9/7(月) 19:19配信
+
+東奥日報
+
+
+
+　「トロイの木馬に...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル、レバノン南部の村を空爆　少なくとも12人が殺害されたとレバノン発表]]></title>
+        <id>https://www.bbc.com/japanese/articles/c5yegwvq218o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c5yegwvq218o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-08T04:27:32.000Z</updated>
+        <summary type="html"><![CDATA[レバノン保健省は7日、イスラエルが同日未明にレバノン南部の村を空爆し、少なくとも12人が殺害されたと発表した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】大阪市　６月停止の住之江抽水所の応急処置や修理費用で約２１億円を計上する補正予算案を発表　来年度以降支払う債務負担行為と合わせると約６４億円に　(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/8d11db097cb5eaffd9c416505a612fada815d5f9?source=rss</id>
