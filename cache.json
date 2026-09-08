@@ -2394,16 +2394,6 @@
           "wordCount": 8224,
           "title": "あなたは光ることしかできない機械。謎の訪問者と発光のオンオフで交流する「光るだけしかない機械」のSteam版，8月28日に発売決定",
           "imageUrl": "https://www.4gamer.net/games/976/G097627/20260810001/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/040/G004099/20260809008/",
-          "author": null,
-          "description": "2026年8月3日〜8月9日，4Gamerに掲載された記事は302本でした。先々週に引き続き，多数の「ChinaJoy2026」の記事やイベントレポート，インタビューなどを掲載して，暑い中でも平常運転だった4Gamerと，世界のゲーム業界の波乱に富んだ1週間を軽めに振り返ってみましょう。",
-          "link": "https://www.4gamer.net/games/040/G004099/20260809008/",
-          "publishedOn": "2026-08-09T22:00:00.000Z",
-          "wordCount": 9520,
-          "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月3日〜8月9日",
-          "imageUrl": "https://www.4gamer.net/games/040/G004099/20260809008/SS/030.jpg"
         }
       ]
     },
@@ -2412,6 +2402,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b8a5553de263804bc10a61dd802be389ff3679bb?source=rss",
+          "author": null,
+          "description": "８日午後６時半分過ぎ、大阪府岸和田市は上白原町、内畑町、塔原町、大沢町、河合町、相川町、神於町の合計１３９５世帯、２８４５人に警戒レベル４の避難指示を発令しました。\n\n　また大阪府泉佐野市も、午後６",
+          "link": "https://news.yahoo.co.jp/articles/b8a5553de263804bc10a61dd802be389ff3679bb?source=rss",
+          "publishedOn": "2026-09-08T09:55:11.000Z",
+          "wordCount": 1657,
+          "title": "【避難指示】大阪・岸和田市内の複数の町と泉佐野市の１地区に警戒レベル４の避難指示　危険な場所から避難を(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082447-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/b2d03c04baa85a0a762487836551d48a7e4788d9?source=rss",
           "author": null,
@@ -10951,6 +10951,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066986.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/08(火) 05:50:27.74 ID:D3EtvrW60●.net\n\n\n\n\n\n\n\nあおり運転注意され男性を車で引きずったか　殺人未遂容疑で男逮捕　千葉・長柄町 https://t.co/r2xY50rgRS@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 7, 2026  \n\n\n\n\n\n\nあおり運転注意さ...",
+          "link": "https://itainews.com/archives/2066986.html",
+          "publishedOn": "2026-09-08T10:02:32.000Z",
+          "wordCount": 3090,
+          "title": "あおり運転で頭文字Dした車カス藤村拓海容疑者逮捕。注意した人をドリフトしながら引きずり殺人未遂",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/a/fa433794-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066983.html",
           "author": "damono3856",
           "description": "1 名前：：2026/09/08(火) 00:55:26.07 ID:ZrvtcX5e0.net\n\n\n\n\n\n\n\nグーグル「Pixel 6a」で発火事故、消費者庁が重大製品事故として公表 https://t.co/FN6QIiR0rw pic.twitter.com/1Y1FHKsbdo— ケータイ Watch (@ktai_watch) September 7, 2026  \n\n\n\n\n\n\n消費者庁は4日、消...",
@@ -18588,6 +18598,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/127402/",
+          "author": null,
+          "description": "9月4～6日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「映画ちいかわ 人魚の島のひみつ」が週末3日間で観客動員92万8000人、興収14億1500万円をあげて再び首位に...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/127402/",
+          "publishedOn": "2026-09-08T10:00:00.000Z",
+          "wordCount": 761,
+          "title": "「映画ちいかわ」1位に再び返り咲き、興収138億円突破　2位は「まどか☆マギカ」",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127399/",
           "author": null,
