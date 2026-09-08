@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/635/G063504/20260908036/",
+          "author": null,
+          "description": "MSYは本日（2026年9月8日），同社のブランド「GRAPHT」が展開する「ASOBIGRAPHT」シリーズより単行本「ストリートファイターがんばれ！ジュリちゃん本」を発売した。本編第1話から第100話までを収録するほか，イラストやおまけ漫画を掲載したページ，作者・観虐氏による書き下ろしの番外編，コメント，あとがきも収録している。",
+          "link": "https://www.4gamer.net/games/635/G063504/20260908036/",
+          "publishedOn": "2026-09-08T09:42:44.000Z",
+          "wordCount": 8351,
+          "title": "「ストリートファイター がんばれ！ジュリちゃん本」，本日発売。イラストやおまけ漫画，書き下ろし番外編なども収録",
+          "imageUrl": "https://www.4gamer.net/games/635/G063504/20260908036/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/968/G096863/20260908031/",
           "author": null,
           "description": "AmazonGameStudiosは本日（2026年9月8日），「トゥームレイダー：レガシー・オブ・アトランティス」の開発者動画を公開した。公開された動画では，CrystalDynamicsとFlyingWildHogのスタッフが出演し，本作の第2レベルである「ギリシャ」をどのように再構築したのかが解説されている。",
@@ -2402,6 +2412,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b2d03c04baa85a0a762487836551d48a7e4788d9?source=rss",
+          "author": null,
+          "description": "京都市で８日、初めてクマが出没している状況を想定した緊急銃猟の実地訓練が行われました。\n\n　緊急銃猟とは去年新設された制度で、クマやイノシシなどが出現した際、住民への危害が予測される場合、市町村長の",
+          "link": "https://news.yahoo.co.jp/articles/b2d03c04baa85a0a762487836551d48a7e4788d9?source=rss",
+          "publishedOn": "2026-09-08T09:49:46.000Z",
+          "wordCount": 1693,
+          "title": "クマの活動が活発になる秋　京都市で屋外初の緊急銃猟訓練　行楽シーズンに遭遇しないための６カ条(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082445-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6eeffb3e726b0755075a6330a42a2f41e41fdba8?source=rss",
+          "author": null,
+          "description": "冠水したアンダーパスが原因で命を落とす。そんな恐ろしい事態が、各地で相次いでいます。\n\n　実は関西にもアンダーパスは非常に多く、身近な「いつもの道」が大雨のたびに危険な場所へと変わる可能性があります",
+          "link": "https://news.yahoo.co.jp/articles/6eeffb3e726b0755075a6330a42a2f41e41fdba8?source=rss",
+          "publishedOn": "2026-09-08T09:40:00.000Z",
+          "wordCount": 1720,
+          "title": "命に関わるアンダーパス冠水の恐怖　あなたの「いつもの道」は大丈夫？　危険な箇所は事前にチェックを(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082444-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a246f0daf31a963dbe0682ef324a364a3ad7008e?source=rss",
           "author": null,
