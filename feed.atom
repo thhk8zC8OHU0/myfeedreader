@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T12:10:33.191Z</updated>
+    <updated>2026-09-08T12:33:11.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ペルソナ30周年」スペシャル生放送，9月20日に配信。TVアニメ「ペルソナ５」第1話〜第5話のYouTube無料公開や，声優ラジオも予定]]></title>
+        <id>https://www.4gamer.net/games/637/G063753/20260908054/</id>
+        <link href="https://www.4gamer.net/games/637/G063753/20260908054/"/>
+        <updated>2026-09-08T12:18:11.000Z</updated>
+        <summary type="html"><![CDATA[セガは本日（2026年9月8日），「ペルソナ」シリーズが30周年を迎えることを記念し，「ペルソナ30周年」スペシャル生放送を9月20日19：00に配信すると発表した。TVアニメ「ペルソナ５」第1話から5話までをYouTubeで無料公開することなども発表されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アデランス】子会社がステマ　外部企業に報酬払って投稿を依頼]]></title>
         <id>https://itainews.com/archives/2067001.html</id>
