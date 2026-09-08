@@ -8787,6 +8787,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/08/news011.html",
+          "author": null,
+          "description": "Morse Microは、既存機器にWi-Fi HaLow接続機能を追加できるUSBドングルを提供する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/08/news011.html",
+          "publishedOn": "2026-09-08T03:30:00.000Z",
+          "wordCount": 2654,
+          "title": "既存機器をWi-Fi HaLow機能対応に、Morse Micro",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/08/l_edn20260904edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/08/news060.html",
           "author": null,
           "description": "Teledyne HiRel SemiconductorsとEverspin Technologiesが、磁気抵抗メモリ（MRAM）ソリューションで提携を発表した。この提携は、航空宇宙や防衛などの分野において、MRAMの採用を加速するきっかけになるかもしれない。",
@@ -10660,6 +10670,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066964.html",
+          "author": "dqnplus",
+          "description": "1 ：muffin ★：2026/09/07(月) 13:57:46.95 ID:ZQXYdsZk9.net\n\n\n\n\n\n\n\n\n\n該当ポストがわからないけど、リプ欄からこちらの画像を切り取らせていただきました。福音館書店のポストとしては不適切だと思います。せっかくの『こどもさんの何故？』があるのに、それを拾わな...",
+          "link": "https://itainews.com/archives/2066964.html",
+          "publishedOn": "2026-09-08T04:01:03.000Z",
+          "wordCount": 3172,
+          "title": "名作絵本「ぐりとぐら」めぐる投稿で福音館書店が謝罪　批判受け削除",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/d/4d6e21b0.png"
+        },
         {
           "id": "https://itainews.com/archives/2066963.html",
           "author": "dqnplus",

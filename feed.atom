@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T03:53:12.729Z</updated>
+    <updated>2026-09-08T04:07:38.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名作絵本「ぐりとぐら」めぐる投稿で福音館書店が謝罪　批判受け削除]]></title>
+        <id>https://itainews.com/archives/2066964.html</id>
+        <link href="https://itainews.com/archives/2066964.html"/>
+        <updated>2026-09-08T04:01:03.000Z</updated>
+        <summary type="html"><![CDATA[1 ：muffin ★：2026/09/07(月) 13:57:46.95 ID:ZQXYdsZk9.net
+
+
+
+
+
+
+
+
+
+該当ポストがわからないけど、リプ欄からこちらの画像を切り取らせていただきました。福音館書店のポストとしては不適切だと思います。せっかくの『こどもさんの何故？』があるのに、それを拾わな...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】ドクターイエローが停車していた京都駅で非常停止ボタン押したなどとして起訴された男　“東京ディズニーシー２５周年”コラボ新幹線からヘッドレストカバーを盗んだ疑いで再逮捕される(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/0ebf071b53f90bf9dbaef99a708d0bee5d53cadd?source=rss</id>
@@ -66,6 +86,16 @@
 何か釣れた pic.twitter.com/0OcKj8rlTr— 山中 (@yamanakanobody) September 7, 2026]]></summary>
         <author>
             <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存機器をWi-Fi HaLow機能対応に、Morse Micro]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/08/news011.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/08/news011.html"/>
+        <updated>2026-09-08T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Morse Microは、既存機器にWi-Fi HaLow接続機能を追加できるUSBドングルを提供する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
