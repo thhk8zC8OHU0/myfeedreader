@@ -8707,6 +8707,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/08/news033.html",
+          "author": null,
+          "description": "サンケン電気は、車載用高圧3相モータードライバー「SAM470M50AF1」の量産を開始した。耐圧が700V、出力電流が50Aで、大電流を要する機器での用途を想定する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/08/news033.html",
+          "publishedOn": "2026-09-08T00:00:00.000Z",
+          "wordCount": 2620,
+          "title": "DBC構造で小型化　耐圧700Vの車載用3相モータードライバー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/08/cover_news033.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/07/news024.html",
           "author": null,
           "description": "Semtechは、サブギガヘルツ帯や2.4GHz帯、NTNに対応するLoRa Plusトランシーバー「LR2022」「LR2012」の量産を開始した。",

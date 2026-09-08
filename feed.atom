@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T00:12:04.848Z</updated>
+    <updated>2026-09-08T00:38:05.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -22,6 +22,16 @@
 「深く深くお詫び」中道・野田佳彦氏、3党合流断念に　落選者から「無知蒙昧」の批判もhttps://t.co/MrDaVGgOE4野田氏は7日のコメントで、中道結成について「物価高で苦しむ生活者の姿に真摯...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DBC構造で小型化　耐圧700Vの車載用3相モータードライバー]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/08/news033.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/08/news033.html"/>
+        <updated>2026-09-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サンケン電気は、車載用高圧3相モータードライバー「SAM470M50AF1」の量産を開始した。耐圧が700V、出力電流が50Aで、大電流を要する機器での用途を想定する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
