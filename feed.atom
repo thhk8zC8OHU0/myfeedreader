@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T22:24:40.871Z</updated>
+    <updated>2026-09-08T22:37:43.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -32290,18 +32290,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
         <summary type="html"><![CDATA[THQNordicは2026年8月8日，「REANIMAL」のDLC「REANIMAL:ThePrisoner」の配信を開始した。DLCでは，新たな2人のキャラクター「兵士」と「囚人」が登場する。戦争によって荒廃した世界を舞台に，まだ見ぬエリアを探索しよう。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徳島県で４６万件の個人情報入りハードディスク２台紛失　データ消去せずに粉砕し廃棄か(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/d6e111991b4706b72b8753f788d3756c385d91b5?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/d6e111991b4706b72b8753f788d3756c385d91b5?source=rss"/>
-        <updated>2026-08-10T10:36:42.000Z</updated>
-        <summary type="html"><![CDATA[徳島県は１０日、氏名や住所、生年月日などを含む延べ約４６万件の個人情報が記録されたハードディスク２台を紛失したと発表しました。
-
-　調査の結果、ハードディスク２台は、業者がデータを消去せずに粉砕し廃]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
