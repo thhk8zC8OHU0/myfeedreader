@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T03:07:24.729Z</updated>
+    <updated>2026-09-08T03:26:41.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【すき家】月見すきやき牛丼【新商品】]]></title>
+        <id>https://foodfighter.jp/?p=317951</id>
+        <link href="https://foodfighter.jp/sukiya-tsukimi-sukiyaki-2026"/>
+        <updated>2026-09-08T03:13:15.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ「ポルノを売って軍事ドローン3万機を買おう」合法化を推進]]></title>
         <id>https://itainews.com/archives/2066962.html</id>
