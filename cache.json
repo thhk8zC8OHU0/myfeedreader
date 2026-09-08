@@ -8817,6 +8817,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news017.html",
+          "author": null,
+          "description": "AIの進化はGPUや大規模言語モデル（LLM）などに焦点が当たりがちです。だが、目立たないながらもAIインフラの性能を大きく左右する要素の一つがストレージです。本稿では、データセンターとエッジという2つの現場に共通する基盤技術として、ストレージの供給網と技術要件を解説します。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/09/news017.html",
+          "publishedOn": "2026-09-08T05:00:00.000Z",
+          "wordCount": 2621,
+          "title": "AIインフラを支えるストレージ技術",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/09/cover_news017.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/08/news011.html",
           "author": null,
           "description": "Morse Microは、既存機器にWi-Fi HaLow接続機能を追加できるUSBドングルを提供する。",
@@ -10700,6 +10710,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066980.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/07(月) 22:31:23.14 ID:JMkUCT8f0●.net\n\n\n\n\n\n\n\nメルカリ、くら寿司ちいかわ騒動巡りコメント　出品削除・禁止の有無は - ITmedia NEWS https://t.co/khx81aar2O— 備忘録 (@hinodehome1f) September 7, 2026 \n\n\n\n\n\n\n\n\n\n\n\nメルカリは9月7日、くら寿...",
+          "link": "https://itainews.com/archives/2066980.html",
+          "publishedOn": "2026-09-08T05:30:32.000Z",
+          "wordCount": 3121,
+          "title": "メルカリ、くら寿司ちいかわ騒動巡りコメント",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/8/4832d6a3-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066973.html",
           "author": "dqnplus",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T05:25:03.670Z</updated>
+    <updated>2026-09-08T05:39:44.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メルカリ、くら寿司ちいかわ騒動巡りコメント]]></title>
+        <id>https://itainews.com/archives/2066980.html</id>
+        <link href="https://itainews.com/archives/2066980.html"/>
+        <updated>2026-09-08T05:30:32.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/09/07(月) 22:31:23.14 ID:JMkUCT8f0●.net
+
+
+
+
+
+
+
+メルカリ、くら寿司ちいかわ騒動巡りコメント　出品削除・禁止の有無は - ITmedia NEWS https://t.co/khx81aar2O— 備忘録 (@hinodehome1f) September 7, 2026 
+
+
+
+
+
+
+
+
+
+
+
+メルカリは9月7日、くら寿...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玉城デニーさん、レンタカーで違法街宣と話題に]]></title>
         <id>https://itainews.com/archives/2066973.html</id>
@@ -35,6 +65,16 @@
         <summary type="html"><![CDATA[集英社ゲームズは本日，幕張メッセで9月17日から21日まで開催される「東京ゲームショウ2026」への出展情報を公開した。同社のブースでは，「呪術廻戦RUMBLE:SURVIVATON」のプレイテスト版と，「UN:Me」の体験版を試遊できる。UN:Meの体験型エリア「不安回廊」や，さまざまなノベルティも用意されている。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIインフラを支えるストレージ技術]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/09/news017.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/09/news017.html"/>
+        <updated>2026-09-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIの進化はGPUや大規模言語モデル（LLM）などに焦点が当たりがちです。だが、目立たないながらもAIインフラの性能を大きく左右する要素の一つがストレージです。本稿では、データセンターとエッジという2つの現場に共通する基盤技術として、ストレージの供給網と技術要件を解説します。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
