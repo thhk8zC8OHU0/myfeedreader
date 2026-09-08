@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T21:23:23.033Z</updated>
+    <updated>2026-09-08T21:36:48.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“触れられる”AIやロボットで活気を取り戻したIFA、来年に向けた課題]]></title>
+        <id>https://gadget.phileweb.com/?p=132647</id>
+        <link href="https://gadget.phileweb.com/post-132647/"/>
+        <updated>2026-09-08T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ・ベルリンで開催されたエレクトロニクスショー「IFA 2026」を取材した。筆者がIFAを訪れるようになったのは2003年。今年も9月2日からのプレイベント期間を含む5日間、メッセ・ベルリンの広大な会場を歩き回った。 IFAは数年前に運営主体がメッセ・ベルリンから、英国のClarion Eve […]]]></summary>
+        <author>
+            <name>山本 敦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】JR西日本　関西線・亀山～加茂間、きのくに線・紀伊田辺～御坊間で運転見合わせ　大雨の影響で　(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/4f137427204701ab55811857e54c6614b59d44f4?source=rss</id>
@@ -32315,16 +32325,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
 　望月亜紀容疑者（５０）は２０１１年１２月ごろ、神戸市中央区のマンションの和室で、就寝中だった当時の夫、西口豊さん（当時４]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watchに「画面なし」や「丸型」登場か、アップルが検討中の情報]]></title>
-        <id>https://gadget.phileweb.com/?p=130326</id>
-        <link href="https://gadget.phileweb.com/post-130326/"/>
-        <updated>2026-08-10T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[アップルが今後のApple Watchを大幅刷新する可能性を検討しているとして、その方向性をBloombergが詳しく報じている。 同社の内情に詳しいMark Gurman記者によれば、Apple WatchがOura Ringなど画面を持たないフィットネスデバイスとの競争激化に直面していることを受 […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
