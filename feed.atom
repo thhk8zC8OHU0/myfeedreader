@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T09:26:53.726Z</updated>
+    <updated>2026-09-08T09:42:16.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[３０年間選ばれなかったのは、姫路城があったから？　彦根城が世界遺産の国内推薦候補に(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a246f0daf31a963dbe0682ef324a364a3ad7008e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a246f0daf31a963dbe0682ef324a364a3ad7008e?source=rss"/>
+        <updated>2026-09-08T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[文化庁の審議会は４日、２０２８年の世界遺産登録を目指す国内推薦候補に、彦根城を選びました。
+
+　１９９２年から実に３０年以上、世界遺産登録を目指し続けてきた彦根城。推薦候補になるまでに、なぜこんなに]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【平塚】10月のららぽーと湘南平塚オープン情報！「ケンタッキーフライドチキン」と「串揚げバイキングくし葉」が開店予定★]]></title>
         <id>https://atsugi-lab.com/?p=61540</id>
