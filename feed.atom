@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T05:52:35.111Z</updated>
+    <updated>2026-09-08T06:09:31.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【解説】ヨーロッパを標的とした破壊工作が急増、疑われているのはロシア]]></title>
+        <id>https://www.bbc.com/japanese/articles/cqjkqyp2ryno#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cqjkqyp2ryno?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-08T06:03:42.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ東部ライプツィヒの空港で爆発物を搭載したドローンが見つかってから1カ月後、同国のアレクサンダー・ドブリント内相は、この事案はロシアに責任があると宣言した。しかし、このドローンは劇的な始まりに過ぎなかった。その後、イタリアからエストニアに至るまで、各地の防衛施設で不審火が相次いだ。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成田空港、カメラマンが取材パスを知人に不正貸与したためフジテレビを無期限出禁に]]></title>
+        <id>https://itainews.com/archives/2066974.html</id>
+        <link href="https://itainews.com/archives/2066974.html"/>
+        <updated>2026-09-08T06:03:10.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/07(月) 18:26:37.47 ID:d2IRT9tu0●.net PLT(17000)
+
+
+
+
+
+
+
+《立ち入り禁止エリアに侵入》フジテレビが成田空港で“出禁トラブル”を起こしていた記事はこちら↓https://t.co/icYsU1Lakn#文春オンライン— 文春オンライン (@bunshun_online) September...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メルカリ、くら寿司ちいかわ騒動巡りコメント]]></title>
         <id>https://itainews.com/archives/2066980.html</id>
