@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T11:07:48.837Z</updated>
+    <updated>2026-09-08T11:25:20.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「カリアのアトリエ 〜夜の王国と追憶の道標〜」，2027年2月25日発売決定。第2弾PVも公開]]></title>
+        <id>https://www.4gamer.net/games/015/G101585/20260908049/</id>
+        <link href="https://www.4gamer.net/games/015/G101585/20260908049/"/>
+        <updated>2026-09-08T11:21:03.000Z</updated>
+        <summary type="html"><![CDATA[コーエーテクモゲームスは本日，錬金術RPG「カリアのアトリエ〜夜の王国と追憶の道標〜」を，2027年2月25日に発売すると発表した。あわせて第2弾PVを公開し，姿や戦い方が変化する「スタイルチェンジ」や超巨大敵戦，新たな調合システムなどの情報を明らかにしている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【東京大学】新設の5年制学部は定員100人、留学生が半数を占めると想定 文学部や医学部など既存の6学部は定員減]]></title>
         <id>https://itainews.com/archives/2066987.html</id>
@@ -22,6 +32,24 @@
 新設の東大5年制学部は定員100人　文学部や医学部は定員減https://t.co/oIU0aijxDr文科省の公表資料では新学部は「価値創造学部」と記載されました。東大によると、学部の設置申請に必要だったため...]]></summary>
         <author>
             <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[珍しく兄より先に特等席を確保しにきた弟が可愛すぎましたw]]></title>
+        <id>https://www.youtube.com/watch?v=jCsTahhfRhQ</id>
+        <link href="https://www.youtube.com/watch?v=jCsTahhfRhQ"/>
+        <updated>2026-09-08T11:01:17.000Z</updated>
+        <author>
+            <name>もちまる日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シュールなパフォーマンスで赤ちゃん泣き止まそうとするベビーシッター【ジェラードン】]]></title>
+        <id>https://www.youtube.com/watch?v=ylfg2dxRAGY</id>
+        <link href="https://www.youtube.com/watch?v=ylfg2dxRAGY"/>
+        <updated>2026-09-08T11:00:06.000Z</updated>
+        <author>
+            <name>ジェラードンチャンネル</name>
         </author>
     </entry>
     <entry>
