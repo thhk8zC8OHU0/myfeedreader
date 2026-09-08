@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T07:09:31.806Z</updated>
+    <updated>2026-09-08T07:26:57.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ファミマ】生ペヤングソースやきそば【新作コンビニ弁当】]]></title>
+        <id>https://foodfighter.jp/?p=317973</id>
+        <link href="https://foodfighter.jp/famima-peyoung-nama"/>
+        <updated>2026-09-08T07:15:13.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「生ペヤングソースやきそば」を世界一詳しく調査しました。   【ファミマ】生ペヤングソースや […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】近畿日本鉄道　大雨の影響で大阪線青山町ー伊勢中川駅間で運転見合わせ　名古屋線でも一部運転見合わせも　広い範囲で遅れが発生(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/c2e33da1271121c8acdd1a2cdcdf76e44420c2f2?source=rss</id>
