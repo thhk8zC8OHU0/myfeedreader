@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T08:08:17.947Z</updated>
+    <updated>2026-09-08T08:28:54.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪府泉州地域内にレベル４土砂災害危険警報　危険な場所から避難を　レベル３大雨警報も継続中(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/25fa798cd03d08f138525c0e647a13f22f90a48b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/25fa798cd03d08f138525c0e647a13f22f90a48b?source=rss"/>
+        <updated>2026-09-08T08:22:30.000Z</updated>
+        <summary type="html"><![CDATA[気象庁などは８日午後５時１０分ごろ、大阪府泉州地域内にレベル４土砂災害危険警報を出しました。
+
+　命に危険が及ぶ土砂災害がいつ発生してもおかしくない状況です。
+　危険な場所から避難するようにしてくだ]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レゴPlayStationが「本当に遊べるゲーム機」に？ 改造キット「BrickStation」開発中]]></title>
+        <id>https://gadget.phileweb.com/?p=132627</id>
+        <link href="https://gadget.phileweb.com/post-132627/"/>
+        <updated>2026-09-08T08:22:24.000Z</updated>
+        <summary type="html"><![CDATA[先週、レゴは大人向けのレゴブロックとして初代「PlayStation」とのコラボレーション商品「レゴ PlayStation」を発表した。 1911ピースのブロックで構成されるこのセットは、有線のコントローラーまでブロックで再現しており、初代PlayStation用ゲームの代表作として『サルゲッチュ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】和歌山県内の一部エリアにレベル４土砂災害危険警報　危険な場所から避難を　レベル３大雨警報も継続中(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d872968c82d9c38d8aa182f9997db8bce5931413?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d872968c82d9c38d8aa182f9997db8bce5931413?source=rss"/>
+        <updated>2026-09-08T08:18:29.000Z</updated>
+        <summary type="html"><![CDATA[気象庁などは８日午後５時ごろ、和歌山県内の一部にレベル４土砂災害危険警報を出しました。
+
+　午後５時８分時点で発表されている対象は、紀の川市、紀美野町、有田町吉備金屋、日高川町中津です。
+
+　危険な]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「トゥームレイダー：レガシー・オブ・アトランティス」，ギリシャエリアの制作背景に迫る開発者動画を公開]]></title>
+        <id>https://www.4gamer.net/games/968/G096863/20260908031/</id>
+        <link href="https://www.4gamer.net/games/968/G096863/20260908031/"/>
+        <updated>2026-09-08T08:08:44.000Z</updated>
+        <summary type="html"><![CDATA[AmazonGameStudiosは本日（2026年9月8日），「トゥームレイダー：レガシー・オブ・アトランティス」の開発者動画を公開した。公開された動画では，CrystalDynamicsとFlyingWildHogのスタッフが出演し，本作の第2レベルである「ギリシャ」をどのように再構築したのかが解説されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ベトナム国籍の男が関西空港から滋賀県内まで「白タク」滋賀県内まで女性を送り届けた疑い　使用していたのは別の容疑者の車・SNSアカウントとの情報も　組織的な「白タク」運営の可能性も(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/4f27167c3cdaa6700a39c14abb00b760cd56bd80?source=rss</id>
