@@ -2403,6 +2403,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/929b260a4e7dbdb5fe64ae7d7d698f6c92e11689?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本はきのくに線で雨量計が規制値に達したため岩代～稲原駅間で運転を見合わせています。\n（８日１７時５分現在）",
+          "link": "https://news.yahoo.co.jp/articles/929b260a4e7dbdb5fe64ae7d7d698f6c92e11689?source=rss",
+          "publishedOn": "2026-09-08T08:36:05.000Z",
+          "wordCount": 1656,
+          "title": "【速報】ＪＲきのくに線　岩代ー稲原駅間で運転見合わせ　大雨の影響受け(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082443-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d47338405af496949a8a5279a2c6fa8d13855d09?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本は９日早朝から大雨と強風が見込まれるため以下の線区・区間で運転取りやめや遅れが発生する可能性があると発表しました。\n\n＜大雨による運転取りやめや遅れの可能性がある線区・区間＞\n【赤穂線】相",
+          "link": "https://news.yahoo.co.jp/articles/d47338405af496949a8a5279a2c6fa8d13855d09?source=rss",
+          "publishedOn": "2026-09-08T08:34:25.000Z",
+          "wordCount": 1648,
+          "title": "【９日交通情報】ＪＲ西日本　大雨・強風による９日の運転取りやめなどの可能性を発表(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082442-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/25fa798cd03d08f138525c0e647a13f22f90a48b?source=rss",
           "author": null,
           "description": "気象庁などは８日午後５時１０分ごろ、大阪府泉州地域内にレベル４土砂災害危険警報を出しました。\n\n　命に危険が及ぶ土砂災害がいつ発生してもおかしくない状況です。\n　危険な場所から避難するようにしてくだ",
@@ -10880,6 +10900,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066982.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/09/07(月) 23:56:19.54 ID:zgvNOfx+9.net\n\n\n\n\n\n\n\nスパイ容疑で中国人逮捕 － ベルギー、半導体情報を流出かhttps://t.co/thXumUeiy5— 共同通信公式 (@kyodo_official) September 7, 2026  \n\n\n\n\n\n\n　【ブリュッセル共同】\nベルギー検察当局は7日、...",
+          "link": "https://itainews.com/archives/2066982.html",
+          "publishedOn": "2026-09-08T08:31:27.000Z",
+          "wordCount": 3121,
+          "title": "【国際】スパイ容疑で中国人逮捕　ベルギー、半導体情報を流出か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/f/dfeb1d82-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066977.html",
           "author": "nobi0929",
