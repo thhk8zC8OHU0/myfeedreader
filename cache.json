@@ -2423,6 +2423,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/61a450d8439242d284a2afc3eedaf885b71b4ddb?source=rss",
+          "author": null,
+          "description": "子どもたちが心待ちにしていたはずのコラボキャンペーンが、一部の従業員の不正によって突如、幕を閉じました。大手回転寿司チェーン「くら寿司」と国民的人気キャラクター「ちいかわ」のコラボキャンペーンをめぐ",
+          "link": "https://news.yahoo.co.jp/articles/61a450d8439242d284a2afc3eedaf885b71b4ddb?source=rss",
+          "publishedOn": "2026-09-08T22:00:00.000Z",
+          "wordCount": 1761,
+          "title": "【独自】「湯飲みは大多数が鍵なしで保管」　くら寿司×ちいかわ横領問題　現役従業員が明かした管理の実態　“限定品”がもたらす光と影(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082453-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4f137427204701ab55811857e54c6614b59d44f4?source=rss",
           "author": null,
           "description": "ＪＲ西日本によると、大雨の影響で、関西線・亀山～加茂間、きのくに線・紀伊田辺～御坊間で、始発から運転を見合わせています。\n\nまた、湖西線で強風が見込まれているため、概ね午前１０時頃から、和邇駅～近江",
@@ -10850,6 +10860,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066995.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/08(火) 09:17:19.15 ID:● 2BP(3000).net\n\n\n\n\n\n\n\n中国の都市面白いからなあ重慶行きてえなあ訪中観光客が急増、最多は韓国人とロシア人で日本人も8位―中国メディアhttps://t.co/ny54VxljKp— machine⿻ (@timeformachine_) September 8, 2026 \n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2066995.html",
+          "publishedOn": "2026-09-08T22:00:52.000Z",
+          "wordCount": 3194,
+          "title": "中国への観光客が急増。　「日本なんかより奥深くて楽しい」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/1/615975da-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067010.html",
           "author": "damono3856",
@@ -21541,21 +21561,6 @@
           "publishedOn": "2026-08-10T11:00:00.000Z",
           "wordCount": 783,
           "title": "「赤ずきん、旅の途中で死体と出会う。」27年にTVアニメ化　難事件に挑む赤ずきん役に宮本侑芽、ピノキオ役に関根明良",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127206/",
-          "author": null,
-          "description": "韓国発のSMARTOON（縦スクロール・フルカラーの漫画）「悪役のエンディングは死のみ」のテレビアニメ化が決定した。 同作は、プレイしていた乙女ゲームの悪女ペネロペ・エカルトになってしまった主人...",
-          "link": "https://anime.eiga.com/news/127206/",
-          "publishedOn": "2026-08-10T10:00:00.000Z",
-          "wordCount": 732,
-          "title": "韓国発の漫画「悪役のエンディングは死のみ」TVアニメ化決定",
           "enclosure": {
             "url": "https://media.eiga.com/images/movie/gallery.gif",
             "type": "image/gif",

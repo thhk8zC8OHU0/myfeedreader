@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T21:50:47.270Z</updated>
+    <updated>2026-09-08T22:08:01.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国への観光客が急増。　「日本なんかより奥深くて楽しい」]]></title>
+        <id>https://itainews.com/archives/2066995.html</id>
+        <link href="https://itainews.com/archives/2066995.html"/>
+        <updated>2026-09-08T22:00:52.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/09/08(火) 09:17:19.15 ID:● 2BP(3000).net
+
+
+
+
+
+
+
+中国の都市面白いからなあ重慶行きてえなあ訪中観光客が急増、最多は韓国人とロシア人で日本人も8位―中国メディアhttps://t.co/ny54VxljKp— machine⿻ (@timeformachine_) September 8, 2026 
+
+
+
+
+...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】「湯飲みは大多数が鍵なしで保管」　くら寿司×ちいかわ横領問題　現役従業員が明かした管理の実態　“限定品”がもたらす光と影(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/61a450d8439242d284a2afc3eedaf885b71b4ddb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/61a450d8439242d284a2afc3eedaf885b71b4ddb?source=rss"/>
+        <updated>2026-09-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[子どもたちが心待ちにしていたはずのコラボキャンペーンが、一部の従業員の不正によって突如、幕を閉じました。大手回転寿司チェーン「くら寿司」と国民的人気キャラクター「ちいかわ」のコラボキャンペーンをめぐ]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“触れられる”AIやロボットで活気を取り戻したIFA、来年に向けた課題]]></title>
         <id>https://gadget.phileweb.com/?p=132647</id>
@@ -32279,16 +32312,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
         <summary type="html"><![CDATA[夏の高校野球、第６日第３試合は高川学園（山口）と高岡商（富山）が対戦し、７－１で高川学園が勝利しました。]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国発の漫画「悪役のエンディングは死のみ」TVアニメ化決定]]></title>
-        <id>https://anime.eiga.com/news/127206/</id>
-        <link href="https://anime.eiga.com/news/127206/"/>
-        <updated>2026-08-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国発のSMARTOON（縦スクロール・フルカラーの漫画）「悪役のエンディングは死のみ」のテレビアニメ化が決定した。 同作は、プレイしていた乙女ゲームの悪女ペネロペ・エカルトになってしまった主人...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
