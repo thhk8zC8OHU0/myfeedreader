@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T13:44:23.565Z</updated>
+    <updated>2026-09-08T13:57:50.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[酒だと思った]]></title>
+        <id>https://logipara.com/?p=13454</id>
+        <link href="https://logipara.com/diary-text/2026-09-09/"/>
+        <updated>2026-09-08T13:53:21.000Z</updated>
+        <summary type="html"><![CDATA[……酒でやられてるだけでは？]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高市発言、ゲーム業界にも悪影響を与えるwwwwwwwwwww]]></title>
         <id>https://itainews.com/archives/2067002.html</id>
