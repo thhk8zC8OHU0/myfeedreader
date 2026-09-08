@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T22:37:43.347Z</updated>
+    <updated>2026-09-08T22:50:39.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -32280,16 +32280,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
         <summary type="html"><![CDATA[今月２２日に開催するとされていた「琵琶湖三市同時花火大会」について、9日に主催者側が突如開催を中止すると発表しました。]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「REANIMAL」のDLC「REANIMAL: The Prisoner」が配信中。新キャラクター「兵士」と「囚人」が戦争によって荒廃した世界を彷徨う]]></title>
-        <id>https://www.4gamer.net/games/830/G083028/20260810039/</id>
-        <link href="https://www.4gamer.net/games/830/G083028/20260810039/"/>
-        <updated>2026-08-10T10:41:56.000Z</updated>
-        <summary type="html"><![CDATA[THQNordicは2026年8月8日，「REANIMAL」のDLC「REANIMAL:ThePrisoner」の配信を開始した。DLCでは，新たな2人のキャラクター「兵士」と「囚人」が登場する。戦争によって荒廃した世界を舞台に，まだ見ぬエリアを探索しよう。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
