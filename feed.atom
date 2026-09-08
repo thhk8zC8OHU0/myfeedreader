@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T09:10:19.985Z</updated>
+    <updated>2026-09-08T09:26:53.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【平塚】10月のららぽーと湘南平塚オープン情報！「ケンタッキーフライドチキン」と「串揚げバイキングくし葉」が開店予定★]]></title>
+        <id>https://atsugi-lab.com/?p=61540</id>
+        <link href="https://atsugi-lab.com/shopnews-lalaport-hiratsuka-202610/"/>
+        <updated>2026-09-08T09:22:03.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは★タハラ＠あつらぼです。 平塚市天沼にある人気の大型ショッピングモール「ららぽーと湘南平塚」。 ちょっとしたお出かけや買い物で訪れる方も多いのではないでしょうか？ 今回は、ららぽーと湘南平塚に10月オープン予定の新店舗情報をご紹介…]]></summary>
+        <author>
+            <name>田原</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議]]></title>
         <id>https://www.bbc.com/japanese/articles/cly7zm28k5zo#0</id>
