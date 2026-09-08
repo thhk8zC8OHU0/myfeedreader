@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T08:56:32.983Z</updated>
+    <updated>2026-09-08T09:10:19.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議]]></title>
+        <id>https://www.bbc.com/japanese/articles/cly7zm28k5zo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cly7zm28k5zo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-08T09:07:08.000Z</updated>
+        <summary type="html"><![CDATA[労働組合の代表者によると、女性従業員が「屈辱を受けた」この出来事について調査を開始する予定だという。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 6aに充電中に爆発する欠陥、Googleがクソ態度なため消費者庁が使用中止を発令]]></title>
+        <id>https://itainews.com/archives/2066983.html</id>
+        <link href="https://itainews.com/archives/2066983.html"/>
+        <updated>2026-09-08T09:03:38.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/08(火) 00:55:26.07 ID:ZrvtcX5e0.net
+
+
+
+
+
+
+
+グーグル「Pixel 6a」で発火事故、消費者庁が重大製品事故として公表 https://t.co/FN6QIiR0rw pic.twitter.com/1Y1FHKsbdo— ケータイ Watch (@ktai_watch) September 7, 2026  
+
+
+
+
+
+
+消費者庁は4日、消...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ケロロ軍曹☆」ケロロ軍曹役の小市眞琴ら新たなケロロ小隊キャスト発表、PVでボイス公開　メインスタッフも明らかに]]></title>
+        <id>https://anime.eiga.com/news/127399/</id>
+        <link href="https://anime.eiga.com/news/127399/"/>
+        <updated>2026-09-08T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ「ケロロ軍曹☆」の放送が10月3日からスタートすることが決定し、メインキャストが発表された。主人公のケロロ軍曹役を小市眞琴が務め、長江里加、増田俊樹、越後屋コースケ、猪股慧士もメイン...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】ＪＲきのくに線　岩代ー稲原駅間で運転見合わせ　大雨の影響受け(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/929b260a4e7dbdb5fe64ae7d7d698f6c92e11689?source=rss</id>

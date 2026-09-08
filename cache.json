@@ -6810,6 +6810,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cly7zm28k5zo#0",
+          "author": null,
+          "description": "労働組合の代表者によると、女性従業員が「屈辱を受けた」この出来事について調査を開始する予定だという。",
+          "link": "https://www.bbc.com/japanese/articles/cly7zm28k5zo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-08T09:07:08.000Z",
+          "wordCount": 1834,
+          "title": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/003c/live/32769c20-ab0b-11f1-8752-55e448d02b6b.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c39mzmyxxgeo#0",
           "author": null,
           "description": "ロシアと北朝鮮を結ぶ初の道路橋が7日、開通した。ロシアと北朝鮮を結ぶ初の道路橋が7日、開通した。豆満江を挟んだ国境間で、両国の貨物や旅客が行き来しやすくなった。ロシアが2022年2月にウクライナへの全面侵攻を開始して以来、ロシアと北朝鮮の関係は強化されている。",
@@ -10900,6 +10910,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066983.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/08(火) 00:55:26.07 ID:ZrvtcX5e0.net\n\n\n\n\n\n\n\nグーグル「Pixel 6a」で発火事故、消費者庁が重大製品事故として公表 https://t.co/FN6QIiR0rw pic.twitter.com/1Y1FHKsbdo— ケータイ Watch (@ktai_watch) September 7, 2026  \n\n\n\n\n\n\n消費者庁は4日、消...",
+          "link": "https://itainews.com/archives/2066983.html",
+          "publishedOn": "2026-09-08T09:03:38.000Z",
+          "wordCount": 3104,
+          "title": "Pixel 6aに充電中に爆発する欠陥、Googleがクソ態度なため消費者庁が使用中止を発令",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/7/470f364c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066982.html",
           "author": "damono3856",
@@ -18518,6 +18538,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127399/",
+          "author": null,
+          "description": "テレビアニメ「ケロロ軍曹☆」の放送が10月3日からスタートすることが決定し、メインキャストが発表された。主人公のケロロ軍曹役を小市眞琴が務め、長江里加、増田俊樹、越後屋コースケ、猪股慧士もメイン...",
+          "link": "https://anime.eiga.com/news/127399/",
+          "publishedOn": "2026-09-08T09:00:00.000Z",
+          "wordCount": 722,
+          "title": "「ケロロ軍曹☆」ケロロ軍曹役の小市眞琴ら新たなケロロ小隊キャスト発表、PVでボイス公開　メインスタッフも明らかに",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127396/",
           "author": null,
