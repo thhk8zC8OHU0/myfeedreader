@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T14:12:49.521Z</updated>
+    <updated>2026-09-08T14:30:12.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リメイク版「ゼルダの伝説 時のオカリナ」2026年11月5日に発売決定！　初公開の実機プレイでは，こどもリンクの姿を見られた]]></title>
+        <id>https://www.4gamer.net/games/999/G999903/20260908060/</id>
+        <link href="https://www.4gamer.net/games/999/G999903/20260908060/"/>
+        <updated>2026-09-08T14:27:59.000Z</updated>
+        <summary type="html"><![CDATA[任天堂の配信映像「ゼルダの伝説40周年Direct2026.9.8」で，NintendoSwitch2用ソフト「ゼルダの伝説時のオカリナ」が，2026年11月5日に発売されると発表された。配信では実機プレイ映像として，物語導入部のプレイの様子も映された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保育園児による「しね」の手紙は「いじめ相当」　横浜市第三者委]]></title>
         <id>https://itainews.com/archives/2067010.html</id>
