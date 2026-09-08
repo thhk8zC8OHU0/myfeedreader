@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T03:40:49.822Z</updated>
+    <updated>2026-09-08T03:53:12.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】ドクターイエローが停車していた京都駅で非常停止ボタン押したなどとして起訴された男　“東京ディズニーシー２５周年”コラボ新幹線からヘッドレストカバーを盗んだ疑いで再逮捕される(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0ebf071b53f90bf9dbaef99a708d0bee5d53cadd?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0ebf071b53f90bf9dbaef99a708d0bee5d53cadd?source=rss"/>
+        <updated>2026-09-08T03:43:18.000Z</updated>
+        <summary type="html"><![CDATA[京都駅のホームで先月、非常ボタンを緊急性がないのに押し、新幹線の運行を停止させたとして、偽計業務妨害の罪で起訴された男が、新幹線内のヘッドレストカバー３枚を盗んだとして、８日、再逮捕されました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 27ベータからカメラ新機能5つ発見。iPhone 18 Proの可変絞りを示唆するものも]]></title>
         <id>https://gadget.phileweb.com/?p=132599</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[アップルが9月10日午前2時に開催するイベント「おはよう世界。」では、複数の新型iPhoneが発表されると見られている。なかでも注目を集めそうなのが、カメラ機能の強化だろう。次期「iPhone 18 Pro」モデルのメインカメラには可変絞り機構が搭載されると噂されており、こうしたハードウェアの刷新に […]]]></summary>
         <author>
             <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インドネシア、主要空港が再開　火山灰の影響で34万人が足止め]]></title>
+        <id>https://www.bbc.com/japanese/articles/ceq87dyy0jgo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ceq87dyy0jgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-08T03:37:49.000Z</updated>
+        <summary type="html"><![CDATA[インドネシアでアナク・クラカタウ火山の噴火が続いている。7日には、全国7カ所の空港が2日連続で閉鎖を余儀なくされたため、約3000便が欠航となり、インドネシア全土で34万人以上が足止めされた。その後、ジャカルタのスカルノ・ハッタ国際空港などは8日から再開した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
         </author>
     </entry>
     <entry>
