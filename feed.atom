@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T11:51:47.806Z</updated>
+    <updated>2026-09-08T12:10:33.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アデランス】子会社がステマ　外部企業に報酬払って投稿を依頼]]></title>
+        <id>https://itainews.com/archives/2067001.html</id>
+        <link href="https://itainews.com/archives/2067001.html"/>
+        <updated>2026-09-08T12:02:32.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：蚤の市 ★：2026/09/08(火) 09:21:24.53 ID:Qi6F0qMt9.net
+
+
+
+
+
+
+
+【独自】アデランス子会社がステマ － 外部企業に報酬払って投稿を依頼https://t.co/4SHmYhFF6o— 共同通信公式 (@kyodo_official) September 7, 2026  
+
+
+
+
+
+
+　アデランス子会社「ライツフォル...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ワールド イズ ダンシング」青年期の鬼夜叉役に島﨑信長　成長を感じる青年期ビジュアル公開]]></title>
+        <id>https://anime.eiga.com/news/127401/</id>
+        <link href="https://anime.eiga.com/news/127401/"/>
+        <updated>2026-09-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[放送中のテレビアニメ「ワールド イズ ダンシング」で、青年期の鬼夜叉を島﨑信長が演じていることが明らかになった。 第10話「溢れた世界」のラストで青年になった鬼夜叉が登場し、その声が変わっている...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【フィットネスクラブ】倒産、1-8月は過去最多の26件　民間調査]]></title>
         <id>https://itainews.com/archives/2067009.html</id>
@@ -32282,16 +32317,6 @@ Cuvieの一般向けエロマンガ。とってつけたような「とんでも
 大山崎ＩＣ～大津ＩＣ間の通過に４７分程度掛かる見込みです。]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[計測精度35％向上でW2Wの歩留まり向上、ニコンの新アライメントステーション]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/10/news038.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/10/news038.html"/>
-        <updated>2026-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ニコンは、アライメントステーションの新製品「Litho Booster 1000」を2027年1月に発売する。半導体の3D構造におけるWafer to Wafer（W2W）ボンディング工程で、高精度な重ね合わせ補正に対応する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
 </feed>

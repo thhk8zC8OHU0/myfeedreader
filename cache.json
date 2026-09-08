@@ -9605,16 +9605,6 @@
           "wordCount": 2675,
           "title": "CPUとGPU、NPUを統合 AMDのフィジカルAI向け新SoC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/10/l_edn20260804edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/10/news038.html",
-          "author": null,
-          "description": "ニコンは、アライメントステーションの新製品「Litho Booster 1000」を2027年1月に発売する。半導体の3D構造におけるWafer to Wafer（W2W）ボンディング工程で、高精度な重ね合わせ補正に対応する。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/10/news038.html",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 2632,
-          "title": "計測精度35％向上でW2Wの歩留まり向上、ニコンの新アライメントステーション",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/10/cover_news038.jpg"
         }
       ]
     },
@@ -11000,6 +10990,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067001.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2026/09/08(火) 09:21:24.53 ID:Qi6F0qMt9.net\n\n\n\n\n\n\n\n【独自】アデランス子会社がステマ － 外部企業に報酬払って投稿を依頼https://t.co/4SHmYhFF6o— 共同通信公式 (@kyodo_official) September 7, 2026  \n\n\n\n\n\n\n　アデランス子会社「ライツフォル...",
+          "link": "https://itainews.com/archives/2067001.html",
+          "publishedOn": "2026-09-08T12:02:32.000Z",
+          "wordCount": 3051,
+          "title": "【アデランス】子会社がステマ　外部企業に報酬払って投稿を依頼",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/3/2375c2b3-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067009.html",
           "author": "damono3856",
@@ -18678,6 +18678,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127401/",
+          "author": null,
+          "description": "放送中のテレビアニメ「ワールド イズ ダンシング」で、青年期の鬼夜叉を島﨑信長が演じていることが明らかになった。 第10話「溢れた世界」のラストで青年になった鬼夜叉が登場し、その声が変わっている...",
+          "link": "https://anime.eiga.com/news/127401/",
+          "publishedOn": "2026-09-08T12:00:00.000Z",
+          "wordCount": 754,
+          "title": "「ワールド イズ ダンシング」青年期の鬼夜叉役に島﨑信長　成長を感じる青年期ビジュアル公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127400/",
           "author": null,
