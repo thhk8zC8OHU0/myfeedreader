@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/015/G101542/20260908063/",
+          "author": null,
+          "description": "本日（2026年9月8日）配信されたデジタルイベント「ゼルダの伝説40周年Direct」にて，シリーズ40周年を記念したコンサート「ゼルダの伝説40thAnniversaryConcert」の開催が明らかとなった。2027年1月23日の東京公演を皮切りに，福岡，北海道，京都，神奈川，そしてシカゴ，ロンドン，メルボルンと全世界での公演が予定されている。",
+          "link": "https://www.4gamer.net/games/015/G101542/20260908063/",
+          "publishedOn": "2026-09-08T14:31:17.000Z",
+          "wordCount": 8036,
+          "title": "「ゼルダの伝説 40th Anniversary Concert」が開催決定。2027年1月の東京公演ほか，全世界の各都市にて",
+          "imageUrl": "https://www.4gamer.net/games/015/G101542/20260908063/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/999/G999903/20260908060/",
           "author": null,
           "description": "任天堂の配信映像「ゼルダの伝説40周年Direct2026.9.8」で，NintendoSwitch2用ソフト「ゼルダの伝説時のオカリナ」が，2026年11月5日に発売されると発表された。配信では実機プレイ映像として，物語導入部のプレイの様子も映された。",
@@ -9068,16 +9078,6 @@
           "wordCount": 1836,
           "title": "ドイツ西部の基地上空でドローン目撃、東部空港でのドローン発見から数日後",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c07rjlyp042o#2",
-          "author": null,
-          "description": "イスラエルのネタニヤフ首相は9日、アメリカのトランプ大統領が提示した、15項目からなるパレスチナ・ガザ地区の和平計画を拒否した。ネタニヤフ氏は、ガザの武装組織ハマスが「真に」武装解除されるまで、イスラエル軍の撤退は行われないと述べた。",
-          "link": "https://www.bbc.com/japanese/articles/c07rjlyp042o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-10T02:45:26.000Z",
-          "wordCount": 2129,
-          "title": "イスラエル首相、トランプ氏提示の15項目の「ガザ和平計画」を拒否　ハマス武装解除が撤退条件と",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/449b/live/1de67870-93f5-11f1-a10f-45ed743c6e4b.jpg"
         }
       ]
     },

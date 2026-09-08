@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T14:30:12.129Z</updated>
+    <updated>2026-09-08T14:47:33.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ゼルダの伝説 40th Anniversary Concert」が開催決定。2027年1月の東京公演ほか，全世界の各都市にて]]></title>
+        <id>https://www.4gamer.net/games/015/G101542/20260908063/</id>
+        <link href="https://www.4gamer.net/games/015/G101542/20260908063/"/>
+        <updated>2026-09-08T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[本日（2026年9月8日）配信されたデジタルイベント「ゼルダの伝説40周年Direct」にて，シリーズ40周年を記念したコンサート「ゼルダの伝説40thAnniversaryConcert」の開催が明らかとなった。2027年1月23日の東京公演を皮切りに，福岡，北海道，京都，神奈川，そしてシカゴ，ロンドン，メルボルンと全世界での公演が予定されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リメイク版「ゼルダの伝説 時のオカリナ」2026年11月5日に発売決定！　初公開の実機プレイでは，こどもリンクの姿を見られた]]></title>
         <id>https://www.4gamer.net/games/999/G999903/20260908060/</id>
@@ -32422,16 +32432,6 @@ Cuvieの一般向けエロマンガ。とってつけたような「とんでも
         <summary type="html"><![CDATA[JO（&TEAM）が主演する映画「ワンダンス」に、山口綺羅（Girls2）、RAN（MAZZEL）、現役DリーガーTSUKKI、髙松アロハ（超特急）の出演が決定。あわせてキャラクタービジュアル、...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イスラエル首相、トランプ氏提示の15項目の「ガザ和平計画」を拒否　ハマス武装解除が撤退条件と]]></title>
-        <id>https://www.bbc.com/japanese/articles/c07rjlyp042o#2</id>
-        <link href="https://www.bbc.com/japanese/articles/c07rjlyp042o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-10T02:45:26.000Z</updated>
-        <summary type="html"><![CDATA[イスラエルのネタニヤフ首相は9日、アメリカのトランプ大統領が提示した、15項目からなるパレスチナ・ガザ地区の和平計画を拒否した。ネタニヤフ氏は、ガザの武装組織ハマスが「真に」武装解除されるまで、イスラエル軍の撤退は行われないと述べた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
