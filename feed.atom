@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T10:53:12.202Z</updated>
+    <updated>2026-09-08T11:07:48.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【東京大学】新設の5年制学部は定員100人、留学生が半数を占めると想定 文学部や医学部など既存の6学部は定員減]]></title>
+        <id>https://itainews.com/archives/2066987.html</id>
+        <link href="https://itainews.com/archives/2066987.html"/>
+        <updated>2026-09-08T11:02:43.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：煮卵 ★：2026/09/07(月) 20:45:03.82 ID:PXgcYKFh9.net
+
+
+
+
+
+
+
+新設の東大5年制学部は定員100人　文学部や医学部は定員減https://t.co/oIU0aijxDr文科省の公表資料では新学部は「価値創造学部」と記載されました。東大によると、学部の設置申請に必要だったため...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホロライブ初のTVアニメプロジェクト「おでホロ」始動　制作はスタジオKAI]]></title>
+        <id>https://anime.eiga.com/news/127400/</id>
+        <link href="https://anime.eiga.com/news/127400/"/>
+        <updated>2026-09-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ホロライブ」10周年を記念し、VTuber事務所「ホロライブプロダクション」初のテレビアニメプロジェクト「おでホロ」（略称）の始動が発表された。 アニメーション制作は、ホロライブの公式アニメや...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【岐阜ケーキ店5人死傷火災】当時は同窓会中…“招かれていない死亡男性”だけ車の中で発見　建物からは凶器疑いの刃物など複数]]></title>
         <id>https://itainews.com/archives/2066981.html</id>
