@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T17:38:04.416Z</updated>
+    <updated>2026-09-08T17:50:29.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -32451,16 +32451,6 @@ Cuvieの一般向けエロマンガ。とってつけたような「とんでも
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「甘栗むいちゃいました45%増量（おかわり45％増量作戦）」を世界一詳しく調査しました。   […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カナダ西部の山火事、制御不能な状況に　当局は「最悪の事態への備え」を住民に呼びかけ]]></title>
-        <id>https://www.bbc.com/japanese/articles/ckg635e73zxo#1</id>
-        <link href="https://www.bbc.com/japanese/articles/ckg635e73zxo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-10T05:43:20.000Z</updated>
-        <summary type="html"><![CDATA[カナダ西部で、7日に確認された山火事が急速に広がり、その規模は2倍に拡大している。数万人が自宅を追われ、8日には非常事態宣言が発令された。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
