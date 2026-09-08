@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T02:40:23.349Z</updated>
+    <updated>2026-09-08T02:52:53.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ストリートファイター6」，Year 4第2弾「アルジュン」が10月13日に参戦。リカバリアブルダメージを蓄積させて追い詰める]]></title>
+        <id>https://www.4gamer.net/games/635/G063504/20260908007/</id>
+        <link href="https://www.4gamer.net/games/635/G063504/20260908007/"/>
+        <updated>2026-09-08T02:46:17.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは本日，「ストリートファイター6」のYear4キャラクター第2弾として「アルジュン」を2026年10月13日に配信すると発表した。アルジュンは，ヨガの呼吸法を用いた飛び道具や設置技などを操り，相手に時間経過で回復するリカバリアブルダメージを活用して戦う新ファイターだ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電子タバコ派のサカナクション山口一郎、「紙タバコってすごい臭い」「なのに喫煙所では一緒に閉じ込められ…」つらさ告白]]></title>
         <id>https://itainews.com/archives/2066961.html</id>
