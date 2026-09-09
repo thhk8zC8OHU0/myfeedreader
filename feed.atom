@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T14:07:39.969Z</updated>
+    <updated>2026-09-09T14:26:48.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「レイトン教授と蒸気の新世界」，12月10日に発売決定。シリーズ史上最大の謎を描く]]></title>
+        <id>https://www.4gamer.net/games/948/G094835/20260909060/</id>
+        <link href="https://www.4gamer.net/games/948/G094835/20260909060/"/>
+        <updated>2026-09-09T14:21:42.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月9日配信された任天堂の情報番組「NintendoDirect2026.9.9」にて，レベルファイブの謎解きシリーズ最新作「レイトン教授と蒸気の新世界」が12月10日に発売されると発表された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch2版「めっちゃカメレオン」が発売決定。配信中のNintendo Direct終了後すぐリリース]]></title>
+        <id>https://www.4gamer.net/games/040/G104090/20260909070/</id>
+        <link href="https://www.4gamer.net/games/040/G104090/20260909070/"/>
+        <updated>2026-09-09T14:20:11.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は，本日（2026年9月9日）配信中の情報番組「NintendoDirect2026.9.9」にて，個人開発者のLEMORION氏が手掛けた「めっちゃカメレオン」を，NintendoSwitch2向けにリリースすると発表した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ぽこ あ ポケモン」エキスパンションパス第2弾にドードー，エネコ，テールナーが登場。2026年冬に配信予定]]></title>
+        <id>https://www.4gamer.net/games/945/G094534/20260909069/</id>
+        <link href="https://www.4gamer.net/games/945/G094534/20260909069/"/>
+        <updated>2026-09-09T14:18:33.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は本日（2026年9月9日），「NintendoDirect2026.9.9」で，「ぽこあポケモン」の有料追加コンテンツ「エキスパンションパス」第2弾を2026年冬に配信すると発表した。新たにドードー，エネコ，テールナーが登場する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch2版「モンスターハンターワイルズ」の発売日が12月4日に決定。拡張コンテンツ「アセンダンス」も2027年に発売へ]]></title>
+        <id>https://www.4gamer.net/games/014/G101402/20260909068/</id>
+        <link href="https://www.4gamer.net/games/014/G101402/20260909068/"/>
+        <updated>2026-09-09T14:16:20.000Z</updated>
+        <summary type="html"><![CDATA[カプコンは本日（2026年9月9日），配信中の「NintendoDirect2026.9.9」にて，Switch2版「モンスターハンターワイルズ」の発売日が12月4日に決定したと発表した。また，超大型拡張コンテンツ「モンスターハンターワイルズ：アセンダンス」も2027年に発売されるという。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch2版「餓狼伝説 City of the Wolves」2026年10月22日に発売。「東京リベンジャーズ」の佐野万次郎＆龍宮寺堅が参戦]]></title>
+        <id>https://www.4gamer.net/games/999/G999903/20260909066/</id>
+        <link href="https://www.4gamer.net/games/999/G999903/20260909066/"/>
+        <updated>2026-09-09T14:15:15.000Z</updated>
+        <summary type="html"><![CDATA[任天堂の配信映像「NintendoDirect2026.9.9」で，SNKはSwitch2版「餓狼伝説CityoftheWolves」を，2026年10月22日に発売すると発表した。シーズンパス3では「東京リベンジャーズ」の佐野万次郎と龍宮寺堅が参戦する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法製]]></title>
+        <id>https://logipara.com/?p=13458</id>
+        <link href="https://logipara.com/diary-text/2026-09-10/"/>
+        <updated>2026-09-09T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[法廷画が、明らかにAI製。]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「もう米農家辞める」　高齢化と値下げで]]></title>
         <id>https://itainews.com/archives/2067045.html</id>
