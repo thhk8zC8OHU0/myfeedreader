@@ -6,6 +6,36 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/897/G089768/20260910001/",
+          "author": null,
+          "description": "任天堂は2026年9月9日に配信された「NintendoDirect2026.9.9」にて，「カービィのエアライダー」シリーズのamiibo「ソードカービィ&ドラグーン」「ノワールデデデ&ハイドラ」を11月12日に発売すると発表した。NintendoStoreでの価格はどちらも8250円（税込）。",
+          "link": "https://www.4gamer.net/games/897/G089768/20260910001/",
+          "publishedOn": "2026-09-09T15:14:58.000Z",
+          "wordCount": 8145,
+          "title": "amiibo「ソードカービィ&ドラグーン」と「ノワールデデデ&ハイドラ」が11月12日に発売。「カービィのエアライダー」ではゲーム内イベントも実施予定",
+          "imageUrl": "https://www.4gamer.net/games/897/G089768/20260910001/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/041/G104105/20260909059/",
+          "author": null,
+          "description": "集英社ゲームズは，2026年9月9日に配信された「NintendoDirect2026.9.9」でSwitch2用ソフト「封神演義逆命承天」を発表した。リリースは2027年の予定。今年30周年を迎えた人気漫画「封神演義」のその後を描くローグライトアクションゲームになるようだ。",
+          "link": "https://www.4gamer.net/games/041/G104105/20260909059/",
+          "publishedOn": "2026-09-09T15:12:50.000Z",
+          "wordCount": 8049,
+          "title": "「封神演義 逆命承天」，2027年リリース。原作漫画のその後を描くローグライトアクション",
+          "imageUrl": "https://www.4gamer.net/games/041/G104105/20260909059/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/897/G089761/20260910002/",
+          "author": null,
+          "description": "任天堂は2026年9月9日，「NintendoDirect2026.9.9」にて，NintendoSwitch2用ソフト「マリオカートワールド」の無料アップデート「Ver.1.8.0」の情報を公開した。アップデートはすでに配信されており，初代「スーパーマリオカート」のコース10種や，「サバイバル」の新たなラリーなどが追加されている。",
+          "link": "https://www.4gamer.net/games/897/G089761/20260910002/",
+          "publishedOn": "2026-09-09T15:11:13.000Z",
+          "wordCount": 8129,
+          "title": "「マリオカート ワールド」，初代「スーパーマリオカート」のコース10種を追加。おばけぬま，チョコレーとう，バニラレイクなどが登場",
+          "imageUrl": "https://www.4gamer.net/games/897/G089761/20260910002/SS/006.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/015/G101545/20260909050/",
           "author": null,
           "description": "アライアンス・アーツは本日（2026年9月10日），新作タイトル「東方紅魔郷：NewClassic　〜theEmbodimentofScarletDevil.」をリリースした。本作は，2002年に頒布された「東方紅魔郷」を，原作者であるZUN氏を中心として現代向けに作り直したタイトルだ。",
@@ -9558,16 +9588,6 @@
           "wordCount": 1912,
           "title": "世界の海、7月の最高水温を記録",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ca44/live/17eae880-94ad-11f1-b2ab-0dd01740f9f6.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cy741ygv2e0o#1",
-          "author": null,
-          "description": "ロシア西部タタールスタン共和国の当局は10日、ウクライナ軍のドローン攻撃で、子ども1人を含む13人が殺害され、75人が負傷したと発表した。2022年2月にロシアがウクライナ全面侵攻を開始して以来、ウクライナによるロシア攻撃の中でも、特に死傷者の多い単独攻撃となった。ウクライナはこのところ、ロシアのウクライナ侵攻に軍資金や補給物資を提供しているとされる施設への長距離攻撃を強化している。",
-          "link": "https://www.bbc.com/japanese/articles/cy741ygv2e0o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-11T03:16:33.000Z",
-          "wordCount": 1849,
-          "title": "ウクライナのドローン、ロシア領内深く攻撃　少なくとも13人殺害",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg"
         }
       ]
     },
