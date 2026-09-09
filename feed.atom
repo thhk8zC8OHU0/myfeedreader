@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T23:07:03.336Z</updated>
+    <updated>2026-09-09T23:23:08.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、ANC搭載のオープン型「AirPods 5」発表。ワイヤレス充電ケース版も]]></title>
+        <id>https://gadget.phileweb.com/?p=132827</id>
+        <link href="https://gadget.phileweb.com/post-132827/"/>
+        <updated>2026-09-09T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、完全ワイヤレスイヤホン「AirPods 5」を9月18日に発売する。価格は、通常モデルが価格は23,800円、ワイヤレス充電ケース付きモデルが27,800円（どちらも税込）。 オープンイヤー型でアクティブノイズキャンセリング（ANC）を搭載する完全ワイヤレスイヤホン。前世代とは異なりAN […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[板野友美さん、大逆転の完全無罪！撮影は営業時間外で貸切状態で何の問題もなかった]]></title>
         <id>https://itainews.com/archives/2067034.html</id>
