@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T04:07:41.968Z</updated>
+    <updated>2026-09-09T04:26:18.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イギリス、ヨルダン川西岸の入植地に対する制裁を発表　イスラエルが猛反発]]></title>
+        <id>https://www.bbc.com/japanese/articles/c8d3e14ppmdo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c8d3e14ppmdo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-09T04:16:33.000Z</updated>
+        <summary type="html"><![CDATA[イギリスは8日、イスラエルが占領するパレスチナ・ヨルダン川西岸の違法なイスラエル入植地に対して制裁措置を発表した。イギリスはさらに、イスラエル政府が入植者によるパレスチナ人の「民族浄化」を黙認していると非難した。イスラエルは「とんでもないうそ」だとして強く反発している。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】兵庫・播磨南部で２５００軒あまりが停電　レベル３大雨・土砂災害警報も(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/42313a5e0aed01fc22f7043e6cf39fa0fd01cfce?source=rss</id>
