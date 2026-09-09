@@ -8927,6 +8927,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news041.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、最大650Wの連続電力に対応する厚膜パワー抵抗器「MCB RPWA 650」シリーズを発表した。すでにサンプルおよび製品の提供を開始している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/09/news041.html",
+          "publishedOn": "2026-09-09T00:00:00.000Z",
+          "wordCount": 2621,
+          "title": "コールドシステムで155℃対応の650W厚膜パワー抵抗器",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/09/cover_news041.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news017.html",
           "author": null,
           "description": "AIの進化はGPUや大規模言語モデル（LLM）などに焦点が当たりがちです。だが、目立たないながらもAIインフラの性能を大きく左右する要素の一つがストレージです。本稿では、データセンターとエッジという2つの現場に共通する基盤技術として、ストレージの供給網と技術要件を解説します。",
@@ -17882,6 +17892,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=317990",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]",
+          "link": "https://foodfighter.jp/matsuya-2026-0909",
+          "publishedOn": "2026-09-09T00:17:21.000Z",
+          "wordCount": 2059,
+          "title": "【松屋】豚と茄子の辛味噌炒め・ライスセット【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/005d70c0baa3de850f3fbb31e6c56bef.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=317973",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「生ペヤングソースやきそば」を世界一詳しく調査しました。   【ファミマ】生ペヤングソースや […]",
@@ -22661,16 +22681,6 @@
           "wordCount": 3082,
           "title": "【ドラクエⅠ〜Ⅲ】クラリネットだけで吹いてみたメドレー！キッチンでドラクエ吹く人#ドラゴンクエスト #ドラクエ #dq #クラリネット #gamemusic #clarinet #ゲーム音楽",
           "imageUrl": "https://i.ytimg.com/vi/G00mwhX4Sc0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDyF15IKQMaNHGuu5lhNmAZJTwf5A&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4uPElf_nE3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4uPElf_nE3s",
-          "publishedOn": "2026-08-10T12:15:03.000Z",
-          "wordCount": null,
-          "title": "【ドラクエⅠ〜Ⅶ】クラリネットだけで吹いてみたメドレー！キッチンでドラクエ吹く人",
-          "imageUrl": null
         }
       ]
     },
@@ -23507,6 +23517,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCigI38jFeroJWgbgMXYh2zw",
       "siteUrl": "https://www.youtube.com/channel/UCigI38jFeroJWgbgMXYh2zw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/gI_sWJXul7A",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/gI_sWJXul7A",
+          "publishedOn": "2026-09-09T00:20:22.000Z",
+          "wordCount": 3043,
+          "title": "#イソネミクニ亜種 #モンハンNow",
+          "imageUrl": "https://i.ytimg.com/vi/gI_sWJXul7A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAksfZFiogpLkrY2oF9FVD5pvB9DA&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/JKGpnBQuPQE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/JKGpnBQuPQE",
+          "publishedOn": "2026-09-09T00:15:26.000Z",
+          "wordCount": 3289,
+          "title": "#ブラキディオス #モンハンNow",
+          "imageUrl": "https://i.ytimg.com/vi/JKGpnBQuPQE/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAauitfhYvbi4W4S5w2PeeZ96ThJQ"
+        },
         {
           "id": "https://www.youtube.com/shorts/mj3h-J-2smQ",
           "author": null,

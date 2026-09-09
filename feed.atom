@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T00:12:06.680Z</updated>
+    <updated>2026-09-09T00:37:27.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#イソネミクニ亜種 #モンハンNow]]></title>
+        <id>https://www.youtube.com/shorts/gI_sWJXul7A</id>
+        <link href="https://www.youtube.com/shorts/gI_sWJXul7A"/>
+        <updated>2026-09-09T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>モンスターハンターNow 公式</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【松屋】豚と茄子の辛味噌炒め・ライスセット【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=317990</id>
+        <link href="https://foodfighter.jp/matsuya-2026-0909"/>
+        <updated>2026-09-09T00:17:21.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ブラキディオス #モンハンNow]]></title>
+        <id>https://www.youtube.com/shorts/JKGpnBQuPQE</id>
+        <link href="https://www.youtube.com/shorts/JKGpnBQuPQE"/>
+        <updated>2026-09-09T00:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>モンスターハンターNow 公式</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮釈放中の性犯罪者にGPS、法務省が実証実験へ　本人同意が条件]]></title>
         <id>https://itainews.com/archives/2066998.html</id>
@@ -29,6 +59,16 @@
 仮釈放中の性犯罪者にGPS、...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コールドシステムで155℃対応の650W厚膜パワー抵抗器]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/09/news041.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/09/news041.html"/>
+        <updated>2026-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、最大650Wの連続電力に対応する厚膜パワー抵抗器「MCB RPWA 650」シリーズを発表した。すでにサンプルおよび製品の提供を開始している。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -32275,15 +32315,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
 　奈良県警によりますと、息子などを装った人物が「トラブルで示談金が必要になった」「弁護士がお金を取]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ドラクエⅠ〜Ⅶ】クラリネットだけで吹いてみたメドレー！キッチンでドラクエ吹く人]]></title>
-        <id>https://www.youtube.com/watch?v=4uPElf_nE3s</id>
-        <link href="https://www.youtube.com/watch?v=4uPElf_nE3s"/>
-        <updated>2026-08-10T12:15:03.000Z</updated>
-        <author>
-            <name>みつ美《母ちゃんのクラリネット》</name>
         </author>
     </entry>
 </feed>
