@@ -6850,6 +6850,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cqxvggw57p2o#0",
+          "author": null,
+          "description": "ハンガリーのオルバン外相は8日、ロシアの外交官10人に国外退去を命じたと発表した。「容認できない」活動に関わったためとしている。",
+          "link": "https://www.bbc.com/japanese/articles/cqxvggw57p2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-09T05:44:23.000Z",
+          "wordCount": 1864,
+          "title": "ハンガリー、ロシア外交官10人を国外追放　両国関係が悪化するなか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5994/live/4706a390-ab8a-11f1-aa04-efbf6a882854.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cvgy31y3lg5o#0",
           "author": null,
           "description": "アメリカは8日、カナダがアメリカ製品に対する報復関税を発効するのに伴い、アルコール飲料、乳製品、自動二輪車など、多数のカナダ製品の輸入を禁止すると発表した。ｋの新たな制裁措置により、アメリカとカナダの数カ月におよぶ貿易戦争に新たな動きが加わった。",
@@ -9603,6 +9613,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132717",
+          "author": "多根清史",
+          "description": "Appleは日本時間9月10日未明に新製品発表イベントを開催する。iPhone 18シリーズなどの登場が期待されるなか、セットトップボックス「Apple TV 4K」の次世代モデルにも注目が集まっている。AI機能「Apple Intelligence」に対応するためと見られるが、一足飛びにチップ世代 […]",
+          "link": "https://gadget.phileweb.com/post-132717/",
+          "publishedOn": "2026-09-09T05:45:00.000Z",
+          "wordCount": 730,
+          "title": "Apple TV 4Kが一気に4世代進化？ 新型は「A19／A19 Pro」搭載の可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/8c1d832fbddad6fccb4d9e73d5bc01b3.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132702",
           "author": "Munenori Taniguchi",
