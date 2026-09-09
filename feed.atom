@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T22:24:03.587Z</updated>
+    <updated>2026-09-09T22:37:13.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、“最も高精度な心拍数”の「Apple Watch Series 12」。71,800円から]]></title>
+        <id>https://gadget.phileweb.com/?p=132810</id>
+        <link href="https://gadget.phileweb.com/post-132810/"/>
+        <updated>2026-09-09T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、スマートウォッチ「Apple Watch Series 12」を9月18日に発売する。価格は71,800円（税込）から。ダークブロンズ、ブラック、ライトゴールド、スペースグレイのアルミニウムと、ラディアントゴールドとナチュラルのチタニウム、パールホワイトとナイトブルーのセラミックバージョ […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国国営放送「沖縄先住民は中国と仲が良い。沖縄は日本から独立すべき」]]></title>
         <id>https://itainews.com/archives/2067032.html</id>
