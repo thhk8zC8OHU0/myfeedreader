@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T00:37:27.798Z</updated>
+    <updated>2026-09-09T00:55:46.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -32303,18 +32303,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
         <summary type="html"><![CDATA[アニメ「機動警察パトレイバー EZY File 3」が2027年3月5日に劇場公開されることが決定し、特報映像と第1弾ビジュアルが公開された。名塚佳織、八代拓が出演することも明らかになっている。...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特殊詐欺　無人駅で現金受け渡し相次ぐ　奈良県警が注意呼びかけ(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/63bccf421848a4db1729ef07cf2555afd3748ace?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/63bccf421848a4db1729ef07cf2555afd3748ace?source=rss"/>
-        <updated>2026-08-10T12:55:34.000Z</updated>
-        <summary type="html"><![CDATA[うその電話で無人駅などに呼び出され、現金を騙し取られる特殊詐欺の被害が奈良県内で相次いでいます。
-
-　奈良県警によりますと、息子などを装った人物が「トラブルで示談金が必要になった」「弁護士がお金を取]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
