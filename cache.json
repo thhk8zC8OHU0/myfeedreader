@@ -6920,6 +6920,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/crm94ek72l8o#0",
+          "author": null,
+          "description": "2001年9月11日の米同時多発攻撃の発生直後、高層ビルが崩壊したニューヨーク・マンハッタンで有害な大気汚染が記録されていたことが、新たに公開された大量の文書で明らかになった。ニューヨーク市のマムダニ市長が8日、発表した。当局は当時、健康へのリスクは低いとしていた。",
+          "link": "https://www.bbc.com/japanese/articles/crm94ek72l8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-09T08:54:25.000Z",
+          "wordCount": 1987,
+          "title": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8a27/live/073fe880-ab9d-11f1-b26f-1588b95519ec.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c780zzx39x6o#0",
           "author": null,
           "description": "イスラエルの占領下にあるヨルダン川西岸のイスラエル入植地について、貿易を禁止するというイギリス政府の決定に、イスラエル政府は激しく反発した。その反応の強さは、この事態がいかに重大かを物語っている。",
@@ -11120,6 +11130,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067026.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/09(水) 00:14:24.59 ID:S0s02xJM9.net\n\n\n\n\n\n\n\n10億円分当せん券、売れ残りで「紙切れ」に　宇都宮・ベルモールの宝くじ売り場#下野新聞https://t.co/Sk4pS1XJAB— 下野新聞 (@shimotsuke_np) September 8, 2026  \n\n\n\n\n\n\n9/8(火) 19:36配信\n下野...",
+          "link": "https://itainews.com/archives/2067026.html",
+          "publishedOn": "2026-09-09T09:03:53.000Z",
+          "wordCount": 3061,
+          "title": "【サマージャンボプレミアム】10億円分当せん券、売れ残りで「紙切れ」に　栃木県宇都宮市の宝くじ売り場",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/8/4877a3f2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067025.html",
           "author": "damono3856",
@@ -18978,6 +18998,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127406/",
+          "author": null,
+          "description": "10月からスタートする予定だったテレビアニメ「ジャンケットバンク」が、映像制作におけるスケジュールの都合で放送延期となることが公式サイトで9月9日、発表された。新たな放送開始時期は決定し次第、公...",
+          "link": "https://anime.eiga.com/news/127406/",
+          "publishedOn": "2026-09-09T09:00:00.000Z",
+          "wordCount": 673,
+          "title": "10月スタート予定の「ジャンケットバンク」放送延期　制作スケジュールの都合のため",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127405/",
           "author": null,
