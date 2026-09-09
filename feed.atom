@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T07:27:20.750Z</updated>
+    <updated>2026-09-09T07:41:40.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jabra、プロ向けヘッドセットに3つの新モデル。最新世代「Evolve3」ラインナップ強化]]></title>
+        <id>https://gadget.phileweb.com/?p=132761</id>
+        <link href="https://gadget.phileweb.com/post-132761/"/>
+        <updated>2026-09-09T07:40:52.000Z</updated>
+        <summary type="html"><![CDATA[GNオーディオジャパンは、Jabraブランドのプロフェッショナル向けヘッドセット「Evolve3 シリーズ」の拡充を発表。「Evolve3 65 Flex」「Evolve3 65」「Evolve3 45」を9月から販売開始する。公式サイトにおける販売価格は順に、56,210円、44,440円、29, […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近畿各地で強い雨の荒れた天気　和歌山市で８４歳女性が風にあおられ転倒・軽傷(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/43c778331aad0800712f4e8fee13408131552377?source=rss</id>
