@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:07:41.140Z</updated>
+    <updated>2026-09-09T02:26:03.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「進撃の巨人3」，オープニングアニメキービジュアルを公開。エレンを背に，ミカサ，アルミン，リヴァイの姿を描く]]></title>
+        <id>https://www.4gamer.net/games/013/G101375/20260909005/</id>
+        <link href="https://www.4gamer.net/games/013/G101375/20260909005/"/>
+        <updated>2026-09-09T02:06:40.000Z</updated>
+        <summary type="html"><![CDATA[コーエーテクモゲームスは本日，「進撃の巨人3」のオープニングアニメキービジュアルを公開した。MAPPAが制作するオープニングアニメのもので，背を向けてたたずむエレンを背景に，ミカサ，アルミン，リヴァイが立ち向かう姿を描いている。公開を記念したXキャンペーンもスタートした。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米軍がイランのタンカー5隻を攻撃、イランはヨルダンの米軍基地を攻撃]]></title>
         <id>https://www.bbc.com/japanese/articles/cm27vklxpm1o#0</id>
