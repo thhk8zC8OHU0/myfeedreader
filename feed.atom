@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T08:27:02.588Z</updated>
+    <updated>2026-09-09T08:41:23.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ご注意ください】厚木市中町の厚木（はとぽっぽ）公園に張り紙が！桜の伐採作業のため、9月18日まで公園一部が利用不可になっています。]]></title>
+        <id>https://atsugi-lab.com/?p=61567</id>
+        <link href="https://atsugi-lab.com/notice-atsugi-park-202609/"/>
+        <updated>2026-09-09T08:36:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 先日、厚木公園付近を通ったところ…おや？？ なにか工事をしているのかな…？ 気になったので、内容を確認してみました！ 厚木公園は桜の木の伐採作業中！ 厚木公園内のステージがある場所から少し南のところがフェ…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【解説】イギリスとイスラエルの関係、数十年来で最低レベルに……BBC外交担当編集委員]]></title>
         <id>https://www.bbc.com/japanese/articles/c780zzx39x6o#0</id>
