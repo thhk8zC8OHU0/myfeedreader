@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T10:41:55.958Z</updated>
+    <updated>2026-09-09T10:53:33.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「SEGA TOKYO GAME SHOW Sale」開催中。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」が50％オフ]]></title>
+        <id>https://www.4gamer.net/games/947/G094765/20260909045/</id>
+        <link href="https://www.4gamer.net/games/947/G094765/20260909045/"/>
+        <updated>2026-09-09T10:52:26.000Z</updated>
+        <summary type="html"><![CDATA[龍が如く 極3 / 龍が如く3外伝 Dark Ties 龍が如く 極3 / 龍が如く3外伝 Dark Ties 龍が如く 極3 / 龍が如く3外伝 Dark Ties ソニックレーシング クロスワール…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ソニックレーシング クロスワールド」，無料アップデート「アミーゴ」を配信]]></title>
         <id>https://www.4gamer.net/games/882/G088214/20260909043/</id>
