@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T11:39:59.356Z</updated>
+    <updated>2026-09-09T11:52:05.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[和歌山・かつらぎ町の傷害致死事件　差し戻し審の初公判　被告以外の暴行の可能性を審理　和歌山地裁(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6db23a0e789dd50610a7675cdc2b185f80267881?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6db23a0e789dd50610a7675cdc2b185f80267881?source=rss"/>
+        <updated>2026-09-09T11:50:16.000Z</updated>
+        <summary type="html"><![CDATA[「検討が不十分」として差し戻しされた裁判が和歌山地裁で開かれました。
+
+　起訴状などによりますと、大阪府河内長野市の無職・小杉貴英被告（５８）は２０２０年、当時住んでいた和歌山県かつらぎ町の住宅で、]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梅毒治療薬、供給不足続く　工場で機器故障、再開来年に]]></title>
         <id>https://itainews.com/archives/2067040.html</id>
