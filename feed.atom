@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:26:03.178Z</updated>
+    <updated>2026-09-09T02:40:07.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「何件も通報したけど」「大嘘つき」利用者の怒りはメルカリへ、くら寿司ちいかわ不正転売の“後手対応”]]></title>
+        <id>https://itainews.com/archives/2067011.html</id>
+        <link href="https://itainews.com/archives/2067011.html"/>
+        <updated>2026-09-09T02:31:37.000Z</updated>
+        <summary type="html"><![CDATA[1 ：煮卵 ★：2026/09/08(火) 18:02:10.13 ID:Xf8kgvdZ9.net
+
+
+
+
+
+
+
+
+
+《くら寿司×ちいかわコラボ》店員の不正発覚、転売先の『メルカリ』が声明発表も利用者「通報放置されたまま」「大嘘つき」“後手対応”への怒り : https://t.co/q2HRH0Lbsb #くら寿司 #ちいかわ #...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[折りたたみiPhoneついに登場か。今夜のアップルイベントで発表が予想される新製品をおさらい]]></title>
+        <id>https://gadget.phileweb.com/?p=132702</id>
+        <link href="https://gadget.phileweb.com/post-132702/"/>
+        <updated>2026-09-09T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップル新CEOのジョン・ターナス氏は、日本時間9月10日午前2時より開催するイベント「おはよう世界。（Surprise and shine）」が、「大規模な発表」になると予告している。本記事では、このイベントでの発表が予想されている製品について、これまでのうわさをおさらいする。 iPhone 18 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「進撃の巨人3」，オープニングアニメキービジュアルを公開。エレンを背に，ミカサ，アルミン，リヴァイの姿を描く]]></title>
         <id>https://www.4gamer.net/games/013/G101375/20260909005/</id>
@@ -44,6 +74,16 @@
 東京大学、本田由紀教授に「注意」　彬子さま巡り「遺伝的要因のおそろしさ」と投稿→批判が殺到#彬子さま #本田由紀 #東京大学https://t.co/rh0d0S6rDS— J-CASTニュース (@jcast_news) September 8, 202...]]></summary>
         <author>
             <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10BASE-T1Sでシンプルな接続性実現　耐量子暗号も備えたMCU]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/09/news056.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/09/news056.html"/>
+        <updated>2026-09-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NXP Semiconductors（以下、NXP）は、産業機器向けマイクロコントローラー（MCU）の新製品「MCX A5シリーズ」を発表した。10BASE-T1S Ethernetの統合によってシンプルな接続性を実現したほか、トポロジー検出機能によるネットワークの可視化、耐量子暗号（PQC）のセキュリティ性なども備えた。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -32363,16 +32403,6 @@ Designed to meet the evolving needs of customers and partners across diverse ind
 STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today [June 23, 2026] announced the launch of the VL53L9, …]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ファミマ】赤城乳業 増量たべる牧場ミルク（おかわり45％増量作戦）【新作アイス】]]></title>
-        <id>https://foodfighter.jp/?p=316365</id>
-        <link href="https://foodfighter.jp/famima-taberu-milk-zoryo-2026"/>
-        <updated>2026-08-10T14:27:54.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新作アイス「赤城乳業 増量たべる牧場ミルク（おかわり45％増量作戦）」を世界一詳しく調査しました。 &nbs […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>

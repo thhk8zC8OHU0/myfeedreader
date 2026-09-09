@@ -8957,6 +8957,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news056.html",
+          "author": null,
+          "description": "NXP Semiconductors（以下、NXP）は、産業機器向けマイクロコントローラー（MCU）の新製品「MCX A5シリーズ」を発表した。10BASE-T1S Ethernetの統合によってシンプルな接続性を実現したほか、トポロジー検出機能によるネットワークの可視化、耐量子暗号（PQC）のセキュリティ性なども備えた。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/09/news056.html",
+          "publishedOn": "2026-09-09T02:00:00.000Z",
+          "wordCount": 2653,
+          "title": "10BASE-T1Sでシンプルな接続性実現　耐量子暗号も備えたMCU",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/09/cover_news056.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news041.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、最大650Wの連続電力に対応する厚膜パワー抵抗器「MCB RPWA 650」シリーズを発表した。すでにサンプルおよび製品の提供を開始している。",
@@ -9493,6 +9503,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132702",
+          "author": "Munenori Taniguchi",
+          "description": "アップル新CEOのジョン・ターナス氏は、日本時間9月10日午前2時より開催するイベント「おはよう世界。（Surprise and shine）」が、「大規模な発表」になると予告している。本記事では、このイベントでの発表が予想されている製品について、これまでのうわさをおさらいする。 iPhone 18 […]",
+          "link": "https://gadget.phileweb.com/post-132702/",
+          "publishedOn": "2026-09-09T02:30:00.000Z",
+          "wordCount": 844,
+          "title": "折りたたみiPhoneついに登場か。今夜のアップルイベントで発表が予想される新製品をおさらい",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/f48d002875c873b325909d2b0a51e205.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132647",
           "author": "山本 敦",
@@ -10860,6 +10880,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067011.html",
+          "author": "dqnplus",
+          "description": "1 ：煮卵 ★：2026/09/08(火) 18:02:10.13 ID:Xf8kgvdZ9.net\n\n\n\n\n\n\n\n\n\n《くら寿司×ちいかわコラボ》店員の不正発覚、転売先の『メルカリ』が声明発表も利用者「通報放置されたまま」「大嘘つき」“後手対応”への怒り : https://t.co/q2HRH0Lbsb #くら寿司 #ちいかわ #...",
+          "link": "https://itainews.com/archives/2067011.html",
+          "publishedOn": "2026-09-09T02:31:37.000Z",
+          "wordCount": 3094,
+          "title": "「何件も通報したけど」「大嘘つき」利用者の怒りはメルカリへ、くら寿司ちいかわ不正転売の“後手対応”",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/0/60f9bf26-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067008.html",
           "author": "dqnplus",
@@ -18590,16 +18620,6 @@
           "wordCount": 2052,
           "title": "【ファミマ】Afternoon Tea監修 白桃香るルイボスティー 950ml（おかわり45％増量作戦）【新作ドリンク】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/86ccd5f3e0bcd952eb67966e06029669.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=316365",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新作アイス「赤城乳業 増量たべる牧場ミルク（おかわり45％増量作戦）」を世界一詳しく調査しました。 &nbs […]",
-          "link": "https://foodfighter.jp/famima-taberu-milk-zoryo-2026",
-          "publishedOn": "2026-08-10T14:27:54.000Z",
-          "wordCount": 2040,
-          "title": "【ファミマ】赤城乳業 増量たべる牧場ミルク（おかわり45％増量作戦）【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/050235f23a636a633de509f0fe731f08.jpg"
         }
       ]
     },
