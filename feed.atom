@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T15:26:40.607Z</updated>
+    <updated>2026-09-09T15:43:14.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新作アドベンチャー「Onyx: The Dark Grip」がNintendo Switch 2で2027年に配信決定]]></title>
+        <id>https://www.4gamer.net/games/041/G104112/20260910004/</id>
+        <link href="https://www.4gamer.net/games/041/G104112/20260910004/"/>
+        <updated>2026-09-09T15:34:37.000Z</updated>
+        <summary type="html"><![CDATA[BlooberTeamは9月9日，任天堂の情報番組「NintendoDirect2026.9.9」で，新作アドベンチャー「Onyx:TheDarkGrip」をNintendoSwitch2で2027年に配信すると発表した。プレイヤーは主人公を操作しながら，超常現象として世界に干渉していくのだが，その干渉は主人公の正気にも影響を与えてしまうようだ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[amiibo「ソードカービィ&ドラグーン」と「ノワールデデデ&ハイドラ」が11月12日に発売。「カービィのエアライダー」ではゲーム内イベントも実施予定]]></title>
         <id>https://www.4gamer.net/games/897/G089768/20260910001/</id>
@@ -33537,54 +33547,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 夏休みも後半に入り、あっという間にお盆！ みんなが集まりやすいお盆には、ちょっと特別なお食事に出かけたくなりますよね♪ 今回はレンブラントホテル厚木さんから、なんと蟹＆海老が食べ放題のビュッフェが開催され…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界の海、7月の最高水温を記録]]></title>
-        <id>https://www.bbc.com/japanese/articles/c4gj8l10kpxo#1</id>
-        <link href="https://www.bbc.com/japanese/articles/c4gj8l10kpxo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-11T03:33:29.000Z</updated>
-        <summary type="html"><![CDATA[世界の海洋は、エルニーニョ現象の発生などの影響もあり、観測史上最も暑い7月を記録した。一方、西ヨーロッパでは山火事が猛威を振るい続けている。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国でも限られた川にしか咲かず　水中花「バイカモ」見頃　滋賀・米原市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/fe79df40d51c70567beffb1084d67ef226fa000e?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/fe79df40d51c70567beffb1084d67ef226fa000e?source=rss"/>
-        <updated>2026-08-11T03:31:15.000Z</updated>
-        <summary type="html"><![CDATA[滋賀県米原市の醒井にある川で、清流に揺れる水中花のバイカモが見頃を迎えています。
-
-　かれんな姿のバイカモはキンポウゲ科の水草で、夏に梅に似た白い花を咲かせます。
-
-　バイカモは、水温１４度前後の清]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「コベカツ」って何？　小中学生らが体験イベント　中学校部活動の地域移行を前に　神戸市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/193d7071893a96cff4bacedc2ff9cf978651913a?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/193d7071893a96cff4bacedc2ff9cf978651913a?source=rss"/>
-        <updated>2026-08-11T03:31:15.000Z</updated>
-        <summary type="html"><![CDATA[神戸市で、中学校の部活動を地域のクラブに移行する「コベカツ」が始まるのを前に、小中学生らを対象にした体験イベントが開かれています。
-
-　神戸市では、市内すべての市立中学校で部活動を８月末までに終了し]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[１３年前の台風被害からの「復興ぶどう」販売進む　売上金の一部は熊本地震の被災地に　京都・福知山市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/b3aff516ade84f6dae020faa37b90ba498c97878?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/b3aff516ade84f6dae020faa37b90ba498c97878?source=rss"/>
-        <updated>2026-08-11T03:31:15.000Z</updated>
-        <summary type="html"><![CDATA[京都府福知山市で１３年前の台風被害からの復興を目指して栽培が始まった「復興ぶどう」の販売が進んでいます。
-
-　福知山市戸田地区では、２０１３年の台風１８号の大雨で多くの住宅が床上浸水し、農作物にも被]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
