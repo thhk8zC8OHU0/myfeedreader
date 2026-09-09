@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T01:39:40.129Z</updated>
+    <updated>2026-09-09T01:52:51.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「SILENT HILL f」×「都市伝説解体センター」，コラボを開始。深水雛子と福来あざみが共演するスペシャルミニゲームも公開]]></title>
+        <id>https://www.4gamer.net/games/664/G066418/20260909003/</id>
+        <link href="https://www.4gamer.net/games/664/G066418/20260909003/"/>
+        <updated>2026-09-09T01:49:12.000Z</updated>
+        <summary type="html"><![CDATA[コナミデジタルエンタテインメントは本日，サイコロジカルホラーゲーム「SILENTHILLf」とミステリーアドベンチャー「都市伝説解体センター」のコラボを開始した。今回のコラボでは，それぞれの作品の主人公である深水雛子と福来あざみが共演するスペシャルミニゲームが公開された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バカ娘のせいで逮捕された巨人元監督阿部慎之助（47）が巨人軍復帰]]></title>
         <id>https://itainews.com/archives/2067005.html</id>
