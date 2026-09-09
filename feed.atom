@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T05:07:18.843Z</updated>
+    <updated>2026-09-09T05:25:02.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【モスバーガー】月見フォカッチャ ～黄金チーズソース～【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=318010</id>
+        <link href="https://foodfighter.jp/mos-focaccia-tsukimi"/>
+        <updated>2026-09-09T05:09:13.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《くら寿司》“ちいかわ湯呑み”を無料提供していた！広報「お詫びとしてお渡し」と認める]]></title>
         <id>https://itainews.com/archives/2067017.html</id>
