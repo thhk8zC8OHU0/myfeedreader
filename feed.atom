@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T09:27:29.362Z</updated>
+    <updated>2026-09-09T09:42:12.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[竹中工務店の元所長を起訴　万博工事の代金水増し→会社に損害与えた背任の罪　総額６０００万円以上か(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/123978d07d89edef6b060ba6877420c51e911e0c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/123978d07d89edef6b060ba6877420c51e911e0c?source=rss"/>
+        <updated>2026-09-09T09:41:06.000Z</updated>
+        <summary type="html"><![CDATA[大阪・関西万博に関連する工事の代金を不正に水増しして会社に損害を与えた罪で、大阪地検は９日付で大手ゼネコン・竹中工務店の元所長を起訴しました。
+
+　背任の罪で起訴されたのは竹中工務店の元所長・河井辰]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くら寿司の突然の10％割引に現場は混乱…ネット上に相次いだ「割引が行われない」の真相は]]></title>
+        <id>https://itainews.com/archives/2067038.html</id>
+        <link href="https://itainews.com/archives/2067038.html"/>
+        <updated>2026-09-09T09:31:05.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：Hitzeschleier ★：2026/09/09(水) 10:48:21.18 ID:pQ/ITzPZ9.net
+
+
+
+
+
+
+
+【検証】くら寿司の突然の10％割引に現場は混乱…ネット上に相次いだ「割引が行われない」の真相は・全店10％割引で現場混乱・セルフレジ前にスタッフ常駐・ミス発生の可能性が高い突然の...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【サマージャンボプレミアム】10億円分当せん券、売れ残りで「紙切れ」に　栃木県宇都宮市の宝くじ売り場]]></title>
         <id>https://itainews.com/archives/2067026.html</id>

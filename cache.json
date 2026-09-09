@@ -2473,6 +2473,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/123978d07d89edef6b060ba6877420c51e911e0c?source=rss",
+          "author": null,
+          "description": "大阪・関西万博に関連する工事の代金を不正に水増しして会社に損害を与えた罪で、大阪地検は９日付で大手ゼネコン・竹中工務店の元所長を起訴しました。\n\n　背任の罪で起訴されたのは竹中工務店の元所長・河井辰",
+          "link": "https://news.yahoo.co.jp/articles/123978d07d89edef6b060ba6877420c51e911e0c?source=rss",
+          "publishedOn": "2026-09-09T09:41:06.000Z",
+          "wordCount": 1633,
+          "title": "竹中工務店の元所長を起訴　万博工事の代金水増し→会社に損害与えた背任の罪　総額６０００万円以上か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260908-00082466-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/0fbc2282e237d5b0560a3e9832de98f562390416?source=rss",
           "author": null,
           "description": "近畿地方で初めて神社が倒産しました。\n\n　帝国データバンクによりますと、民事再生法の適用を申請したのは、兵庫県川西市にある多田神社です。\n\n　多田神社を巡っては、２０２３年ごろから金銭トラブルが表面",
@@ -11130,6 +11140,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067038.html",
+          "author": "damono3856",
+          "description": "1 名前：Hitzeschleier ★：2026/09/09(水) 10:48:21.18 ID:pQ/ITzPZ9.net\n\n\n\n\n\n\n\n【検証】くら寿司の突然の10％割引に現場は混乱…ネット上に相次いだ「割引が行われない」の真相は・全店10％割引で現場混乱・セルフレジ前にスタッフ常駐・ミス発生の可能性が高い突然の...",
+          "link": "https://itainews.com/archives/2067038.html",
+          "publishedOn": "2026-09-09T09:31:05.000Z",
+          "wordCount": 3135,
+          "title": "くら寿司の突然の10％割引に現場は混乱…ネット上に相次いだ「割引が行われない」の真相は",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/b/5bdf8b04-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067026.html",
           "author": "damono3856",
