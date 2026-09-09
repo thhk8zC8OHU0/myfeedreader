@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T03:40:38.884Z</updated>
+    <updated>2026-09-09T03:53:24.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仏ルノワール美術館の盗難事件、今わかっていること]]></title>
+        <id>https://www.bbc.com/japanese/articles/c8jdp1r899zo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c8jdp1r899zo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-09T03:47:49.000Z</updated>
+        <summary type="html"><![CDATA[フランス南部の美術館で8日、印象派のフランス人画家ピエール＝オーギュスト・ルノワールの絵画2点が盗まれた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デニー氏応援演説「政府は81年前の戦争状況を再来させようとしている。そういう計画自体はもうある」]]></title>
         <id>https://itainews.com/archives/2067007.html</id>
