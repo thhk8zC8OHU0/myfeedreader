@@ -2433,6 +2433,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/42313a5e0aed01fc22f7043e6cf39fa0fd01cfce?source=rss",
+          "author": null,
+          "description": "関西電力送配電によりますと、９日午後１時現在、兵庫県の播磨南部で約２５７０軒の停電が発生しています。\n\n　停電が発生しているのは、播磨町で約１２４０軒、姫路市で約３３０軒、加古川市で約６６０軒、三木",
+          "link": "https://news.yahoo.co.jp/articles/42313a5e0aed01fc22f7043e6cf39fa0fd01cfce?source=rss",
+          "publishedOn": "2026-09-09T04:05:07.000Z",
+          "wordCount": 1637,
+          "title": "【速報】兵庫・播磨南部で２５００軒あまりが停電　レベル３大雨・土砂災害警報も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00082462-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/dd9475934e8faadbc075713356f223f2052ad479?source=rss",
           "author": null,
           "description": "大阪のあべのハルカス近鉄本店では、北海道の人気グルメやスイーツを楽しめるイベントが開かれています。\n\n　9日から始まった「大北海道展」。人気ラーメン店の味噌ラーメンやウニやイクラなど１３種類の海の幸",
@@ -9007,6 +9017,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news026.html",
+          "author": null,
+          "description": "アドバンテックは、Qualcommの「Dragonwing IQ-9075」を搭載した産業用ビジョンAIソリューション4製品を発売した。最大100TOPSのAI性能を備え、ロボットや産業オートメーションなどのリアルタイムビジョン推論に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/09/news026.html",
+          "publishedOn": "2026-09-09T03:30:00.000Z",
+          "wordCount": 2633,
+          "title": "アドバンテック、最大100TOPSの産業用ビジョンAIソリューション",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/09/l_edn20260908edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news056.html",
           "author": null,
           "description": "NXP Semiconductors（以下、NXP）は、産業機器向けマイクロコントローラー（MCU）の新製品「MCX A5シリーズ」を発表した。10BASE-T1S Ethernetの統合によってシンプルな接続性を実現したほか、トポロジー検出機能によるネットワークの可視化、耐量子暗号（PQC）のセキュリティ性なども備えた。",
@@ -10930,6 +10950,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067013.html",
+          "author": "takakichi5346",
+          "description": "1 名前：♪♪♪ ★：2026/09/08(火) 18:25:11.71 ID:IZxaBqi/9.net\n\n\n\n\n\n\n\n中道　党は残し立憲系と公明系議員が離党へ https://t.co/3KsLsiqxCO@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 8, 2026 \n\n\n\n\n\n\nhttps://news.yahoo.co.jp/articles/b867fe00a59bc...",
+          "link": "https://itainews.com/archives/2067013.html",
+          "publishedOn": "2026-09-09T04:00:48.000Z",
+          "wordCount": 3128,
+          "title": "中道　党は残し立憲系と公明系議員が離党へ　公明出身議員は公明党に復党し、立憲出身議員は新党を立ち上げへ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/f/6ffdfd88-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067007.html",
           "author": "dqnplus",

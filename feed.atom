@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T03:53:24.688Z</updated>
+    <updated>2026-09-09T04:07:41.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】兵庫・播磨南部で２５００軒あまりが停電　レベル３大雨・土砂災害警報も(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/42313a5e0aed01fc22f7043e6cf39fa0fd01cfce?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/42313a5e0aed01fc22f7043e6cf39fa0fd01cfce?source=rss"/>
+        <updated>2026-09-09T04:05:07.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、９日午後１時現在、兵庫県の播磨南部で約２５７０軒の停電が発生しています。
+
+　停電が発生しているのは、播磨町で約１２４０軒、姫路市で約３３０軒、加古川市で約６６０軒、三木]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中道　党は残し立憲系と公明系議員が離党へ　公明出身議員は公明党に復党し、立憲出身議員は新党を立ち上げへ]]></title>
+        <id>https://itainews.com/archives/2067013.html</id>
+        <link href="https://itainews.com/archives/2067013.html"/>
+        <updated>2026-09-09T04:00:48.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：♪♪♪ ★：2026/09/08(火) 18:25:11.71 ID:IZxaBqi/9.net
+
+
+
+
+
+
+
+中道　党は残し立憲系と公明系議員が離党へ https://t.co/3KsLsiqxCO@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 8, 2026 
+
+
+
+
+
+
+https://news.yahoo.co.jp/articles/b867fe00a59bc...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仏ルノワール美術館の盗難事件、今わかっていること]]></title>
         <id>https://www.bbc.com/japanese/articles/c8jdp1r899zo#0</id>
@@ -33,6 +70,16 @@
 【悲報】玉城デニー支持国会議員さん、情勢調査の結果に焦りすぎて「沖縄や奄美大島を81年前の戦争のような状況にする計画が既にある」と一線を超えた発言をしてしまう玉城デニー氏の応援演説で情勢調査につ...]]></summary>
         <author>
             <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドバンテック、最大100TOPSの産業用ビジョンAIソリューション]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/09/news026.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/09/news026.html"/>
+        <updated>2026-09-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アドバンテックは、Qualcommの「Dragonwing IQ-9075」を搭載した産業用ビジョンAIソリューション4製品を発売した。最大100TOPSのAI性能を備え、ロボットや産業オートメーションなどのリアルタイムビジョン推論に対応する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
