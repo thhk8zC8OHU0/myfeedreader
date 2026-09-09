@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T10:53:33.679Z</updated>
+    <updated>2026-09-09T11:07:37.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[はなににゃんプロで負けそうになったもちが…www]]></title>
+        <id>https://www.youtube.com/watch?v=oSIrSI7R06Q</id>
+        <link href="https://www.youtube.com/watch?v=oSIrSI7R06Q"/>
+        <updated>2026-09-09T11:01:28.000Z</updated>
+        <author>
+            <name>もちまる日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【深夜の県庁に侵入】金庫から約70万円盗んだ熊本県職員・成松真宙(30)逮捕]]></title>
+        <id>https://itainews.com/archives/2067028.html</id>
+        <link href="https://itainews.com/archives/2067028.html"/>
+        <updated>2026-09-09T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/09(水) 00:27:18.39 ID:Uqkkt9cp0●.net
+
+
+
+
+
+
+
+深夜の県庁に侵入し所属する収税課の金庫から約70万円盗んだ疑い 県職員の男を逮捕https://t.co/j4KY5p5i3H— KKT熊本県民テレビ【公式】 (@kkt_4ch) September 8, 2026  
+
+
+
+
+
+
+深夜の熊本県庁に侵入し...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「進撃の巨人」にまつわる“99大ニュース”発表　劇場版の再上映が決定、諫山創の描き下ろしイラスト公開]]></title>
+        <id>https://anime.eiga.com/news/127411/</id>
+        <link href="https://anime.eiga.com/news/127411/"/>
+        <updated>2026-09-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月9日の「進撃の巨人の日」を記念して、「進撃の巨人」にまつわる「99大ニュース」が発表された。 先日発表された通り、諫山創氏の漫画「進撃の巨人」の連載開始日が9月9日であることから、同日が「進...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パソコンやスマホ４２０万円相当盗んだ疑い　山口組系傘下の幹部ら４人逮捕　トクリュウ犯罪か(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/847284c8da9f59eee051688daca28872da81ef80?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/847284c8da9f59eee051688daca28872da81ef80?source=rss"/>
+        <updated>2026-09-09T10:57:17.000Z</updated>
+        <summary type="html"><![CDATA[３月下旬、千葉市などでスマートフォン８３台やノートパソコン３台などを盗んだなどとして、大阪府警は９日、六代目山口組傘下組織の幹部の男ら４人を逮捕しました。
+
+　建造物侵入と窃盗の疑いで逮捕されたのは]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「SEGA TOKYO GAME SHOW Sale」開催中。「龍が如く 極3 / 龍が如く3外伝 Dark Ties」が50％オフ]]></title>
         <id>https://www.4gamer.net/games/947/G094765/20260909045/</id>
@@ -33063,16 +33119,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」のIMAX版が、通常版と同じ8月28日から公開されることが決定した。 あわせて、同作の重要なキーワードである舞台装置の魔女「ワルプルギスの夜...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11「天気」アプリが重すぎる？ 消費RAM「1GB超」との報告]]></title>
-        <id>https://gadget.phileweb.com/?p=130358</id>
-        <link href="https://gadget.phileweb.com/post-130358/"/>
-        <updated>2026-08-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11に標準搭載されている「天気」アプリは、1GBを超えるRAMを消費することがあると報告されている。ちょうどマイクロソフトが、RAM 8GB程度のPCでもWindows 11を効率よく動作させるための改善を進めている最中の出来事である。 Windows Latestが公開したテストに […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>

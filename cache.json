@@ -2513,6 +2513,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/847284c8da9f59eee051688daca28872da81ef80?source=rss",
+          "author": null,
+          "description": "３月下旬、千葉市などでスマートフォン８３台やノートパソコン３台などを盗んだなどとして、大阪府警は９日、六代目山口組傘下組織の幹部の男ら４人を逮捕しました。\n\n　建造物侵入と窃盗の疑いで逮捕されたのは",
+          "link": "https://news.yahoo.co.jp/articles/847284c8da9f59eee051688daca28872da81ef80?source=rss",
+          "publishedOn": "2026-09-09T10:57:17.000Z",
+          "wordCount": 1678,
+          "title": "パソコンやスマホ４２０万円相当盗んだ疑い　山口組系傘下の幹部ら４人逮捕　トクリュウ犯罪か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00082471-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/45eb7630ecfca1c2c582ce2510e7947f856654b3?source=rss",
           "author": null,
           "description": "いわゆる「大阪都構想」が実現した場合の役割分担が固まりました。\n\n　９日の法定協議会では、大阪市を廃止して４つの特別区に分ける案を前提に、大阪府と特別区の仕事の分担について議論しました。\n\n　前回の",
@@ -11182,16 +11192,6 @@
           "wordCount": 777,
           "title": "「iPhone 18 Pro」これまでのリーク総まとめ。性能やカメラ、価格はどうなる？",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/95eabd384bb7ca83049347b55f5d12fc.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=130358",
-          "author": "多根清史",
-          "description": "Windows 11に標準搭載されている「天気」アプリは、1GBを超えるRAMを消費することがあると報告されている。ちょうどマイクロソフトが、RAM 8GB程度のPCでもWindows 11を効率よく動作させるための改善を進めている最中の出来事である。 Windows Latestが公開したテストに […]",
-          "link": "https://gadget.phileweb.com/post-130358/",
-          "publishedOn": "2026-08-10T23:00:00.000Z",
-          "wordCount": 718,
-          "title": "Windows 11「天気」アプリが重すぎる？ 消費RAM「1GB超」との報告",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/6a4c01152bb6452d14751b1a4915b7d9.jpg"
         }
       ]
     },
@@ -11200,6 +11200,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067028.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/09(水) 00:27:18.39 ID:Uqkkt9cp0●.net\n\n\n\n\n\n\n\n深夜の県庁に侵入し所属する収税課の金庫から約70万円盗んだ疑い 県職員の男を逮捕https://t.co/j4KY5p5i3H— KKT熊本県民テレビ【公式】 (@kkt_4ch) September 8, 2026  \n\n\n\n\n\n\n深夜の熊本県庁に侵入し...",
+          "link": "https://itainews.com/archives/2067028.html",
+          "publishedOn": "2026-09-09T11:00:01.000Z",
+          "wordCount": 3150,
+          "title": "【深夜の県庁に侵入】金庫から約70万円盗んだ熊本県職員・成松真宙(30)逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/a/0a028260-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067039.html",
           "author": "damono3856",
@@ -19099,6 +19109,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127411/",
+          "author": null,
+          "description": "9月9日の「進撃の巨人の日」を記念して、「進撃の巨人」にまつわる「99大ニュース」が発表された。 先日発表された通り、諫山創氏の漫画「進撃の巨人」の連載開始日が9月9日であることから、同日が「進...",
+          "link": "https://anime.eiga.com/news/127411/",
+          "publishedOn": "2026-09-09T11:00:00.000Z",
+          "wordCount": 788,
+          "title": "「進撃の巨人」にまつわる“99大ニュース”発表　劇場版の再上映が決定、諫山創の描き下ろしイラスト公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/column/konki_ranking/127407/",
           "author": null,
           "description": "9月第2週の2026年夏アニメ録画ランキングは、「転生したらスライムだった件（第4期）」が5週連続で首位となった。 第10話で一足早く最終回をむかえた「攻殻機動隊 THE GHOST IN TH...",
@@ -23366,6 +23391,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=oSIrSI7R06Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oSIrSI7R06Q",
+          "publishedOn": "2026-09-09T11:01:28.000Z",
+          "wordCount": null,
+          "title": "はなににゃんプロで負けそうになったもちが…www",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jCsTahhfRhQ",
           "author": null,
