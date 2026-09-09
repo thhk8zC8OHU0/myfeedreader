@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T23:49:18.869Z</updated>
+    <updated>2026-09-09T00:12:06.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮釈放中の性犯罪者にGPS、法務省が実証実験へ　本人同意が条件]]></title>
+        <id>https://itainews.com/archives/2066998.html</id>
+        <link href="https://itainews.com/archives/2066998.html"/>
+        <updated>2026-09-09T00:04:04.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：少考さん ★：2026/09/08(火) 12:40:50.58 ID:AuS2qXJo9.net
+
+
+
+
+
+
+
+仮釈放中の性犯罪者にGPS、法務省が実証実験へ　本人同意が条件https://t.co/XjEVahKH7w— 日本経済新聞 電子版（日経電子版） (@nikkei) September 7, 2026 
+
+
+
+
+
+
+仮釈放中の性犯罪者にGPS、...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[外人ドライバーの「死亡・重傷」交通事故が過去最多【都合が悪いとトルコ語に】]]></title>
         <id>https://itainews.com/archives/2066996.html</id>
@@ -32259,16 +32284,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
         <updated>2026-08-10T12:15:03.000Z</updated>
         <author>
             <name>みつ美《母ちゃんのクラリネット》</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「我々は宇宙人」に櫻坂46・山﨑天&令和ロマン・松井ケムリ、主題歌はadieu　藤本タツキがコメント「僕は超超大大大好きな映画」]]></title>
-        <id>https://anime.eiga.com/news/127103/</id>
-        <link href="https://anime.eiga.com/news/127103/"/>
-        <updated>2026-08-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[坂東龍汰、岡山天音が主演を務める劇場アニメ「我々は宇宙人」に、山﨑天（櫻坂46）、松井ケムリ（令和ロマン）、主題歌・adieu（上白石萌歌）の出演が決定。あわせて本ポスター、本予告が公開された。...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
