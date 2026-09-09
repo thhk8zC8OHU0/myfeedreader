@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:40:07.179Z</updated>
+    <updated>2026-09-09T02:52:06.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】兵庫県内で１９００軒余りが停電　１１時半すぎ時点　大雨・土砂災害警報が継続中(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/aad7d6c9b65415424e1f8e63fbc69dc37191c1f1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/aad7d6c9b65415424e1f8e63fbc69dc37191c1f1?source=rss"/>
+        <updated>2026-09-09T02:43:07.000Z</updated>
+        <summary type="html"><![CDATA[関西電力送配電によりますと、９日午前１１時半すぎの時点で、兵庫県内で約１９４０軒の停電が発生しています。
+
+　停電しているのはたつの市内で約９２０軒、香美町内で約５００軒、新温泉町内で１３０軒、神戸]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「何件も通報したけど」「大嘘つき」利用者の怒りはメルカリへ、くら寿司ちいかわ不正転売の“後手対応”]]></title>
         <id>https://itainews.com/archives/2067011.html</id>
