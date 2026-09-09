@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T10:07:52.308Z</updated>
+    <updated>2026-09-09T10:27:17.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近畿で初めて神社が倒産　兵庫・川西市の多田神社　本殿は国の重要文化財に指定(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/699c5f2750551f645320f7849ee94eaa6beb4832?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/699c5f2750551f645320f7849ee94eaa6beb4832?source=rss"/>
+        <updated>2026-09-09T10:06:46.000Z</updated>
+        <summary type="html"><![CDATA[近畿地方で初めて神社が倒産しました。
+
+　帝国データバンクによりますと、民事再生法の適用を申請したのは、兵庫県川西市にある多田神社です。多田神社を巡っては２０２３年ごろから、金銭トラブルが表面化し、]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無許可で為替取引する「地下銀行」営業か　中国に１億５千万円相当の人民元送金の疑い　３人を逮捕　(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/211a96678d51c425220f34af3d6bd495f4abee21?source=rss</id>
@@ -33002,16 +33014,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[イーロン・マスク氏が巨大な半導体製造施設「Terafab」建設プロジェクトを発表してから、まだ5か月も経っていない。それにもかかわらず、現地ではすでに建設が始まっている。巨大工場は構想から着工まで通常数年を要するため、異例のスピードといえる。 先週には、この施設の初期フェーズへの設備投資が168億ド […]]]></summary>
         <author>
             <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[よい]]></title>
-        <id>https://logipara.com/?p=13359</id>
-        <link href="https://logipara.com/diary-text/2026-08-11/"/>
-        <updated>2026-08-10T22:15:52.000Z</updated>
-        <summary type="html"><![CDATA[...]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
