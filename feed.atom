@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T03:08:17.496Z</updated>
+    <updated>2026-09-09T03:26:46.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人気ラーメンにウニもイクラも･･･　「大北海道展」で人気グルメが勢ぞろい　あべのハルカス近鉄本店(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/dd9475934e8faadbc075713356f223f2052ad479?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/dd9475934e8faadbc075713356f223f2052ad479?source=rss"/>
+        <updated>2026-09-09T03:23:52.000Z</updated>
+        <summary type="html"><![CDATA[大阪のあべのハルカス近鉄本店では、北海道の人気グルメやスイーツを楽しめるイベントが開かれています。
+
+　9日から始まった「大北海道展」。人気ラーメン店の味噌ラーメンやウニやイクラなど１３種類の海の幸]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・兵庫で９日昼すぎにかけて線状降水帯のおそれ　近畿各地で大雨　大阪府内では避難指示も(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cfb08b294c69b8f951da8c08b255223008382b6f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cfb08b294c69b8f951da8c08b255223008382b6f?source=rss"/>
+        <updated>2026-09-09T03:22:39.000Z</updated>
+        <summary type="html"><![CDATA[近畿地方では雨が降り、雷を伴って雨脚の強まっている所があります。昼過ぎにかけて線状降水帯が発生するおそれもあり、気象台は警戒を呼びかけています。
+
+　熱帯低気圧から暖かく湿った空気が流れこみ、前線の]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新聞配達の男性が用水路に転落し死亡　そばに原付バイク　路面は雨でぬれた状態　徳島・鳴門市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fd2e79ec455309985691dc6ca01d42fa7ae87061?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fd2e79ec455309985691dc6ca01d42fa7ae87061?source=rss"/>
+        <updated>2026-09-09T03:21:42.000Z</updated>
+        <summary type="html"><![CDATA[9日朝早く、徳島県鳴門市で、新聞配達中とみられる男性が用水路に転落しているのが見つかり、その後、死亡しました。
+
+　午前５時すぎ、鳴門市北灘町の用水路で、「新聞配達のバイクと人が落ちている」と、１１]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「店員の仕事だったことを、なぜ客が？」セルフレジやQR・タッチパネル注文に疲弊する人々の声。操作方法もバラバラで困惑]]></title>
         <id>https://itainews.com/archives/2067006.html</id>
