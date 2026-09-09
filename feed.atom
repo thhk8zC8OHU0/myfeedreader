@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T07:09:11.751Z</updated>
+    <updated>2026-09-09T07:27:20.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近畿各地で強い雨の荒れた天気　和歌山市で８４歳女性が風にあおられ転倒・軽傷(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/43c778331aad0800712f4e8fee13408131552377?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/43c778331aad0800712f4e8fee13408131552377?source=rss"/>
+        <updated>2026-09-09T07:22:32.000Z</updated>
+        <summary type="html"><![CDATA[低気圧からの暖かく湿った空気の影響で前線の活動が活発となって、近畿各地で強い雨が降り、荒れた天気となっています。９日午前、和歌山市では８４歳の女性が風にあおられて転倒する事故がありました。
+
+　午前]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[発表前の折りたたみiPhone用ケースが大っぴらに販売。一方名称は「iPhone Duo」、Apple Pencil対応との情報も]]></title>
+        <id>https://gadget.phileweb.com/?p=132731</id>
+        <link href="https://gadget.phileweb.com/post-132731/"/>
+        <updated>2026-09-09T07:21:52.000Z</updated>
+        <summary type="html"><![CDATA[アップルはまもなく開催するイベント「おはよう世界。」で、同社初の折りたたみiPhoneを発表することが有力視されている。その衝撃を新鮮に味わいたいと、あえてリーク画像や噂話を遠ざけてきた人もいるだろう。もちろん、記事執筆時点でアップルが折りたたみiPhoneの存在を公式に認めたことは一度もない。 し […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『サンモニ』コメンテーター、ネパール土石流「日本に大きな責任」発言に議論噴出]]></title>
         <id>https://itainews.com/archives/2067021.html</id>

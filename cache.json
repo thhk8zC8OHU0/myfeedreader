@@ -2433,6 +2433,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/43c778331aad0800712f4e8fee13408131552377?source=rss",
+          "author": null,
+          "description": "低気圧からの暖かく湿った空気の影響で前線の活動が活発となって、近畿各地で強い雨が降り、荒れた天気となっています。９日午前、和歌山市では８４歳の女性が風にあおられて転倒する事故がありました。\n\n　午前",
+          "link": "https://news.yahoo.co.jp/articles/43c778331aad0800712f4e8fee13408131552377?source=rss",
+          "publishedOn": "2026-09-09T07:22:32.000Z",
+          "wordCount": 1635,
+          "title": "近畿各地で強い雨の荒れた天気　和歌山市で８４歳女性が風にあおられ転倒・軽傷(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00082464-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/003ad00e3300bfad91fa8b6bb10540059ba73ca9?source=rss",
           "author": null,
           "description": "いわゆる「大阪都構想」の制度論を議論する８回目の法定協議会が開かれ、大阪府と再編後の特別区の事務分担が固まりました。\n\n　９日の会議では、大阪府と特別区の事務分担のうち継続協議となっていた分野につい",
@@ -9623,6 +9633,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132731",
+          "author": "多根清史",
+          "description": "アップルはまもなく開催するイベント「おはよう世界。」で、同社初の折りたたみiPhoneを発表することが有力視されている。その衝撃を新鮮に味わいたいと、あえてリーク画像や噂話を遠ざけてきた人もいるだろう。もちろん、記事執筆時点でアップルが折りたたみiPhoneの存在を公式に認めたことは一度もない。 し […]",
+          "link": "https://gadget.phileweb.com/post-132731/",
+          "publishedOn": "2026-09-09T07:21:52.000Z",
+          "wordCount": 779,
+          "title": "発表前の折りたたみiPhone用ケースが大っぴらに販売。一方名称は「iPhone Duo」、Apple Pencil対応との情報も",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/bfb0f52346802f27e7b6cbcb3c724bc3.41.04.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132725",
           "author": "多根清史",
