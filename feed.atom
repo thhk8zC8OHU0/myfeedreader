@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T17:25:09.564Z</updated>
+    <updated>2026-09-09T17:38:45.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -33507,16 +33507,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
 　１１日午前８時４０分ごろ]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米カリフォルニアの有名なハクトウワシ「ジャッキー」が死亡]]></title>
-        <id>https://www.bbc.com/japanese/articles/cy9w1pp1z31o#1</id>
-        <link href="https://www.bbc.com/japanese/articles/cy9w1pp1z31o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-11T05:37:13.000Z</updated>
-        <summary type="html"><![CDATA[米カリフォルニア州に生息し、インターネット上で人気者となったハクトウワシの「ジャッキー」が10日、死亡した。重度の貧血と診断され、数週間にわたり治療を受けていた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
