@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T00:55:46.847Z</updated>
+    <updated>2026-09-09T01:07:46.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バカ娘のせいで逮捕された巨人元監督阿部慎之助（47）が巨人軍復帰]]></title>
+        <id>https://itainews.com/archives/2067005.html</id>
+        <link href="https://itainews.com/archives/2067005.html"/>
+        <updated>2026-09-09T01:00:04.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/09/08(火) 15:27:59.30 ID:P82F+ULm0.net
+
+
+
+
+
+
+
+巨人・阿部前監督が球団復帰へ着々 「辞任4カ月での出戻り」は毒になるか、薬になるか 巨人でコーチ経験のある秦真司氏が言う。…— 日刊ゲンダイ スポーツ編集部 (@gendaisports) September 8, 2026 
+
+...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#イソネミクニ亜種 #モンハンNow]]></title>
         <id>https://www.youtube.com/shorts/gI_sWJXul7A</id>
@@ -32293,16 +32313,6 @@ STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers 
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新作アイス「赤城乳業 増量たべる牧場ミルク（おかわり45％増量作戦）」を世界一詳しく調査しました。 &nbs […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「機動警察パトレイバー EZY File 3」27年3月5日に劇場公開　第一小隊員役に名塚佳織、八代拓　新パトレイバー「AV-17 センチネル」も発表]]></title>
-        <id>https://anime.eiga.com/news/127211/</id>
-        <link href="https://anime.eiga.com/news/127211/"/>
-        <updated>2026-08-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメ「機動警察パトレイバー EZY File 3」が2027年3月5日に劇場公開されることが決定し、特報映像と第1弾ビジュアルが公開された。名塚佳織、八代拓が出演することも明らかになっている。...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
