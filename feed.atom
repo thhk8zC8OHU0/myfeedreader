@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T02:52:06.054Z</updated>
+    <updated>2026-09-09T03:08:17.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「店員の仕事だったことを、なぜ客が？」セルフレジやQR・タッチパネル注文に疲弊する人々の声。操作方法もバラバラで困惑]]></title>
+        <id>https://itainews.com/archives/2067006.html</id>
+        <link href="https://itainews.com/archives/2067006.html"/>
+        <updated>2026-09-09T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：ぐれ ★：2026/09/08(火) 16:11:40.89 ID:F3T7b6gl9.net
+
+
+
+
+
+
+
+「店員の仕事だったことを、なぜ客が？」セルフレジやQR・タッチパネル注文に疲弊する人々の声。操作方法もバラバラで困惑 https://t.co/c6TP088eQZ— ニュースSPA!～誰かに話したくなる記事満載 (...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「HUNTER×HUNTER」舞台・第4弾は「キメラアント編」　27年に前後編で上演]]></title>
+        <id>https://anime.eiga.com/news/127405/</id>
+        <link href="https://anime.eiga.com/news/127405/"/>
+        <updated>2026-09-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[冨樫義博氏の漫画「HUNTER×HUNTER」の舞台シリーズの第4弾「『HUNTER×HUNTER』THE STAGE 4」の上演が決定した。原作漫画の人気エピソード「キメラアント編」が前後編で...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】兵庫県内で１９００軒余りが停電　１１時半すぎ時点　大雨・土砂災害警報が継続中(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/aad7d6c9b65415424e1f8e63fbc69dc37191c1f1?source=rss</id>

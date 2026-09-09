@@ -10891,6 +10891,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2067006.html",
+          "author": "nobi0929",
+          "description": "1 名前：ぐれ ★：2026/09/08(火) 16:11:40.89 ID:F3T7b6gl9.net\n\n\n\n\n\n\n\n「店員の仕事だったことを、なぜ客が？」セルフレジやQR・タッチパネル注文に疲弊する人々の声。操作方法もバラバラで困惑 https://t.co/c6TP088eQZ— ニュースSPA!～誰かに話したくなる記事満載 (...",
+          "link": "https://itainews.com/archives/2067006.html",
+          "publishedOn": "2026-09-09T03:00:33.000Z",
+          "wordCount": 3108,
+          "title": "「店員の仕事だったことを、なぜ客が？」セルフレジやQR・タッチパネル注文に疲弊する人々の声。操作方法もバラバラで困惑",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/f/cfbaf65d-s.jpg"
+        },
+        {
           "id": "https://itainews.com/archives/2067011.html",
           "author": "dqnplus",
           "description": "1 ：煮卵 ★：2026/09/08(火) 18:02:10.13 ID:Xf8kgvdZ9.net\n\n\n\n\n\n\n\n\n\n《くら寿司×ちいかわコラボ》店員の不正発覚、転売先の『メルカリ』が声明発表も利用者「通報放置されたまま」「大嘘つき」“後手対応”への怒り : https://t.co/q2HRH0Lbsb #くら寿司 #ちいかわ #...",
@@ -18638,6 +18648,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127405/",
+          "author": null,
+          "description": "冨樫義博氏の漫画「HUNTER×HUNTER」の舞台シリーズの第4弾「『HUNTER×HUNTER』THE STAGE 4」の上演が決定した。原作漫画の人気エピソード「キメラアント編」が前後編で...",
+          "link": "https://anime.eiga.com/news/127405/",
+          "publishedOn": "2026-09-09T03:00:00.000Z",
+          "wordCount": 687,
+          "title": "「HUNTER×HUNTER」舞台・第4弾は「キメラアント編」　27年に前後編で上演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127369/",
           "author": null,
