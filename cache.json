@@ -6850,6 +6850,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cy0z8wk54lpo#0",
+          "author": null,
+          "description": "イスラエルは、占領下のヨルダン川西岸地区において新しい入植地の建設を計画している。これについてイギリスのエド・ミリバンド外相は8日、英議会で演説。イスラエルによる入植地の「拡大を抑止」し、「E1地区の開発を阻止する」ため、ヨルダン川西岸のイスラエル入植地に対する制裁を発表した。BBCのルーシー・ウィリアムソン中東特派員が、「E1」を見渡せる既存のイスラエル人入植地、マアレ・アドゥミムから報告する。",
+          "link": "https://www.bbc.com/japanese/articles/cy0z8wk54lpo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-09T04:47:42.000Z",
+          "wordCount": 1302,
+          "title": "イギリスが反対するイスラエルの入植予定地、ヨルダン川西岸のどういう位置にあるのか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/794d/live/60f7daa0-ab9c-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c8d3e14ppmdo#0",
           "author": null,
           "description": "イギリスは8日、イスラエルが占領するパレスチナ・ヨルダン川西岸の違法なイスラエル入植地に対して制裁措置を発表した。イギリスはさらに、イスラエル政府が入植者によるパレスチナ人の「民族浄化」を黙認していると非難した。イスラエルは「とんでもないうそ」だとして強く反発している。",
@@ -18073,16 +18083,6 @@
           "wordCount": 4161,
           "title": "IEEE 4001 Standard announced",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhFN2rLrATgSYx-Sp-9AWCyj6OK8A2wxy-ldZQkC3Zm-3ajeM-dTPoAjMS5KvyJOF6ZybnFqdL7ZK4pEwj1lFdSZ_rHvAB9wrmnhCzWuIT6Lbfa0azQVxSxb_gO4vKrb7VdO2PeG6QI5YZo1ayK_JO5ISxbNCe-LYJ2nWeKQemf2V5jeDoM37/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/08/st-releases-dtof-sensor-with-54x42.html",
-          "author": null,
-          "description": "STMicroelectronics unveils new compact direct Time-of-Flight 3D LiDAR module bringing high-resolution spatial awareness to compact edge AI systems with industry-leading resolution and performance\nVL53L9 is the first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module in ST’s portfolio, offering a resolution of 2.3K zones, wide field of view, on-chip processing, 100 frames per second, and sensing range from 5 centimeters to 9 meters.\nDesigned to meet the evolving needs of customers and partners across diverse industries, including robotics, industrial automation, smart buildings, AR/VR, and healthcare.\nSTMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today [June 23, 2026] announced the launch of the VL53L9, …",
-          "link": "https://image-sensors-world.blogspot.com/2026/08/st-releases-dtof-sensor-with-54x42.html",
-          "publishedOn": "2026-08-10T16:42:00.000Z",
-          "wordCount": 4446,
-          "title": "ST releases dToF sensor with 54x42 zones and 100fps",
-          "imageUrl": null
         }
       ]
     },

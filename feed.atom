@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T04:41:29.953Z</updated>
+    <updated>2026-09-09T04:52:50.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イギリスが反対するイスラエルの入植予定地、ヨルダン川西岸のどういう位置にあるのか]]></title>
+        <id>https://www.bbc.com/japanese/articles/cy0z8wk54lpo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cy0z8wk54lpo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-09T04:47:42.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルは、占領下のヨルダン川西岸地区において新しい入植地の建設を計画している。これについてイギリスのエド・ミリバンド外相は8日、英議会で演説。イスラエルによる入植地の「拡大を抑止」し、「E1地区の開発を阻止する」ため、ヨルダン川西岸のイスラエル入植地に対する制裁を発表した。BBCのルーシー・ウィリアムソン中東特派員が、「E1」を見渡せる既存のイスラエル人入植地、マアレ・アドゥミムから報告する。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パヨさん「批判されるだろうけど、正しいことだから言う。沖縄は中国に占領されるべき」]]></title>
         <id>https://itainews.com/archives/2067012.html</id>
@@ -32570,19 +32580,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[8月3日夜（現地時間）、アラスカ沖合でMetaのマーク・ザッカーバーグ氏が所有する3億ドルの豪華絢爛なスーパーヨット「Launchpad」（全長117m）が、全長7m弱の小型ボートおよび沿岸警備隊からの救助要請を繰り返し無視した。その結果、救助を求めるボートからより遠い位置にいたクルーズ船「Wild […]]]></summary>
         <author>
             <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ST releases dToF sensor with 54x42 zones and 100fps]]></title>
-        <id>https://image-sensors-world.blogspot.com/2026/08/st-releases-dtof-sensor-with-54x42.html</id>
-        <link href="https://image-sensors-world.blogspot.com/2026/08/st-releases-dtof-sensor-with-54x42.html"/>
-        <updated>2026-08-10T16:42:00.000Z</updated>
-        <summary type="html"><![CDATA[STMicroelectronics unveils new compact direct Time-of-Flight 3D LiDAR module bringing high-resolution spatial awareness to compact edge AI systems with industry-leading resolution and performance
-VL53L9 is the first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module in ST’s portfolio, offering a resolution of 2.3K zones, wide field of view, on-chip processing, 100 frames per second, and sensing range from 5 centimeters to 9 meters.
-Designed to meet the evolving needs of customers and partners across diverse industries, including robotics, industrial automation, smart buildings, AR/VR, and healthcare.
-STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today [June 23, 2026] announced the launch of the VL53L9, …]]></summary>
-        <author>
-            <name>Image Sensors World</name>
         </author>
     </entry>
 </feed>
