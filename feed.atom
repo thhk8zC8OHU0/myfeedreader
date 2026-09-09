@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T15:43:14.108Z</updated>
+    <updated>2026-09-09T15:54:48.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「星のカービィ ワールドビヨンド」や「メトロイド ラヴェナス」など新作多数の「Nintendo Direct 2026.9.9」まとめ]]></title>
+        <id>https://www.4gamer.net/games/041/G104104/20260910005/</id>
+        <link href="https://www.4gamer.net/games/041/G104104/20260910005/"/>
+        <updated>2026-09-09T15:44:22.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は2026年9月9日，情報配信番組「NintendoDirect2026.9.9」を配信した。「星のカービィワールドビヨンド」や「メトロイドラヴェナス」といった新作がお披露目されたほか，さまざまなタイトルの発売日や移植なども発表されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新作アドベンチャー「Onyx: The Dark Grip」がNintendo Switch 2で2027年に配信決定]]></title>
         <id>https://www.4gamer.net/games/041/G104112/20260910004/</id>
@@ -33537,16 +33547,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「Afternoon Tea監修 白桃香るルイボスティー 950ml（おかわり45％増量作戦）」を世界 […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【特別開催】紅ずわい蟹＆プリプリ海老を心行くまで楽しめる♡レンブラントホテル厚木「蟹＆海老食べ放題」お盆は毎日開催中！［厚木市中町］]]></title>
-        <id>https://atsugi-lab.com/?p=60975</id>
-        <link href="https://atsugi-lab.com/rembrandt-atsugi-buffet202608/"/>
-        <updated>2026-08-11T03:53:26.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 夏休みも後半に入り、あっという間にお盆！ みんなが集まりやすいお盆には、ちょっと特別なお食事に出かけたくなりますよね♪ 今回はレンブラントホテル厚木さんから、なんと蟹＆海老が食べ放題のビュッフェが開催され…]]></summary>
-        <author>
-            <name>fumie</name>
         </author>
     </entry>
 </feed>
