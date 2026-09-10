@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T05:38:32.638Z</updated>
+    <updated>2026-09-10T05:52:08.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北欧神話サバイバルACT「Valheim」がついに正式リリース。クロスプレイに対応したSwitch2 / PS5版も発売]]></title>
+        <id>https://www.4gamer.net/games/513/G051314/20260910022/</id>
+        <link href="https://www.4gamer.net/games/513/G051314/20260910022/"/>
+        <updated>2026-09-10T05:48:59.000Z</updated>
+        <summary type="html"><![CDATA[CoffeeStainPublishingは本日（2026年9月9日），IronGateが開発した「Valheim」の早期アクセスを終了し，正式リリースした。Ver1.0では，最後のバイオーム「極北」が追加され，40種類以上の武器や4種類の防具セットなど，さまざまな新アイテムが登場している。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ストリートファイター6」と「カラオケまねきねこ」が9月24日からコラボ。大川ぶくぶ氏の描き下ろしイラストを使用したグッズなどを展開]]></title>
+        <id>https://www.4gamer.net/games/635/G063504/20260910020/</id>
+        <link href="https://www.4gamer.net/games/635/G063504/20260910020/"/>
+        <updated>2026-09-10T05:41:43.000Z</updated>
+        <summary type="html"><![CDATA[コシダカは，全国の「カラオケまねきねこ」で「ストリートファイター6」とのコラボを，2026年9月24日から11月3日まで開催する。コラボでは，コラボドリンクやグッズの販売を予定している。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】東海道・山陽新幹線が一部で運転見合わせ　再開は午後３時１０分の見込み(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/a42e4a79ca5119b2a3d929a2a9fc489a82748a68?source=rss</id>
