@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T01:24:37.363Z</updated>
+    <updated>2026-09-10T01:38:04.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アップル、新iPhone発表の裏で既存iPhoneを総値上げ。iPhone 17 Pro／17 Pro Maxは姿消す]]></title>
+        <id>https://gadget.phileweb.com/?p=132856</id>
+        <link href="https://gadget.phileweb.com/post-132856/"/>
+        <updated>2026-09-10T01:25:56.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、iPhone 18 ProやiPhone Duoを発表した一方で、アップルストアで販売しているすべての既存iPhoneの価格を引き上げた。アップルは、日本では7月18日にiPhoneの値上げをしていたため、わずか2か月弱での再値上げとなった。 また、iPhone 18 ProおよびiPh […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[入管と国交省、「解体業者」に立ち入り調査へ　外国人の不法就労摘発を強化]]></title>
         <id>https://itainews.com/archives/2067037.html</id>
