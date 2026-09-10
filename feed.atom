@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T10:41:04.357Z</updated>
+    <updated>2026-09-10T10:52:45.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[男性の財布から現金盗み、追いかけてきた男性に車を発進させたとして逮捕された女性を不起訴処分に　大阪地検(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b3099b72035a527424c82b60b093f9d3d061f093?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b3099b72035a527424c82b60b093f9d3d061f093?source=rss"/>
+        <updated>2026-09-10T10:49:40.000Z</updated>
+        <summary type="html"><![CDATA[ことし８月、東大阪市のホテルで、出会い系アプリで知り合った男性（６０）の財布から現金６万円を盗んだうえ、追いかけてきた男性に向かって、車を発進させたとして逮捕された５６歳の女性について大阪地検は９月]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[売春防止法、買う側の処罰化「売る側の非処罰化と支援をセットで」]]></title>
         <id>https://itainews.com/archives/2067072.html</id>
