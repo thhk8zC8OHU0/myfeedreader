@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T11:39:46.083Z</updated>
+    <updated>2026-09-10T11:51:17.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国道で対向車線にはみ出し正面衝突か　車３台が絡む事故で１人死亡、２人負傷　滋賀・高島市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/203a53567272f6cf1ba56aacb7285048452c3196?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/203a53567272f6cf1ba56aacb7285048452c3196?source=rss"/>
+        <updated>2026-09-10T11:43:24.000Z</updated>
+        <summary type="html"><![CDATA[１０日、滋賀県高島市の国道で車３台が絡む事故があり、１人が死亡、２人がけがをしました。
+
+　１０日午後３時前、高島市マキノの片側１車線の国道で「軽四とトラックがあたった」と警察に通報がありました。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経済崩壊の中国にて、精神が破綻したと思われる男が全裸で💩を片手に工場を徘徊]]></title>
         <id>https://itainews.com/archives/2067065.html</id>
