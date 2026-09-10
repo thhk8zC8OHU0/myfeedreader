@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T06:31:54.509Z</updated>
+    <updated>2026-09-10T06:55:04.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪府でインフルエンザが流行期入り　過去１０年で２番目の早さ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2122736fe2333c23b32572402951baf088ce4a55?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2122736fe2333c23b32572402951baf088ce4a55?source=rss"/>
+        <updated>2026-09-10T06:33:13.000Z</updated>
+        <summary type="html"><![CDATA[大阪府で、インフルエンザが今シーズンの流行期に入りました。
+
+　大阪府によりますと、２０２６年第３６週（８月３１日から９月６日）の府内の患者数（３９３人）を、報告してきた医療機関の数（２８４カ所）で]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バンドマンになり切るリズムアクション「STAGE TOUR」，新たに3曲を追加。Blur「Parklife」など収録決定曲は48曲に]]></title>
+        <id>https://www.4gamer.net/games/041/G104158/20260910025/</id>
+        <link href="https://www.4gamer.net/games/041/G104158/20260910025/"/>
+        <updated>2026-09-10T06:31:23.000Z</updated>
+        <summary type="html"><![CDATA[RedOctaneGamesは，2026年12月10日に発売予定のリズムアクションゲーム「STAGETOUR」に収録される新たな3曲を発表した。「GuitarHero」の精神的後継作となる本作では，専用の楽器型コントローラを使って演奏を楽しめる。今回の発表で収録決定曲は48曲となった。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本の個人投資家、4兆4000億円の円売り　円高に逆張り　このまま円高進むと強制ロスカットも]]></title>
         <id>https://itainews.com/archives/2067062.html</id>
