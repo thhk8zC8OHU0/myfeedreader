@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T05:24:36.022Z</updated>
+    <updated>2026-09-10T05:38:32.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】東海道・山陽新幹線が一部で運転見合わせ　再開は午後３時１０分の見込み(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a42e4a79ca5119b2a3d929a2a9fc489a82748a68?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a42e4a79ca5119b2a3d929a2a9fc489a82748a68?source=rss"/>
+        <updated>2026-09-10T05:37:03.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ東海によりますと、１０日午後２時半現在、東海道・山陽新幹線は上り線の岡山―東京駅間で運転を見合わせています。また、下り線は東京―名古屋間で運転を見合わせています。
+
+　岐阜羽島駅―米原駅間で線路]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「EGGコンソール サブナック PC-9801」本日配信。石化した仲間を魔方陣へ導くファンタジーパズルゲーム]]></title>
+        <id>https://www.4gamer.net/games/041/G104152/20260910019/</id>
+        <link href="https://www.4gamer.net/games/041/G104152/20260910019/"/>
+        <updated>2026-09-10T05:30:37.000Z</updated>
+        <summary type="html"><![CDATA[D4エンタープライズは本日，「EGGコンソールサブナックPC-9801」を配信開始した。「サブナック」は，1991年に工画堂スタジオから発売されたファンタジーパズルゲームだ。プレイヤーは選ばれし者アルフを操作し，深紅のマントで石化した仲間を復活させ，魔方陣へと導いていく。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ氏、アメリカとイランの戦争は11月の米中間選挙後まで終わらないと]]></title>
         <id>https://www.bbc.com/japanese/articles/cp84984rgl8o#0</id>
