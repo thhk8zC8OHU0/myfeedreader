@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T03:07:12.906Z</updated>
+    <updated>2026-09-10T03:26:23.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サムスン、折りたたみiPhoneを「残り物の温め直し」と揶揄。アップルも他社製品を「2台を無理にくっつけた」と煽る]]></title>
+        <id>https://gadget.phileweb.com/?p=132871</id>
+        <link href="https://gadget.phileweb.com/post-132871/"/>
+        <updated>2026-09-10T03:10:08.000Z</updated>
+        <summary type="html"><![CDATA[アップルの新CEOジョン・ターナス氏は、同社初の折りたたみスマホ「iPhone Duo」の発表イベントで「これまでの折りたたみ機は、2台を無理にくっつけたようなもの」と切り出し、他社製品との差別化を強調した。 その競合他社の1つであるサムスンは、アップルの発表イベント配信に反応するように、iPhon […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用認め謝罪]]></title>
         <id>https://itainews.com/archives/2067042.html</id>
@@ -33682,16 +33692,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[コロンビアで10日午前7時34分ごろ、マグニチュード（M）7.4の強い地震が発生し、11日までに少なくとも181人の死亡が確認された。近年で最大規模の地震を受け、非常事態宣言が発令された。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【松屋】牛カルビホルモン丼【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=316428</id>
-        <link href="https://foodfighter.jp/matsuya-2026-08012"/>
-        <updated>2026-08-11T15:13:15.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]]]></summary>
-        <author>
-            <name>foodfighter</name>
         </author>
     </entry>
 </feed>
