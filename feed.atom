@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T04:26:13.527Z</updated>
+    <updated>2026-09-10T04:40:58.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch 2用ソフト「The Ascent Ultimate Edition」，12月3日に発売。3つのダウンロードコンテンツを収録]]></title>
+        <id>https://www.4gamer.net/games/041/G104143/20260910016/</id>
+        <link href="https://www.4gamer.net/games/041/G104143/20260910016/"/>
+        <updated>2026-09-10T04:37:57.000Z</updated>
+        <summary type="html"><![CDATA[KRAFTONは2026年9月9日，NintendoSwitch2用ソフト「TheAscentUltimateEdition」を12月3日に発売すると発表した。価格は3500円（税込）。Switch2版は3つのDLCを収録し，1つのエディションで本作のすべてを楽しめるという。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「定員割れなのに不合格」知○障害者の県立高校受験失敗に保護者憤る]]></title>
+        <id>https://itainews.com/archives/2067053.html</id>
+        <link href="https://itainews.com/archives/2067053.html"/>
+        <updated>2026-09-10T04:31:58.000Z</updated>
+        <summary type="html"><![CDATA[1 ：：2026/09/09(水) 19:54:44.79 ID:PlgOtVx80●.net 
+
+
+
+
+
+
+
+
+
+
+「定員割れなのに不合格」知的障がいある男子生徒が県立高校を受験　保護者と県教委の話合いは平行線　広島https://t.co/CHSSGrOBLr— TSSライク！ (@tss_eveningnews) September 9, 2026 
+
+
+
+
+
+
+
+
+
+県...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが「全人類を滅ぼす」可能性は「10％以上」　米アンソロピック研究者が警告]]></title>
+        <id>https://www.bbc.com/japanese/articles/cm27vdrp84zo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cm27vdrp84zo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-10T04:25:41.000Z</updated>
+        <summary type="html"><![CDATA[米AI（人工知能）開発企業アンソロピックの安全研究のトップが、AIの進歩があまりに速く、今後10年以内にAIが「全人類を滅亡させる」可能性が10％以上あると考えられると、警告した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脳外科医竹田くん「医者をやめます…今後は何が起きても自分のせいにされそうなので」]]></title>
         <id>https://itainews.com/archives/2067048.html</id>
