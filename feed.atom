@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T15:27:03.165Z</updated>
+    <updated>2026-09-10T15:40:53.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -34578,56 +34578,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[オーストラリアのアンソニー・アルバニージー首相の、日本の高市早苗首相から贈られたメロンについての発言が批判を浴びている。日本の元駐オーストラリア大使の一人は、この発言を侮辱だと非難している。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新AMD EPYC 9006プロセッサ搭載、AdvantechがAIサーバ製品群]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2608/12/news016.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2608/12/news016.html"/>
-        <updated>2026-08-12T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Advantechは、AMD EPYC 9006 SP8プロセッサを採用したサーバ製品群を投入する。AIやHPC、ネットワーク、産業用途に対応する。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「より上へ」何度もチャレンジ　ボウズハゼの岩登り　和歌山・古座川町の天然記念物「滝の拝」(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/bf3c27d3612f860f1fb13960f4c11f926a70838b?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/bf3c27d3612f860f1fb13960f4c11f926a70838b?source=rss"/>
-        <updated>2026-08-12T03:28:57.000Z</updated>
-        <summary type="html"><![CDATA[和歌山県古座川町で、ボウズハゼの「岩登り」がはじまりました。
-
-　古座川町にある天然記念物の「滝の拝」では、毎年この時期にボウズハゼが岩を登るかわいらしい姿を見ることができます。
-
-　ボウズハゼは体]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[職場がガラーン　滋賀県庁が一斉に「夏休み」　節電効果で経費削減にも(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/30535d996f0e592e19aa9a89f637ecfeede6f50d?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/30535d996f0e592e19aa9a89f637ecfeede6f50d?source=rss"/>
-        <updated>2026-08-12T03:28:25.000Z</updated>
-        <summary type="html"><![CDATA[滋賀県庁は公務が少ないタイミングにあわせて、約９割の職員が一斉に夏休みを取得しています。
-
-　滋賀県庁はお盆の時期にあわせて職員が集中的に有給休暇を取得する制度を４７年前から続けています。
-　
-　今]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「心のリフレッシュも感じて！」　熊本の被災地へ移動式ランドリーが出発　兵庫・養父市の運送会社(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/ed90c95716f61425ebd32d352799cc5f3030332b?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/ed90c95716f61425ebd32d352799cc5f3030332b?source=rss"/>
-        <updated>2026-08-12T03:27:13.000Z</updated>
-        <summary type="html"><![CDATA[兵庫県養父市にある運送会社の「移動式ランドリー」が、熊本地震の被災地に派遣されます。
-
-　養父市の運送会社が所有する移動式ランドリー「ＣＯＭＯＲＥＢＩ」は、洗濯乾燥機９台を搭載しています。「災害対応]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
