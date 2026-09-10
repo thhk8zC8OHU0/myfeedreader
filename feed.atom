@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T14:25:53.285Z</updated>
+    <updated>2026-09-10T14:41:15.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自主ラジオが好評で収益化してる熟年夫婦【ジェラードン】]]></title>
+        <id>https://www.youtube.com/watch?v=BefBSWUfks4</id>
+        <link href="https://www.youtube.com/watch?v=BefBSWUfks4"/>
+        <updated>2026-09-10T14:27:24.000Z</updated>
+        <author>
+            <name>ジェラードンチャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone Duo]]></title>
         <id>https://logipara.com/?p=13460</id>
@@ -34576,36 +34585,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[小倉唯の最新写真集のタイトルが「ゆいま～る」に決まり、4パターンの表紙画像が公開された。 9月18日に発売される同写真集は、小倉が20歳で発売した写真集「ゆいはたち」でも訪れた思い出の地・沖縄で...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch2用ソフト「すみっコぐらし ぽかぽか温泉にようこそ」，11月19日に発売。すみっコたちと一緒に温泉旅館を手伝おう]]></title>
-        <id>https://www.4gamer.net/games/032/G103213/20260812006/</id>
-        <link href="https://www.4gamer.net/games/032/G103213/20260812006/"/>
-        <updated>2026-08-12T02:40:45.000Z</updated>
-        <summary type="html"><![CDATA[日本コロムビアは本日，Switch2用ソフト「すみっコぐらしぽかぽか温泉にようこそ」を11月19日に発売すると発表した。本作は，キャラクター「すみっコぐらし」を題材とした「すみっコミュニケーション」シリーズの最新作だ。温泉旅館が舞台となっており，すみっコたちと一緒に案内や掃除などの仕事をこなしていく。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏、7月に専用機からひそかに別機に乗り換えと報道認める　安全上の懸念と]]></title>
-        <id>https://www.bbc.com/japanese/articles/c9q9dq0xlzro#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c9q9dq0xlzro?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-12T02:32:26.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのドナルド・トランプ大統領は11日、先月トルコで開かれた北大西洋条約機構（NATO）首脳会議を終えて帰国する際、安全上の懸念があったため、ひそかに大統領専用機から別の軍用機に乗り換えていたことを認めた。これについては米紙ワシントン・ポストなどが報じていた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「iPhone 18 Pro」これまでのリーク総まとめ。性能やカメラ、価格はどうなる？]]></title>
-        <id>https://gadget.phileweb.com/?p=130461</id>
-        <link href="https://gadget.phileweb.com/post-130461/"/>
-        <updated>2026-08-12T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[アップルの次期フラッグシップ機「iPhone 18 Pro」モデルは今年9月に発売されると見込まれており、登場まであと1か月ほどに迫っている。すでに製品仕様も固まり、量産に入っているとみられるなか、リーク情報もほぼ出そろった印象だ。これまでの噂やアナリストの報告、識者による情報発信をもとに、予想され […]]]></summary>
-        <author>
-            <name>多根清史</name>
         </author>
     </entry>
 </feed>
