@@ -3064,16 +3064,6 @@
           "wordCount": 8325,
           "title": "Switch2用ソフト「すみっコぐらし ぽかぽか温泉にようこそ」，11月19日に発売。すみっコたちと一緒に温泉旅館を手伝おう",
           "imageUrl": "https://www.4gamer.net/games/032/G103213/20260812006/SS/006.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/841/G084118/20260807058/",
-          "author": null,
-          "description": "システムソフト・ベータは本日，Steam，PlayStationStore，ニンテンドーeショップで配信中のタイトルやダウンロードコンテンツを対象とした大型セールを開始した。「マスターオブモンスターズSSB」が初めてセール対象となるほか，「天下統一SSB」「大戦略SSB」などの対象タイトルが最大40％オフで販売される。",
-          "link": "https://www.4gamer.net/games/841/G084118/20260807058/",
-          "publishedOn": "2026-08-12T01:00:00.000Z",
-          "wordCount": 8682,
-          "title": "「マスターオブモンスターズSSB」が初セール。「天下統一SSB」「大戦略SSB」なども対象。システムソフト・ベータのDLタイトルが最大40％オフに",
-          "imageUrl": "https://www.4gamer.net/games/841/G084118/20260807058/SS/001.jpg"
         }
       ]
     },
@@ -12041,6 +12031,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2067076.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/10(木) 09:28:28.09 ID:wlB7iZ129.net\n\n\n\n\n\n\n\n玉城デニー氏「那覇空港の管理は県です」は誤り　国が一元的に管理【沖縄知事選ファクトチェック】https://t.co/QhGi7IkQSb pic.twitter.com/Omw8kYyAh2— 沖縄タイムス (@theokinawatimes) Se...",
+          "link": "https://itainews.com/archives/2067076.html",
+          "publishedOn": "2026-09-10T13:02:02.000Z",
+          "wordCount": 3083,
+          "title": "玉城デニー氏「那覇空港の管理は県です」は誤り　国が一元的に管理【沖縄知事選ファクトチェック】 　沖縄タイムス",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/2/920f426f-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2067075.html",
           "author": "damono3856",
           "description": "1 名前：Hitzeschleier ★：2026/09/10(木) 11:33:41.99 ID:VxO+w9Bg9.net\n\n\n\n\n\n\n\n【速報】トランプ氏は、中間選挙で勝利すれば、米国の成人に一人５０００ドルを支給すると述べた https://t.co/7f0dugZQUl— 時事ドットコム（時事通信ニュース） (@jijicom) September 1...",
@@ -20198,6 +20198,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127341/",
+          "author": null,
+          "description": "山崎貴監督の最新作「ゴジラ－0.0」（ゴジラマイナスゼロ）の撮影の裏側を捉えたメイキング映像が公開された。 1954年に初めて姿を現して以来、日本のみならず世界中を魅了し、衝撃を与え続けてきた怪...",
+          "link": "https://anime.eiga.com/news/127341/",
+          "publishedOn": "2026-09-10T13:00:00.000Z",
+          "wordCount": 731,
+          "title": "「ゴジラ－0.0」新時代のジャパニーズ特撮へと進化　撮影の裏側捉えたメイキング映像公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127413/",
           "author": null,

@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T12:55:01.331Z</updated>
+    <updated>2026-09-10T13:07:36.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[玉城デニー氏「那覇空港の管理は県です」は誤り　国が一元的に管理【沖縄知事選ファクトチェック】 　沖縄タイムス]]></title>
+        <id>https://itainews.com/archives/2067076.html</id>
+        <link href="https://itainews.com/archives/2067076.html"/>
+        <updated>2026-09-10T13:02:02.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：少考さん ★：2026/09/10(木) 09:28:28.09 ID:wlB7iZ129.net
+
+
+
+
+
+
+
+玉城デニー氏「那覇空港の管理は県です」は誤り　国が一元的に管理【沖縄知事選ファクトチェック】https://t.co/QhGi7IkQSb pic.twitter.com/Omw8kYyAh2— 沖縄タイムス (@theokinawatimes) Se...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ゴジラ－0.0」新時代のジャパニーズ特撮へと進化　撮影の裏側捉えたメイキング映像公開]]></title>
+        <id>https://anime.eiga.com/news/127341/</id>
+        <link href="https://anime.eiga.com/news/127341/"/>
+        <updated>2026-09-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[山崎貴監督の最新作「ゴジラ－0.0」（ゴジラマイナスゼロ）の撮影の裏側を捉えたメイキング映像が公開された。 1954年に初めて姿を現して以来、日本のみならず世界中を魅了し、衝撃を与え続けてきた怪...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【米国】トランプ大統領「中間選挙勝利なら、成人に１人５０００ドルを支給する」]]></title>
         <id>https://itainews.com/archives/2067075.html</id>
@@ -34550,16 +34578,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[今年も鮎まつりの大花火大会が待ち遠しいふみえ＠あつらぼです！ 同じく大花火大会を楽しみにされている子育て世帯の皆様へ、厚木市さんから朗報です☆ 昨年大好評だった素敵なプレゼント企画が、今年も実施されるんだってー♪ 気になる内容を、早速どうぞ…]]></summary>
         <author>
             <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「マスターオブモンスターズSSB」が初セール。「天下統一SSB」「大戦略SSB」なども対象。システムソフト・ベータのDLタイトルが最大40％オフに]]></title>
-        <id>https://www.4gamer.net/games/841/G084118/20260807058/</id>
-        <link href="https://www.4gamer.net/games/841/G084118/20260807058/"/>
-        <updated>2026-08-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[システムソフト・ベータは本日，Steam，PlayStationStore，ニンテンドーeショップで配信中のタイトルやダウンロードコンテンツを対象とした大型セールを開始した。「マスターオブモンスターズSSB」が初めてセール対象となるほか，「天下統一SSB」「大戦略SSB」などの対象タイトルが最大40％オフで販売される。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
