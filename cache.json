@@ -18999,16 +18999,6 @@
           "wordCount": 3298,
           "title": "【焼豚】金品を盗む目的で住宅に侵入、なぜかチャーシューを盗む　72歳の男を逮捕（山形・鶴岡市）",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/d/9db2b1e0-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2065970.html",
-          "author": "dqnplus",
-          "description": "1 ：もん様！：2026/08/11(火) 17:04:08.52 ID:kt9SoaxR0●.net \n\n\n\n\n\n\n\n\n\n🍛6月の「カレーライス物価」先月から大幅下落　コメ価格値下がりなどで　下げ幅は過去10年で最大（テレビ朝日系（ANN）） - Yahoo!ニュース https://t.co/u7I9PWHVbX— 夢ナポリ (@dcmYnK7g37Iqy...",
-          "link": "https://itainews.com/archives/2065970.html",
-          "publishedOn": "2026-08-12T04:31:48.000Z",
-          "wordCount": 3844,
-          "title": "カレーライスの原価暴落　値下げ来るぞー！！！！",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/6/26bdc2d0-s.png"
         }
       ]
     },
@@ -19334,6 +19324,16 @@
       "feedUrl": "https://image-sensors-world.blogspot.com/feeds/posts/default",
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
+        {
+          "id": "https://image-sensors-world.blogspot.com/2026/09/singular-photonics-releases-spad-sensor.html",
+          "author": null,
+          "description": "Singular Photonics launches world-first SPAD-based image sensor\nLitavis offers programmable multi-modal capabilities on-chip, accelerating time-to-market for imaging applications.\nEdinburgh, UK – September 10, 2026 – Singular Photonics, an innovator in single-photon imaging, today announced the launch of its most advanced image sensor to date. Litavis is the world's first single-photon avalanche diode (SPAD) sensor using in-pixel processing to unify imaging, timing, histogramming and photon statistics on a single chip.\nDesigned to bring unprecedented flexibility and intelligence to imaging applications, Litavis introduces a software-configurable sensing architecture capable of combining photon-counting imaging, programmable time gating, and advanced photon timing within a scalable SPAD arr…",
+          "link": "https://image-sensors-world.blogspot.com/2026/09/singular-photonics-releases-spad-sensor.html",
+          "publishedOn": "2026-09-10T16:30:00.000Z",
+          "wordCount": 4293,
+          "title": "Singular Photonics releases SPAD sensor with in-pixel processing",
+          "imageUrl": null
+        },
         {
           "id": "https://image-sensors-world.blogspot.com/2026/08/more-coverage-of-sony-tsmc-collab.html",
           "author": null,

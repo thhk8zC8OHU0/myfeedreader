@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T16:25:26.113Z</updated>
+    <updated>2026-09-10T16:38:41.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Singular Photonics releases SPAD sensor with in-pixel processing]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/09/singular-photonics-releases-spad-sensor.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/09/singular-photonics-releases-spad-sensor.html"/>
+        <updated>2026-09-10T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Singular Photonics launches world-first SPAD-based image sensor
+Litavis offers programmable multi-modal capabilities on-chip, accelerating time-to-market for imaging applications.
+Edinburgh, UK – September 10, 2026 – Singular Photonics, an innovator in single-photon imaging, today announced the launch of its most advanced image sensor to date. Litavis is the world's first single-photon avalanche diode (SPAD) sensor using in-pixel processing to unify imaging, timing, histogramming and photon statistics on a single chip.
+Designed to bring unprecedented flexibility and intelligence to imaging applications, Litavis introduces a software-configurable sensing architecture capable of combining photon-counting imaging, programmable time gating, and advanced photon timing within a scalable SPAD arr…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「LEVEL5 VISION 2026 II 夢」情報まとめ。「イナイレ」新作，初代「レイトン教授」リメイクが発表され，複数の最新映像が公開された]]></title>
         <id>https://www.4gamer.net/games/041/G104178/20260910066/</id>
@@ -34530,26 +34543,6 @@ AIにジムの予約を頼んだら予約ソフトウェアをハッキングし
         <summary type="html"><![CDATA[コロンビアで10日朝に発生したマグニチュード（M）7.4の強い地震で、現場では11日も、倒壊した建物やがれきの下に閉じ込められた生存者の捜索が続いた。救助隊による捜索は時間との闘いになっている。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カレーライスの原価暴落　値下げ来るぞー！！！！]]></title>
-        <id>https://itainews.com/archives/2065970.html</id>
-        <link href="https://itainews.com/archives/2065970.html"/>
-        <updated>2026-08-12T04:31:48.000Z</updated>
-        <summary type="html"><![CDATA[1 ：もん様！：2026/08/11(火) 17:04:08.52 ID:kt9SoaxR0●.net 
-
-
-
-
-
-
-
-
-
-🍛6月の「カレーライス物価」先月から大幅下落　コメ価格値下がりなどで　下げ幅は過去10年で最大（テレビ朝日系（ANN）） - Yahoo!ニュース https://t.co/u7I9PWHVbX— 夢ナポリ (@dcmYnK7g37Iqy...]]></summary>
-        <author>
-            <name>dqnplus</name>
         </author>
     </entry>
 </feed>
