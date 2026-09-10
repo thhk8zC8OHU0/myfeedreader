@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T20:23:55.097Z</updated>
+    <updated>2026-09-10T20:38:07.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルビー ポテトチップス しあわせバタ～Ｗ【コンビニ限定・新作お菓子】]]></title>
+        <id>https://foodfighter.jp/?p=318088</id>
+        <link href="https://foodfighter.jp/calbee-potato-butter-w"/>
+        <updated>2026-09-10T20:30:06.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、カルビーの新商品「ポテトチップス しあわせバタ～Ｗ」を世界一詳しく調査しました。   カルビー ポテトチップス しあ […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「朱色の仮面」OPテーマはMAN WITH A MISSION、EDテーマはyutori　追加キャストも発表]]></title>
         <id>https://anime.eiga.com/news/127426/</id>
@@ -34295,28 +34305,6 @@ AIにジムの予約を頼んだら予約ソフトウェアをハッキングし
 　国土交通省近畿運輸局や阪神バスによりますと今年５月、阪神バス西宮浜営業所で勤務する男性運転手が、神戸市]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[琴引浜で発見の遺体は姫路市の２２歳男性　溺死の可能性　京丹後市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/a5f1d806f3bc5bcb8e2a16990c275f433e73c463?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/a5f1d806f3bc5bcb8e2a16990c275f433e73c463?source=rss"/>
-        <updated>2026-08-12T08:27:25.000Z</updated>
-        <summary type="html"><![CDATA[京都府京丹後市の琴引浜で１１日に見つかった遺体について、京都府警は、姫路市の２２歳の男性と特定されたと発表しました。溺死の可能性が高いとしています。
-
-　男性は９日、友人らと琴引浜に隣接するキャンプ]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空]]></title>
-        <id>https://www.bbc.com/japanese/articles/cy9w2q2dzwlo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cy9w2q2dzwlo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-12T08:24:33.000Z</updated>
-        <summary type="html"><![CDATA[カナダ・ポーター航空の旅客機内で、子どもがシートベルトの着用を拒み、フライトが欠航となる出来事があった。これを受け、機内での子どものマナーや安全手順をめぐる議論が再燃している。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
