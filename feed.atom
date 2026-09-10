@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T00:10:15.316Z</updated>
+    <updated>2026-09-10T00:32:25.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[9月15日に「アップル新OS」一斉配信。iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27提供へ]]></title>
+        <id>https://gadget.phileweb.com/?p=132847</id>
+        <link href="https://gadget.phileweb.com/post-132847/"/>
+        <updated>2026-09-10T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、9月15日に同社の次期OS「iOS 27」「iPadOS 27」「macOS 27 Golden Gate」「watchOS 27」「visionOS 27」を提供すると発表した。いずれも無料のソフトウェアアップデートとして配信される。2年前までナンバリングは各バージョンを示していたが、 […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【モスバーガー】メンチカツチーズバーガー ～デミグラスソース～【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=318061</id>
+        <link href="https://foodfighter.jp/mos-menchi-katsu-cheese-burger"/>
+        <updated>2026-09-10T00:16:09.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“4人に1人が外国人”多国籍化する東京・府中刑務所　フローリングにベッド、原則個室　“豚肉禁食”など宗教や食文化にも対応]]></title>
         <id>https://itainews.com/archives/2067015.html</id>
@@ -33487,18 +33507,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[柳楽優弥が主演を務めたNetflixシリーズ「九条の大罪」の実写映画化が決定し、2027年1月8日に全国公開されることがわかった。なお、柳楽は同シリーズで初の弁護士役に挑戦となり、主演ドラマが映...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京都の鳴き砂の浜で男性の遺体　９日に海水浴場で行方不明の22歳男性か(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/a2ec0d3767b12d6e6d0e68680fde35fe6d34c93e?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/a2ec0d3767b12d6e6d0e68680fde35fe6d34c93e?source=rss"/>
-        <updated>2026-08-11T12:31:36.000Z</updated>
-        <summary type="html"><![CDATA[１１日朝、京都府京丹後市の琴引浜で、海に浮いている男性の遺体が見つかりました。
-
-　近くの海水浴場では２日前の９日に、男性が行方不明になっていて、消防が１１日午前７時ごろ、捜索の準備を始めていると、通]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>

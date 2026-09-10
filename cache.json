@@ -7281,16 +7281,6 @@
           "wordCount": 1638,
           "title": "兵庫県香美町で約2760軒の停電(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00082010-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a2ec0d3767b12d6e6d0e68680fde35fe6d34c93e?source=rss",
-          "author": null,
-          "description": "１１日朝、京都府京丹後市の琴引浜で、海に浮いている男性の遺体が見つかりました。\n\n　近くの海水浴場では２日前の９日に、男性が行方不明になっていて、消防が１１日午前７時ごろ、捜索の準備を始めていると、通",
-          "link": "https://news.yahoo.co.jp/articles/a2ec0d3767b12d6e6d0e68680fde35fe6d34c93e?source=rss",
-          "publishedOn": "2026-08-11T12:31:36.000Z",
-          "wordCount": 1618,
-          "title": "京都の鳴き砂の浜で男性の遺体　９日に海水浴場で行方不明の22歳男性か(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00082009-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -10053,6 +10043,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132847",
+          "author": "編集部：平山洸太",
+          "description": "アップルは、9月15日に同社の次期OS「iOS 27」「iPadOS 27」「macOS 27 Golden Gate」「watchOS 27」「visionOS 27」を提供すると発表した。いずれも無料のソフトウェアアップデートとして配信される。2年前までナンバリングは各バージョンを示していたが、 […]",
+          "link": "https://gadget.phileweb.com/post-132847/",
+          "publishedOn": "2026-09-10T00:20:00.000Z",
+          "wordCount": 886,
+          "title": "9月15日に「アップル新OS」一斉配信。iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27提供へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/7b77c55d9458a5c1c1dd12c373164a3c.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132837",
           "author": "編集部：平山洸太",
@@ -18791,6 +18791,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=318061",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]",
+          "link": "https://foodfighter.jp/mos-menchi-katsu-cheese-burger",
+          "publishedOn": "2026-09-10T00:16:09.000Z",
+          "wordCount": 2064,
+          "title": "【モスバーガー】メンチカツチーズバーガー ～デミグラスソース～【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/c3098df21d3042e87769eec0f219b628.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=318034",
           "author": "foodfighter",
