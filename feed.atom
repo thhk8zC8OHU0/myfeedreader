@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T00:32:25.424Z</updated>
+    <updated>2026-09-10T00:55:02.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -42,6 +42,16 @@
 “4人に1人が外国人”多国籍化する東京・府中刑務所　フローリングにベッド、原則個室　“豚肉禁食”など宗教や食文化にも対応 #FNNプライムオンライン https://t.co/ZYZpk1kJS1— FNNプライムオン...]]></summary>
         <author>
             <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[置き換えで実装面積削減　小型コモンモードチョーク]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/10/news042.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/10/news042.html"/>
+        <updated>2026-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、車載用フェライトコモンモードチョーク「ICM5050-A」「ICM6050-A」「IFLN-1210BE-A」「IFLN-1812CZ-A」を発表した。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

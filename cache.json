@@ -9487,6 +9487,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/10/news042.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、車載用フェライトコモンモードチョーク「ICM5050-A」「ICM6050-A」「IFLN-1210BE-A」「IFLN-1812CZ-A」を発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/10/news042.html",
+          "publishedOn": "2026-09-10T00:00:00.000Z",
+          "wordCount": 2623,
+          "title": "置き換えで実装面積削減　小型コモンモードチョーク",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/10/cover_news042.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/09/news026.html",
           "author": null,
           "description": "アドバンテックは、Qualcommの「Dragonwing IQ-9075」を搭載した産業用ビジョンAIソリューション4製品を発売した。最大100TOPSのAI性能を備え、ロボットや産業オートメーションなどのリアルタイムビジョン推論に対応する。",
