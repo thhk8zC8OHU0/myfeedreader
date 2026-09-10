@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T02:53:18.600Z</updated>
+    <updated>2026-09-10T03:07:12.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ　事務局がAI使用認め謝罪]]></title>
+        <id>https://itainews.com/archives/2067042.html</id>
+        <link href="https://itainews.com/archives/2067042.html"/>
+        <updated>2026-09-10T03:01:12.000Z</updated>
+        <summary type="html"><![CDATA[1 ：muffin ★：2026/09/09(水) 16:12:37.58 ID:FeZEnkz29.net
+
+
+
+
+
+
+
+
+
+人が作ったものに対してとやかく言いたくはないのですが…今度の菜の花マラソンのビジュアル。肝心な菜の花が菜の花ではない花だけど、大丈夫そう？生成AIで済ませて大丈夫そう？多数作品を描かれ...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［プレイレポ］“奇跡”が眠る楽園で待つのは恋か，それとも――。「Le Mirage Mystique」で島の秘密を追う]]></title>
+        <id>https://www.4gamer.net/games/985/G098502/20260805005/</id>
+        <link href="https://www.4gamer.net/games/985/G098502/20260805005/"/>
+        <updated>2026-09-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[美しい楽園で待っていたのは，甘い恋だけではなかった。女性向け恋愛ADV「LeMirageMystique」を先行プレイし，魔術と事件が潜むミラージュ島の物語や，シャルル，ルディ，ジャックとの距離が少しずつ縮まっていく個別ルート序盤を紹介する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最大4人で楽しめる協力＆裏切りのすごろく「みんなでポイっと！プリニーすごろく」，スタンダード体験版を配信開始。システム追加情報も公開]]></title>
+        <id>https://www.4gamer.net/games/989/G098960/20260909055/</id>
+        <link href="https://www.4gamer.net/games/989/G098960/20260909055/"/>
+        <updated>2026-09-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本一ソフトウェアは本日，「みんなでポイっと！プリニーすごろく」のスタンダード体験版の配信を開始した。製品版と同じ難度で基本システムを体験でき，最大4人でのプレイに対応する。協力してボスを倒したあとは，プレイヤー同士で勝利を競う，協力と裏切りが入り交じるゲームプレイを楽しめる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雨続きで頭痛・だるさ・めまい･･･　原因は「多雨疲労」かも　今年急増のわけは？お手軽な緩和策も医師が紹介！(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/424cfdd313247969d85cffe05fa8cf3292661221?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/424cfdd313247969d85cffe05fa8cf3292661221?source=rss"/>
+        <updated>2026-09-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[頭が痛い、体がだるい、めまいがする――雨が続くと、体に様々な不調が現れることがあります。
+
+　その原因として注目されているのが「多雨疲労（たうひろう）」です。
+ 
+　雨が降り続く地域が多いなか、「多]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「パンダコパンダ」公開55周年記念プロジェクト始動　書店ポップアップ、ローソンとのコラボなど]]></title>
+        <id>https://anime.eiga.com/news/127412/</id>
+        <link href="https://anime.eiga.com/news/127412/"/>
+        <updated>2026-09-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高畑勲さん（2018年死去）と宮崎駿が手がけた中編劇場アニメ「パンダコパンダ」公開55周年のアニバーサリープロジェクトが始動した。書店ポップアップイベントの開催をはじめ、さまざまな展開が予定され...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone DuoはApple Watchでもロック解除可能。Touch IDよりも便利かも？]]></title>
         <id>https://gadget.phileweb.com/?p=132865</id>
