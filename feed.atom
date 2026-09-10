@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T16:38:41.108Z</updated>
+    <updated>2026-09-10T16:51:40.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -34521,28 +34521,6 @@ AIにジムの予約を頼んだら予約ソフトウェアをハッキングし
 ...]]></summary>
         <author>
             <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あす１３日にかけ近畿地方は大雨の可能性　京都・舞鶴は高潮で道路冠水一部通行止め　台風１５号は熱帯低気圧に(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/2c378c4981e540d28e5a09f88dbe1291c105d410?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/2c378c4981e540d28e5a09f88dbe1291c105d410?source=rss"/>
-        <updated>2026-08-12T04:47:54.000Z</updated>
-        <summary type="html"><![CDATA[台風１５号から変わった熱帯低気圧の影響で、近畿地方は１３日朝にかけて、局地的に雷を伴った非常に激しい雨が降る可能性があります。
-
-　気象庁は低い土地の浸水や河川の増水に注意するよう呼びかけています。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロンビア地震、死者180人超える　生存者救出は時間との闘い]]></title>
-        <id>https://www.bbc.com/japanese/articles/cdx7p9279l0o#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cdx7p9279l0o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-12T04:42:13.000Z</updated>
-        <summary type="html"><![CDATA[コロンビアで10日朝に発生したマグニチュード（M）7.4の強い地震で、現場では11日も、倒壊した建物やがれきの下に閉じ込められた生存者の捜索が続いた。救助隊による捜索は時間との闘いになっている。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
