@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T02:07:39.215Z</updated>
+    <updated>2026-09-10T02:27:00.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スペイン飛び地セウタへ移民が大規模流入……情報機関が事前警告　政府文書で明らかに]]></title>
+        <id>https://www.bbc.com/japanese/articles/c93vdre5zk9o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c93vdre5zk9o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-10T02:14:54.000Z</updated>
+        <summary type="html"><![CDATA[アフリカ北部にあるスペインの飛び地領土セウタに7月末、数万人の移民が流入した問題で、スペインの情報機関が事前に、セウタへの越境をソーシャルメディア上で呼びかける動きがあると警告していたことが、9日に機密解除されたスペイン政府の文書で明らかになった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[佐賀県の富裕層、あえて軽自動車などに乗り「貧乏に見せる」近年で流行か]]></title>
         <id>https://itainews.com/archives/2067044.html</id>
@@ -33554,25 +33564,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【作業用】自主ラジオシリーズ【ジェラードン】]]></title>
-        <id>https://www.youtube.com/watch?v=aS8eE4TP24A</id>
-        <link href="https://www.youtube.com/watch?v=aS8eE4TP24A"/>
-        <updated>2026-08-11T14:15:06.000Z</updated>
-        <author>
-            <name>ジェラードンチャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帰省]]></title>
-        <id>https://logipara.com/?p=13363</id>
-        <link href="https://logipara.com/diary-text/2026-08-12/"/>
-        <updated>2026-08-11T14:08:54.000Z</updated>
-        <summary type="html"><![CDATA[お盆ということで、実家に帰省してきましたよ。 　 最近、帰省するたびに思うのですが、両親が明確に老いてきました。 　 そりゃこの私が五十代ですから、両親世代はまごうことなき高齢者。 ジジババに向かって「これ以上老いるな」 […]]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
         </author>
     </entry>
 </feed>
