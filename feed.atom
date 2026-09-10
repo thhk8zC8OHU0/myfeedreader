@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T08:43:40.439Z</updated>
+    <updated>2026-09-10T08:55:43.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ブルーイのハッピースナップ」，パッケージ版を11月26日に発売]]></title>
+        <id>https://www.4gamer.net/games/994/G099400/20260910037/</id>
+        <link href="https://www.4gamer.net/games/994/G099400/20260910037/"/>
+        <updated>2026-09-10T08:54:34.000Z</updated>
+        <summary type="html"><![CDATA[ブルーイのハッピースナップ ブルーイのハッピースナップ ブルーイのハッピースナップ   配信元 セガ 配信日 2026/09/10     『ブルーイのハッピースナップ』 PlayStation 5、…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃、2人殺害]]></title>
+        <id>https://www.bbc.com/japanese/articles/cgmrzgjxv0no#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cgmrzgjxv0no?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-10T08:41:24.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は9日、ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃し、2人を殺害したと述べた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鳥貴族　１０月から全品４１０円に　５年連続で値上げ　原材料費の高騰などで(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/5a2be3cde73562805144f3666d6b49caab47ffc2?source=rss</id>

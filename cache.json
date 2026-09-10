@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/994/G099400/20260910037/",
+          "author": null,
+          "description": "ブルーイのハッピースナップ ブルーイのハッピースナップ ブルーイのハッピースナップ   配信元 セガ 配信日 2026/09/10     『ブルーイのハッピースナップ』 PlayStation 5、…",
+          "link": "https://www.4gamer.net/games/994/G099400/20260910037/",
+          "publishedOn": "2026-09-10T08:54:34.000Z",
+          "wordCount": 8523,
+          "title": "「ブルーイのハッピースナップ」，パッケージ版を11月26日に発売",
+          "imageUrl": "https://www.4gamer.net/games/994/G099400/20260910037/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/021/G102119/20260828003/",
           "author": null,
           "description": "対戦格闘ゲーム「グランブルーファンタジーヴァーサス-ライジング-」で，2026年9月17日に最新アップデート「Ver2.60」が配信され，同日にはSwitch2版も発売される。今回，新DLCキャラクター・イドをはじめ，Switch2版や新バトルシステムなどを一足先に体験してきたので，そのプレイフィールをお届けしよう。",
@@ -7559,6 +7569,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cgmrzgjxv0no#0",
+          "author": null,
+          "description": "ウクライナのゼレンスキー大統領は9日、ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃し、2人を殺害したと述べた。",
+          "link": "https://www.bbc.com/japanese/articles/cgmrzgjxv0no?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-10T08:41:24.000Z",
+          "wordCount": 1842,
+          "title": "ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃、2人殺害",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cjdvydzr53eo#0",
           "author": null,
