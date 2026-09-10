@@ -9747,6 +9747,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/10/news050.html",
+          "author": null,
+          "description": "今回はオシロスコープの修理の続きだ。前回、オシロスコープのパネル表示が真っ黒だったので、液晶パネルのバックライトを強引に点灯させた。その結果、液晶パネルは破損しておらず、表示信号が届いていないことが分かった。オシロスコープのCPUが動作していない可能性が高い。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/10/news050.html",
+          "publishedOn": "2026-09-10T06:30:00.000Z",
+          "wordCount": 2629,
+          "title": "ヒートガンで復活！と思いきや悲劇が……中華製オシロスコープの修理（2）",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/10/cover_news050.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/10/news042.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、車載用フェライトコモンモードチョーク「ICM5050-A」「ICM6050-A」「IFLN-1210BE-A」「IFLN-1812CZ-A」を発表した。",
@@ -10313,6 +10323,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132887",
+          "author": "多根清史",
+          "description": "サムスンは今年7月、Android XRを搭載するディスプレイ非搭載のインテリジェントアイウェア（スマートグラス）を発表した。この製品はGentle Monster、Warby Parkerといったブランドと共同で開発が進められており、Metaの同種製品である「Ray-Ban Meta」に競合する格 […]",
+          "link": "https://gadget.phileweb.com/post-132887/",
+          "publishedOn": "2026-09-10T06:55:09.000Z",
+          "wordCount": 719,
+          "title": "サムスンもディスプレイ内蔵スマートグラスに着手か。Metaとは異なる「両眼表示」も検討とのうわさ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/63c2184bd9f36b9fb5f3dd48180200f8.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132898",
           "author": "編集部：平山洸太",
@@ -11820,6 +11840,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067056.html",
+          "author": "takakichi5346",
+          "description": "1 名前：muffin ★：2026/09/09(水) 16:08:43.72 ID:FeZEnkz29.net\n\n\n\n\n\n\n\n「映画ちいかわ」特典“横流し”疑惑　映画館が声明「事実関係の確認を進めており」(日刊スポーツ)#Yahooニュースhttps://t.co/LbCmys23d5— くくち🇯🇵 (@kukucie99) September 9, 2026 \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2067056.html",
+          "publishedOn": "2026-09-10T07:01:48.000Z",
+          "wordCount": 3051,
+          "title": "【グランドシネマサンシャイン池袋】 「映画ちいかわ」特典“横流し”疑惑　映画館が声明「事実関係の確認を進めており」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/0/30928c64-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067062.html",
           "author": "damono3856",
