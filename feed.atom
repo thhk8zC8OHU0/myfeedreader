@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T05:07:07.116Z</updated>
+    <updated>2026-09-10T05:24:36.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏、アメリカとイランの戦争は11月の米中間選挙後まで終わらないと]]></title>
+        <id>https://www.bbc.com/japanese/articles/cp84984rgl8o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cp84984rgl8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-10T05:21:06.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのドナルド・トランプ大統領は9日、イランとの戦争について、11月の米中間選挙が終わるまで終結しないとの考えを示した。また、それまでは原油価格も下がらないだろうと述べた。トランプ氏の発言は、テキサス州で同日に始まった共和党大会へ向かう途中でのもので、その後に共和党大会でも同様に、中間選挙まで戦争は終わらないと発言した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAIOは“ワクワク”創出に再挑戦。「VAIO T」フリップ復活のきっかけ]]></title>
+        <id>https://gadget.phileweb.com/?p=132898</id>
+        <link href="https://gadget.phileweb.com/post-132898/"/>
+        <updated>2026-09-10T05:10:02.000Z</updated>
+        <summary type="html"><![CDATA[VAIOは、新たなノートPC「VAIO T」および「VAIO T work」を発表。この新モデルの登場にあわせて発表会を都内で開催し、今後の戦略や製品投入の意図を明かした。 今回の新製品は、マルチフリップ機構を採用することで、ノートPCモード、タブレットモード、ビューモードといった3つの使い方ができ […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【文春】永野芽郁、「お付き合いしてたのは事実」　一般女性と結婚発表した坂口健太郎、永野芽郁＆結婚相手との『ドロ沼三角関係』]]></title>
         <id>https://itainews.com/archives/2067054.html</id>
