@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T02:40:21.696Z</updated>
+    <updated>2026-09-10T02:53:18.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone DuoはApple Watchでもロック解除可能。Touch IDよりも便利かも？]]></title>
+        <id>https://gadget.phileweb.com/?p=132865</id>
+        <link href="https://gadget.phileweb.com/post-132865/"/>
+        <updated>2026-09-10T02:46:14.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneシリーズ初の折りたたみ式モデルとして、9月10日に発表されたiPhone Duoは、開いた状態と閉じた状態のどちらでも使うことができる。しかしiPhoneがロック解除に使う生体認証システムのFace IDは、ユーザーがディスプレイに正対しなければうまく使えない。 アップルは結局、このデバ […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[食中毒で丸刈り謝罪のこめお、『かにを』別店舗で発覚したトッピング「使い回しスプーン」に批判噴出]]></title>
         <id>https://itainews.com/archives/2067041.html</id>
