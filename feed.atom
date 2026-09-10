@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T09:08:49.435Z</updated>
+    <updated>2026-09-10T09:26:28.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[記者も逃げ出す…ＵＳＪのハロウィーンが１５周年！　“最恐×最多”の今年は初のＲ１８指定アトラクションも開催(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/705b37cc23332a0d4d80d9a064b0847cc8c3a1bb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/705b37cc23332a0d4d80d9a064b0847cc8c3a1bb?source=rss"/>
+        <updated>2026-09-10T09:09:09.000Z</updated>
+        <summary type="html"><![CDATA[今年も、ユニバーサル・スタジオ・ジャパンの秋の風物詩「ハロウィーン・ホラー・ナイト」の季節がやってきました。
+
+　今年は１５周年の節目を迎え、どのアトラクションもバージョンアップ。ＵＳＪ側も「史上最]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京外環道を逆走し逃走劇を繰り広げた女、包丁を所持　釈放]]></title>
         <id>https://itainews.com/archives/2067064.html</id>
