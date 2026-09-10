@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T07:09:43.636Z</updated>
+    <updated>2026-09-10T07:28:07.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「風来のシレン」30周年記念グッズの期間限定再販売が開始。対象商品20％オフやお得なセット販売も]]></title>
+        <id>https://www.4gamer.net/games/858/G085870/20260910028/</id>
+        <link href="https://www.4gamer.net/games/858/G085870/20260910028/"/>
+        <updated>2026-09-10T07:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Aetasは本日，「風来のシレン30周年記念不思議のダンジョンストア」グッズの再販売を開始した。2026年9月23日までの期間限定で，対象商品を20％オフで販売する。人気キャラクターや関連アイテムを組み合わせたセットもラインナップされる。商品は10月上旬頃から順次発送予定だ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【グランドシネマサンシャイン池袋】 「映画ちいかわ」特典“横流し”疑惑　映画館が声明「事実関係の確認を進めており」]]></title>
         <id>https://itainews.com/archives/2067056.html</id>
