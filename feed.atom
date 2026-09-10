@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T00:55:02.186Z</updated>
+    <updated>2026-09-10T01:07:21.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[入管と国交省、「解体業者」に立ち入り調査へ　外国人の不法就労摘発を強化]]></title>
+        <id>https://itainews.com/archives/2067037.html</id>
+        <link href="https://itainews.com/archives/2067037.html"/>
+        <updated>2026-09-10T01:01:47.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/09(水) 11:42:07.30 ID:u3ScGhKX0●.net PLT(13000)
+
+
+
+
+
+
+
+入管庁、「不法就労」摘発強化へ他省庁と合同で立ち入り調査…１０月にも国交省と解体業者対象に実施へhttps://t.co/hNJAMWgUip#政治— 読売新聞オンライン (@Yomiuri_Online) September 8, ...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9月15日に「アップル新OS」一斉配信。iOS 27、iPadOS 27、macOS 27、watchOS 27、visionOS 27提供へ]]></title>
         <id>https://gadget.phileweb.com/?p=132847</id>
@@ -33507,16 +33525,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[お盆ということで、実家に帰省してきましたよ。 　 最近、帰省するたびに思うのですが、両親が明確に老いてきました。 　 そりゃこの私が五十代ですから、両親世代はまごうことなき高齢者。 ジジババに向かって「これ以上老いるな」 […]]]></summary>
         <author>
             <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柳楽優弥×松村北斗「九条の大罪」実写映画化、27年1月8日公開　ティザービジュアル＆ティザー映像も披露【コメントあり】]]></title>
-        <id>https://anime.eiga.com/news/127126/</id>
-        <link href="https://anime.eiga.com/news/127126/"/>
-        <updated>2026-08-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[柳楽優弥が主演を務めたNetflixシリーズ「九条の大罪」の実写映画化が決定し、2027年1月8日に全国公開されることがわかった。なお、柳楽は同シリーズで初の弁護士役に挑戦となり、主演ドラマが映...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
