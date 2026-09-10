@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T12:32:03.425Z</updated>
+    <updated>2026-09-10T12:55:01.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -34560,30 +34560,6 @@ YouTube、収益化に必要な基準が2倍に・長尺動画：総再生時間
         <summary type="html"><![CDATA[システムソフト・ベータは本日，Steam，PlayStationStore，ニンテンドーeショップで配信中のタイトルやダウンロードコンテンツを対象とした大型セールを開始した。「マスターオブモンスターズSSB」が初めてセール対象となるほか，「天下統一SSB」「大戦略SSB」などの対象タイトルが最大40％オフで販売される。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】神戸市長田区で約1700軒の停電(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/2320900b642e6ac8ec45d74d28d41f9bf762ff22?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/2320900b642e6ac8ec45d74d28d41f9bf762ff22?source=rss"/>
-        <updated>2026-08-12T00:47:27.000Z</updated>
-        <summary type="html"><![CDATA[関西電力送配電によりますと、１２日午前９時半ごろから兵庫県神戸市長田区で約１７００軒の停電が発生しているということです。
-
-　復旧は午後０時１０分ごろの見込みとしています。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兵庫県香美町で約2760軒の停電(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/c2b9cdb33ca8b26879d49e2d1ce38eac28c57ba9?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/c2b9cdb33ca8b26879d49e2d1ce38eac28c57ba9?source=rss"/>
-        <updated>2026-08-12T00:39:40.000Z</updated>
-        <summary type="html"><![CDATA[関西電力送配電によりますと、１２日午前７時１５分ごろから兵庫県香美町で約２７６０軒の停電が発生しているということです。
-
-復旧の見込みは未定としています。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
