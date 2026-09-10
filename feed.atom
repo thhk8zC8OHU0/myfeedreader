@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T06:10:09.406Z</updated>
+    <updated>2026-09-10T06:31:54.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本の個人投資家、4兆4000億円の円売り　円高に逆張り　このまま円高進むと強制ロスカットも]]></title>
+        <id>https://itainews.com/archives/2067062.html</id>
+        <link href="https://itainews.com/archives/2067062.html"/>
+        <updated>2026-09-10T06:29:47.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：お断り ★：2026/09/09(水) 20:23:47.22 ID:tE6HD9YT9.net
+
+
+
+
+
+
+
+半年ぶり円高に逆張り、個人投資家は円売りポジション積み増し https://t.co/nfJ49Hm8E5— ブルームバーグニュース (@BloombergJapan) September 9, 2026  
+
+
+
+
+
+
+半年ぶり円高に逆張り、個人投...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】 アメリカの静かさ、イスラエルへの不満を反映か　ヨルダン川西岸の入植地に対するイギリスの制裁で]]></title>
+        <id>https://www.bbc.com/japanese/articles/cjdvydzr53eo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cjdvydzr53eo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-10T06:22:28.000Z</updated>
+        <summary type="html"><![CDATA[イギリスが8日、イスラエルが占領するパレスチナ・ヨルダン川西岸のイスラエル入植地に対する制裁を発表すると、イスラエルは激怒した。一方、アメリカは静観状態で、これまでのイスラエル支援の姿勢との違いが際立っている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英野党リフォームUKへの外国からの献金問題、警察が捜査着手]]></title>
         <id>https://www.bbc.com/japanese/articles/cp849gp3j78o#0</id>
