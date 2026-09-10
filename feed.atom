@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T08:28:20.499Z</updated>
+    <updated>2026-09-10T08:43:40.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鳥貴族　１０月から全品４１０円に　５年連続で値上げ　原材料費の高騰などで(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5a2be3cde73562805144f3666d6b49caab47ffc2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5a2be3cde73562805144f3666d6b49caab47ffc2?source=rss"/>
+        <updated>2026-09-10T08:35:37.000Z</updated>
+        <summary type="html"><![CDATA[焼き鳥店チェーン「鳥貴族」の運営会社が、来月１日からフードとドリンクの全ての商品を２０円値上げし、税込み４１０円にすると発表しました。
+
+　「鳥貴族」はフードとドリンクの全品をこれまで均一価格税込み]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カナダ、完全にアメリカにブチギレwwww関税50%に続き、トランプ通りをオバマ通りに変更]]></title>
+        <id>https://itainews.com/archives/2067063.html</id>
+        <link href="https://itainews.com/archives/2067063.html"/>
+        <updated>2026-09-10T08:29:49.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/09/09(水) 23:07:46.55 ● 2BP(3000).net
+
+
+
+
+
+
+
+カナダが米に報復関税　700品目に最大50％　「トランプ通り」は「オバマ通り」へ？ https://t.co/BZWPV2bp7D@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 9, 2026  
+
+
+
+
+
+
+カナダが米に報復関...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒気帯び運転で時速９０キロ以上で赤信号の交差点に進入か　衝突された軽乗用車の高齢女性1人が死亡　危険運転致死傷などの疑いで２２歳男を逮捕　兵庫・たつの市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/22c73b24b27918ca1b6b1d37d277018a134f4c4c?source=rss</id>
