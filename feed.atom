@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T18:54:57.645Z</updated>
+    <updated>2026-09-10T19:06:08.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「朱色の仮面」OPテーマはMAN WITH A MISSION、EDテーマはyutori　追加キャストも発表]]></title>
+        <id>https://anime.eiga.com/news/127426/</id>
+        <link href="https://anime.eiga.com/news/127426/"/>
+        <updated>2026-09-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ヤングキングアワーズ」（少年画報社刊）で連載中の漫画をテレビアニメ化する「朱色の仮面」が10月10日から放送されることが決まり、メインPV第2弾（https://youtu.be/Q7L3az...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Singular Photonics releases SPAD sensor with in-pixel processing]]></title>
         <id>https://image-sensors-world.blogspot.com/2026/09/singular-photonics-releases-spad-sensor.html</id>
@@ -34392,34 +34402,6 @@ AIにジムの予約を頼んだら予約ソフトウェアをハッキングし
 　詐欺未遂の疑いで再逮捕されたのは１９９７年、テニスの全仏オープン・混]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【悲報】猛スピードで転倒したチャリカス、なぜか逆ギレしてしまう]]></title>
-        <id>https://itainews.com/archives/2065983.html</id>
-        <link href="https://itainews.com/archives/2065983.html"/>
-        <updated>2026-08-12T07:01:59.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：それでも動く名無し：2026/08/11(火) 05:56:35.36 ID:BSADXJWn0.net
-
-
-
-
-
-
-
-チャリカスさん信号無視して背後から前の自転車に衝突してブチ切れ！！お手本のような逆ギレ… pic.twitter.com/k4qP2Jjn9S— 井上尚弥ＶＳバム・ロドリゲスを国立競技場で見たい (@wgW...]]></summary>
-        <author>
-            <name>takakichi5346</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏、7月の帰国時に専用機からひそかに別機に乗り換え　「危険なフライト」]]></title>
-        <id>https://www.bbc.com/japanese/articles/cx2j1n1yq11o#1</id>
-        <link href="https://www.bbc.com/japanese/articles/cx2j1n1yq11o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-12T07:00:19.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのドナルド・トランプ大統領は11日、先月トルコで開かれた北大西洋条約機構（NATO）首脳会議を終えて帰国する際、安全上の懸念があったため、ひそかに大統領専用機から別の軍用機に乗り換えていたことを認めた。これについては米紙ワシントン・ポストなどが報じていた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
