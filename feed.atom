@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T03:39:47.788Z</updated>
+    <updated>2026-09-11T03:52:25.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USJの新アトラクション「『バイオハザード レクイエム』 ザ・ダイブ」，本日から12月27日まで開催。ゲームの世界を細部まで再現]]></title>
+        <id>https://www.4gamer.net/games/917/G091773/20260911007/</id>
+        <link href="https://www.4gamer.net/games/917/G091773/20260911007/"/>
+        <updated>2026-09-11T03:51:33.000Z</updated>
+        <summary type="html"><![CDATA[ユー・エス・ジェイは，30周年を迎えた「バイオハザード」と，開業25周年を迎えたユニバーサル・スタジオ・ジャパンがコラボレーションする新アトラクション「『バイオハザードレクイエム』ザ・ダイブ」を本日（2026年9月11日）から12月27日まで開催する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米任天堂、関税還付金の一部で「顧客感謝セール」。購入者への直接返金はせず]]></title>
         <id>https://gadget.phileweb.com/?p=132948</id>
