@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T03:52:25.381Z</updated>
+    <updated>2026-09-11T04:07:30.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[維新が「大阪都構想」の宣伝強化　来春に想定する住民投票を見すえ　駅前などで街頭活動(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e14fafa23a3104c6611ecc7c55a13cc4539f2487?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e14fafa23a3104c6611ecc7c55a13cc4539f2487?source=rss"/>
+        <updated>2026-09-11T04:03:05.000Z</updated>
+        <summary type="html"><![CDATA[大阪市を廃止して特別区に再編する「大阪都構想」を推進する大阪維新の会が、来年春に想定する住民投票を見すえて、街頭活動を始めました。
+
+　維新の市議らは１１日朝、大阪市内の駅前などに立ち、都構想の実現]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「何がそんなに観たいの？」会議中も机の下でスマホをいじる20代部下。40代上司が絶句、若者たちのスクリーンタイム【FORZA】]]></title>
+        <id>https://itainews.com/archives/2067086.html</id>
+        <link href="https://itainews.com/archives/2067086.html"/>
+        <updated>2026-09-11T04:01:32.000Z</updated>
+        <summary type="html"><![CDATA[1 ：少考さん ★：2026/09/10(木) 15:39:27.08 ID:wlB7iZ129.net
+
+
+
+
+
+
+
+
+「何がそんなに観たいの？」会議中も机の下でスマホをいじる20代部下。40代上司が絶句した、若者たちの衝撃のスクリーンタイム【専門家助言】 https://t.co/RDMJFEeNq3— サボテン (@saboten6666...]]></summary>
+        <author>
+            <name>dqnplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプの金ピカスマホ「T1 Phone」、いきなり50％値上げ。499ドルから749ドルに]]></title>
+        <id>https://gadget.phileweb.com/?p=132962</id>
+        <link href="https://gadget.phileweb.com/post-132962/"/>
+        <updated>2026-09-11T03:59:19.000Z</updated>
+        <summary type="html"><![CDATA[昨年6月、米トランプ・モバイルが大々的に発表したスマートフォン「T1」は、複数回の発売延期を経て、ようやく今年6月に発売された。金ピカのデザインが注目を集めた本製品は、「プロモーション価格」として499ドルで購入可能になった。 しかし、それから3か月も経たないうちに、公式オンラインストアでの価格は7 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USJの新アトラクション「『バイオハザード レクイエム』 ザ・ダイブ」，本日から12月27日まで開催。ゲームの世界を細部まで再現]]></title>
         <id>https://www.4gamer.net/games/917/G091773/20260911007/</id>
@@ -42,6 +83,16 @@
 もう「心中」と呼ばない　国の専門委が変更　「子殺し覆い隠す」批判 https://t.co/hkovCBAaTn これまで「心中」と呼んできた事案を、今後は「保護者の自殺を伴うこどもの虐待死」と呼ぶ――。...]]></summary>
         <author>
             <name>takakichi5346</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achronix、Speedster7t FPGA向けにJESD204C IPコア]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/11/news050.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/11/news050.html"/>
+        <updated>2026-09-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Achronix Semiconductorは、同社のFPGA「Speedster7t」で高速A-Dコンバーター（ADC）およびD-Aコンバーター（DAC）とプログラマブルロジックを接続するJESD204C IP（Intellectual Property）コアの提供を開始した。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -3023,6 +3023,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/e14fafa23a3104c6611ecc7c55a13cc4539f2487?source=rss",
+          "author": null,
+          "description": "大阪市を廃止して特別区に再編する「大阪都構想」を推進する大阪維新の会が、来年春に想定する住民投票を見すえて、街頭活動を始めました。\n\n　維新の市議らは１１日朝、大阪市内の駅前などに立ち、都構想の実現",
+          "link": "https://news.yahoo.co.jp/articles/e14fafa23a3104c6611ecc7c55a13cc4539f2487?source=rss",
+          "publishedOn": "2026-09-11T04:03:05.000Z",
+          "wordCount": 1661,
+          "title": "維新が「大阪都構想」の宣伝強化　来春に想定する住民投票を見すえ　駅前などで街頭活動(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00082495-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a0b7cadb2d68352c69c72eff967d35eec82fe299?source=rss",
           "author": null,
           "description": "通販大手Amazonが、兵庫県尼崎市に関西最大規模の物流拠点「アマゾン武庫川フルフィルメントセンター」を8月に開設し、9月10日に報道陣に公開しました。その広さはなんと甲子園球場約3個分。広大な施設",
@@ -9637,6 +9647,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/11/news050.html",
+          "author": null,
+          "description": "Achronix Semiconductorは、同社のFPGA「Speedster7t」で高速A-Dコンバーター（ADC）およびD-Aコンバーター（DAC）とプログラマブルロジックを接続するJESD204C IP（Intellectual Property）コアの提供を開始した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/11/news050.html",
+          "publishedOn": "2026-09-11T03:30:00.000Z",
+          "wordCount": 2654,
+          "title": "Achronix、Speedster7t FPGA向けにJESD204C IPコア",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/11/cover_news050.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/11/news062.html",
           "author": null,
           "description": "TDKは独自の樹脂電極構造を採用した積層セラミックコンデンサー（MLCC）「CNシリーズ」において、X7R特性で定格電圧100V／静電容量10μFのモデルを開発したと発表した。「従来品の2倍の大容量化」（TDK）により、部品数や実装面積の半減に寄与するとしている。",
@@ -10223,6 +10243,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=132962",
+          "author": "多根清史",
+          "description": "昨年6月、米トランプ・モバイルが大々的に発表したスマートフォン「T1」は、複数回の発売延期を経て、ようやく今年6月に発売された。金ピカのデザインが注目を集めた本製品は、「プロモーション価格」として499ドルで購入可能になった。 しかし、それから3か月も経たないうちに、公式オンラインストアでの価格は7 […]",
+          "link": "https://gadget.phileweb.com/post-132962/",
+          "publishedOn": "2026-09-11T03:59:19.000Z",
+          "wordCount": 711,
+          "title": "トランプの金ピカスマホ「T1 Phone」、いきなり50％値上げ。499ドルから749ドルに",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/8dd8c9b425a1d50d9ae8eebbcafbbe81.webp"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=132948",
           "author": "多根清史",
@@ -11730,6 +11760,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067086.html",
+          "author": "dqnplus",
+          "description": "1 ：少考さん ★：2026/09/10(木) 15:39:27.08 ID:wlB7iZ129.net\n\n\n\n\n\n\n\n\n「何がそんなに観たいの？」会議中も机の下でスマホをいじる20代部下。40代上司が絶句した、若者たちの衝撃のスクリーンタイム【専門家助言】 https://t.co/RDMJFEeNq3— サボテン (@saboten6666...",
+          "link": "https://itainews.com/archives/2067086.html",
+          "publishedOn": "2026-09-11T04:01:32.000Z",
+          "wordCount": 3089,
+          "title": "「何がそんなに観たいの？」会議中も机の下でスマホをいじる20代部下。40代上司が絶句、若者たちのスクリーンタイム【FORZA】",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/7/3733f3cc-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067087.html",
           "author": "takakichi5346",
