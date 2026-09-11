@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T14:07:38.485Z</updated>
+    <updated>2026-09-11T14:26:19.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[家賃交渉]]></title>
+        <id>https://logipara.com/?p=13463</id>
+        <link href="https://logipara.com/diary-text/2026-09-12/"/>
+        <updated>2026-09-11T14:16:56.000Z</updated>
+        <summary type="html"><![CDATA[いま借りている家の管理会社から、 「次の契約からは家賃上げさせてほしい」 という連絡があり、相変わらず対応をしている日々です。 　 借主としては家賃増額なんてイヤァァァァァァァァ（cv:ちいかわ）と言いたいところですが、 […]]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国が日本人のビザ料金を約7倍に引き上げ、相互主義を理由に]]></title>
         <id>https://itainews.com/archives/2067123.html</id>
