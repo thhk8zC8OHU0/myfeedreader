@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/040/G104090/20260911016/",
+          "author": null,
+          "description": "個人ゲーム開発者のLEMORION氏は本日（2026年9月11日），「めっちゃカメレオン」のNintendoSwitch2版が，発売初日に販売本数10万本を達成したと発表した。",
+          "link": "https://www.4gamer.net/games/040/G104090/20260911016/",
+          "publishedOn": "2026-09-11T04:49:49.000Z",
+          "wordCount": 8193,
+          "title": "「めっちゃカメレオン」，Nintendo Switch 2版が発売初日に販売本数10万本を達成",
+          "imageUrl": "https://www.4gamer.net/games/040/G104090/20260911016/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/041/G104191/20260911008/",
           "author": null,
           "description": "カダスは9月10日，新作タイトル「UnderMythos」を2028年に発売すると発表した。本作は，温泉宿経営とダンジョン探索を組み合わせたダークファンタジーJRPGだ。主人公の猫は，温泉宿で働き，訪れる客をもてなす穏やかな日々を送るが，物語が進むにつれて，慣れ親しんだ世界が少しずつ「狂気」へと変わっていく。",
@@ -7509,6 +7519,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/czjzvpn4mewo#0",
+          "author": null,
+          "description": "イスラエル南部で2023年10月7日にあったパレスチナのイスラム組織ハマスによる襲撃をめぐり、イスラエルのネタニヤフ首相が発生直前にアラブ首長国連邦（UAE）大統領から計画について警告を受けていたと、イスラエル紙が報じた。ネタニヤフ氏はこれを否定し、名誉毀損（きそん）の訴訟を起こすよう弁護士に指示した。",
+          "link": "https://www.bbc.com/japanese/articles/czjzvpn4mewo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-11T04:45:53.000Z",
+          "wordCount": 1980,
+          "title": "イスラエル首相、ハマス襲撃をUAEから事前警告されていたと報じられ否定　新聞社を提訴へ",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c624le2ve90o#0",
           "author": null,

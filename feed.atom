@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T04:40:44.195Z</updated>
+    <updated>2026-09-11T04:51:59.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「めっちゃカメレオン」，Nintendo Switch 2版が発売初日に販売本数10万本を達成]]></title>
+        <id>https://www.4gamer.net/games/040/G104090/20260911016/</id>
+        <link href="https://www.4gamer.net/games/040/G104090/20260911016/"/>
+        <updated>2026-09-11T04:49:49.000Z</updated>
+        <summary type="html"><![CDATA[個人ゲーム開発者のLEMORION氏は本日（2026年9月11日），「めっちゃカメレオン」のNintendoSwitch2版が，発売初日に販売本数10万本を達成したと発表した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル首相、ハマス襲撃をUAEから事前警告されていたと報じられ否定　新聞社を提訴へ]]></title>
+        <id>https://www.bbc.com/japanese/articles/czjzvpn4mewo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/czjzvpn4mewo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-11T04:45:53.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル南部で2023年10月7日にあったパレスチナのイスラム組織ハマスによる襲撃をめぐり、イスラエルのネタニヤフ首相が発生直前にアラブ首長国連邦（UAE）大統領から計画について警告を受けていたと、イスラエル紙が報じた。ネタニヤフ氏はこれを否定し、名誉毀損（きそん）の訴訟を起こすよう弁護士に指示した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[温泉宿経営とダンジョン探索を組み合わせたダークファンタジーJRPG「Under Mythos」発表。穏やかな日常が「狂気」へと変わっていく]]></title>
         <id>https://www.4gamer.net/games/041/G104191/20260911008/</id>
