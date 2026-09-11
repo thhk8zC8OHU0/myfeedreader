@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T05:07:53.966Z</updated>
+    <updated>2026-09-11T05:24:25.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「一生をささげようと思っていたのに」「死刑でいいです」　勤務先社長殺害などの罪に問われた男　検察が拘禁刑２５年求刑　大阪地裁(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d88cbceb7cc329656a2d7d317f8c68c986a7b28b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d88cbceb7cc329656a2d7d317f8c68c986a7b28b?source=rss"/>
+        <updated>2026-09-11T05:17:20.000Z</updated>
+        <summary type="html"><![CDATA[勤務先の社長を殺害し、遺体を乗せた車に放火したなどの罪に問われている男の裁判で、検察は拘禁刑２５年を求刑しました。
+
+　起訴状などによりますと、浜田達也被告（３８）は、去年１１月奈良県大和高田市で勤]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[殺傷能力ある改造拳銃など１１丁不法所持か　５１歳男を逮捕・送検　「本物の銃の構造に興味あった」容疑認める　兵庫・尼崎市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/67040d7d77bbe4938f2a45fe10eae8ed49e23b1f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/67040d7d77bbe4938f2a45fe10eae8ed49e23b1f?source=rss"/>
+        <updated>2026-09-11T05:17:20.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県尼崎市の自宅などで殺傷能力のある改造拳銃などを所持していたとして、５１歳の会社員の男が逮捕・送検されました。
+
+　銃刀法違反と火薬類取締法違反の疑いで逮捕されたのは、尼崎市の会社員・札場圭容疑]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ショートスリーパー堀大輔、整体の施術中に27分間眠る 「マイクロスリープが10回ぐらい入ってた」「いびきの時間も把握してる」と説明]]></title>
         <id>https://itainews.com/archives/2067088.html</id>
