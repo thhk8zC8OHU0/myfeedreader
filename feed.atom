@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T04:07:30.516Z</updated>
+    <updated>2026-09-11T04:26:34.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[勤務先の社長を殺害、交通事故を装い車に放火した罪に問われている男の裁判　検察が拘禁刑２５年を求刑　大阪地裁(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c21bd25f04523e4b86c4e50cb6ee3b23ce27b625?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c21bd25f04523e4b86c4e50cb6ee3b23ce27b625?source=rss"/>
+        <updated>2026-09-11T04:06:45.000Z</updated>
+        <summary type="html"><![CDATA[勤務先の社長を殺害し、遺体を乗せた車に放火したなどの罪に問われている男の裁判で、検察は拘禁刑２５年を求刑しました。
+
+　起訴状などによりますと、浜田達也被告（３８）は去年１１月、奈良県大和高田市で勤]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兵庫県がクマ対策会議　ドングリ類凶作の見通しで出没も多くなる可能性(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3f47a000721ea3eb6bd98391abb56fb81c473a83?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3f47a000721ea3eb6bd98391abb56fb81c473a83?source=rss"/>
+        <updated>2026-09-11T04:06:16.000Z</updated>
+        <summary type="html"><![CDATA[クマの活動が活発になる秋を迎え、兵庫県は被害防止策などを話し合う会議を開きました。
+
+　１１日の会議には知事のほか、警察関係者やクマの専門家などが参加し、クマが出没した際に迅速に連携できるよう対応策]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維新が「大阪都構想」の宣伝強化　来春に想定する住民投票を見すえ　駅前などで街頭活動(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/e14fafa23a3104c6611ecc7c55a13cc4539f2487?source=rss</id>
