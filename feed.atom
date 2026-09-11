@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T09:26:42.925Z</updated>
+    <updated>2026-09-11T09:39:51.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「宗教法人の経営助けるために市が負担をするのはありえない」歴史ある神社の民事再生申請で、川西市長が認識示す…境内には国重文も多く]]></title>
+        <id>https://itainews.com/archives/2067114.html</id>
+        <link href="https://itainews.com/archives/2067114.html"/>
+        <updated>2026-09-11T09:31:47.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：煮卵 ★：2026/09/11(金) 11:44:35.63 ID:+z18Xbnm9.net
+
+
+
+
+
+
+
+「宗教法人の経営助けるために市が負担をするのはありえない」歴史ある神社の #民事再生 申請で、市長が認識示す…境内には国重文も多く : 読売新聞 https://t.co/GHTL4PpErD #清和源氏まつり #多...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約228万円のDIY高級卓上時計「Nostromo」、50セット限定発売。工具・マニュアル付属、組み立て約10時間]]></title>
         <id>https://gadget.phileweb.com/?p=133023</id>
@@ -34679,16 +34697,6 @@ https://new...]]></summary>
 近年、クレジ...]]></summary>
         <author>
             <name>nobi0929</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDDIが楽天とのローミング大幅縮小へ、その思惑と今後に与える影響は]]></title>
-        <id>https://gadget.phileweb.com/?p=130528</id>
-        <link href="https://gadget.phileweb.com/post-130528/"/>
-        <updated>2026-08-12T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年末に、MVNOによるサービスも含んだ契約数が1000万契約を超え、2026年6月末時点では1075万回線に到達。1100万回線が視野に入るなど、契約数が好調に伸びている楽天モバイル。だがその楽天モバイルの今後に不安を生じさせているのが、KDDIとのローミング契約の終了が間近に迫っていること […]]]></summary>
-        <author>
-            <name>佐野正弘</name>
         </author>
     </entry>
 </feed>
