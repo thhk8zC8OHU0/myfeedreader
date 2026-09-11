@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T17:37:16.190Z</updated>
+    <updated>2026-09-11T17:49:16.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -34682,39 +34682,6 @@ https://new...]]></summary>
 ...]]></summary>
         <author>
             <name>takakichi5346</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「スーパーマリオサンシャイン」，「ニンテンドー ゲームキューブ Nintendo Classics」で配信開始。「Nintendo Music」で楽曲も配信]]></title>
-        <id>https://www.4gamer.net/games/440/G044018/20260813018/</id>
-        <link href="https://www.4gamer.net/games/440/G044018/20260813018/"/>
-        <updated>2026-08-13T05:48:50.000Z</updated>
-        <summary type="html"><![CDATA[任天堂は本日（2026年8月13日），「NintendoSwitchOnline+追加パック」に加入することで遊べる，「ニンテンドーゲームキューブNintendoClassics」に「スーパーマリオサンシャイン」を追加した。「NintendoMusic」で，本作の楽曲の配信も開始している。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【夏の高校野球】有明（熊本）が長崎日大（長崎）に３－２で勝利　第９日第２試合(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/6f2e50cf5f98af71d8c6520a9b997858b3c90e0c?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/6f2e50cf5f98af71d8c6520a9b997858b3c90e0c?source=rss"/>
-        <updated>2026-08-13T05:46:01.000Z</updated>
-        <summary type="html"><![CDATA[夏の高校野球、第９日第２試合は有明（熊本）と長崎日大（長崎）が対戦し、３－２で有明が勝利しました。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】関空では旅客手荷物の覚醒剤摘発における過去最大の規模か　覚醒剤約２０キロ・末端価格１１億を密輸しようとした疑いでアメリカ人の男を逮捕・起訴　(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/90b5c9b686ba32bfe93f669155e0456d50b3f380?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/90b5c9b686ba32bfe93f669155e0456d50b3f380?source=rss"/>
-        <updated>2026-08-13T05:44:58.000Z</updated>
-        <summary type="html"><![CDATA[関西空港で先月、覚醒剤２０キロ以上をアメリカから密輸しようとしたとして、アメリカ国籍の２６歳の男が逮捕・起訴されました。
-　末端価格で約１１億円に相当するということです。
-
-　覚せい剤取締法違反の罪]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
