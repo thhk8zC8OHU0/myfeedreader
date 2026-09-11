@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/042/G104210/20260911025/",
+          "author": null,
+          "description": "DeepSilverは，オープンワールドアクションRPG「キングダムカム・デリバランスII」ロイヤルエディションを2027年にSwitch2向けに発売すると発表した。本編とすべての有料ストーリー拡張コンテンツ，限定装備などを収録する完全版で，Joy-Con2のマウスモードやHDRにも対応する。",
+          "link": "https://www.4gamer.net/games/042/G104210/20260911025/",
+          "publishedOn": "2026-09-11T06:53:13.000Z",
+          "wordCount": 8241,
+          "title": "「キングダムカム・デリバランスII」ロイヤルエディション，Switch2版が2027年発売へ。本編と全有料DLC，限定装備などを収録",
+          "imageUrl": "https://www.4gamer.net/games/042/G104210/20260911025/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/040/G104090/20260911016/",
           "author": null,
           "description": "個人ゲーム開発者のLEMORION氏は本日（2026年9月11日），「めっちゃカメレオン」のNintendoSwitch2版が，発売初日に販売本数10万本を達成したと発表した。",
@@ -3052,6 +3062,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/872a122c41106bf6390c36f06b0290495745622a?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によると、午後２時４５分頃、奈良線の棚倉駅～上狛駅間で倒竹が発見されたため、城陽駅～木津駅間で運転を見合わせています。現在、状況を確認しているということです。\n\n　このため、振替輸送を実施",
+          "link": "https://news.yahoo.co.jp/articles/872a122c41106bf6390c36f06b0290495745622a?source=rss",
+          "publishedOn": "2026-09-11T06:47:22.000Z",
+          "wordCount": 1664,
+          "title": "【速報】ＪＲ西日本　奈良線・城陽駅～木津駅間で運転見合わせ　倒竹の影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00082499-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b4bc09e4994e61ffb4294ffc5413add0f9ba8f35?source=rss",
+          "author": null,
+          "description": "京都市交通局が８月からＥＶバスの運行を停止していることがわかりました。\n\n　京都市交通局は今年３月、環境対策の一環として「いすゞ自動車」製のＥＶバス２台（１台約７８００万円）を導入しました。\n\n　京",
+          "link": "https://news.yahoo.co.jp/articles/b4bc09e4994e61ffb4294ffc5413add0f9ba8f35?source=rss",
+          "publishedOn": "2026-09-11T06:40:45.000Z",
+          "wordCount": 1683,
+          "title": "京都市交通局、３月導入のＥＶバス運行停止　警告灯点灯の不具合３回、大阪の同型車炎上を受け(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00082498-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/d88cbceb7cc329656a2d7d317f8c68c986a7b28b?source=rss",
           "author": null,
@@ -7539,6 +7569,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5y4867y3j5o#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領は9日夜、テキサス州で始まった共和党大会で演説した。その中で、11月の中間選挙で共和党が勝利すれば、国民の成人全員に5000ドル（約77万円）を支給すると表明した。ただ、その財源をどう確保するのかや、法的に認められるものなのかは明らかでない。",
+          "link": "https://www.bbc.com/japanese/articles/c5y4867y3j5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-11T06:44:41.000Z",
+          "wordCount": 1921,
+          "title": "【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cwyzd1lzqdxo#0",
           "author": null,

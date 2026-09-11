@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T06:30:44.136Z</updated>
+    <updated>2026-09-11T06:55:26.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「キングダムカム・デリバランスII」ロイヤルエディション，Switch2版が2027年発売へ。本編と全有料DLC，限定装備などを収録]]></title>
+        <id>https://www.4gamer.net/games/042/G104210/20260911025/</id>
+        <link href="https://www.4gamer.net/games/042/G104210/20260911025/"/>
+        <updated>2026-09-11T06:53:13.000Z</updated>
+        <summary type="html"><![CDATA[DeepSilverは，オープンワールドアクションRPG「キングダムカム・デリバランスII」ロイヤルエディションを2027年にSwitch2向けに発売すると発表した。本編とすべての有料ストーリー拡張コンテンツ，限定装備などを収録する完全版で，Joy-Con2のマウスモードやHDRにも対応する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】ＪＲ西日本　奈良線・城陽駅～木津駅間で運転見合わせ　倒竹の影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/872a122c41106bf6390c36f06b0290495745622a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/872a122c41106bf6390c36f06b0290495745622a?source=rss"/>
+        <updated>2026-09-11T06:47:22.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によると、午後２時４５分頃、奈良線の棚倉駅～上狛駅間で倒竹が発見されたため、城陽駅～木津駅間で運転を見合わせています。現在、状況を確認しているということです。
+
+　このため、振替輸送を実施]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか]]></title>
+        <id>https://www.bbc.com/japanese/articles/c5y4867y3j5o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c5y4867y3j5o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-11T06:44:41.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのトランプ大統領は9日夜、テキサス州で始まった共和党大会で演説した。その中で、11月の中間選挙で共和党が勝利すれば、国民の成人全員に5000ドル（約77万円）を支給すると表明した。ただ、その財源をどう確保するのかや、法的に認められるものなのかは明らかでない。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都市交通局、３月導入のＥＶバス運行停止　警告灯点灯の不具合３回、大阪の同型車炎上を受け(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b4bc09e4994e61ffb4294ffc5413add0f9ba8f35?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b4bc09e4994e61ffb4294ffc5413add0f9ba8f35?source=rss"/>
+        <updated>2026-09-11T06:40:45.000Z</updated>
+        <summary type="html"><![CDATA[京都市交通局が８月からＥＶバスの運行を停止していることがわかりました。
+
+　京都市交通局は今年３月、環境対策の一環として「いすゞ自動車」製のＥＶバス２台（１台約７８００万円）を導入しました。
+
+　京]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[くら寿司に続きJR東海のちいかわコラボグッズも大量転売か？アカウントは停止、JRは「事実確認中」]]></title>
         <id>https://itainews.com/archives/2067101.html</id>
