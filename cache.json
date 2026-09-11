@@ -3063,6 +3063,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/b62e04066d13205441fae35551bbf610b4cc3e3d?source=rss",
+          "author": null,
+          "description": "勤務中に警察署内や車内で性的な行為をするなど職務を怠ったとして、兵庫県警は、男女の警察官２人を減給の懲戒処分にしました。\n\n　減給３カ月の懲戒処分を受けたのは、男性巡査長（２９）と女性巡査（２１）で",
+          "link": "https://news.yahoo.co.jp/articles/b62e04066d13205441fae35551bbf610b4cc3e3d?source=rss",
+          "publishedOn": "2026-09-11T07:07:05.000Z",
+          "wordCount": 1690,
+          "title": "勤務中に署内や車内で性的な行為　男女の警察官２人を減給処分　兵庫県警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00082500-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/872a122c41106bf6390c36f06b0290495745622a?source=rss",
           "author": null,
           "description": "ＪＲ西日本によると、午後２時４５分頃、奈良線の棚倉駅～上狛駅間で倒竹が発見されたため、城陽駅～木津駅間で運転を見合わせています。現在、状況を確認しているということです。\n\n　このため、振替輸送を実施",
@@ -11900,6 +11910,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067096.html",
+          "author": "takakichi5346",
+          "description": "1 名前：それでも動く名無し：2026/09/10(木) 19:00:38.99 ID:Mk61Z8j90.net[1/4]\n\n\n\n\n\n\n\n線状降水帯の夜、水たまりで頭を洗った配信者ぞっくんが発熱と血尿尿検査で「多数の細菌が検出された」▼記事https://t.co/e9jbBL4T5j避難指示の出た千葉県内を車で回り、大雨をシ...",
+          "link": "https://itainews.com/archives/2067096.html",
+          "publishedOn": "2026-09-11T07:01:00.000Z",
+          "wordCount": 3110,
+          "title": "【悲報】豪雨の水溜りで頭を洗った配信者さん、大変なことになってしまう",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/d/ddd5d1c5-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067101.html",
           "author": "damono3856",
