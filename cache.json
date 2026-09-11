@@ -11991,6 +11991,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2067104.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/11(金) 04:45:06.64 ID:KyxgGr9F0●.net\n\n\n\n\n\n\n\n消費者庁　サブスク解約妨害の禁止など中間とりまとめ #FNNプライムオンライン https://t.co/HrSqSUpcTH— FNNプライムオンライン (@FNN_News) September 10, 2026  \n\n\n\n\n\n\n消費者庁　サブスク解約妨害...",
+          "link": "https://itainews.com/archives/2067104.html",
+          "publishedOn": "2026-09-11T10:01:17.000Z",
+          "wordCount": 3138,
+          "title": "【朗報】高市早苗「サブスク解約妨害、ガチのマジで潰すわ。覚悟しとけ」害悪サイト死亡か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/b/3b05f7a8-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2067114.html",
           "author": "damono3856",
           "description": "1 名前：煮卵 ★：2026/09/11(金) 11:44:35.63 ID:+z18Xbnm9.net\n\n\n\n\n\n\n\n「宗教法人の経営助けるために市が負担をするのはありえない」歴史ある神社の #民事再生 申請で、市長が認識示す…境内には国重文も多く : 読売新聞 https://t.co/GHTL4PpErD #清和源氏まつり #多...",
@@ -19089,16 +19099,6 @@
           "wordCount": 3194,
           "title": "「健康な人に妊娠の手伝いして欲しい。報酬3000万円支払う」SNSで持ちかけられ30代男性74万円詐欺被害＝静岡・伊豆の国市",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/d/8d5e8e22-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2065994.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/12(水) 09:22:04.60 ID:xgv40zFk0●.net\n\n\n\n\n\n\n\n実は多い…《現金払いのみ》の店に“拒否感”を覚える人たち「正直遅れてる」「別の場所にする」 https://t.co/9llyL5SA6U— オトナンサー編集部 (@otonanswer) August 11, 2026 \n\n\n\n\n\n\n近年、クレジ...",
-          "link": "https://itainews.com/archives/2065994.html",
-          "publishedOn": "2026-08-12T22:00:33.000Z",
-          "wordCount": 3967,
-          "title": "実は多い…《現金払いのみ》の店に“拒否感”を覚える人たち「正直遅れてる」「別の場所にする」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/9/39ee74db-s.jpg"
         }
       ]
     },
@@ -20208,6 +20208,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/127429/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者特典、入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開の「...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/127429/",
+          "publishedOn": "2026-09-11T10:00:00.000Z",
+          "wordCount": 1077,
+          "title": "【入場特典リスト 9月最新版】「ユーフォ最終楽章」は箔押しカード配布　「映画ちいかわ」新特典は？",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127414/",
           "author": null,
@@ -24077,6 +24092,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJopoT40y_vazwcaYc2LAg",
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rlAwVF1oohg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rlAwVF1oohg",
+          "publishedOn": "2026-09-11T10:00:12.000Z",
+          "wordCount": null,
+          "title": "【ロマサガ3】プロローグ〜死食の脅威〜〈SFC:1995〉|クラリネット演奏 /  Romancing SaGa3-Prologue~The Rise of Morastrum~|Clarinet",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/7lYKlh_-Hr8",
           "author": null,
