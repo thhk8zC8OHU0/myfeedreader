@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T01:37:52.236Z</updated>
+    <updated>2026-09-11T01:51:45.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「LOLLIPOP CHAINSAW RePOP」，発売2周年記念の無料アップデートを本日配信。新コスチューム「パーティドレス」などを追加]]></title>
+        <id>https://www.4gamer.net/games/642/G064217/20260911001/</id>
+        <link href="https://www.4gamer.net/games/642/G064217/20260911001/"/>
+        <updated>2026-09-11T01:43:43.000Z</updated>
+        <summary type="html"><![CDATA[ドラガミゲームスは本日，ゾンビアクションゲーム「LOLLIPOPCHAINSAWRePOP」が発売2周年を迎えることを記念した無料アップデートを配信した。新コスチューム「パーティドレス」と新フォトフレームを追加し，ドレス姿のジュリエットでゾンビハントや記念撮影を楽しめる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「も～ムリ！“サナ活”やめる」　若年層の高市首相への期待が失望に変わった心理とは]]></title>
         <id>https://itainews.com/archives/2067085.html</id>
