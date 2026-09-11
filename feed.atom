@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T00:33:27.493Z</updated>
+    <updated>2026-09-11T00:52:49.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -32,6 +32,16 @@
 自転車追い抜き「新ルール」で相次ぐ交通違反　警視庁が都内の黄色センターラインを「白線」に塗り直しへ【スポットライト】 https://t.co/6UHnJOxXTm— FNNプライムオンライン (@FNN_News) September 1...]]></summary>
         <author>
             <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[負荷遮断保護の簡素化に貢献　12V車載TVSダイオード]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/11/news042.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/11/news042.html"/>
+        <updated>2026-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リテルヒューズは、12V車載電子機器向けTVSダイオード「TPSMD-FL」シリーズを発表した。ピークパルス電力耐量は3000Wで、ISO 7637-2 Pulse 5bの負荷遮断保護を簡素化できる。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>

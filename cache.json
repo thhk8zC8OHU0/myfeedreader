@@ -9577,6 +9577,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/11/news042.html",
+          "author": null,
+          "description": "リテルヒューズは、12V車載電子機器向けTVSダイオード「TPSMD-FL」シリーズを発表した。ピークパルス電力耐量は3000Wで、ISO 7637-2 Pulse 5bの負荷遮断保護を簡素化できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/11/news042.html",
+          "publishedOn": "2026-09-11T00:00:00.000Z",
+          "wordCount": 2628,
+          "title": "負荷遮断保護の簡素化に貢献　12V車載TVSダイオード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/11/cover_news042.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/10/news013.html",
           "author": null,
           "description": "Aratas Americaの「G3VH」は、1800Vまたは3300Vの高電圧スイッチングに対応する炭化ケイ素（SiC）MOSFETリレーだ。低リーク電流と高速スイッチングを実現し、半導体テスト装置などに適する。",
