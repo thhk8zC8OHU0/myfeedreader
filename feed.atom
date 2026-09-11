@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T05:24:25.821Z</updated>
+    <updated>2026-09-11T05:37:59.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[山﨑賢人がUGREENのアンバサダーに。小型充電器やAI搭載NASなど新シリーズ登場]]></title>
+        <id>https://gadget.phileweb.com/?p=132977</id>
+        <link href="https://gadget.phileweb.com/post-132977/"/>
+        <updated>2026-09-11T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートフォン周辺機器やNAS製品などを展開するUGREEN（ユーグリーン）は、新たに5シリーズの展開を発表。あわせてアンバサダーとして俳優の山﨑賢人さんの起用を表明し、新CMを公開した。 新たに登場する製品シリーズでは、いずれも「小さなストレスを減らし、やりたいことに時間を使える」ことを目指した製 […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「一生をささげようと思っていたのに」「死刑でいいです」　勤務先社長殺害などの罪に問われた男　検察が拘禁刑２５年求刑　大阪地裁(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/d88cbceb7cc329656a2d7d317f8c68c986a7b28b?source=rss</id>
