@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T12:10:20.082Z</updated>
+    <updated>2026-09-11T12:31:11.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -34898,26 +34898,6 @@ https://new...]]></summary>
         <summary type="html"><![CDATA[ハピネットは2026年8月13日，「Stray」のNintendoSwitch2向けパッケージを11月12日に発売すると発表した。価格は4400円（税込）。パッケージ版には，ゲーム内で使用される言語をアルファベット表記で記載した「Companions'Alphabetカード」が封入される。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ケンタッキー】ウマ娘のウマウマ！コブマヨディップセット（カード付き）【数量限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=316518</id>
-        <link href="https://foodfighter.jp/kfc-umamusume"/>
-        <updated>2026-08-13T00:18:22.000Z</updated>
-        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「ウマ娘のウマウマ！コブマヨディップセット」を世界一詳しく調査しまし […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開店】お魚料理に定評のある”与一”グループに新しい系列店が誕生！「漁港ダイニング与一」8月13日グランドオープン！［厚木市旭町］]]></title>
-        <id>https://atsugi-lab.com/?p=61032</id>
-        <link href="https://atsugi-lab.com/open-gyoko-dining-yoichi202608/"/>
-        <updated>2026-08-13T00:12:56.000Z</updated>
-        <summary type="html"><![CDATA[我が家は子どもたちも含めて、お魚料理が大好き！ふみえ＠あつらぼです。 今回は、小田原港朝獲れの地魚を提供されることで人気の「与一」グループさんが さらに新店舗をオープンされるという情報が入ってまいりました☆ 現地も見てきましたので、まずは場…]]></summary>
-        <author>
-            <name>fumie</name>
         </author>
     </entry>
 </feed>
