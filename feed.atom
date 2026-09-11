@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T06:09:11.069Z</updated>
+    <updated>2026-09-11T06:30:44.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[くら寿司に続きJR東海のちいかわコラボグッズも大量転売か？アカウントは停止、JRは「事実確認中」]]></title>
+        <id>https://itainews.com/archives/2067101.html</id>
+        <link href="https://itainews.com/archives/2067101.html"/>
+        <updated>2026-09-11T06:29:22.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：パンナ・コッタ ★：2026/09/11(金) 02:57:58.90 ID:kbqw2o+F9.net
+
+
+
+
+
+
+
+くら寿司に続きJR東海の“ちいかわコラボ”トートバッグも大量転売か アカウントは停止、JRは「事実確認中」 https://t.co/q15ojvSOJo— ピンズバNEWS (@pinzubanews) September 9, 2026...]]></summary>
+        <author>
+            <name>damono3856</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アマゾン貨物機のオーバーラン、速度が速すぎると着陸前に操縦士が警告か]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwyzd1lzqdxo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwyzd1lzqdxo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-11T06:28:13.000Z</updated>
+        <summary type="html"><![CDATA[米アマゾンの貨物機が、フロリダ州マイアミ国際空港で6日、着陸時に滑走路をオーバーランし、車両に衝突して炎上し5人が死亡した事故で、操縦士が着陸前、速度が速すぎると指摘していたことが、飛行データから明らかになった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新米の方が３割安い逆転現象「2000円を切る店も」古米は売るほど赤字も選択肢なし]]></title>
         <id>https://itainews.com/archives/2067089.html</id>
