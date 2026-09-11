@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T16:26:23.795Z</updated>
+    <updated>2026-09-11T16:40:21.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[粘着テープで縛り、現金入りカバン奪ったか　52歳の男逮捕　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/68f311ea705fc41b0f33d638575f743ef2ee8b03?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/68f311ea705fc41b0f33d638575f743ef2ee8b03?source=rss"/>
+        <updated>2026-09-11T16:25:53.000Z</updated>
+        <summary type="html"><![CDATA[１１日夕方、大阪府河内長野市の住宅に男が押し入り、８９歳の女性が殴られ、現金入りのカバンを奪われた事件で５２歳の男が逮捕されました。
+
+　１１日午後４時ごろ、河内長野市松ケ丘中町で住人の８９歳の女性]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪市の区役所でマイナンバーカード発行が不可能に　システム不具合で(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/1c3f09d161e650d3cb04484e308851829d81b97b?source=rss</id>
@@ -34770,36 +34782,6 @@ https://new...]]></summary>
         <summary type="html"><![CDATA[任天堂は本日，カプセルトイ「フルーツキーホルダーコレクションどうぶつの森」を，あつまれほっかいどうエアポー島ポップアップイベントin新千歳空港とNintendoPOP-UPSTOREinSAPPORO「あつまれだいまるデパー島」で，2026年8月14日から先行販売すると発表した。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【東京】「復讐代行だ」脅してわいせつ行為か　世田谷区のアパートに押し入り強盗・不同意性交など　無職男2人再逮捕　練馬や横浜でも]]></title>
-        <id>https://itainews.com/archives/2066009.html</id>
-        <link href="https://itainews.com/archives/2066009.html"/>
-        <updated>2026-08-13T04:31:03.000Z</updated>
-        <summary type="html"><![CDATA[1 ：ぐれ ★：2026/08/12(水) 17:40:36.70 ID:WvS8JtpX9.net
-
-
-
-
-
-
-
-
-
-「復讐代行だ」と脅してわいせつ行為か　東京・世田谷区のアパートに押し入り強盗・不同意性交などの疑い　男2人再逮捕　練馬区や横浜市での強盗事件でも逮捕・起訴　警視庁 https://t.co/JUoftzxxjO...]]></summary>
-        <author>
-            <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スペインやアイスランドで皆既日食、各地で目撃した人々は]]></title>
-        <id>https://www.bbc.com/japanese/articles/cvgjzvmlq77o#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cvgjzvmlq77o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-13T04:27:17.000Z</updated>
-        <summary type="html"><![CDATA[イギリスとヨーロッパで12日、過去30年で最も劇的な日食が観測され、各地の観測地点に集まった大勢が、驚きの声や歓声で反応した。スペイン近郊のアルコス・デ・ラス・サリナスで皆既日食を目撃したパラブ・ゴーシュ科学担当編集委員は、「私たちが人間であるということを思い出させてくれる体験だ」と感動を口にした。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
