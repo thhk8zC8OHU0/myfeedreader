@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/042/G104235/20260913007/",
+          "author": null,
+          "description": "アメリカで開催中のイベント「BlizzCon2026」で，「ディアブロIV:憎悪の時代」コレクションのNintendoSwitch2版が発表された。日本でのリリースは2026年9月16日で，日本語にも対応するとのこと。クロスプレイやクロスプログレッションにも対応しており，出先で手軽にプレイできそうだ。",
+          "link": "https://www.4gamer.net/games/042/G104235/20260913007/",
+          "publishedOn": "2026-09-13T06:41:27.000Z",
+          "wordCount": 8297,
+          "title": "「ディアブロ IV: 憎悪の時代」コレクション，Nintendo Switch 2版を発表。日本語にも対応して9月15日にリリース",
+          "imageUrl": "https://www.4gamer.net/games/042/G104235/20260913007/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/041/G104199/20260911032/",
+          "author": null,
+          "description": "アイディアファクトリーは，本日開催したイベント「オトメイトパーティー2026」",
+          "link": "https://www.4gamer.net/games/041/G104199/20260911032/",
+          "publishedOn": "2026-09-13T06:10:00.000Z",
+          "wordCount": 1052,
+          "title": "オトメイト20周年記念タイトルは，Switch2用ソフト「薄桜鬼 真改 極」。イベント「オトメイトパーティー2026」2日目［昼公演］の発表情報まとめ",
+          "imageUrl": "https://www.4gamer.net/games/041/G104199/20260911032/SS/004.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/042/G104233/20260913006/",
           "author": null,
           "description": "ActivisionBlizzardは日本時間2026年9月13日，開催中の「BlizzCon2026」の「OpeningCeremony」で発表された最新情報を公開した。「ディアブロV」や「StarCraft」シリーズの新作，「WorldofWarcraft:Forever」などが明らかになっている。",
@@ -3002,6 +3022,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/99f4eb3b56be62497bc6155e8b363b2782ea94a4?source=rss",
+          "author": null,
+          "description": "京都市伏見区の商店街で道路が隆起し、水が噴き出しています。京都市上下水道局は水道管が破損したとみて、原因を調べています。\n\n　警察によりますと１３日午後、京都市伏見区東大手町の伏見大手筋商店街で道路",
+          "link": "https://news.yahoo.co.jp/articles/99f4eb3b56be62497bc6155e8b363b2782ea94a4?source=rss",
+          "publishedOn": "2026-09-13T09:49:58.000Z",
+          "wordCount": 1669,
+          "title": "上水道が破損か　商店街で道路が隆起し水噴き出す　京都・伏見区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00082525-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a5a0ae83b57f87388b2577f733476da1a6a75a8e?source=rss",
+          "author": null,
+          "description": "京都市伏見区の商店街で道路が隆起し、水が噴き出しています。京都市上下水道局は水道管が破損したとみて、原因を調べています。\n\n　警察によりますと１３日午後、京都市伏見区東大手町の伏見大手筋商店街で道路",
+          "link": "https://news.yahoo.co.jp/articles/a5a0ae83b57f87388b2577f733476da1a6a75a8e?source=rss",
+          "publishedOn": "2026-09-13T08:18:03.000Z",
+          "wordCount": 1675,
+          "title": "【速報】京都・伏見区の商店街で道路隆起、水が噴き出す　水道管が破損か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00082524-asahibcv-000-3-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/069ee67ef64f35c135e4cd2a2d9ef88250063174?source=rss",
           "author": null,
@@ -7381,16 +7421,6 @@
           "wordCount": 1647,
           "title": "「撮り鉄」と踏切付近でトラブルか　車で男性をひき殺そうとした疑い　５５歳男を逮捕　徳島・鳴門市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082063-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/38716afe5665e9ab8793caf45039c9aea7348f59?source=rss",
-          "author": null,
-          "description": "大阪市鶴見区の路上で知人男性を複数回刺して殺害しようとした疑いでスリランカ人留学生の男が逮捕されました。\n\n　警察は事件の詳しい経緯を調べています。\n\n　大阪市鶴見区に住むスリランカ国籍で留学生のナ",
-          "link": "https://news.yahoo.co.jp/articles/38716afe5665e9ab8793caf45039c9aea7348f59?source=rss",
-          "publishedOn": "2026-08-14T22:03:55.000Z",
-          "wordCount": 1650,
-          "title": "２１歳スリランカ人留学生を逮捕 知人の胸を刃物で刺した疑い(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082062-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -11460,6 +11490,76 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067188.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/09/12(土) 23:27:30.52 ID:sAdetnvn9.net\n\n\n\n\n\n\n\nえ、怖っ。ちゃんと収入があっても60代で家借りられないの😭てことはマイホームって持っとく方がいいのかなぁと思う一方で、自由に住む場所変えられない不自由さもあるしなぁ…と、家問...",
+          "link": "https://itainews.com/archives/2067188.html",
+          "publishedOn": "2026-09-13T10:00:17.000Z",
+          "wordCount": 3279,
+          "title": "「働いていて収入があってもお断りされる」単身者、部屋を借りられない事態に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/4/64d95f49-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067196.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/09/13(日) 13:00:27.16 ID:3odht9zx9.net\n\n\n\n\n\n\n\n日中友好議連の若手議員8人が中国へ出発　「中国人民対外友好協会」幹部との面会など予定 https://t.co/aS3GV01Yjz— TBS NEWS DIG Powered by JNN (@tbsnewsdig) September 13, 2026  \n\n\n\n\n\n与野...",
+          "link": "https://itainews.com/archives/2067196.html",
+          "publishedOn": "2026-09-13T09:31:14.000Z",
+          "wordCount": 3651,
+          "title": "日中友好議連の若手議員8人が中国へ出発　「中国人民対外友好協会」幹部との面会など予定",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a237aec1-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067187.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/12(土) 20:06:03.83 ID:8zDa3hHn9.net\n\n\n\n\n\n\n\n「2人とも血がついて…」男(84)を殺人容疑で逮捕　男性(80)の頭や顔を複数回殴り殺害か　鹿児島・屋久島 https://t.co/MKG2APtVBC#鹿児島— MBCニューズナウ (@MBC_newsnow) September 12, 2026  \n...",
+          "link": "https://itainews.com/archives/2067187.html",
+          "publishedOn": "2026-09-13T09:03:03.000Z",
+          "wordCount": 3189,
+          "title": "【鹿児島】「みんな血がついていて『これはいかん』と警察」男（84）を殺人容疑で逮捕　男性（80）の頭や顔を複数回殴り殺害か　屋久島",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/e/de393704-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067186.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/12(土) 19:27:43.51 ID:hqLbEqnQ9.net\n\n\n\n\n\n\n\n12人のツアー登山の70代添乗員が意識不明の状態　北アルプス槍ヶ岳で遭難　近くの山小屋に搬送　天候不良で救助せきず　12日早朝から警察が救助に向かう予定 | 長野県内のニュース | NBS 長野放送 ...",
+          "link": "https://itainews.com/archives/2067186.html",
+          "publishedOn": "2026-09-13T08:02:53.000Z",
+          "wordCount": 3403,
+          "title": "【長野】12人パーティのツアー登山の74歳添乗員が死亡　北アルプス槍ヶ岳に向け登山中に体調が悪化し意識不明　天候不良で翌日救助も…",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/d/1d3f923f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067185.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/12(土) 21:18:48.25 ID:ZOpduFFd9.net\n\n\n\n\n\n\n\n「私は理由を聞いているだけなのに」――職場でも起きうる「納得するまで詰める」ことのリスクhttps://t.co/KMUak1rgyP— ITmedia ビジネスオンライン (@itm_business) September 10, 2026  \n\n...",
+          "link": "https://itainews.com/archives/2067185.html",
+          "publishedOn": "2026-09-13T07:01:42.000Z",
+          "wordCount": 4616,
+          "title": "【はてな】「私は理由を聞いているだけなのに」――職場でも起きうる「納得するまで詰める」ことのリスク",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/a/da349c65-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067173.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/12(土) 21:16:07.44 ID:s/L/ZYVA0●.net\n\n\n\n\n\n\n\n中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告 https://t.co/7egyd8Ao2L— CNET Japan (@cnet_japan) September 11, 2026 \n\n\n\n\n\n\nhttps://www.anthr...",
+          "link": "https://itainews.com/archives/2067173.html",
+          "publishedOn": "2026-09-13T06:30:17.000Z",
+          "wordCount": 4013,
+          "title": "中国AIが実はClaudeを引っ張って使っていた→中国・ロシアの軍事機密がClaudeにダダ漏れ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/6/d6d34a5e-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067170.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/12(土) 17:28:14.43 ID:● 2BP(3000).net\n\n\n\n\n\n\n\nバズったお風呂。バストープかけてみました。 https://t.co/h5ze0WPGGV pic.twitter.com/9axyg8NdkN— k (@ks_tea_room) September 11, 2026 \n\n\n\n\n\n\nhttps://i.imgur.com/Lb5ptk1.jpeg\n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2067170.html",
+          "publishedOn": "2026-09-13T06:00:52.000Z",
+          "wordCount": 4381,
+          "title": "日本人、ついに気付く。お風呂場の浴槽いらない",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/6/76992afb.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067177.html",
           "author": "takakichi5346",
@@ -18509,16 +18609,6 @@
           "wordCount": 3292,
           "title": "日本で働いた外国人、出国後の住民税滞納額割合18.6％　強制徴収の仕組みなく逃げ得の状態",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/7/2764b1a3-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066067.html",
-          "author": "nobi0929",
-          "description": "1 名前：nita ★：2026/08/14(金) 08:04:20.31 ID:tHmWT34Q9.net\n\n\n\n\n\n\n\n騙される方も馬鹿すぎる20代男性1万7000円被害　SNSで「性的サービスを提供する」投稿見つけ…DM送り PayPayで支払い済ませ、指定されたホテルで待つも…相手は一向に現れず　詐欺被害に気づく（Ａ...",
-          "link": "https://itainews.com/archives/2066067.html",
-          "publishedOn": "2026-08-14T22:00:50.000Z",
-          "wordCount": 3263,
-          "title": "【青森】20代男性SNSで「性的サービスを提供する」投稿にPayPayで1万6900円支払い　ホテルで待つも「あやな」は一向に現れず　詐欺被害に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a2667f2b-s.jpg"
         }
       ]
     },
@@ -18931,6 +19021,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=318229",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、夜マックメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/mcdonalds-shrimp-double",
+          "publishedOn": "2026-09-13T08:44:30.000Z",
+          "wordCount": 2054,
+          "title": "【マクドナルド】倍えびフィレオ【夜マックメニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/18263587ebb18212d9861708102f751a.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=318204",
           "author": "foodfighter",
@@ -19588,6 +19688,36 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127418/",
+          "author": null,
+          "description": "10月5日からスタートするテレビアニメ「転生ゴブリンだけど質問ある？」のメインPV（https://youtu.be/ynr8tFWrK4c）とメインビジュアルが公開された。 また、オープニング...",
+          "link": "https://anime.eiga.com/news/127418/",
+          "publishedOn": "2026-09-13T10:00:00.000Z",
+          "wordCount": 725,
+          "title": "「転生ゴブリンだけど質問ある？」メインPV＆ビジュアル公開　橘杏咲考案の宣伝隊長ゴブリンのビジュアルも披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127391/",
+          "author": null,
+          "description": "テレビアニメ「弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった」の追加キャストとして、白石晴香、坂田将吾、石毛翔弥の出演が決定した。キービジュアル、PV第2弾、主題歌情報、放送日時なども...",
+          "link": "https://anime.eiga.com/news/127391/",
+          "publishedOn": "2026-09-13T09:00:00.000Z",
+          "wordCount": 754,
+          "title": "「弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった」追加キャストに白石晴香、坂田将吾、石毛翔弥　PV第2弾なども公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127430/",
           "author": null,
@@ -23468,6 +23598,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pgtv6bCDRUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pgtv6bCDRUo",
+          "publishedOn": "2026-09-13T10:00:09.000Z",
+          "wordCount": null,
+          "title": "【ロマサガ3】オープニングタイトル〈SFC:1995〉|クラリネット演奏 /  Romancing SaGa3-Title Screen|Clarinet Cover",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/oxZWRMhbpjk",
           "author": null,
           "description": "みつ美ステッカー9/21まで‼️みなさん！もうチェックされましたか？どのデザインが出るかは、印刷してからのお楽しみ！母ちゃんの格言（4種）ドット絵のみつ美さん（3種）㊙️シークレット（1種）ガチャガチャ感覚でワクワクします✨何が出たかストーリーズでメンションして教えてもらえたらめちゃくちゃ嬉しいです😆💕みつ美...",
@@ -24584,16 +24724,6 @@
           "wordCount": 4560,
           "title": "先週観たもの",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2a7b333e4a7164f7095a0dc9cc3392647b2f5722.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/nbcdbd92a4da6",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/nbcdbd92a4da6",
-          "publishedOn": "2026-08-14T18:06:15.000Z",
-          "wordCount": 2447,
-          "title": "リュウジ「美味しんぼは料理監修がないから駄目」お前何いってんの",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9813cb445d67b498588e53261a75f631a58ef0fd.png"
         }
       ]
     },
