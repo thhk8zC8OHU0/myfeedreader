@@ -2993,6 +2993,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6e38bdcd8c7255901f6f54c8b713a7bb772d9107?source=rss",
+          "author": null,
+          "description": "１３日未明大阪市東淀川区の府道で、警察車両の追跡を受けた直後にバイクが転倒し、バイクを運転していた３０歳の会社員の男性が死亡しました。\n\n　１３日午前０時３０分ごろ東淀川区柴島１丁目の長柄橋北詰交差",
+          "link": "https://news.yahoo.co.jp/articles/6e38bdcd8c7255901f6f54c8b713a7bb772d9107?source=rss",
+          "publishedOn": "2026-09-12T23:33:55.000Z",
+          "wordCount": 1638,
+          "title": "警察車両が追跡後にバイク転倒　30歳男性死亡(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00082521-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a5b51398543bd1c69c8148be30117b30418a2a80?source=rss",
           "author": null,
           "description": "戦争の恐ろしさは生死だけではない、家族や周りにも連鎖する“戦争トラウマ”。\n\n　映画の指揮を執った監督に岩本計介アナウンサーが独占インタビュー。また、戦争トラウマの被害者にも話を聞きました。",
@@ -7371,16 +7381,6 @@
           "wordCount": 1656,
           "title": "西明石駅線路にコンクリート片落下　列車の運行に影響なし(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00082060-asahibcv-000-3-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6938da076574e17767e448df40efef7113463718?source=rss",
-          "author": null,
-          "description": "阪神高速環状線で、飲酒して車を時速約１６０キロで運転して死亡事故を起こしたとして、建設作業員の丸岡航太被告（２２）が危険運転致死の罪で起訴されました。\n\n　事故現場の最高速度は６０キロでした。",
-          "link": "https://news.yahoo.co.jp/articles/6938da076574e17767e448df40efef7113463718?source=rss",
-          "publishedOn": "2026-08-14T11:50:52.000Z",
-          "wordCount": 1661,
-          "title": "速度超過による危険運転致死傷罪　大阪で初の立件　阪神高速環状線で飲酒し時速約１６０キロ走行で死亡事故　２２歳の男を起訴(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00082059-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -11450,6 +11450,26 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067163.html",
+          "author": "nobi0929",
+          "description": "1 名前：煮卵 ★：2026/09/12(土) 13:43:31.45 ID:pxnHsxcB9.net\n\n\n\n\n\n\n\nAIよりも、アホな政治家を選んでしまう事で人類滅亡になるよな…😓トランプ、AI人類滅亡説を一蹴　「中国に勝つこと」を最優先と断言(Forbes JAPAN)https://t.co/rXi7OY6fNx— 身代わり地蔵 (@Shin...",
+          "link": "https://itainews.com/archives/2067163.html",
+          "publishedOn": "2026-09-13T00:00:04.000Z",
+          "wordCount": 3247,
+          "title": "【AI】トランプ、「AI人類滅亡説」を一蹴　「中国に勝つこと」を最優先と断言",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/1/61ddaa2e-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067159.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/12(土) 11:46:57.65 ID:● 2BP(3000).ne\n\n\n\n\n\n\n\n僕も税金をたくさん払っている人ほど、優遇されるべきだと思う。当たり前じゃないですか？年収300万円の人と、年収3,000万円の人。納めている税金が何倍も違うのに、「同じように扱うべき」というのは...",
+          "link": "https://itainews.com/archives/2067159.html",
+          "publishedOn": "2026-09-12T23:00:06.000Z",
+          "wordCount": 4098,
+          "title": "経営者「税金をたくさん払ってる人ほど優遇されるべき。年収3000万と300万が平等っておかしい」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/6/f6009b7f-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067151.html",
           "author": "nobi0929",
@@ -18429,36 +18449,6 @@
           "wordCount": 3981,
           "title": "韓国で「親日」が持つ重い意味 韓国女優の芸能活動脅かす先祖の「親日疑惑」 非難殺到",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/6/f69f5f5c-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066071.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2026/08/14(金) 11:26:01.65 ID:702UM4Y69.net\n\n\n\n\n\n\n\n「10人ぐらいの男性らがケンカ」スリランカ人が路上で胸部を刺され…命に別状なし　殺人未遂事件として捜査　大阪・鶴見区 https://t.co/ZPkt68uiam#MBSニュース #ニュース— MBSニュース (@mbs_ne...",
-          "link": "https://itainews.com/archives/2066071.html",
-          "publishedOn": "2026-08-14T12:03:54.000Z",
-          "wordCount": 3608,
-          "title": "【大阪】「10人ぐらいの男性らがケンカを…」20歳スリランカ人男性が胸を刺される殺人未遂事件　スリランカ人男女7人から事情聴く",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/024e6de8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066080.html",
-          "author": "damono3856",
-          "description": "1 名前：おっさん友の会 ★：2026/08/14(金) 17:38:10.27 ID:xk8IxTS49.net\n\n\n\n\n\n\n\nイギリスから家族と旅行中の12歳女子中学生が行方不明　東京・大田区の民泊施設を1人で出た様子が防犯カメラに映る　警視庁が情報提供呼びかけ https://t.co/SmHEG8Me7f— TBS NEWS DIG ...",
-          "link": "https://itainews.com/archives/2066080.html",
-          "publishedOn": "2026-08-14T11:31:35.000Z",
-          "wordCount": 3286,
-          "title": "イギリスから家族と旅行中の12歳女子中学生が行方不明　東京・大田区の民泊施設から姿消す",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a5b7c272-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066063.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2026/08/14(金) 00:33:33.02 ID:gbsccMAK9.net\n\n\n\n\n\n\n\n190万円持ってベンチで寝るなんて、どんな神経しているのか？ベンチで寝込んでいる男性のリュック盗んだか…中には現金190万円　「寝ている人の財布を盗もうとしている」との通報から警察官に見つ...",
-          "link": "https://itainews.com/archives/2066063.html",
-          "publishedOn": "2026-08-14T11:02:21.000Z",
-          "wordCount": 3204,
-          "title": "【静岡】ベンチで寝込んでいる男性のリュック盗んだか…中には現金190万円　窃盗の疑いで男を逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/d/1de67bd8-s.png"
         }
       ]
     },
@@ -19540,16 +19530,6 @@
           "wordCount": 2045,
           "title": "【ファミマ】山芳製菓 増量 ポテトチップス わさビーフ（おかわり45％増量作戦）【新作コンビニお菓子】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/4a1b1ebeb4b1dab1abdcfef48a8702c1.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=316578",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「大盛ミートソース（おかわり45％増量作戦）」を世界一詳しく調査しました。   【ファミマ】 […]",
-          "link": "https://foodfighter.jp/famima-meat-sauce-zoryo",
-          "publishedOn": "2026-08-14T11:08:58.000Z",
-          "wordCount": 2029,
-          "title": "【ファミマ】大盛ミートソース（おかわり45％増量作戦）【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/23a25b4ed51634338469cfd53381973d.jpg"
         }
       ]
     },
@@ -22522,51 +22502,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/127225/",
-          "author": null,
-          "description": "8月14日午後9時から、日本テレビ系「金曜ロードショー」にて宮﨑駿監督の「風の谷のナウシカ」が放送されます。宮﨑監督がアニメ専門誌「アニメージュ」で連載していた同名漫画を、自身で1984年に映画...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/127225/",
-          "publishedOn": "2026-08-14T12:00:00.000Z",
-          "wordCount": 890,
-          "title": "「風の谷のナウシカ」あらすじ、声優まとめ　スタジオジブリ第0作、宮﨑駿作品に連続出演した島本須美",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127237/",
-          "author": null,
-          "description": "テレビアニメ「新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦」の放送が9月30日からスタートすることが決定し、畠中祐、川島零士、長岡龍歩、潘めぐみの出演が明らかになった。PV...",
-          "link": "https://anime.eiga.com/news/127237/",
-          "publishedOn": "2026-08-14T12:00:00.000Z",
-          "wordCount": 852,
-          "title": "「新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦」9月30日放送開始　スペイン代表役に畠中祐、川島零士、長岡龍歩、潘めぐみ",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127233/",
-          "author": null,
-          "description": "アニメ「邪神ちゃんドロップキック」のテレビシリーズほか全37話が、8月20日までの期間限定でYouTubeの「公式邪神ちゃんねる」で無料配信されている。 熊本復興応援チャリティー企画の一環として...",
-          "link": "https://anime.eiga.com/news/127233/",
-          "publishedOn": "2026-08-14T11:00:00.000Z",
-          "wordCount": 802,
-          "title": "「邪神ちゃんドロップキック」全37話を無料配信　収益を熊本地震復興支援のため寄付",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23791,16 +23726,6 @@
           "wordCount": 3117,
           "title": "【クロノ・トリガー名曲20選】クラリネットだけで吹いてみたメドレー！（後半）#クロノトリガー #chronotrigger #クラリネット #gamemusic #clarinet #ゲーム音楽",
           "imageUrl": "https://i.ytimg.com/vi/PJAPR7A-9ns/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBr-5g0QEWUC1SCGGKz3P1nexz12A&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/OJUCDHDcfpY",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer→光田康典 Yasunori Mitsuda@squareenix @squareenixmusicchannel9893 ​⁠#クロノトリガー #chronotrigger #gamemusic #retrogaming...",
-          "link": "https://www.youtube.com/shorts/OJUCDHDcfpY",
-          "publishedOn": "2026-08-14T11:12:34.000Z",
-          "wordCount": 3120,
-          "title": "【クロノ・トリガー名曲20選】クラリネットだけで吹いてみたメドレー！（前半）#クロノトリガー #chronotrigger #クラリネット #gamemusic #clarinet #ゲーム音楽",
-          "imageUrl": "https://i.ytimg.com/vi/OJUCDHDcfpY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBsD_GKbMwpJAcXQ_cwezx5wpgKXA&usqp=CCk"
         }
       ]
     },
@@ -23898,16 +23823,6 @@
           "wordCount": 3204,
           "title": "柴犬をゆるく育てた結果こうなりました… #柴犬 #shorts",
           "imageUrl": "https://i.ytimg.com/vi/aBTpEE6kPSE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDHrivZy86ph0dje4ecCqWbGefFjA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/v6DQEmQ31d0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/v6DQEmQ31d0",
-          "publishedOn": "2026-08-14T11:00:06.000Z",
-          "wordCount": 3299,
-          "title": "犬と心が通じ合うと起こる事… #柴犬 #shortvideo",
-          "imageUrl": "https://i.ytimg.com/vi/v6DQEmQ31d0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB3s-F-eWP1rL-nrgc9RnEe7cRPfg&usqp=CCk"
         }
       ]
     },
@@ -24204,16 +24119,6 @@
           "publishedOn": "2026-08-15T11:01:38.000Z",
           "wordCount": null,
           "title": "寝てるもちを起こしに行ったら眠すぎてこうなってましたwww",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rgkBr5MNhQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rgkBr5MNhQs",
-          "publishedOn": "2026-08-14T11:01:40.000Z",
-          "wordCount": null,
-          "title": "なぜかリモコンが大好きな猫を撫で回したらこうなっちゃいました笑",
           "imageUrl": null
         }
       ]
