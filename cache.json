@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/954/G095479/20260912006/",
+          "author": null,
+          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，ウルヴァリンの活躍を描くオープンワールドアクション「Marvel'sWolverine」や，フルリメイク第二弾「空の軌跡the2nd」が発売される。",
+          "link": "https://www.4gamer.net/games/954/G095479/20260912006/",
+          "publishedOn": "2026-09-13T23:00:00.000Z",
+          "wordCount": 8587,
+          "title": "【今週のモチベ】「Marvel's Wolverine」や「空の軌跡 the 2nd」が発売される 2026年9月14日〜9月20日",
+          "imageUrl": "https://www.4gamer.net/games/954/G095479/20260912006/SS/006.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/040/G004099/20260913009/",
           "author": null,
           "description": "2026年9月7日〜9月13日，4Gamerに掲載された記事は332本でした。任天堂が「NintendoDirect2026.9.9」と「ゼルダの伝説40周年Direct2026.9.8」を配信し，さまざまな新作を惜しげもなく紹介しました。そんな世界のゲーム業界と4Gamerの1週間をサクッと振り返りましょう。",
@@ -3072,6 +3082,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/03907af6b29a3d5ca214d751184b929932cd2eb4?source=rss",
+          "author": null,
+          "description": "「戦後最長の景気拡大到来か」　国がそう発表した一方で、街を歩けば聞こえてくるのは嘆きの声ばかりです。好景気の数字と、生活者の実感の間にある深い溝。その正体を、岩本計介アナウンサーがニュースの現場から",
+          "link": "https://news.yahoo.co.jp/articles/03907af6b29a3d5ca214d751184b929932cd2eb4?source=rss",
+          "publishedOn": "2026-09-13T22:00:00.000Z",
+          "wordCount": 1781,
+          "title": "戦後最長の“景気拡大”にも「全然感じない」　政府が示す数字と生活実感との深い溝　私たちの生活が良くなるのは「来年4月」･･･(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00082492-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/d09d0c387592061d53d2f5348f9927603364b456?source=rss",
           "author": null,
@@ -7421,26 +7441,6 @@
           "wordCount": 1660,
           "title": "【夏の高校野球】有明（熊本）が東日大昌平（福島）に４－１で勝利　第１２日第２試合(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082069-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ed45d2a3e2127dadd412b73130cd2cb652821184?source=rss",
-          "author": null,
-          "description": "夏の高校野球、第１１日第４試合は仙台育英（宮城）と拓大紅陵（千葉）が対戦し、６－３で仙台育英が勝利しました。",
-          "link": "https://news.yahoo.co.jp/articles/ed45d2a3e2127dadd412b73130cd2cb652821184?source=rss",
-          "publishedOn": "2026-08-15T11:09:31.000Z",
-          "wordCount": 1636,
-          "title": "【夏の高校野球】仙台育英（宮城）が拓大紅陵（千葉）に６ー３で勝利　第１１日第４試合(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082068-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5dcd766ffc11146e55784ec1566ee4a91404dd04?source=rss",
-          "author": null,
-          "description": "終戦から８１年となる１５日、和歌山市の「岡山の時鐘堂」で、平和への願いを込めた鐘が鳴らされました。\n\n　和歌山ユネスコ協会は、毎年８月１５日を「争いなき日」と定め「平和の鐘打鐘会」を実施していて、今",
-          "link": "https://news.yahoo.co.jp/articles/5dcd766ffc11146e55784ec1566ee4a91404dd04?source=rss",
-          "publishedOn": "2026-08-15T11:02:20.000Z",
-          "wordCount": 1632,
-          "title": "終戦から８１年　和歌山・岡山の時鐘堂で「平和の鐘」(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082067-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9458,16 +9458,6 @@
           "wordCount": 1938,
           "title": "トランプ氏、米韓合同軍事演習の縮小を表明　対イラン戦争に韓国が不関与で",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cm2gj2yexxeo#0",
-          "author": null,
-          "description": "インドネシア東部フローレス島で15日午前4時58分（日本時間同6時58分）ごろ、マグニチュード（M）7.7の地震が発生した。防災当局によると、同日夕までに少なくとも38人の死亡が確認された。",
-          "link": "https://www.bbc.com/japanese/articles/cm2gj2yexxeo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-15T10:26:28.000Z",
-          "wordCount": 1955,
-          "title": "インドネシアでM7.7の地震、死傷者多数",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg"
         }
       ]
     },
@@ -11460,6 +11450,26 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067195.html",
+          "author": "nobi0929",
+          "description": "1 名前：首都圏の虎 ★：2026/09/13(日) 10:20:59.91 ID:wjQ4zxFA9.net\n\n\n\n\n\n\n\n「給料は変わらないのに、税金の負担ばかり増える…」日本人がどんどん貧しくなる“残酷なカラクリ”（with online） - Yahoo!ニューススイスやアイスランド、ルクセンブルクなどが1000万円...",
+          "link": "https://itainews.com/archives/2067195.html",
+          "publishedOn": "2026-09-14T00:00:46.000Z",
+          "wordCount": 3103,
+          "title": "「給料は変わらないのに、税金の負担ばかり増える…」日本人がどんどん貧しくなる“残酷なカラクリ”",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/b/5bfe0a08-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067194.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/09/13(日) 11:12:46.99 ID:7cAEoKEe9.net[1/2]\n\n\n\n\n\n\n\n陸上大会関係者28人、食中毒の疑い　弁当原因か―全日本実業団・京都https://t.co/TRCJg0DnqD京都市消防局や右京署によると、大会関係者28人が病院に搬送され、2人が重症。主催者側が発注した...",
+          "link": "https://itainews.com/archives/2067194.html",
+          "publishedOn": "2026-09-13T23:01:47.000Z",
+          "wordCount": 3229,
+          "title": "【京都】陸上大会関係者28人、食中毒の疑い　弁当原因か　全日本実業団",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/2/c270c5b9-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067192.html",
           "author": "nobi0929",
@@ -18439,46 +18449,6 @@
           "wordCount": 3476,
           "title": "メルセデス「シートに金属製シートエンブレムを付けたらカッコいいだろ」→当然、焼印と化す",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/8/a85d359a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066108.html",
-          "author": "damono3856",
-          "description": "1 名前：蚤の市 ★：2026/08/15(土) 10:12:34.70 ID:ULyGY/qZ9.net\n\n\n\n\n\n\n\n英、列車脱線相次ぐ 熱波で線路にゆがみかhttps://t.co/C8MFUSXROK英国で13、14両日、列車の脱線事故が相次いで発生しました。原因は不明ですが、英国で続く異例の熱波の影響で線路がゆがんだ可...",
-          "link": "https://itainews.com/archives/2066108.html",
-          "publishedOn": "2026-08-15T12:00:45.000Z",
-          "wordCount": 3307,
-          "title": "【英国】列車脱線相次ぐ 熱波で線路にゆがみか",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/7/0740eef0-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066118.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2026/08/15(土) 15:42:28.33 ID:UFKh19RR9.net\n\n\n\n\n\n\n\n高市首相、靖国神社に遥拝　玉串料奉納、参拝は見送り https://t.co/aduLpT7ahz— 時事ドットコム（時事通信ニュース） (@jijicom) August 15, 2026  \n\n\n\n\n\n\n高市首相、靖国神社に遙拝（時事通...",
-          "link": "https://itainews.com/archives/2066118.html",
-          "publishedOn": "2026-08-15T11:31:39.000Z",
-          "wordCount": 3135,
-          "title": "高市首相、靖国神社に遙拝（時事通信）",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/c/dcf1b2f0-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066096.html",
-          "author": "damono3856",
-          "description": "1 名前：：2026/08/15(土) 00:01:36.92 ID:OhKkfXan0●.net\n\n\n\n\n\n\n\n警視庁のフル勤務警察官「3千人」不足　採用を強化、組織改編も https://t.co/XjLHfik1W4— 朝日新聞(asahi shimbun） (@asahi) August 14, 2026  \n\n\n\n\n\n\n　事件・事故や相談への対応が昼夜問わずに求め...",
-          "link": "https://itainews.com/archives/2066096.html",
-          "publishedOn": "2026-08-15T11:00:31.000Z",
-          "wordCount": 3446,
-          "title": "警視庁のフル勤務警察官「3千人」不足",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/9/c96315b5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066106.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/15(土) 11:09:35.95 ID:vkitkqQP9.net\n\n\n\n\n\n\n\nホルムズ海峡でUAE国営石油会社の船舶に攻撃　イエメンの親イラン組織フーシ派はサウジアラビアの石油関連施設を攻撃か https://t.co/OKjIlb8wX7— TBS NEWS DIG Powered by JNN (@tbsnewsdig) Aug...",
-          "link": "https://itainews.com/archives/2066106.html",
-          "publishedOn": "2026-08-15T10:31:52.000Z",
-          "wordCount": 3070,
-          "title": "【国際】ホルムズ海峡でUAE国営石油会社の船舶に攻撃　イエメンの親イラン組織フーシ派はサウジアラビアの石油関連施設を攻撃か",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a2e15c2d-s.png"
         }
       ]
     },
@@ -18487,6 +18457,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=61663",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 姉妹サイト海老名らぼ で特に話題になっている情報だけ、不定期ですが厚木らぼでもピックアップでお伝えしています。 今回は人気店の周年イベントから、通行止め解除の情報、保育園の開所に閉店情報まで、海老名情報を…",
+          "link": "https://atsugi-lab.com/ebinanews-202609-2/",
+          "publishedOn": "2026-09-14T00:07:31.000Z",
+          "wordCount": 863,
+          "title": "【海老名】ペコちゃんmilkyドーナツの2周年イベント♡｜上郷・通行止め解除｜4園の保育園が開所予定！｜海老名最新情報まとめ",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/ebinamatome202609-2.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=61620",
           "author": "shino",
@@ -22477,36 +22457,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127120/",
-          "author": null,
-          "description": "ディズニー＆ピクサーの「カーズ」公開20周年を記念して、同作が9月4～10日の1週間限定で全国劇場上映（日本語吹き替え版）されることが決定。あわせて、20周年を記念した特別なビジュアル（※後日公...",
-          "link": "https://anime.eiga.com/news/127120/",
-          "publishedOn": "2026-08-15T12:00:00.000Z",
-          "wordCount": 718,
-          "title": "「カーズ」公開20周年、9月4日から1週間限定で劇場上映　入場特典は特別なビジュアルのポストカード",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127221/",
-          "author": null,
-          "description": "テレビアニメ「ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～」の放送が2027年1月からスタートすることが決定し、主人公のゼフィルス役を上村祐翔が務め...",
-          "link": "https://anime.eiga.com/news/127221/",
-          "publishedOn": "2026-08-15T11:00:00.000Z",
-          "wordCount": 808,
-          "title": "「ゲーム世界転生〈ダン活〉」27年1月放送開始、主人公・ゼフィルス役に上村祐翔　監督はミヤザキナギサ",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23781,16 +23731,6 @@
           "wordCount": null,
           "title": "【ロマサガシリーズ】戦闘曲メドレー  キッチンでクラリネット吹く人| Romancing SaGa/Battle Theme Medley",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/PJAPR7A-9ns",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer→光田康典 Yasunori Mitsuda​⁠@squareenix @squareenixmusicchannel9893 #クロノトリガー #chronotrigger #gamemusic #retrogaming...",
-          "link": "https://www.youtube.com/shorts/PJAPR7A-9ns",
-          "publishedOn": "2026-08-15T11:00:08.000Z",
-          "wordCount": 3117,
-          "title": "【クロノ・トリガー名曲20選】クラリネットだけで吹いてみたメドレー！（後半）#クロノトリガー #chronotrigger #クラリネット #gamemusic #clarinet #ゲーム音楽",
-          "imageUrl": "https://i.ytimg.com/vi/PJAPR7A-9ns/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBr-5g0QEWUC1SCGGKz3P1nexz12A&usqp=CCk"
         }
       ]
     },
@@ -24184,16 +24124,6 @@
           "publishedOn": "2026-08-16T11:01:31.000Z",
           "wordCount": null,
           "title": "気分じゃない遊びに渋々付き合ってくれる猫が可愛すぎましたw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J0F5pgG_xsc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J0F5pgG_xsc",
-          "publishedOn": "2026-08-15T11:01:38.000Z",
-          "wordCount": null,
-          "title": "寝てるもちを起こしに行ったら眠すぎてこうなってましたwww",
           "imageUrl": null
         }
       ]
@@ -24609,16 +24539,6 @@
           "wordCount": 2398,
           "title": "堀口英利の学歴詐称を確定させる証拠セット",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9266a9cba5f3a12b58b209b9c977108b3a4e4368.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/n12b7c9bcc039",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/n12b7c9bcc039",
-          "publishedOn": "2026-08-15T11:39:30.000Z",
-          "wordCount": 2445,
-          "title": "味の素リュウジが再現した美味しんぼうどんは出来損ないだという話",
-          "imageUrl": "https://assets.st-note.com/img/1786793319-wz6m20ZSqy3vXTxkfKgMLu89.png"
         }
       ]
     },
