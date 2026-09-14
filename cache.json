@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/144/G014484/20260914040/",
+          "author": null,
+          "description": "EpicGamesは本日（2026年9月14日），同社がサービス中のバトルロイヤルゲーム「フォートナイト」に，「KINGDOMHEARTS」とのコラボとして「ソラ」が登場すると発表した。発表に合わせて，キーブレードを持ったソラの映像が公開されている。",
+          "link": "https://www.4gamer.net/games/144/G014484/20260914040/",
+          "publishedOn": "2026-09-14T10:30:36.000Z",
+          "wordCount": 8547,
+          "title": "「フォートナイト」，「キングダムハーツ」コラボでソラが登場。今週中に実装予定",
+          "imageUrl": "https://www.4gamer.net/games/144/G014484/20260914040/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/484/G048450/20260914028/",
           "author": null,
           "description": "現地時間9月12日と13日に開催された「BlizzCon2026」。54体目のヒーロー「ドクトリン」の情報以外にも，新マップ「ウォッチポイント：グリムスヴォトン」の初公開，LESSERAFIMとの新たなコラボ，韓国代表の優勝で幕を閉じたOverwatchWorldCup2026など，「オーバーウォッチ」の話題は目白押しだった。",
@@ -3164,16 +3174,6 @@
           "wordCount": 8933,
           "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月10日〜8月16日",
           "imageUrl": "https://www.4gamer.net/games/040/G004099/20260816015/SS/030.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/015/G101577/20260816004/",
-          "author": null,
-          "description": "スクウェア・エニックスは，「キングダムハーツ」シリーズのナンバリング最新作となる「キングダムハーツIV」を2027年後半にリリースすると発表し，最新トレイラーを公開した。トレイラーでは，新たな冒険の舞台として，映画「リメンバー・ミー」の世界が登場することが紹介されている。",
-          "link": "https://www.4gamer.net/games/015/G101577/20260816004/",
-          "publishedOn": "2026-08-16T03:03:29.000Z",
-          "wordCount": 8532,
-          "title": "「キングダム ハーツIV」の発売が2027年後半に決定。新たな冒険の舞台を紹介する最新トレイラー公開",
-          "imageUrl": "https://www.4gamer.net/games/015/G101577/20260816004/SS/001.jpg"
         }
       ]
     },
@@ -3182,6 +3182,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/db300cb7f14f4cbe89fa09bcd528790dbe5ca91c?source=rss",
+          "author": null,
+          "description": "「いってきます」と言って家を出た娘が、「ただいま」と帰ってくることはありませんでした。\n\n　今年3月、沖縄・辺野古沖で起こった転覆事故から、まもなく半年が経ちます。\n\n　事故で犠牲となった女子生徒の",
+          "link": "https://news.yahoo.co.jp/articles/db300cb7f14f4cbe89fa09bcd528790dbe5ca91c?source=rss",
+          "publishedOn": "2026-09-14T13:14:45.000Z",
+          "wordCount": 1764,
+          "title": "【独自】「いってきます」から半年…沖縄・辺野古沖転覆事故　女子生徒の遺族が語るいま【岩本計介ニュースの現場から】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082546-asahibcv-000-2-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6ad3d62561df1bfd8d86006651038a51773a77ec?source=rss",
+          "author": null,
+          "description": "１２日に京都市で開かれた陸上大会で、弁当を食べたスタッフらが体調不良を訴え救急搬送された問題で、京都市保健所は１４日、集団食中毒と断定し、弁当を提供した業者に３日間の営業停止を命じました。\n\n　１４",
+          "link": "https://news.yahoo.co.jp/articles/6ad3d62561df1bfd8d86006651038a51773a77ec?source=rss",
+          "publishedOn": "2026-09-14T10:21:15.000Z",
+          "wordCount": 1691,
+          "title": "陸上大会の体調不良を集団食中毒と断定　弁当提供した飲食店に３日間の営業停止命令　スタッフらが救急搬送　京都市保健所(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082544-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/1d2701c319d7111cfb3b4a669edb4f7e41aaf3fa?source=rss",
+          "author": null,
+          "description": "ＵＳＪが子どもたちを無料招待します。\n\n　ユニバーサル・スタジオ・ジャパンは１４日、全国の子どもをパークに無料で招待する、新たなキャンペーンを始めました。\n\n　ＵＳＪのチケットは価格変動制を採用して",
+          "link": "https://news.yahoo.co.jp/articles/1d2701c319d7111cfb3b4a669edb4f7e41aaf3fa?source=rss",
+          "publishedOn": "2026-09-14T10:15:12.000Z",
+          "wordCount": 1671,
+          "title": "ユニバーサル・スタジオ・ジャパンが子どもたちを“無料招待”　大人１人の入場料金で一緒に入場する子ども１人分が無料に「ホリデー・キッズフリー・パス」発売(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082539-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3d8f6cba6dcdd3fe39b6907a2e8d6ed684813451?source=rss",
+          "author": null,
+          "description": "関西空港と京都市を約２５分で結びます。\n\n　京都市に本社を置くヘリコプター運航会社「スペースアビエーション」は、関西空港と京都市伏見区のヘリポートを結ぶヘリコプター便の運航を15日から始めます。",
+          "link": "https://news.yahoo.co.jp/articles/3d8f6cba6dcdd3fe39b6907a2e8d6ed684813451?source=rss",
+          "publishedOn": "2026-09-14T10:14:58.000Z",
+          "wordCount": 1676,
+          "title": "関空ー京都が約25分！？　おどろきのスピードは･･･ヘリ　新路線開設へ　1席2万円で一日8往復(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082540-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/864ce8ab93a8de7afa2d4de258a70c94e12ec0fc?source=rss",
           "author": null,
@@ -7651,46 +7691,6 @@
           "wordCount": 1627,
           "title": "【夏の高校野球】花巻東（岩手）が英明（香川）に４－０で勝利　第１２日第３試合(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082073-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cb773da360a9a3d3db794f79e7ac6454a81f8e8b?source=rss",
-          "author": null,
-          "description": "徳島県鳴門市で、鉄道の撮影をしていた男性を車でひき殺そうとしたなどとして、逮捕された男が「胸ぐらをつかんだ」と暴行の容疑については認めていることが新たに分かりました。\n\n　殺人未遂と暴行の疑いで送検",
-          "link": "https://news.yahoo.co.jp/articles/cb773da360a9a3d3db794f79e7ac6454a81f8e8b?source=rss",
-          "publishedOn": "2026-08-16T04:03:22.000Z",
-          "wordCount": 1658,
-          "title": "“撮り鉄”とトラブルか　逮捕の男「胸ぐらをつかんだ」　暴行容疑は認める　徳島・鳴門市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082072-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c5a2aa673fbc9f656577e110c28ab8bf1e52031c?source=rss",
-          "author": null,
-          "description": "今年も暑い夏が続きますが、神戸須磨シーワールドでは、涼しさを届ける夏限定のイベントが開かれています。\n\n　人気者のシャチがジャンプや大きな尾びれで大量の水しぶきをお客さんに浴びせても、この笑顔！",
-          "link": "https://news.yahoo.co.jp/articles/c5a2aa673fbc9f656577e110c28ab8bf1e52031c?source=rss",
-          "publishedOn": "2026-08-16T04:02:39.000Z",
-          "wordCount": 1663,
-          "title": "シャチの豪快な水しぶきで“涼”をお届け！　神戸須磨シーワールドで夏限定イベント(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082071-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7244a4daa90f31b3c8887e31955f70b41adec479?source=rss",
-          "author": null,
-          "description": "お盆休みをふるさとや行楽地で過ごした人たちのＵターンラッシュがピークを迎えています。\n\n　東海道新幹線の東京に向かう上りは１６日が混雑のピークで、新大阪駅のホームは朝から多くの人で混み合いました。",
-          "link": "https://news.yahoo.co.jp/articles/7244a4daa90f31b3c8887e31955f70b41adec479?source=rss",
-          "publishedOn": "2026-08-16T04:02:25.000Z",
-          "wordCount": 1659,
-          "title": "お盆休みのＵターンラッシュ　新幹線上りはきょう混雑ピーク(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082070-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5146af1ad37f2f71de8608c6647ba7c01dcd2241?source=rss",
-          "author": null,
-          "description": "夏の高校野球、第１２日第２試合は有明（熊本）と東日大昌平（福島）が対戦し、４－１で有明が勝利しました。",
-          "link": "https://news.yahoo.co.jp/articles/5146af1ad37f2f71de8608c6647ba7c01dcd2241?source=rss",
-          "publishedOn": "2026-08-16T03:13:55.000Z",
-          "wordCount": 1660,
-          "title": "【夏の高校野球】有明（熊本）が東日大昌平（福島）に４－１で勝利　第１２日第２試合(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082069-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -7699,6 +7699,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/ck305jvy987go#0",
+          "author": null,
+          "description": "イギリスのウェールズ、スコットランド、北アイルランド各自治政府の第一大臣（自治政府首相）は14日、ウェールズ・カーディフで初めて一堂に会し、「（イギリス政界の中心地、イングランド・ロンドンの）ウェストミンスターの時代は終わりを迎えつつある」と宣言した。イギリス連合王国を構成する四つの国のうち、イングランドを除く三つの国の自治政府首相たちは、イギリス政府は憲政上の変化に向けて「準備」すべきだと述べた。",
+          "link": "https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-14T13:19:27.000Z",
+          "wordCount": 1978,
+          "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d2ed/live/92f70d70-b02c-11f1-a8a9-13be82d23441.png"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo#0",
           "author": null,
@@ -10374,6 +10384,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=133151",
+          "author": "編集部：平山洸太",
+          "description": "EcoFlow Technology Japan、ポータブル電源「RIVER Pro」および専用エクストラバッテリーの自主回収を9月24日から実施すると発表した。 長期間の使用に伴うバッテリー劣化により、極めて稀に発煙・発火現象が生じることによるもの。ユーザーの安全確保および事故の未然防止・再発防止 […]",
+          "link": "https://gadget.phileweb.com/post-133151/",
+          "publishedOn": "2026-09-14T10:20:00.000Z",
+          "wordCount": 704,
+          "title": "EcoFlowポータブル電源「RIVER Pro」に発煙・発火のおそれ、9月24日から自主回収",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/257304a22053577529f79dec4ea8c032.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=133118",
           "author": "Munenori Taniguchi",
           "description": "米国土安全保障省の税関・国境取締局 (CBP)に務める職員が、職場のPCからRAMやストレージ、CPUを勝手に抜き取り、中古パーツとして下取りに出していたことが発覚し、起訴された。 CBP職員のテリー・リュウ被告は、米メイン州の国境沿いにある3か所の施設で、合計46台のPCの内部パーツをグレードの低 […]",
@@ -11870,6 +11890,56 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067248.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/14(月) 16:43:44.54 ID:N3pfL0ao9.net\n\n\n\n\n\n\n\n集合住宅から転落死の16歳少年を書類送検　親子4人に暴行や切り付けなど重軽傷を負わせた疑い　大阪・此花区 https://t.co/0giB0VJqjB#MBSニュース #ニュース— MBSニュース (@mbs_news) September...",
+          "link": "https://itainews.com/archives/2067248.html",
+          "publishedOn": "2026-09-14T14:01:13.000Z",
+          "wordCount": 3395,
+          "title": "【大阪】親子4人に次々暴行・緊縛したとされる少年…その後転落死　少年を容疑者死亡で傷害などの容疑で書類送検 此花区",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/3/f3ed3b5c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067240.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/14(月) 09:09:08.56 ID:MDtzaZQI9.net\n\n\n\n\n\n\n\n13日夜、#岐阜県 #中津川市 の #中央自動車道 で事故で停車していた車から降りていた男性が後続車両にはねられ死亡しました。https://t.co/jwTv5O793Z— メ～テレnews (@nagoyatv_news) September ...",
+          "link": "https://itainews.com/archives/2067240.html",
+          "publishedOn": "2026-09-14T13:01:37.000Z",
+          "wordCount": 3368,
+          "title": "【岐阜】事故で停車していた車から降りていた男性　後続車両にはねられ死亡　中央自動車道",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/e/2e7bd440-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067229.html",
+          "author": "damono3856",
+          "description": "1 名前：仮面ウニダー ★：2026/09/14(月) 07:19:36.72 ID:wjfiJplt.net\n\n\n\n\n\n\n\n石破茂氏が日韓中心の「アジア版NATO」構築を提案＝韓国ネットは「日本を信じるな」と警戒日本ネットは「アホなこと言い出した」じゃないのかな？ https://t.co/Gw1JdWHoN0— yochan (@nond...",
+          "link": "https://itainews.com/archives/2067229.html",
+          "publishedOn": "2026-09-14T12:01:43.000Z",
+          "wordCount": 4325,
+          "title": "【石破茂氏】 日韓中心の「アジア版NATO」構築を提案＝韓国ネットは「日本を信じるな」と警戒",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/b/dbee1975-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067246.html",
+          "author": "damono3856",
+          "description": "1 名前：nita ★：2026/09/14(月) 16:05:04.13 ID:ViUd9TAc9.net\n\n\n\n\n\n\n\n【閉山中の富士山 ヘリ救助有料化へ】https://t.co/wypQns1slf— Yahoo!ニュース (@YahooNewsTopics) September 14, 2026  \n\n\n\n\n\n\n（2026年09月14日）\nFNNプライムオンライン\n\n閉山期間中に富士山...",
+          "link": "https://itainews.com/archives/2067246.html",
+          "publishedOn": "2026-09-14T11:31:00.000Z",
+          "wordCount": 3947,
+          "title": "【山梨】閉山中の富士山遭難でヘリ救助が有料に　5分で8000円徴収する案も検討　登山届提出も義務化",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/4/d48d46b4-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067237.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/14(月) 12:43:16.88 ● 2BP(2000).net\n\n\n\n\n\n\n\n堀大輔さん今日以降の仮眠を宣言もともと仮眠は推奨していたとも主張堀さんが推奨していたのは「1日30分睡眠」ではなく「1日30分睡眠+無制限の仮眠」というコンテンツだったらしいなお睡眠と仮眠の違いは...",
+          "link": "https://itainews.com/archives/2067237.html",
+          "publishedOn": "2026-09-14T11:02:18.000Z",
+          "wordCount": 4255,
+          "title": "ショートスリーパー堀大輔「ルール変更。仮眠はOKとする」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/0/101bab83-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067239.html",
           "author": "damono3856",
@@ -18929,86 +18999,6 @@
           "wordCount": 3342,
           "title": "「高市首相の実行力」に国民は期待、文句言っているのは70歳以上と新聞だけ　平井文夫",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c0b2dc3a-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066114.html",
-          "author": "dqnplus",
-          "description": "1 ：Anonymous ★：2026/08/15(土) 15:52:22.14 ID:xI7hBiIa9.net\n\n\n\n\n\n\n\n\n\n稼いでもモテない男ほど、キモい存在はないな。金でも埋められない致命的な穴に気づかないというのは。— メンタリストDaiGo (@Mentalist_DaiGo) August 14, 2026",
-          "link": "https://itainews.com/archives/2066114.html",
-          "publishedOn": "2026-08-16T04:01:02.000Z",
-          "wordCount": 3442,
-          "title": "DaiGo「稼いでもモテない男ほど、キモい存在はないな。金でも埋められない致命的な穴に気づかないというのは」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/b/2b55e5ca-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066113.html",
-          "author": "dqnplus",
-          "description": "1 ：それでも動く名無し：2026/08/14(金) 23:01:45.08 ID:nX2CuRvi0.net\n\n\n\n\n\n\n\n\n\n片山さつき財務相「スポーツ界はあちこち根回しした方がいい」「高市総理も言おうかな」(日刊スポーツ)#Yahooニュースhttps://t.co/qXzhMgtmL8— SJN_official (@SJN_official) August 14...",
-          "link": "https://itainews.com/archives/2066113.html",
-          "publishedOn": "2026-08-16T03:31:23.000Z",
-          "wordCount": 4016,
-          "title": "片山さつき財務相「サッカーは男女で収入格差がある。政府や経済界が投資すれば目指す女子が増える」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/2/220bfa49-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066112.html",
-          "author": "nobi0929",
-          "description": "1 名前：Anonymous ★：2026/08/15(土) 15:13:04.59 ID:xI7hBiIa9.net\n\n\n\n\n\n\n\nこれを見て絶句した。大雨で蘇我駅周辺が冠水、車が沈み、被害が出てる最中に「海出来てます！車沈んでます！」と笑って踊ってる女性2人。被害に遭い苦しむ人々が多数いる中で不謹慎極まりな...",
-          "link": "https://itainews.com/archives/2066112.html",
-          "publishedOn": "2026-08-16T03:00:59.000Z",
-          "wordCount": 3302,
-          "title": "【千葉豪雨】蘇我駅冠水で女性2人が路上でダンス「海できてます！車沈んでます！」「みんなたのしもーーう！！」動画に批判…",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/a/4ab37463.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066111.html",
-          "author": "nobi0929",
-          "description": "1 名前：首都圏の虎 ★：Ie/vKHqL0.net ID:Ie/vKHqL0.net\n\n\n\n\n\n\n\n【詳細解説】ニコニコ動画、有料会員数が90万人割れる　1年で10万人減少⋯直近に790→990円へ値上げ、収益性改善目指すhttps://t.co/Slzf5LifLHピーク時の250万人から下落が続き、クレジットカード決済の...",
-          "link": "https://itainews.com/archives/2066111.html",
-          "publishedOn": "2026-08-16T02:30:52.000Z",
-          "wordCount": 3555,
-          "title": "ニコニコ動画オワコン　会員数が90万人割る　この1年で10万人減",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/c/5ce78002-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066109.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：2026/08/15(土) 11:39:30.88 ID:Oj9MUQzk0.net PLT(12346)\n\n\n\n\n\n\n\n／ 「殺すぞ、あほんだら！」娘の交際相手にフォーク振り上げ脅迫か...話し合い中に立腹した68歳父親を逮捕【高知】＼https://t.co/QVpRlprV2d#高知 #ニュース #テレビ高知 #KUTVニュース #KUT...",
-          "link": "https://itainews.com/archives/2066109.html",
-          "publishedOn": "2026-08-16T02:01:47.000Z",
-          "wordCount": 3364,
-          "title": "「殺すぞあほんだら！」娘の交際相手をフォークで脅す",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/0/f023475e-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066103.html",
-          "author": "takakichi5346",
-          "description": "1 名前：♪♪♪ ★：2026/08/15(土) 07:09:36.29 ID:rhRQ/IPp9.net\n\n\n\n\n\n\n\nトランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告 https://t.co/r9yJ46Xt4b— 〽️HIZEROR🔜skyrocket🇺🇸株 (@HizeroSkyrocket) August 14, 2026 \n\n\n\n\n\n\nロイター\nhttps://...",
-          "link": "https://itainews.com/archives/2066103.html",
-          "publishedOn": "2026-08-16T01:02:55.000Z",
-          "wordCount": 3677,
-          "title": "トランプ氏「ホルムズ海峡を近く米領と宣言」、イランに経済打撃も警告",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/4/847b18a1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066099.html",
-          "author": "nobi0929",
-          "description": "1 名前：♪♪♪ ★：2026/08/15(土) 07:30:16.25 ID:ApnZYouq9.net\n\n\n\n\n\n\n\n「放出した備蓄米を早期に買い戻せ」宮城のJA関係者が政府に拳　宮城中央会などが仙台で緊急決起集会https://t.co/tzYvYSR78X— キワメタイ (@burogunes) August 15, 2026 \n\n\n\n\n\n\n\n\n\n\n\n河北新報 ...",
-          "link": "https://itainews.com/archives/2066099.html",
-          "publishedOn": "2026-08-16T00:00:18.000Z",
-          "wordCount": 3028,
-          "title": "「放出した備蓄米を早期に買い戻せ」宮城のJA関係者が政府に拳　宮城中央会などが仙台で緊急決起集会",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/f/6f1c721e-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066101.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：2026/08/15(土) 09:45:05.26 ID:● 2BP(3000).net\n\n\n\n\n\n\n\n【速報】車で引き殺そうとした殺人未遂などの疑いで男を逮捕　撮り鉄とのトラブル原因か【徳島】｜JRT NEWS NNN #四国放送　#徳島https://t.co/sDxz46TBGp— 四国放送ニュース (@news_jrt) August 14, ...",
-          "link": "https://itainews.com/archives/2066101.html",
-          "publishedOn": "2026-08-15T23:03:06.000Z",
-          "wordCount": 3246,
-          "title": "撮り鉄を轢き殺そうとした軽自動車乗りの建設作業員（55）を殺人未遂で逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/a/6aba3daf-s.png"
         }
       ]
     },
@@ -20088,6 +20078,66 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127438/",
+          "author": null,
+          "description": "テレビアニメ「ザ・ファブル」の第2期が2027年1月から放送されることが決まり、ティザーPV（https://youtu.be/VoZ43A3XE-Q）が公開された。 南勝久氏による原作漫画「ザ...",
+          "link": "https://anime.eiga.com/news/127438/",
+          "publishedOn": "2026-09-14T15:00:00.000Z",
+          "wordCount": 614,
+          "title": "「ザ・ファブル」第2期は27年1月から放送開始　策略と陰謀うごめくティザーPV公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127435/",
+          "author": null,
+          "description": "テレビアニメ「恋せよまやかし天使ども」のメインキャストが発表され、主人公・桂おとぎを小鹿なお、同じクラスの美男子・一刻（にのまえ・とき）を坂泰斗が演じることがわかった。キャスト解禁PV（http...",
+          "link": "https://anime.eiga.com/news/127435/",
+          "publishedOn": "2026-09-14T13:00:00.000Z",
+          "wordCount": 673,
+          "title": "「恋せよまやかし天使ども」桂おとぎ役に小鹿なお、一刻役に坂泰斗　おとぎと刻のギャップを描いたPVも公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127444/",
+          "author": null,
+          "description": "イラストレーターのナガノが手がける人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」の入場者特典第5弾が、ナガノ氏描き下ろしのイラストやまんがなど“秘密”コンテンツが...",
+          "link": "https://anime.eiga.com/news/127444/",
+          "publishedOn": "2026-09-14T12:00:00.000Z",
+          "wordCount": 644,
+          "title": "「映画ちいかわ　人魚の島のひみつ」入場特典第5弾は「ひみつ本」　描き下ろし漫画やエッセイ、「セイレーン編」構想時のストーリーイラスト等を収録",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127436/",
+          "author": null,
+          "description": "テレビアニメ「ブレス」が、2027年1月から全国フジテレビ系のアニメ枠「ノイタミナ」で放送を開始することがわかった。メインキャラクターの宇田川アイアを大野智敬、炭崎純を三浦千幸が演じる。さらに、...",
+          "link": "https://anime.eiga.com/news/127436/",
+          "publishedOn": "2026-09-14T11:00:00.000Z",
+          "wordCount": 647,
+          "title": "「ブレス」27年1月に「ノイタミナ」枠で放送開始　宇田川アイア役に大野智敬、炭崎純役に三浦千幸",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127442/",
           "author": null,
@@ -23052,36 +23102,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127238/",
-          "author": null,
-          "description": "人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」のノンクレジットver.オープニング映像が、このほど公開された。 7月24日に公開された本作は、封切りから20日（8...",
-          "link": "https://anime.eiga.com/news/127238/",
-          "publishedOn": "2026-08-16T04:00:00.000Z",
-          "wordCount": 862,
-          "title": "「映画ちいかわ」ノンクレジットOP映像公開　レギュラー声優陣の井口裕香、淺井孝行、内田雄馬、島袋美由利、春海百乃からコメント",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127231/",
-          "author": null,
-          "description": "TBSの新たなアニメ特番「アニメの番組はじめました（仮）」が、8月18、25日に放送される。※関東ローカル放送 同番組は、日本中のアニメファンの「今、観たい！ 聞きたい！ 知りたい」にとことん応...",
-          "link": "https://anime.eiga.com/news/127231/",
-          "publishedOn": "2026-08-16T03:00:00.000Z",
-          "wordCount": 810,
-          "title": "TBSの新たなアニメ特番が8月18、25日に放送　宮田俊哉＆山里亮太が出演、ゲストに「タコピーの原罪」永瀬アンナ",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23090,6 +23110,16 @@
       "feedUrl": "https://comic.sumikko.info/rss.xml",
       "siteUrl": "https://comic.sumikko.info/",
       "articles": [
+        {
+          "id": "https://comic.sumikko.info/date-item/2026-09-18/",
+          "author": "KuroTomo",
+          "description": "26年09月18日(金)発売コミック新刊対象:91件\n\n戦国涅槃・異聞 1\n吉野彫/十文字青/ニジハヤシ/増田幹生/BookBase/9月18日(金)\n\nFX戦士くるみちゃん 10\nでむにゃん/炭酸だいすき/KADOKAWA/9月18日(金)\n\nKATANA 23 百鬼夜行\nかまたきみこ/KADOKAWA/9月18日(金)\n\nRTA走者はゲーム世界から帰れない 7\n小出よしと/KADOKAWA/9月18日(金)\n\nおっさん異世界で最強になる 3 〜物理特化の覚醒者〜\n来須眠/次佐駆人/peroshi/KADOKAWA/9月18日(金)\n\nはいふり 14\n阿部かなり/AAS/KADOKAWA/9月18日(金)\n\nアラフォー賢者の異世界生活日記 9\n888/寿安清/ジョンディー/KADOKAWA/9月18日(金)\n\nダメ人間の愛しかた5\n岩葉/KADOKAWA/9月18日(金)\n\n住所不定キャンパーはダンジョンでのんびりと暮らしたい 3 〜危険な深層モンスターも俺にとっては食材です〜\nやまだごまち/タジリユウ/市丸きすけ/KADOKAWA/9月18日(金)\n\n便利屋斎藤さん、異世界に来たばかり 〜便利屋斎藤さん、異世界に行く 外伝〜\n一智和智/桝田省治/KADOKAWA/9月18日(金)\n\n便利屋斎藤さん、異世界に行く 15\n一智和智/桝田省治/KADOKAWA/9月18日(金)\n\n俺だけレベルアップな件外伝 01\nDISCIPLES/Chugong/h-goon/KADOKAWA/9月18日(金)\n\n僕らの恋は夢うつつ2\n白崎ナベ/KADOKAWA/9月18日(金)\n\n千年狐 十四 〜干宝「捜神記」より〜\n張六郎/KADOKAWA/9月18日(金)\n\n史上最高の領地設計士 01\nKimHyunsoo/Leehyunmin/BKMOON/KADOKAWA/9月18日(金)\n\n史上最高の領地設計士 02\nKimHyunsoo/Leehyunmin/BKMOON/KADOKAWA/9月18日(金)\n\n宝くじで40億当たったんだけど異世界に移住する 20\n今井ムジイ/すずの木くろ/黒獅子/KADOKAWA/9月18日(金)\n\n怪島奇譚 〜不死の少年と妖猫の旅〜 2\n張季雅/KADOKAWA/9月18日(金)\n\n成長チートでなんでもできるようになったが、無職だけは辞められないようです 32\n橋本良太/時野洋輔/ちり/KADOKAWA/9月18日(金)\n\n本聴きのスピカ 1\n上野キミコ/KADOKAWA/9月18日(金)\n\n\n続きを見る",
+          "link": "https://comic.sumikko.info/date-item/2026-09-18/",
+          "publishedOn": "2026-09-14T16:10:39.000Z",
+          "wordCount": 1,
+          "title": "2026年9月18日(金)コミック新刊 - コミック新刊チェック",
+          "imageUrl": null
+        },
         {
           "id": "https://comic.sumikko.info/date-item/2026-09-17/",
           "author": "KuroTomo",
@@ -23308,6 +23338,16 @@
       "siteUrl": "https://novel.sumikko.info/",
       "articles": [
         {
+          "id": "https://novel.sumikko.info/date-item/2026-09-18/",
+          "author": "KuroTomo",
+          "description": "26年09月18日(金)発売ライトノベル新刊対象:27件\n\nヤンデレ飼い猫ちゃんたちが離してくれない\n葉月文/KOTATSUROOM/八木戸マト/KADOKAWA/9月18日(金)\n\n今日、生徒会長に告白されて幼馴染と再会して北欧令嬢とお見合いしました\n八奈川景晶/にわ田/KADOKAWA/9月18日(金)\n\n俺の追放されたい願望、全員に好かれて叶わない\n陽波ゆうい/kakao/KADOKAWA/9月18日(金)\n\n公女殿下の家庭教師0 II 黒竜襲来編\n七野りく/cura/福きつね/KADOKAWA/9月18日(金)\n\n公女殿下の家庭教師23 静淵の贖罪\n七野りく/cura/KADOKAWA/9月18日(金)\n\n異世界でチート能力を手にした俺は、現実世界をも無双する21 〜レベルアップは人生を変えた〜\n美紅/桑島黎音/KADOKAWA/9月18日(金)\n\nあつまれ!元素くん3 水素ちゃん+フッ素くん=やきもちパニックな交流合宿!?\n青井モネ/スターツ出版/9月18日(金)\n\nそのナゾ解いてみせましょう! 後宮のガリレオ・リーリーの事件簿\n野月よひら/スターツ出版/9月18日(金)\n\nはぴちぇん! うちらの愛が世界を救う\n青山そらら/スターツ出版/9月18日(金)\n\n強引殿下の甘すぎる囲い込み〜王太子妃になるなんて聞いてません!〜\n舞姫美/藤浪まり/ハーパーコリンズ・ジャパン/9月18日(金)\n\nウォルテニア戦記 XXX3\n保利亮太/bob/ホビージャパン/9月18日(金)\n\nクラスメイトの美少女四人に頼まれたので、VRMMO内で専属料理人をはじめました 5\n斗樹稼多利/中林ずん/ホビージャパン/9月18日(金)\n\nジゼルの錬金飴 4\n斯波/LINO/ホビージャパン/9月18日(金)\n\nソロアサシンやってたらトップランカーに誘われました 1最新ボス!? そんなの、ムリです!\n高鳥瑞穂/もりのみのり/ホビージャパン/9月18日(金)\n\n桜色ストレンジガール 3 〜転生してスラム街の孤児かと思ったら、公爵令嬢で悪役令嬢でした。店舗召喚で生き延びます〜\n冬原パトラ/兎塚エイジ/ホビージャパン/9月18日(金)\n\n異世界ハーブ店、始めました。 1 〜ハーブの効き目が規格外なのは、気のせいでしょうか〜\n琴乃葉/まろ/ホビージャパン/9月18日(金)\n\n神達に拾われた男 19\nRoy/りりんら/ホビージャパン/9月18日(金)\n\nちびヨメは氷血の辺境伯に溺愛される 寵愛\n月齢/リブレ出版/9月18日(金)\n\n出稼ぎ令嬢の婚約騒動8 次期公爵様は愛妻に頼られたくて必死です。\n黒湖クロコ/安野メイジ/一迅社/9月18日(金)\n\n雇われ聖女の魔王様救済事情 落ちこぼれ聖女ですが、魔王様の破滅を阻止します!\nまなほし央/鳥飼やすゆき/一迅社/9月18日(金)\n\n\n続きを見る",
+          "link": "https://novel.sumikko.info/date-item/2026-09-18/",
+          "publishedOn": "2026-09-14T16:10:39.000Z",
+          "wordCount": 182,
+          "title": "2026年9月18日(金)ライトノベル新刊 - ライトノベル新刊チェック",
+          "imageUrl": "https://novel.sumikko.info/web/img/eye-catch/novel/date/date-18.png"
+        },
+        {
           "id": "https://novel.sumikko.info/date-item/2026-09-17/",
           "author": "KuroTomo",
           "description": "26年09月17日(木)発売ライトノベル新刊対象:25件\n\nリビルドワールドIX〈中〉 認識と信用\nナフセ/吟/わいっしゅ/cell/KADOKAWA/9月17日(木)\n\n刺繍の魔法は奪えない\n片山絢森/藤実なんな/KADOKAWA/9月17日(木)\n\n大迷宮のあとしまつ2 〜ダンジョン清掃員のおじさん、強すぎて知らないうちにバズってしまう〜\n仁香荷カニ/hanusu/KADOKAWA/9月17日(木)\n\n無能貴族の絶対に妥協しない異世界攻略 〜効率厨が原作知識を駆使して世界最速でレベリングをしていたら強くなりすぎてしまった〜\nAteRa/桧野ひなこ/KADOKAWA/9月17日(木)\n\n10年ぶりに再会したクソガキは清純美少女JKに成長していた 7\n館西夕木/ふじ子/オーバーラップ/9月17日(木)\n\n信者ゼロの女神サマと始める異世界攻略 14.世界最強の精霊使いと女神の願い〈下〉\n大崎アイル/Tam-U/オーバーラップ/9月17日(木)\n\n俺はSSSレア転生特典をひた隠す 3 〜平穏に生きたい伯爵家嫡男、裏では世界最強の冒険者〜\n戸津秋太/中西達哉/オーバーラップ/9月17日(木)\n\n姫騎士学園の下剋上性活 1 〜最弱スキルで異世界のプライド高め美少女たちを堕としたら、毎晩ご奉仕に来る日々が始まった〜\n東雲立風/ぎうにう/オーバーラップ/9月17日(木)\n\n推しヒロインたちがシナリオ通りに動いてくれない!1 〜ギャルゲーの親友ポジに転生した俺にヒロインたちがなんかやたらとグイグイくる〜(1)\nアスパラキング/みんとあいす/オーバーラップ/9月17日(木)\n\n暗殺者である俺のステータスが勇者よりも明らかに強いのだが 6\n赤井まつり/東西/オーバーラップ/9月17日(木)\n\n概ね善良でそれなりに有能な反逆貴族の日記より 1 奪われ続けた転生伯爵令息が悪虐王族を断罪するまで\n風楼/Garuku/オーバーラップ/9月17日(木)\n\n無双ゲーに転生したと思ったら、どうやらここはハードな鬱ゲーだったらしい 4 〜聖剣を抱きし最凶少女の蹂躙無双譚〜\n久路途緑/英エイスト/オーバーラップ/9月17日(木)\n\n男女比1:30の貞操逆転世界で身を挺して女の子たちを守ったら愛が重くなりすぎた 2\n一森一輝/武藤此史/オーバーラップ/9月17日(木)\n\n相続したGランクダンジョンは神様付きの優良物件でした 2 〜探索者志望のおっさん、神のチートスキルで最強スローライフ始めます〜\nなっくる/福きつね/オーバーラップ/9月17日(木)\n\n真の実力を隠していると思われてる精霊師、実はいつもめっちゃ本気で戦ってます 5\nアラサム/刀彼方/オーバーラップ/9月17日(木)\n\n貞操逆転世界の悪徳皇子になった俺、ひたすら魔石を食べて強くなり、破滅フラグを回避します 2\nナロウ・ケイ/さぼてん定食/オーバーラップ/9月17日(木)\n\nまんが家マリナ タイム・スリップ事件 愛と剣のキャメロット\n藤本ひとみ/谷口亜夢/集英社/9月17日(木)\n\nまんが家マリナ七星剣事件 愛をかたるエリニュス\n藤本ひとみ/谷口亜夢/集英社/9月17日(木)\n\nまんが家マリナ貴族事件 愛する君のために\n藤本ひとみ/谷口亜夢/集英社/9月17日(木)\n\nクローネル王立学院の羊姫\n瑚池ことり/小夜子/集英社/9月17日(木)\n\n\n続きを見る",
@@ -23520,6 +23560,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5jLCyltbnart3k4iLFQvZg",
       "siteUrl": "https://www.youtube.com/channel/UC5jLCyltbnart3k4iLFQvZg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ZsBeMrJzw9E",
+          "author": null,
+          "description": "様々なアーティストなどへ楽曲提供をしてきた曲をGRe4N BOYZ自身が歌唱する9/18（金）配信リリースセルフカバーアルバム『#ウタウタイタイ』🎹収録曲の中からNEWSさんへの楽曲提供曲「U R not alone」を少しだけお届け🌏配信予約はこちら⬇️https://gre4nboyz.lnk.to/UT...",
+          "link": "https://www.youtube.com/shorts/ZsBeMrJzw9E",
+          "publishedOn": "2026-09-14T10:15:11.000Z",
+          "wordCount": 3118,
+          "title": "【U R not alone】9/18（金）配信リリースセルフカバーアルバム『#ウタウタイタイ』🎹　収録曲の中からNEWSさんへの楽曲提供曲「U R not alone」を少しだけお届け🌏",
+          "imageUrl": "https://i.ytimg.com/vi/ZsBeMrJzw9E/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAq_wml1Ud4GDFi_VACXgxk3bt6EA"
+        },
         {
           "id": "https://www.youtube.com/shorts/qFvlFUVgCXY",
           "author": null,
@@ -24345,6 +24395,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8dQYBMH_mW_gXlSIusty7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Rxvt0JEt9q4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Rxvt0JEt9q4",
+          "publishedOn": "2026-09-14T12:01:40.000Z",
+          "wordCount": 3107,
+          "title": "嘘が大嫌いな柴犬の結末 #柴犬 #shorts #おもしろ",
+          "imageUrl": "https://i.ytimg.com/vi/Rxvt0JEt9q4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCgvG5YMsNVXu0AsUbm_cEn-G8hGw&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/shorts/uvNY8d1b-8E",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -24441,6 +24501,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RAf2Yer9Lr4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RAf2Yer9Lr4",
+          "publishedOn": "2026-09-14T11:01:10.000Z",
+          "wordCount": null,
+          "title": "どうしてもはなちゃんと一緒に遊びたいもちが…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XDQyfugrDb0",
           "author": null,
@@ -24738,6 +24808,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13494",
+          "author": "watanabe@logipara.com",
+          "description": "ちょうどいい金利って、何？",
+          "link": "https://logipara.com/diary-text/2026-09-15/",
+          "publishedOn": "2026-09-14T13:50:49.000Z",
+          "wordCount": 2758,
+          "title": "クレジットカードの勧誘ポスティング",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-23.png"
+        },
         {
           "id": "https://logipara.com/?p=13469",
           "author": "watanabe@logipara.com",
@@ -25067,16 +25147,6 @@
           "wordCount": 2744,
           "title": "セミが夏バテする夏",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13381",
-          "author": "watanabe@logipara.com",
-          "description": "ずっと 　 「シャクティマットに寝かされて泣きながら痛みに耐えるちいかわ」 　 の絵が頭にあるんですが、どこかにある絵ですか。それとも私の幻覚ですか。幻覚kならまだしも、痴呆が始まっ",
-          "link": "https://logipara.com/diary-text/2026-08-16/",
-          "publishedOn": "2026-08-16T01:04:51.000Z",
-          "wordCount": 2742,
-          "title": "幻覚",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -25311,26 +25381,6 @@
           "wordCount": 3152,
           "title": "8/24(月)より開幕✨ #狩人たちの夏祭り2026 🏖  #モンハンNow",
           "imageUrl": "https://i.ytimg.com/vi/4n4XabgTn2s/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCAlmy7o-D5__tQVoG8GE7u1QT-UQ"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pTgirrXd2gI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pTgirrXd2gI",
-          "publishedOn": "2026-08-16T01:15:30.000Z",
-          "wordCount": 3334,
-          "title": "#操虫棍 #覚蟲撃 #モンハンNow #スタイル強化",
-          "imageUrl": "https://i.ytimg.com/vi/pTgirrXd2gI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAyydUGVmwMPI9aH_IcPhikuVMf7Q&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/TFJiauGOit4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/TFJiauGOit4",
-          "publishedOn": "2026-08-16T00:15:12.000Z",
-          "wordCount": 3245,
-          "title": "#操虫棍 #操虫斬り #モンハンNow #スタイル強化",
-          "imageUrl": "https://i.ytimg.com/vi/TFJiauGOit4/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAp4nQGYZHcCv32-SYtTQ5NJu9QRQ"
         }
       ]
     }
