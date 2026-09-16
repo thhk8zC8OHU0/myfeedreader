@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/512/G051239/20260907001/",
+          "author": null,
+          "description": "若手スタッフが中心になって制作されたカプコンの完全新作「プラグマタ」は，試作から約6年の開発期間を要した作品だ。その舞台裏をプロジェクトマネージャーが紹介した講演をレポート。",
+          "link": "https://www.4gamer.net/games/512/G051239/20260907001/",
+          "publishedOn": "2026-09-15T23:00:00.000Z",
+          "wordCount": 8480,
+          "title": "「プラグマタ」の開発で起こった4つの課題。これ以上遅れられない状況で，プロジェクトマネージャーはどう向き合ったのか［ゲームメーカーズスクランブル］",
+          "imageUrl": "https://www.4gamer.net/games/512/G051239/20260907001/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/891/G089129/20260915036/",
           "author": null,
           "description": "FuturLabは2026年9月15日，「PowerWashSimulator2」の新たなDLC「BarbiePack」を2026年内にリリースすると発表した。価格は7.99ドル。アメリカの玩具メーカー「マテル」とコラボした本DLCでは，バービーのプレイセットをモチーフにした，5つのカラフルな新ジョブに挑める。",
@@ -3172,6 +3182,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a172b4fa9924e7ae205a075ad6bd6632f93564d6?source=rss",
+          "author": null,
+          "description": "１６日午前、神戸市灘区でトラックが市バスに衝突し、トラックの運転手が病院に搬送されました。意識はあり命に別状はないということです。\n\n　バスの運転手や乗客にけが人はいないということです。\n\n　警察が",
+          "link": "https://news.yahoo.co.jp/articles/a172b4fa9924e7ae205a075ad6bd6632f93564d6?source=rss",
+          "publishedOn": "2026-09-16T00:57:55.000Z",
+          "wordCount": 1632,
+          "title": "神戸・灘区で市バスにトラックが衝突　乗客・運転手にけがなし　トラック運転手は搬送も命に別状なし(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-00082569-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a4dea721daca3df07dd535537e0013fbdf9b9e69?source=rss",
           "author": null,
@@ -7721,16 +7741,6 @@
           "wordCount": 1689,
           "title": "シャインマスカット１００房を盗んだか　農家の男を逮捕　警察は売りさばいたとみて捜査(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260817-00082089-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c734da1680dc706e4491b4dc1478d1c2b7144a69?source=rss",
-          "author": null,
-          "description": "お盆の伝統行事「五山送り火」とともにアートの世界を堪能する催しが、京都市の関西日仏学館（在京都フランス総領事館）で開かれました。\n\n　「京都大文字とアートを愛でる会」は、コロナ禍で活動の機会を失った",
-          "link": "https://news.yahoo.co.jp/articles/c734da1680dc706e4491b4dc1478d1c2b7144a69?source=rss",
-          "publishedOn": "2026-08-17T11:43:34.000Z",
-          "wordCount": 1644,
-          "title": "「五山送り火」とともにアートを堪能　京都市の関西日仏学館で展示会(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260817-00082088-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9836,6 +9846,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/16/news037.html",
+          "author": null,
+          "description": "Vuzixは、AIデータセンターの光インターコネクト向けウェーブガイドブリッジ「Causeway」のサンプル出荷を開始した。また、光インターコネクト評価キットの提供も開始している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/16/news037.html",
+          "publishedOn": "2026-09-16T00:00:00.000Z",
+          "wordCount": 2618,
+          "title": "CPO評価に活用　光接続向けウェーブガイドブリッジ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/16/cover_news037.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/15/news017.html",
           "author": null,
@@ -11960,6 +11980,26 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067278.html",
+          "author": "nobi0929",
+          "description": "1 名前：ぐれ ★：2026/09/15(火) 09:54:36.50 ID:UTjqaD2j9.net\n\n\n\n\n\n\n\nダイエットで糖尿病治療薬「マンジャロ」使った女性、体重激減に怖くなり…「今後使おうと思わない」(読売新聞オンライン) https://t.co/AlFUkgU1A7— 高垣楓（25） (@kotatuneko48) September 15,...",
+          "link": "https://itainews.com/archives/2067278.html",
+          "publishedOn": "2026-09-16T00:00:36.000Z",
+          "wordCount": 3243,
+          "title": "ダイエットで糖尿病治療薬「マンジャロ」使った女性、体重激減に怖くなり…「今後使おうと思わない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/747df519-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067276.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/15(火) 09:11:39.98 ID:KBR5+Cgr0●.net PLT(16000)\n\n\n\n\n\n\n\n《獄中日記を独占入手》「男を落とすプロの私が、彼の言葉に堕ちた」“頂き女子りりちゃん”（28）が拘置所で“新たな恋”に堕ちていた…その顛末を綴った文章とは（NEWSポストセブン） http...",
+          "link": "https://itainews.com/archives/2067276.html",
+          "publishedOn": "2026-09-15T23:03:12.000Z",
+          "wordCount": 3395,
+          "title": "頂き女子りりちゃん（28）拘置所で恋に堕ちていた《獄中日記》",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab953b88-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067267.html",
           "author": "nobi0929",
@@ -18949,36 +18989,6 @@
           "wordCount": 3311,
           "title": "フィフィ氏と仕事をしたYouTube元制作者が実名証言「5年以上ストーカー被害」「仕事とは関係のない性的な接触を受けました」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/a/6ad0e0fa-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066173.html",
-          "author": "damono3856",
-          "description": "1 名前：：2026/08/17(月) 10:16:51.12 ID:ODZxy79E0.net\n\n\n\n\n\n\n\n外国人比率10％超は34市区町村　湯沢町など1年で7つ増える「リゾート型」「工場型」https://t.co/hevnq5Pql7新たに10％を超えたのは新潟県湯沢町、群馬県昭和村、茨城県八千代町、同県利根町、愛知県高浜...",
-          "link": "https://itainews.com/archives/2066173.html",
-          "publishedOn": "2026-08-17T12:03:14.000Z",
-          "wordCount": 3668,
-          "title": "外国人比率10%超は34市区町村　全国平均3.2%（403万人）　着々と侵略されてて笑えない",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/8/783bc363-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066184.html",
-          "author": "damono3856",
-          "description": "1 名前：♪♪♪ ★：2026/08/17(月) 12:49:44.20 ID:OEOIDXZD9.net\n\n\n\n\n\n\n\n富山市で外国人とみられる男３人、歩行中の男性を羽交い締めにして現金奪う…目撃者の「何しとるんじゃ」で逃走 : 読売新聞 https://t.co/2Ez4i3LLdZ— 読売新聞オンライン (@Yomiuri_Online) Au...",
-          "link": "https://itainews.com/archives/2066184.html",
-          "publishedOn": "2026-08-17T11:31:02.000Z",
-          "wordCount": 3226,
-          "title": "富山市で外国人とみられる男３人、歩行中の男性を羽交い締めにして現金奪う…目撃者の「何しとるんじゃ」で逃走",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/3/63be38b8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066172.html",
-          "author": "damono3856",
-          "description": "1 名前：：2026/08/17(月) 11:53:23.86 ID:NmAKjN3Y0●.net\n\n\n\n\n\n\n\nショートドラマのスポンサーになった富豪女性、自分が主役になり、若手男優と60回以上のキスシーンhttps://t.co/ySGS8Y4Ezr pic.twitter.com/JVotdVxCoD— switch news/スイッチ・ニュース (@switch_new...",
-          "link": "https://itainews.com/archives/2066172.html",
-          "publishedOn": "2026-08-17T11:03:25.000Z",
-          "wordCount": 3269,
-          "title": "ショートドラマのスポンサーになった富豪女性、自分が主役になり、若手男優と60回以上のキスシーン",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/a/fa5ca0eb-s.png"
         }
       ]
     },
@@ -19381,6 +19391,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=318432",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]",
+          "link": "https://foodfighter.jp/matsuya-chicken-marengo",
+          "publishedOn": "2026-09-15T23:13:11.000Z",
+          "wordCount": 1917,
+          "title": "【松屋】ごろごろチキンのマレンゴ風・フォンドボー・ライスセット【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/6e81385a401724053aca3dccb803abb8.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=318406",
           "author": "foodfighter",
@@ -20030,16 +20050,6 @@
           "wordCount": 2039,
           "title": "【セブンイレブン】森永製菓 板チョコアイス カラメルプリン味【アイス新商品】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/5066621f1384256c81ff980325e20be2.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=316747",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「芳醇巨峰フローズンティー」を世界一詳しく調査しました。   【スターバ […]",
-          "link": "https://foodfighter.jp/starbucks-chill-relax-kyoho",
-          "publishedOn": "2026-08-17T11:25:01.000Z",
-          "wordCount": 2051,
-          "title": "【スターバックス】チラックスソーダ 巨峰・Venti（ベンティ）【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/0978756d9dd337c4d68524a18d1169cf.jpg"
         }
       ]
     },
@@ -22952,51 +22962,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127251/",
-          "author": null,
-          "description": "テレビアニメ「転生したら剣でしたII」の放送が10月7日からスタートすることが決定し、PV第2弾、キービジュアル第1弾などが発表された。さらに、覆面アバターバンド「FZMZ」がオープニング主題歌...",
-          "link": "https://anime.eiga.com/news/127251/",
-          "publishedOn": "2026-08-17T12:00:00.000Z",
-          "wordCount": 803,
-          "title": "「転生したら剣でしたII」10月7日放送開始　ABEMAでは先行配信も　主題歌は「FZMZ」と「花冷え。」が担当　PV第2弾など公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127254/",
-          "author": null,
-          "description": "ウォルト・ディズニー・アニメーション・スタジオとピクサー・アニメーション・スタジオは8月14日（現地）、米アナハイム・ホンダ・センターで行われた「D23: アルティメット・ディズニーファン・イベ...",
-          "link": "https://anime.eiga.com/news/127254/",
-          "publishedOn": "2026-08-17T11:30:00.000Z",
-          "wordCount": 765,
-          "title": "ジョディ・フォスターがディズニー声優に　「Mr.インクレディブル」は第3弾で完結【ディズニー＆ピクサーD23解禁情報まとめ】",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127253/",
-          "author": null,
-          "description": "米アナハイム・ホンダ・センターで8月14日（現地）に行われた「D23: アルティメット・ディズニーファン・イベント2026」のショーケースでは、「スター・ウォーズ」シリーズやマーベル・スタジオの...",
-          "link": "https://anime.eiga.com/news/127253/",
-          "publishedOn": "2026-08-17T11:00:00.000Z",
-          "wordCount": 737,
-          "title": "「キングダム ハーツ」アニメ化、実写版「リロ＆スティッチ2」にはエンジェル登場か？【D23話題の情報解禁10選】",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23734,16 +23699,6 @@
           "wordCount": null,
           "title": "【24時間テレビ】29日土曜深夜は内村＆有吉の日テレファミリー歌合戦【予告】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/CzcoPDpUwvE",
-          "author": null,
-          "description": "----------------------------------------------------------------------------------------------------------------------------------------------------有吉の壁は毎週水曜...",
-          "link": "https://www.youtube.com/shorts/CzcoPDpUwvE",
-          "publishedOn": "2026-08-17T11:30:38.000Z",
-          "wordCount": 3080,
-          "title": "【あいなぷぅ占い】浮気NO.1の星座は〇〇座【有吉の壁】#shots",
-          "imageUrl": "https://i.ytimg.com/vi/CzcoPDpUwvE/hqdefault.jpg?sqp=-oaymwEkCMoBEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDeMju4tP5PAoMu_DCCLb7of7-aRw"
         }
       ]
     },
@@ -24271,36 +24226,6 @@
           "wordCount": null,
           "title": "【Sa•Ga2秘宝伝説】必殺の一撃〜死闘の果てに キッチンでクラリネット吹く人/ Final Fantasy Legend II-Lethal Strike~Struggle to the Death",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/n99AaGBORW8",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer：伊藤賢治 Kenji Ito@squareenix @squareenixmusicchannel9893 #ロマンシングサガ #ロマサガ #romancingsaga #gamemusic #retrogaming #...",
-          "link": "https://www.youtube.com/shorts/n99AaGBORW8",
-          "publishedOn": "2026-08-17T11:40:08.000Z",
-          "wordCount": 3095,
-          "title": "【ロマサガシリーズ】戦闘曲メドレー！熱演！③#ロマサガ #ロマサガ2 #romancingsaga #ロマンシングサガ #クラリネット #clarinet #gamemusic #ゲーム音楽",
-          "imageUrl": "https://i.ytimg.com/vi/n99AaGBORW8/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBV4S09WdUcyZWA3rbIm8QFTmH09g&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/BTBugcjjyMg",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer：伊藤賢治 Kenji Ito​⁠​⁠@squareenix @squareenixmusicchannel9893 #ロマンシングサガ #ロマサガ #romancingsaga #gamemusic #retrogami...",
-          "link": "https://www.youtube.com/shorts/BTBugcjjyMg",
-          "publishedOn": "2026-08-17T11:20:12.000Z",
-          "wordCount": 3461,
-          "title": "【ロマサガシリーズ】戦闘曲メドレー！熱演！②#ロマサガ #ロマサガ2 #romancingsaga #ロマンシングサガ #クラリネット #clarinet #gamemusic #ゲーム音楽",
-          "imageUrl": "https://i.ytimg.com/vi/BTBugcjjyMg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD58u2l76KmzdQQldQwTt3Q7b5B-A&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/JhET7KgjyCI",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer：伊藤賢治 Kenji Ito​@squareenix @squareenixmusicchannel9893 #ロマンシングサガ #ロマサガ #romancingsaga #gamemusic #retrogaming ...",
-          "link": "https://www.youtube.com/shorts/JhET7KgjyCI",
-          "publishedOn": "2026-08-17T11:00:15.000Z",
-          "wordCount": 3620,
-          "title": "【ロマサガシリーズ】戦闘曲メドレー！熱演！①#ロマサガ #ロマサガ2 #romancingsaga #ロマンシングサガ #クラリネット #clarinet #gamemusic #ゲーム音楽",
-          "imageUrl": "https://i.ytimg.com/vi/JhET7KgjyCI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB34CzU87mS-2UUT1t9_NCwNXmC5A&usqp=CCk"
         }
       ]
     },
@@ -24704,16 +24629,6 @@
           "publishedOn": "2026-08-18T11:01:19.000Z",
           "wordCount": null,
           "title": "下僕のくしゃみがうるさくて文句が止まらない猫が可愛すぎますwww",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uX3TwRVax2Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uX3TwRVax2Y",
-          "publishedOn": "2026-08-17T11:01:18.000Z",
-          "wordCount": null,
-          "title": "毎朝運動をジャマしにくる甘えんぼに困ってます、、、",
           "imageUrl": null
         }
       ]
