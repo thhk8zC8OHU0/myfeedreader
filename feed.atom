@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T18:54:05.164Z</updated>
+    <updated>2026-09-16T21:51:08.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI buys Glass Imaging]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/09/openai-buys-glass-imaging.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/09/openai-buys-glass-imaging.html"/>
+        <updated>2026-09-16T20:43:19.880Z</updated>
+        <summary type="html"><![CDATA[Several news outlets are reporting that OpenAI has bought computational photography startup Glass Imaging for ~USD 300 million. Glass Imaging develops AI algorithms that improve image quality from small image sensors such as those found on smartphones and mobile devices.
+WSJ: https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370 
+TechCrunch: https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/
+Yahoo Finance: https://finance.yahoo.com/technology/ai/articles/openai-acquires-glass-imaging-camera-134907735.html]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虚偽の請求書を作成し食品製造会社に約64万円を振り込ませたか　取り引き先の男と元従業員の男を逮捕　請求書偽造は認めた一方「別作業のもの」などと一部の容疑を否認(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/a04c85496c6ab16169e2c177e758eafb806a6f13?source=rss</id>
@@ -33955,6 +33968,15 @@ https://news.yah...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[札幌ドームで300人からリクエストを募集したら、子供たちの選曲が予想外すぎた]]></title>
+        <id>https://www.youtube.com/watch?v=b-UkETwYVBo</id>
+        <link href="https://www.youtube.com/watch?v=b-UkETwYVBo"/>
+        <updated>2026-08-19T12:00:06.000Z</updated>
+        <author>
+            <name>永田　ハードオフ久留米国分店</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「DARK MACHINE THE ANIMATION」10月放送開始　OPテーマは「BUCK∞TICK」　ライバルチーム役に綿貫竜之介、向坂淳、鈴木みのり、安田陸矢]]></title>
         <id>https://anime.eiga.com/news/127272/</id>
         <link href="https://anime.eiga.com/news/127272/"/>
@@ -35349,217 +35371,6 @@ Ankerのスピーカーでまた発火事故　過去にも5回の火災で回�
         <summary type="html"><![CDATA[8月14～16日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「映画ちいかわ 人魚の島のひみつ」が、週末3日間で観客動員60万2000人、興行収入8億9500万円をあげて2...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アパートに侵入し帰宅した女性を殴って金品奪おうとしたか　住居不定・無職の50歳男を逮捕　滋賀・甲賀市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/818da20fc0b52585e184b474f7810d416edfb8de?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/818da20fc0b52585e184b474f7810d416edfb8de?source=rss"/>
-        <updated>2026-08-18T09:39:54.000Z</updated>
-        <summary type="html"><![CDATA[７月、滋賀県甲賀市のアパートに侵入した上、金品を奪おうとして、帰宅した女性を殴るなどし、重傷を負わせたとして、警察は１８日、５０歳の男を逮捕しました。
-
-　強盗致傷と住居侵入の疑いで逮捕されたのは、]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なにわ筋線の総事業費６４２５億円と試算　当初計画から倍増も費用便益比は１超え「事業継続は妥当」　横山市長は２０３１年の開業目標変えず(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/26d7175b6889b5411d6d3ffbc1e9751cc5f806f5?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/26d7175b6889b5411d6d3ffbc1e9751cc5f806f5?source=rss"/>
-        <updated>2026-08-18T09:07:18.000Z</updated>
-        <summary type="html"><![CDATA[事業費の高騰が明らかになった鉄道新線「なにわ筋線」について、建設を担う第３セクターが、総事業費は６４２５億円になるとする新たな試算を出しました。一方で、投資に対する効果を表す「費用便益比」は「１」を]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「オービス」盗んだ疑いで逮捕の男性　不起訴／埼玉]]></title>
-        <id>https://itainews.com/archives/2066202.html</id>
-        <link href="https://itainews.com/archives/2066202.html"/>
-        <updated>2026-08-18T09:03:39.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：：2026/08/17(月) 22:49:51.51 ID:FdhoVHIi0●.net 
-
-
-
-
-
-
-
-「オービス」盗んだ疑いで逮捕の男性　不起訴／埼玉県(テレ玉)https://t.co/gP0pX3ZZi0— don_hasegawa (@don_hasegawa) August 17, 2026  
-
-
-
-
-
-
-　ことし6月、加須市で、県警の速度違反取り締まり装...]]></summary>
-        <author>
-            <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】万博・チェコパビリオンの解体始まる　これまで工事に着手できず　海外パビリオンの中で最後まで残る(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/0aab5c7b388afc882bd5751100bfce9f54ed5f42?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/0aab5c7b388afc882bd5751100bfce9f54ed5f42?source=rss"/>
-        <updated>2026-08-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[去年１０月に閉幕した大阪・関西万博の会場で、海外パビリオンの中で唯一、解体に着手できていなかったチェコパビリオンの工事が、始まったことがわかりました。
-
-　関係者によりますと、チェコパビリオンの本格]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東映アニメーション作品をみよう！（2）　大川博　その先見性と苦悩（津堅信之）]]></title>
-        <id>https://anime.eiga.com/news/127244/</id>
-        <link href="https://anime.eiga.com/news/127244/"/>
-        <updated>2026-08-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本の主要なアニメーションスタジオ、東映アニメーションが誕生して今年で70年となる。この夏、国立映画アーカイブで開催中の上映「フィルムでみよう！東映アニメーション」に合わせ、3人による特別寄稿で...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロ野球引退選手のセレモニー兼ねた特別試合　「THE LAST GAME 2026」12月に尼崎市で開催　キャッチボールの正確さとスピードを競う大会も(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/298a897f0a2912ff3c0d8646169cde39a8e1b300?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/298a897f0a2912ff3c0d8646169cde39a8e1b300?source=rss"/>
-        <updated>2026-08-18T08:51:18.000Z</updated>
-        <summary type="html"><![CDATA[日本プロ野球選手会、兵庫県尼崎市、ＣＳ放送事業者の「スカイＡ」は１８日、共同で記者会見を開き、「キャッチボールクラシック2026全国大会」と「THE LAST GAME 2026」を、尼崎市の日鉄鋼]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スリランカで男性の膀胱から重さ3.1キロの結石摘出　記録的大きさの可能性]]></title>
-        <id>https://www.bbc.com/japanese/articles/cgk450rjymyo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cgk450rjymyo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-18T08:49:21.000Z</updated>
-        <summary type="html"><![CDATA[スリランカの医師団が、男性患者から重さ3.1キロの膀胱（ぼうこう）結石を摘出した。直径約17センチで、記録されている最大の膀胱結石だと医師団は考えている。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メモリ高騰が直撃、FCNTの“手の届くハイエンド”「arrows Alpha2」が10万円切りを実現できたわけ]]></title>
-        <id>https://gadget.phileweb.com/?p=131000</id>
-        <link href="https://gadget.phileweb.com/post-131000/"/>
-        <updated>2026-08-18T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[FCNTは、 “手の届くハイエンド” を目指したスマートフォン「arrows Alpha2」の発売日を8月27日に決定した。また、価格についても発表され、オープン市場向けモデルの市場想定価格は、8GB/256GBが94,900円、12GB/512GBが118,800円（以下、税込表記）となっている。 […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フェラーリ初の電気自動車、約64億円で落札　新車オークションの最高額]]></title>
-        <id>https://www.bbc.com/japanese/articles/cjrvxq8w20zo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cjrvxq8w20zo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-18T08:00:27.000Z</updated>
-        <summary type="html"><![CDATA[イタリアの高級スポーツ車メーカー、フェラーリ初の電気自動車（EV）がこのほど、チャリティーオークションで4000万ドル（約64億円）で落札された。オークションで販売された新車としての最高額を記録した。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国外務省、高市首相の追悼式式辞を批判「反省や教訓を回避し歴史を逆行させた」]]></title>
-        <id>https://itainews.com/archives/2066197.html</id>
-        <link href="https://itainews.com/archives/2066197.html"/>
-        <updated>2026-08-18T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：ばーど ★：2026/08/17(月) 17:54:49.50 ID:b2bEeQPZ.net
-
-
-
-
-
-
-
-「歴史を逆行させた」中国外務省が高市総理の戦没者追悼式式辞を非難 https://t.co/qGl1LJe7QR— TBS NEWS DIG Powered by JNN (@tbsnewsdig) August 17, 2026 
-
-
-
-
-
-
-高市総理が戦没者追悼式の式...]]></summary>
-        <author>
-            <name>nobi0929</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フィリピンのカトリック校で生徒が銃乱射　生徒1人が撃たれ死亡、容疑者も自殺]]></title>
-        <id>https://www.bbc.com/japanese/articles/cjej8420zdwo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cjej8420zdwo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-18T07:51:17.000Z</updated>
-        <summary type="html"><![CDATA[フィリピン南部ミンダナオ島のサンボアンガにあるカトリック系学校で18日、銃撃事件がった。地元当局によると、学校の生徒が別の生徒を射殺した後、自分も自殺したという。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酷評されたフェラーリ・ルーチェの「0号車」、市販価格の約62倍、約64億円で落札]]></title>
-        <id>https://gadget.phileweb.com/?p=130983</id>
-        <link href="https://gadget.phileweb.com/post-130983/"/>
-        <updated>2026-08-18T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[フェラーリ初のBEV（バッテリー式電気自動車）として開発されたルーチェの「0号車」が、先週土曜日にサザビーズのモントレー・オークションで、4000万ドル（約64億円）で落札された。この落札による収益金はすべて慈善団体に寄付される。 このルーチェの当初予想落札額は110万ドル（約1.8億円）だったため […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【夏の高校野球】横浜（神奈川）が花巻東（岩手）に６－０で勝利　第１３日第３試合(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/77505dea10523dbf532a9e5273f82ef28763d6c6?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/77505dea10523dbf532a9e5273f82ef28763d6c6?source=rss"/>
-        <updated>2026-08-18T07:36:17.000Z</updated>
-        <summary type="html"><![CDATA[夏の高校野球、第１３日第３試合は横浜（神奈川）と花巻東（岩手）が対戦し、６－０で横浜が勝利しました。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Sa•Ga2秘宝伝説】必殺の一撃〜死闘の果てに キッチンでクラリネット吹く人/ Final Fantasy Legend II-Lethal Strike~Struggle to the Death]]></title>
-        <id>https://www.youtube.com/watch?v=1FsWVQHEoy8</id>
-        <link href="https://www.youtube.com/watch?v=1FsWVQHEoy8"/>
-        <updated>2026-08-18T07:33:05.000Z</updated>
-        <author>
-            <name>みつ美《母ちゃんのクラリネット》</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米移民当局が電気ショック手袋を導入へ]]></title>
-        <id>https://www.bbc.com/japanese/articles/cm2gm44pdk6o#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cm2gm44pdk6o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-18T07:15:44.000Z</updated>
-        <summary type="html"><![CDATA[米国移民税関執行局（ICE）の職員は、法執行業務中に、相手に電気ショックを与えることができる手袋を間もなく装備することになる。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【悲報】堀大輔「気絶は睡眠じゃないのでノーカンですね」]]></title>
-        <id>https://itainews.com/archives/2066198.html</id>
-        <link href="https://itainews.com/archives/2066198.html"/>
-        <updated>2026-08-18T07:04:34.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：それでも動く名無し：2026/08/17(月) 06:15:57.36 ID:0DWl18uS0.net
-
-
-
-
-
-
-
-悲報：堀 大輔 テキーラ15杯飲んで泥酔していたことを『 睡眠ではなく気絶状態だったので睡眠時間には入らないです 』謎の論理でドラゴン細井も流石に苦笑いしてしまう...#堀大輔 #ショ...]]></summary>
-        <author>
-            <name>takakichi5346</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」]]></title>
-        <id>https://www.bbc.com/japanese/articles/cm2g7x98v2ko#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cm2g7x98v2ko?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-18T07:04:28.000Z</updated>
-        <summary type="html"><![CDATA[ロシアは17日、イギリスを、「ウクライナ危機のエスカレーションを意図的に選択した」と非難した。イギリスで製造されたドローンがロシアに対する攻撃で使われたのが明らかになったのを受けたもの。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
         </author>
     </entry>
 </feed>
