@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T16:44:08.482Z</updated>
+    <updated>2026-09-18T19:13:17.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ISSCC 2027 Late Breaking Industry News]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/09/isscc-2027-late-breaking-industry-news.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/09/isscc-2027-late-breaking-industry-news.html"/>
+        <updated>2026-09-18T17:32:17.086Z</updated>
+        <summary type="html"><![CDATA[ISSCC 2027 is introducing a new Late Breaking News session to provide an opportunity for companies to showcase significant product announcements that missed the regular ISSCC submission deadline. This new session will feature four industry papers describing production-grade chips or IP blocks incorporated into products launching in 2027.
+Please register your intention to submit by uploading a paper title and a short abstract by October 7, 2026 using the submission site below. The final manuscript is due by December 1, 2026, after which papers will undergo an expedited review process, with acceptance notifications issued on December 9, 2026. This track is limited to four accepted papers and is reserved exclusively for production-grade industry submissions covering products launching in 2027.
+The submission site and key dates are summarized below.
+Submission Site
+https://submissions.mirasmart.com/ISSCC2027
+
+Key Dates
+    October 7, 2026 — Intent-to-submit deadline
+    December 1, 2026 — Paper submission deadline (camera-ready format)
+    December 9, 2026 — Industry committee review and selection; notifications sent for the four accepted papers
+    December 14, 2026 — Final accepted papers approved by the ISSCC Editorial Team
+    December 14, 2026 — Session summary due for the Advanced Program]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超大型巨人の巨大バルーンが目印！ 「進撃の巨人3」の試遊台で，より直感的になった立体機動とスロー演出を体験してきた［TGS2026］]]></title>
         <id>https://www.4gamer.net/games/013/G101375/20260919010/</id>
@@ -34007,127 +34028,6 @@ https://i.i...]]></summary>
 　愛子さまは午前１１時すぎ、伊丹空港で大阪府の吉村]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アクションゲーム「James Pond」シリーズ，4作品・全12バージョンを収録する数量限定パッケージ版をSwitch2向けに10月発売]]></title>
-        <id>https://www.4gamer.net/games/034/G103492/20260820028/</id>
-        <link href="https://www.4gamer.net/games/034/G103492/20260820028/"/>
-        <updated>2026-08-20T07:06:43.000Z</updated>
-        <summary type="html"><![CDATA[System3は本日，「JamesPondLegacy:ThePondIsNotEnough」をSwitch2向けに2026年10月に発売すると発表した。アクションゲーム「JamesPond」シリーズ4作品・全12バージョンを収めた数量限定のパッケージ版で，シリーズの歴史をまとめた「Pondverse」も楽しめる。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮膚がんの一種「メラノーマ」再発を抑制、米国で開発のワクチン　臨床試験で画期的効果]]></title>
-        <id>https://www.bbc.com/japanese/articles/c4g313pp03go#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c4g313pp03go?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-20T06:52:21.000Z</updated>
-        <summary type="html"><![CDATA[米製薬会社メルクとモデルナは19日、共同開発している個別化ワクチンについて、既存のがん免疫治療薬と併用することで、再発リスクの高い皮膚がんの一種、悪性黒色腫（メラノーマ）の再発を抑制することが臨床試験で示されたと発表した。これは、がん治療において画期的な転換点となる可能性がある。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハリー英王子とメガン妃、イギリスに帰国へ]]></title>
-        <id>https://www.bbc.com/japanese/articles/cg4d7pp2qnno#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cg4d7pp2qnno?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-20T06:33:40.000Z</updated>
-        <summary type="html"><![CDATA[イギリス王室のサセックス公ハリー王子と妻のメガン妃が、生活拠点をイギリスに戻すことを計画していることが、BBCニュースが入手した情報で明らかになった。夫妻の子供であるアーチー王子（7）とリリベット王女（5）は、9月からイギリスの学校で学ぶ予定だ。ハリー王子とメガン妃が王室の公務に復帰する計画は、今のところない。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「EGGコンソール 英雄伝説III 白き魔女 リニューアル PC-9801」本日配信。ジュリオとクリスが「白き魔女」の謎に迫る]]></title>
-        <id>https://www.4gamer.net/games/034/G103486/20260820024/</id>
-        <link href="https://www.4gamer.net/games/034/G103486/20260820024/"/>
-        <updated>2026-08-20T06:10:46.000Z</updated>
-        <summary type="html"><![CDATA[D4エンタープライズは本日，「EGGコンソール英雄伝説III白き魔女リニューアルPC-9801」の配信を開始した。「英雄伝説III白き魔女リニューアル」は，1994年に日本ファルコムが発売したRPGだ。村の成人儀式として巡礼の旅に出たジュリオとクリスが，やがて「白き魔女」の謎に迫っていくことになる。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「NGS」，期間限定クエスト「ビーチウォーズ'26」を追加]]></title>
-        <id>https://www.4gamer.net/games/521/G052100/20260820025/</id>
-        <link href="https://www.4gamer.net/games/521/G052100/20260820025/"/>
-        <updated>2026-08-20T06:02:29.000Z</updated>
-        <summary type="html"><![CDATA[PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2   配信元 セガ 配信日 2026/08/20     『PSO2 ニュージェネ…]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏休みの新幹線マナーが最悪だった…日本人から急速に「相手への気遣い」が失われている理由]]></title>
-        <id>https://itainews.com/archives/2066284.html</id>
-        <link href="https://itainews.com/archives/2066284.html"/>
-        <updated>2026-08-20T06:01:13.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：バイト歴50年 ★：2026/08/20(木) 06:31:34.80 ID:28Td0ndp9.net
-
-
-
-
-
-
-
-夏休みの新幹線マナーが最悪だった…日本人から急速に「相手への気遣い」が失われている理由https://t.co/ay09ZOxW1D#デイリー新潮— デイリー新潮 (@dailyshincho) August 18, 2026  
-
-
-
-...]]></summary>
-        <author>
-            <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「三國志14 with パワーアップキット Complete Edition」，IFシナリオ「英傑集結」をはじめとしたゲーム内の最新情報が公開に]]></title>
-        <id>https://www.4gamer.net/games/018/G101804/20260820019/</id>
-        <link href="https://www.4gamer.net/games/018/G101804/20260820019/"/>
-        <updated>2026-08-20T05:42:21.000Z</updated>
-        <summary type="html"><![CDATA[コーエーテクモゲームスは本日（2026年8月20日），歴史SLG「三國志14withパワーアップキットCompleteEdition」について，NintendoSwitch版のプレオーダーを開始した。また，すべてのチュートリアルをクリアすると開放されるIFシナリオ「英傑集結」をはじめとしたゲーム内の最新情報も公開された。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炎上する車内に閉じ込められた運転手を救出　「1回目触ったときに『これは曲げられるな』と思った]]></title>
-        <id>https://itainews.com/archives/2066274.html</id>
-        <link href="https://itainews.com/archives/2066274.html"/>
-        <updated>2026-08-20T05:31:48.000Z</updated>
-        <summary type="html"><![CDATA[1 ：ポンコツ ★：2026/08/19(水) 16:24:04.40 ID:OWPfxEww9.net
-
-
-
-
-
-
-
-
-
-
-交通事故で燃えている車から運転手を救助した横浜市の中学校教員に、神奈川県警から感謝状が贈られました。https://t.co/z2BdgnEI54#tvkニュース— tvk（テレビ神奈川）報道部 (@tvknews930) Au...]]></summary>
-        <author>
-            <name>dqnplus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Friday】「黙れよ、お前！」阪神主力左腕・伊原陵人が「20代女性を羽交い締めにし、泥酔暴行」]]></title>
-        <id>https://itainews.com/archives/2066273.html</id>
-        <link href="https://itainews.com/archives/2066273.html"/>
-        <updated>2026-08-20T05:01:19.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：Anonymous ★：2026/08/19(水) 16:22:56.91 ID:qluM/dM39.net
-
-
-
-
-
-
-
-【スクープ！】阪神主力左腕 伊原陵人が「20代女性を泥酔暴行」現場写真を入手阪神若手選手も同席の飲み会で、「死ね」と暴言を吐きながら女性を羽交い締め、髪を鷲掴みにして……↓独占写真...]]></summary>
-        <author>
-            <name>takakichi5346</name>
         </author>
     </entry>
 </feed>
