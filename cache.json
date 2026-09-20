@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/918/G091829/20260920053/",
+          "author": null,
+          "description": "アトラスは本日（2026年9月20日），同社公式YouTubeチャンネルで「ペルソナ30周年」スペシャル生放送を配信した。今回は，ゲーム内外の情報が発表されたほか，ライブも実施された。",
+          "link": "https://www.4gamer.net/games/918/G091829/20260920053/",
+          "publishedOn": "2026-09-20T13:47:21.000Z",
+          "wordCount": 9142,
+          "title": "「女神異聞録ペルソナ」のサントラ配信やアパレルブランドとのコラボなど，最新情報が「ペルソナ30周年」スペシャル生放送で一挙公開に",
+          "imageUrl": "https://www.4gamer.net/games/918/G091829/20260920053/SS/014.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/435/G043558/20260920042/",
           "author": null,
           "description": "カプコンは，2026年10月12日に25周年を迎える「逆転裁判」シリーズのメインビジュアルを公開した。布施拓郎氏と塗和也氏による描き下ろしで，成歩堂龍一や綾里真宵，御剣怜侍ら9人が特別な装いで描かれている。",
@@ -3932,6 +3942,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0c6ac246f90275521a564f2df1ff89088a0d6c0a?source=rss",
+          "author": null,
+          "description": "滋賀県守山市勝部２丁目で１８日、住宅で飼われていたヘビが逃げ、警察が注意を呼びかけています。\n\n　滋賀県警によりますと、逃げ出したのは全長約１メートル、太さ約３センチ、赤・黒・白のまだら模様をしたミ",
+          "link": "https://news.yahoo.co.jp/articles/0c6ac246f90275521a564f2df1ff89088a0d6c0a?source=rss",
+          "publishedOn": "2026-09-20T14:14:26.000Z",
+          "wordCount": 1638,
+          "title": "滋賀・守山市でペットのヘビが逃げる　約１メートルで無毒　赤黒白のまだら模様(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00082645-asahibcv-000-2-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7c8a20d03fcc711b1a4ab82c55b44531221d7e45?source=rss",
           "author": null,
@@ -8431,26 +8451,6 @@
           "wordCount": 1661,
           "title": "「お土産だから渡して」　逮捕の女が知人に依頼か　劇物入りマフィンを男性に食べさせた疑い(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082178-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6b59a3107ce52ab6fbf3304ec09a214f8ceed506?source=rss",
-          "author": null,
-          "description": "滋賀県大津市にあるびわ湖バレイに、新たな絶景スポットとして歩行者専用のつり橋が完成しました。\n\n　びわ湖バレイに完成した「スカイブリッジ」は、標高約１１００メートルの山々を結ぶ歩行者専用のつり橋で、",
-          "link": "https://news.yahoo.co.jp/articles/6b59a3107ce52ab6fbf3304ec09a214f8ceed506?source=rss",
-          "publishedOn": "2026-08-22T04:16:29.000Z",
-          "wordCount": 1642,
-          "title": "全長２２０ｍの絶景つり橋　びわ湖バレイに「スカイブリッジ」　滋賀(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082176-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/90b4fbd506b2d017fd0fb56b47943091346c3a6c?source=rss",
-          "author": null,
-          "description": "夏の高校野球は２２日、決勝が行われ、智弁和歌山（和歌山）が健大高崎（群馬）に４－３で勝利し、５年ぶり４度目の優勝を果たしました。",
-          "link": "https://news.yahoo.co.jp/articles/90b4fbd506b2d017fd0fb56b47943091346c3a6c?source=rss",
-          "publishedOn": "2026-08-22T03:10:31.000Z",
-          "wordCount": 1637,
-          "title": "【夏の高校野球】智弁和歌山（和歌山）が健大高崎（群馬）に４－３で勝利　５年ぶり４度目の優勝(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082175-asahibcv-000-2-view.jpg?exp=10800"
         }
       ]
     },
@@ -10428,36 +10428,6 @@
           "wordCount": 1953,
           "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cwyr0zvelqro#0",
-          "author": null,
-          "description": "2024年4月1日にガザ中部デイル・アル・バラフで慈善団体「ワールド・セントラル・キッチン（WCK）」のスタッフ7人が殺害された事案について、イスラエルが19日に刑事捜査しないと発表したことに対し、イギリス、カナダ、オーストリア各国の政府は21日、「恥ずべきこと」だと非難した。",
-          "link": "https://www.bbc.com/japanese/articles/cwyr0zvelqro?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-22T04:33:15.000Z",
-          "wordCount": 2108,
-          "title": "ガザでの援助活動家ら殺害をイスラエルは刑事捜査せず　英豪カナダが非難",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo#0",
-          "author": null,
-          "description": "イギリスのサセックス公爵ハリー王子や歌手サー・エルトン・ジョンなど計7人の著名人は21日、英紙デイリー・メールと同メール・オン・サンデーの発行元を訴えたプライバシー侵害訴訟で敗訴したことを受け、訴えた出版社の訴訟費用を支払うよう高等法院に命じられた。この費用は最大3450万ポンド（約75億円）になる可能性がある。",
-          "link": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-22T02:56:23.000Z",
-          "wordCount": 1896,
-          "title": "プライバシー侵害訴訟で敗訴のハリー英王子やエルトン・ジョンさんら7人、最大75億円の費用負担の可能性",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c2lq58knejjo#0",
-          "author": null,
-          "description": "ウクライナ中部クリヴィー・リフで21日、市内最大のショッピングセンターがロシア軍のドローンによる二重攻撃を受けた。地元当局によると、少なくとも16人が殺害され、子ども23人を含む130人が負傷したほか、がれきの下に閉じ込められている人も複数いる。最初の攻撃の後、救助隊の到着後に再び攻撃して被害を拡大しようとする、いわゆる「ダブルタップ攻撃」だったという。",
-          "link": "https://www.bbc.com/japanese/articles/c2lq58knejjo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-22T02:51:40.000Z",
-          "wordCount": 2120,
-          "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png"
         }
       ]
     },
@@ -12562,16 +12532,6 @@
           "wordCount": 721,
           "title": "アップルはAI・新デバイスへ軸足か。Siri・Vision Pro開発部門で計200人超を削減へ",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/e497af851132dec5086255c8fe7c239f.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=131413",
-          "author": "編集部：平山洸太",
-          "description": "ARグラスを展開するVITUREは、5周年記念の製品体験イベント「One Day with VITURE」を8月22〜23日の2日間で開催する。入場料は無料。予約優先だが、予約なしでの来場も可能。 場所は東京・JR原宿駅前の商業施設「WITH HARAJUKU」の3階にある「LIFORK 原宿」。8 […]",
-          "link": "https://gadget.phileweb.com/post-131413/",
-          "publishedOn": "2026-08-22T04:25:00.000Z",
-          "wordCount": 735,
-          "title": "VITUREの最新ARグラスが試せるイベント、原宿で開催中。8月22日・23日限定",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/2f9945451e6d751e965f7723bcb6b6eb.jpg"
         }
       ]
     },
@@ -12580,6 +12540,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067477.html",
+          "author": "damono3856",
+          "description": "1 名前：七波羅探題 ★：2026/09/20(日) 17:04:37.08 ID:wFwrIypr9.net\n\n\n\n\n\n\n\n【速報】犬に触ろうと路上でしゃがんでいた83歳女性に自転車が衝突　50～60代くらいの男は救護せず立ち去る　女性は搬送先の病院で死亡　兵庫・明石市 https://t.co/irlF8d9xBv— 洋朗 (@n03...",
+          "link": "https://itainews.com/archives/2067477.html",
+          "publishedOn": "2026-09-20T14:01:18.000Z",
+          "wordCount": 3916,
+          "title": "【兵庫】犬に触ろうと路上でしゃがんでいた83歳女性に自転車が衝突　50～60代くらいの男は救護せず立ち去る　女性は搬送先の病院で死亡",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/c/9c16e063-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067467.html",
           "author": "damono3856",
@@ -19719,66 +19689,6 @@
           "wordCount": 3277,
           "title": "【プロ野球】西武、稲尾和久さんの永久欠番「24」をイベントでゲストのアイドルグループ「ME：I」が着用　SNSで賛否",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/d/6d0ee51f.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066342.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/08/21(金) 15:34:12.65 ID:hPuDui1l0●.net \n\n\n\n\n\n\n\n\nベトナムが海外不法滞在の罰則強化へ　来月10日の施行前に日本の入管に出頭者増える▼詳しくは画像をタッチhttps://t.co/tjfeDIjOc7@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) August 21, 2026 \n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2066342.html",
-          "publishedOn": "2026-08-22T04:31:25.000Z",
-          "wordCount": 3382,
-          "title": "ベトナム政府「海外不法滞在の罰則を強化する！→日本の入管へぞろぞろと出頭ｗ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/5/259511bc.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066339.html",
-          "author": "dqnplus",
-          "description": "1 ：muffin ★：2026/08/21(金) 17:00:48.21 ID:iEMkbiHy9.net\n\n\n\n\n\n\n\n\n\nキッカーズ2軍の愛之助が、平将門の首塚の石碑に抱きつきまたがり奇声上げているが、過去にここを蹴ったサダさん数年後に事故死している。ここはネタとかエンタメで済む場所ではないんだよ。将門様...",
-          "link": "https://itainews.com/archives/2066339.html",
-          "publishedOn": "2026-08-22T04:01:37.000Z",
-          "wordCount": 3572,
-          "title": "男性迷惑系配信者「平将門塚」で石碑をよじ登り奇声、厳しい声が噴出「罰当たりすぎる」「知性も教養もない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/d/eddf7fa1.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066337.html",
-          "author": "dqnplus",
-          "description": "1 ：muffin ★：2026/08/21(金) 14:47:10.05 ID:iEMkbiHy9.net\n\n\n\n\n\n\n\n\n「絶対ショートスリーパーを目指すのはやめとけ」睡眠専門医が堀大輔の「1日30分睡眠」を解説▼記事https://t.co/TtgoEtst1o・登録者20万人の睡眠専門医・渥美正彦が動画で見解・短時間睡眠のリスク...",
-          "link": "https://itainews.com/archives/2066337.html",
-          "publishedOn": "2026-08-22T03:31:10.000Z",
-          "wordCount": 3537,
-          "title": "「絶対ショートスリーパーを目指すのはやめとけ」睡眠専門医が堀大輔氏の「1日30分睡眠」を「取り返しがつかない健康リスク」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/7/07aac3a2.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066335.html",
-          "author": "dqnplus",
-          "description": "1 ：七波羅探題 ★：2026/08/21(金) 15:01:16.66 ID:qrtj74R79.net\n\n\n\n\n\n\n\n\n\n\n甲子園出場で紛糾…秋田代表「横手高校」は進学校なのか論争　卒業生は「東京と秋田では進学事情が違いすぎる」と指摘　成績優秀な生徒が“東京大学を受験しない”理由https://t.co/zkCzyydQs...",
-          "link": "https://itainews.com/archives/2066335.html",
-          "publishedOn": "2026-08-22T03:01:50.000Z",
-          "wordCount": 3090,
-          "title": "甲子園出場で紛糾 秋田代表横手高校は進学校なのか論争 卒業生「東京と秋田では進学事情が違いすぎる」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2ad1f528-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066334.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：2026/08/21(金) 13:26:57.13 ID:r2V/sEIn0●.net 2BP(3001)\n\n\n\n\n\n\n\n【解説】相次ぐ芸能事務所の倒産、昨年は「過去最多」メディアの多様化で芸能事務所が転換期を迎えています【主なポイント】・2025年の芸能事務所の倒産は26件で、2014年以降最多・2026年も7...",
-          "link": "https://itainews.com/archives/2066334.html",
-          "publishedOn": "2026-08-22T02:31:54.000Z",
-          "wordCount": 3278,
-          "title": "「芸能事務所」、オワコンに　倒産が過去最多",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/0/d0c486f7-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066336.html",
-          "author": "nobi0929",
-          "description": "1 名前：それでも動く名無し：2026/08/21(金) 13:12:15.83 ID:T7di+XHu0.net\n\n\n\n\n\n\n\n金属バット片手に「殺すか ここで」カメラが捉えた殺人未遂事件の一部始終　逆走して正面衝突…容疑者と被害女性は“面識なし”　茨城　#イットhttps://t.co/wsFoy38UKf— FNNプライム...",
-          "link": "https://itainews.com/archives/2066336.html",
-          "publishedOn": "2026-08-22T02:00:47.000Z",
-          "wordCount": 3484,
-          "title": "38歳男性「殺すかここで」逆走して20代女性の運転する車に突っ込む←ほんまに日本か、ここは",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/e/decdc9cf-s.jpg"
         }
       ]
     },
@@ -23807,36 +23717,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127285/",
-          "author": null,
-          "description": "8月28日公開の「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」と、アニメの新エピソードが今冬に公開予定の「〈物語〉シリーズ」のスペシャルコラボが実現した。 今回のスペシャルコラボでは、「...",
-          "link": "https://anime.eiga.com/news/127285/",
-          "publishedOn": "2026-08-22T04:00:00.000Z",
-          "wordCount": 784,
-          "title": "「まど☆マギ　ワルプルギスの廻天」×「〈物語〉シリーズ」SPコラボ　西尾維新書き下ろし短編「魔法童女よつぎ☆ピース」公開中",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127273/",
-          "author": null,
-          "description": "黒井白によるサバイバルスリラーを描いた大ヒット漫画「リバイアサン」の実写映画化が決定。道枝駿佑（なにわ男子）が主演を務め、ヒロインに出口夏希を迎え、2027年2月11日に公開される。あわせて予告...",
-          "link": "https://anime.eiga.com/news/127273/",
-          "publishedOn": "2026-08-22T03:00:00.000Z",
-          "wordCount": 744,
-          "title": "道枝駿佑×出口夏希が挑む壮絶な生き残りゲーム　大ヒット漫画「リバイアサン」実写映画化決定　監督は藤井道人＆新宮良平",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -24332,6 +24212,16 @@
       "feedUrl": "https://webmanga.info/daily.xml",
       "siteUrl": "http://webmanga.info",
       "articles": [
+        {
+          "id": "https://webmanga.info/20260920",
+          "author": null,
+          "description": "・魔法使い\n全1作",
+          "link": "https://webmanga.info/20260920",
+          "publishedOn": "2026-09-20T15:00:00.000Z",
+          "wordCount": 48,
+          "title": "2026/09/20に更新された漫画",
+          "imageUrl": null
+        },
         {
           "id": "https://webmanga.info/20260919",
           "author": null,
@@ -26216,16 +26106,6 @@
           "wordCount": null,
           "title": "【モンハンNow】3周年イベント&シーズン11最新情報、徹底解説！ Nowナビ#7【祝3周年！】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/JCpUGHqPzAs",
-          "author": null,
-          "description": "モンハンNowでは初の睡眠属性をもつガンランス！イベント武器「トロピカルキャノン」が登場🍍装備スキル「目覚めの一撃」で睡眠状態のモンスターに与える最初のダメージを増加！強化すると「目覚めの一撃」が最大LvであるLv3にまで上昇！強力な一撃を叩き込みましょう！動画で詳細をチェック✅#モンハンNow",
-          "link": "https://www.youtube.com/shorts/JCpUGHqPzAs",
-          "publishedOn": "2026-08-22T03:15:21.000Z",
-          "wordCount": 3012,
-          "title": "#狩人たちの夏祭り2026   イベント限定武器紹介 🌊🏖️",
-          "imageUrl": "https://i.ytimg.com/vi/JCpUGHqPzAs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCaDNs4QtfMYrDmzS8oWn5pwmFMbw&usqp=CCk"
         }
       ]
     }
