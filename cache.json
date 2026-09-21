@@ -4123,6 +4123,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/469cced4896fcb922a7a416c4fa88905d1ab5c3a?source=rss",
+          "author": null,
+          "description": "２１日夜、兵庫県西宮市のマンションで火事があり、３０代くらいの女性が意識不明の重体です。\n\n　２１日午後９時５０分ごろ、西宮市弓場町で「隣のマンションの３階から火が出ています」と近くに住む男性から消",
+          "link": "https://news.yahoo.co.jp/articles/469cced4896fcb922a7a416c4fa88905d1ab5c3a?source=rss",
+          "publishedOn": "2026-09-21T22:31:26.000Z",
+          "wordCount": 1618,
+          "title": "兵庫・西宮市のマンションで火災　３０代くらいの女性が意識不明の重体(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082665-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/634a8f01e1734f97605a18e2a8bb3b9569220573?source=rss",
+          "author": null,
+          "description": "兵庫県明石市で高齢女性が自転車にはねられ死亡したひき逃げ事件で、近くに住む漁師の男が２１日逮捕されました。\n\n　漁師の中谷修容疑者（５１）は２０日午前、明石市材木町の路上で、しゃがんで犬を触っていた",
+          "link": "https://news.yahoo.co.jp/articles/634a8f01e1734f97605a18e2a8bb3b9569220573?source=rss",
+          "publishedOn": "2026-09-21T21:00:32.000Z",
+          "wordCount": 1652,
+          "title": "報道で事件知った父親が息子の様子を不審に思い交番に・・・高齢女性死亡の自転車ひき逃げ　５１歳の漁師の男逮捕「よそ見をしていた。怒られるのが嫌で逃げた」　兵庫・明石市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082664-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/ce53c24c7e83db9421a7e3c187231f854c7522ca?source=rss",
           "author": null,
           "description": "滋賀県東近江市で、交通違反の取り締まり中だった警察官を車ではね殺害しようとしそのまま逃げた疑いで、会社員の岡田健悟容疑者（２９）が逮捕されました。\n\n　警察によりますと、２１日午前１０時ごろ、男性巡",
@@ -8701,16 +8721,6 @@
           "wordCount": 1637,
           "title": "水上バイクが衝突し２人重傷　４人グループで遊んでいたところ停止できず　和歌山沖　(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00082189-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c89f81b38b937eda0b569bf87a906ecdbab4794c?source=rss",
-          "author": null,
-          "description": "兵庫県豊岡市の神鍋高原では、特産品のスイカを一気に食べるスイカの大食い大会が行われました。\n\n　神鍋高原スイカまつりの人気イベント「スイカ大食い大会」。参加者は一気にかぶりつき、１分間でどれだけ食べ",
-          "link": "https://news.yahoo.co.jp/articles/c89f81b38b937eda0b569bf87a906ecdbab4794c?source=rss",
-          "publishedOn": "2026-08-23T09:32:59.000Z",
-          "wordCount": 1672,
-          "title": "１分間でどれだけ食べられる？　 神鍋高原の「スイカ大食い大会」　優勝賞品は１４キロの神鍋スイカ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00082188-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -11334,6 +11344,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=133618",
+          "author": "草刈和人",
+          "description": "Apple Watchの新機能として登場した「準備度（Readiness）」について、アメリカで開発チームに直接話を聞く機会があった。準備度は、直近の活動量、バイタル（心拍やその変動などの体のサイン）、睡眠という3つの要素をまとめて、0〜10のスコアと4段階の分類で示す新機能だ。 0〜1が「休養」、 […]",
+          "link": "https://gadget.phileweb.com/post-133618/",
+          "publishedOn": "2026-09-21T22:00:00.000Z",
+          "wordCount": 759,
+          "title": "Apple Watch新機能「準備度」は“常に眠い”日本人に効くのか。開発者が明かした納得の設計",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/0916a397e7c58aa84832e3a0e0e8f4a6.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=133689",
           "author": "多根清史",
           "description": "アップルの最新スマートフォン「iPhone 18 Pro」は発売直後だが、分解・修理情報サイトiFixitはさっそく恒例の分解レポート動画を公開している。最大の新機能といえるメインカメラの可変絞り機構や、画面下に配置されたFace ID用IR（赤外線）カメラなどを確認した一方、ディスプレイ周囲の樹脂 […]",
@@ -12870,6 +12890,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067501.html",
+          "author": "nobi0929",
+          "description": "1 名前：少考さん ★：2026/09/21(月) 05:46:56.91 ID:jjVu77w99.net\n\n\n\n\n\n\n\n「あの人、もったいなかった…」ではもう遅い！ 婚活男性を次々断る“ポイポイ婚活”女性の落とし穴 https://t.co/yQUtv46lcr #日刊ゲンダイDIGITAL— 植草 美幸 (@uekusa_miyuki) September 2...",
+          "link": "https://itainews.com/archives/2067501.html",
+          "publishedOn": "2026-09-21T22:00:24.000Z",
+          "wordCount": 3230,
+          "title": "「あの人、もったいなかった…」ではもう遅い！ 婚活男性を次々断る“ポイポイ婚活”女性の落とし穴　(日刊ゲンダイ)",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/f/aff95ffe-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067517.html",
           "author": "damono3856",
@@ -19929,66 +19959,6 @@
           "wordCount": 3075,
           "title": "【滋賀】ライトケミカル工業の工場で作業員２人死亡…釜の研磨作業中、酸欠か",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/0/f0a63494-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066405.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/23(日) 14:41:53.89 ID:FRl8ySvu9.net\n\n\n\n\n\n\n\nゴルフ場で草刈り機のメンテナンス中…男性作業員（89）が下敷きになり死亡 北海道・岩見沢市（STVニュース北海道） https://t.co/goBfdfBwUf— マグマ・ザ・グレート (@wjwcwecw) August 23, 2026...",
-          "link": "https://itainews.com/archives/2066405.html",
-          "publishedOn": "2026-08-23T10:31:00.000Z",
-          "wordCount": 3079,
-          "title": "【北海道】ゴルフ場で草刈り機のメンテナンス中…男性作業員（89）が下敷きになり死亡 岩見沢市",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2a57cf28-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066396.html",
-          "author": "damono3856",
-          "description": "1 名前：：2026/08/22(土) 22:42:01.90 ID:Re57S1uR0●.net\n\n\n\n\n\n\n\n死刑に賛成の人は、自分の大切な人が死刑囚になっても死刑に賛成するのでしょうか。— 橋本太地（弁護士） (@kojin_syugi) August 22, 2026",
-          "link": "https://itainews.com/archives/2066396.html",
-          "publishedOn": "2026-08-23T10:03:26.000Z",
-          "wordCount": 4040,
-          "title": "弁護士「死刑に賛成の人は、自分の大切な人が死刑囚になっても死刑に賛成するのでしょうか。」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/8/a8e01962-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066395.html",
-          "author": "damono3856",
-          "description": "1 名前：煮卵 ★：2026/08/22(土) 21:55:42.73 ID:QQO1rf9u9.net\n\n\n\n\n\n\n\n“パワハラNG”警察学校で教官苦悩　かつての「怒号」から一転、交換日誌も　卒業式では教官の目にも涙…最後に学生に伝えた言葉とは【ニュースキャスター】 https://t.co/w3hQmAWcn7— TBS NEWS D...",
-          "link": "https://itainews.com/archives/2066395.html",
-          "publishedOn": "2026-08-23T09:01:37.000Z",
-          "wordCount": 3529,
-          "title": "【令和】“パワハラNG”警察学校で教官苦悩　かつての「怒号」から一転、交換日誌も　「しっかり声出して頑張って!ファイト!」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/b/8bdc3ed2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066388.html",
-          "author": "nobi0929",
-          "description": "1 名前：バイト歴50年 ★：2026/08/22(土) 22:56:13.43 ID:M6mQwNRa9.net\n\n\n\n\n\n\n\n「ナゲット1個だけだったよ」小3の息子が給食に不満　ママ友グループLINEでも話題　「無償化になって質が落ちたのかな」【元栄養士が解説】https://t.co/TSS4bR3RCy— まいどなニュース (@...",
-          "link": "https://itainews.com/archives/2066388.html",
-          "publishedOn": "2026-08-23T08:30:48.000Z",
-          "wordCount": 3360,
-          "title": "「ナゲット1個だけだったよ」小3の息子が給食に不満　ママ友グループLINEでも話題　「無償化になって質が落ちたのかな」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/8/08960786-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066393.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/22(土) 20:54:30.06 ID:75y7QRIl9.net\n\n\n\n\n\n\n\n【怒り】「女に生まれて損や！」国も動きだした“女性トイレ行列問題”　長蛇の列を劇的に解消した『次世代トイレ』の驚愕システムとは｜YTV NEWS NNN https://t.co/x4lZRTqXsT— 阿部ちゃん (@hap...",
-          "link": "https://itainews.com/archives/2066393.html",
-          "publishedOn": "2026-08-23T08:00:58.000Z",
-          "wordCount": 3631,
-          "title": "【怒り】「女に生まれて損や！」国も動きだした“女性トイレ行列問題”",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/9/b96f49f6-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066390.html",
-          "author": "takakichi5346",
-          "description": "1 名前：冬月記者 ★：2026/08/22(土) 23:40:16.75 ID:XOZVvBNl9.net\n\n\n\n\n\n\n\n【乃木坂公演 雷避難の客戻る前開始】https://t.co/4nrDBZ4PdU— Yahoo!ニュース (@YahooNewsTopics) August 22, 2026 \n\n\n\n\n\n\nhttps://news.yahoo.co.jp/articles/e317ec9dd4219bd862f8bfd5c55...",
-          "link": "https://itainews.com/archives/2066390.html",
-          "publishedOn": "2026-08-23T07:34:40.000Z",
-          "wordCount": 3102,
-          "title": "【アイドル】乃木坂46　落雷の影響で一時避難した観客の入場前に公演開始を謝罪　スタッフ間で状況共有されず",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/1/716b086c-s.png"
         }
       ]
     },
@@ -20421,6 +20391,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=318761",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「一点突破すぎ！ごはんがすすむ ぼだっこ 鮭」を世界一詳しく調査しました。   【ローソン】一点突破 […]",
+          "link": "https://foodfighter.jp/lawson-bodakko",
+          "publishedOn": "2026-09-21T20:17:23.000Z",
+          "wordCount": 1907,
+          "title": "【ローソン】一点突破すぎ！ごはんがすすむ ぼだっこ 鮭【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/efc09c8194a5a249d58da4520be47736.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=318743",
           "author": "foodfighter",
@@ -23982,36 +23962,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127259/",
-          "author": null,
-          "description": "Adoが子どもたちに“等身大のエール”を届けるラジオ特別番組「Ado～23歳の私から伝えたいこと～」が8月30日午後8時5分～8時55分にNHK AMで放送される。番組ナレーションは初音ミクが担...",
-          "link": "https://anime.eiga.com/news/127259/",
-          "publishedOn": "2026-08-23T10:00:00.000Z",
-          "wordCount": 743,
-          "title": "Adoが自身の半生を語り尽くすラジオ特番、8月30日にNHK AMで放送　ナレーションは初音ミク",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127262/",
-          "author": null,
-          "description": "宮野真守がパーソナリティを務めるラジオ番組「OMO by 星野リゾート presents 宮野真守の with RADIO」の初のゲストとして、7人組男性アイドルグループ「WEST.」の神山智洋...",
-          "link": "https://anime.eiga.com/news/127262/",
-          "publishedOn": "2026-08-23T09:00:00.000Z",
-          "wordCount": 837,
-          "title": "「宮野真守の with RADIO」初のゲストは「WEST.」神山智洋　2週連続で演劇「アケチコ！」共演の舞台裏などを語り尽くす",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -24020,6 +23970,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126678",
+          "author": null,
+          "description": "電撃文庫刊『魔法科高校の劣等生』より「未来編」のコミカライズ連載が、2026...",
+          "link": "https://ln-news.com/articles/126678",
+          "publishedOn": "2026-09-21T21:00:00.000Z",
+          "wordCount": 240,
+          "title": "『魔法科高校の劣等生』より「未来編」のコミカライズ連載がGファンタジー10月号より開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/9b87e33aa7f04ddf8d217c8d22abddcf.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126725",
           "author": null,
@@ -25476,16 +25436,6 @@
           "wordCount": 3170,
           "title": "【FF1〜5】戦闘曲メドレーBattle Theme Medley②#ff #finalfantasy #ファイナルファンタジー #clarinet #クラリネット #gamemusic #ゲーム音楽",
           "imageUrl": "https://i.ytimg.com/vi/LPC0N3qcvIk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdwMCHzWfFAX2x3cbg0UrCNZhQRQ&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/YSdMLH4zBBo",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer：植松伸夫　Nobuo Uematsu ​⁠​⁠​⁠​⁠@squareenix @squareenixmusicchannel9893 #ファイナルファンタジー#finalfantasy #ff #gamemusic #r...",
-          "link": "https://www.youtube.com/shorts/YSdMLH4zBBo",
-          "publishedOn": "2026-08-23T10:00:23.000Z",
-          "wordCount": 3140,
-          "title": "【FF】戦闘曲メドレー|Battle Theme Medley①#ff #finalfantasy #ファイナルファンタジー #clarinet #クラリネット #gamemusic #ゲーム音楽",
-          "imageUrl": "https://i.ytimg.com/vi/YSdMLH4zBBo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCQuCMHglOhBrqnvtdDmNOhmqwrKw&usqp=CCk"
         }
       ]
     },
