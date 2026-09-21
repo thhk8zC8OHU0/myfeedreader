@@ -6,6 +6,56 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/621/G062117/20260921032/",
+          "author": null,
+          "description": "FireshineGamesは本日（2026年9月21日），Pugstormが開発した採掘サンドボックスアドベンチャー「CoreKeeper」の大型無料アップデート，「地下のライダー（RidersoftheUnderground）」を配信開始した。",
+          "link": "https://www.4gamer.net/games/621/G062117/20260921032/",
+          "publishedOn": "2026-09-21T09:00:00.000Z",
+          "wordCount": 8894,
+          "title": "畜産動物に乗ったり連れ回したりできるアイテムが登場。「Core Keeper」，大型無料アップデート“地下のライダー”を配信開始",
+          "imageUrl": "https://www.4gamer.net/games/621/G062117/20260921032/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/635/G063504/20260921057/",
+          "author": null,
+          "description": "カプコンは本日，「ストリートファイターリーグASIA2027」の大会概要を公開した。2027年秋に全6チームで開催され，JAPAN地域から参戦する1チームは公募によるセレクション大会で決定する。このほか，「CAPCOMCUP13」のキービジュアルや，女性向け公式大会「女王杯（仮）」などの新情報も発表された。",
+          "link": "https://www.4gamer.net/games/635/G063504/20260921057/",
+          "publishedOn": "2026-09-21T08:51:37.000Z",
+          "wordCount": 8577,
+          "title": "「ストリートファイターリーグ ASIA 2027」の大会概要を初公開。女性向け公式大会「女王杯（仮）」の2027年開催も決定",
+          "imageUrl": "https://www.4gamer.net/games/635/G063504/20260921057/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/015/G101558/20260921048/",
+          "author": null,
+          "description": "カプコンは本日（2026年9月21日），オープンワールドアクションゲーム「ドラゴンズドグマ2：ダークアリズン」のクエストの映像を公式Xアカウントで公開した。今回の映像は，台風25号の影響で東京ゲームショウ2026の5日目が中止されたことを受けて公開された。",
+          "link": "https://www.4gamer.net/games/015/G101558/20260921048/",
+          "publishedOn": "2026-09-21T08:12:34.000Z",
+          "wordCount": 8619,
+          "title": "「ドラゴンズドグマ 2：ダークアリズン」，TGS 2026ブースで試遊できたクエストの映像を公開。新エリア「ノルガン」でのクエストが見られる［TGS2026］",
+          "imageUrl": "https://www.4gamer.net/games/015/G101558/20260921048/SS/004.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/520/G052062/20260920019/",
+          "author": null,
+          "description": "アニプレックスは，ノーツが企画する「Fate/EXTRARecord」について，ゲームの最新情報を紹介する特別番組「Fate/EXTRARecordTIMES」を2026年10月15日20：00にTYPE-MOONGAMES公式YouTubeチャンネルで配信する。また，店頭体験会も4都市で開催される予定だ。",
+          "link": "https://www.4gamer.net/games/520/G052062/20260920019/",
+          "publishedOn": "2026-09-21T08:00:00.000Z",
+          "wordCount": 8633,
+          "title": "「Fate/EXTRA Record」，ゲームの最新情報を紹介する特別番組「Fate/EXTRA Record TIMES」を10月15日に配信",
+          "imageUrl": "https://www.4gamer.net/games/520/G052062/20260920019/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/013/G101380/20260921041/",
+          "author": null,
+          "description": "2026年6月に35周年を迎えた「ソニック・ザ・ヘッジホッグ」シリーズ。その総合プロデューサーである飯塚隆氏が，TGS2026に合わせて来日していた。今回4Gamerでは，そんな氏に会場で話を聞くことができたので，現在の心境やこれからの展望について質問してみた。",
+          "link": "https://www.4gamer.net/games/013/G101380/20260921041/",
+          "publishedOn": "2026-09-21T07:56:02.000Z",
+          "wordCount": 8978,
+          "title": "「ソニック・ザ・ヘッジホッグ」35周年記念インタビュー。総合プロデューサー飯塚 隆氏に聞く，これまでの道のりと未来の可能性。そしてまだ見ぬ新作に向けて［TGS2026］",
+          "imageUrl": "https://www.4gamer.net/games/013/G101380/20260921041/SS/007.webp"
+        },
+        {
           "id": "https://www.4gamer.net/games/995/G099511/20260921039/",
           "author": null,
           "description": "鳥が狩られる王国で，頼れる武器は小さなマッチ棒一本だけ。東京ゲームショウ2026で試遊した「井戸の鳥」は，臆病で非力な鳥の長男坊・グリマーが，家族のために危険な世界へと旅立つ暗黒童話メトロイドヴァニアだ。可愛らしい見た目に反して，その冒険はなかなか過酷だった。",
@@ -4072,6 +4122,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/dbcb3b816a6e40281072d69e0943e3674b644f46?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、強風が見込まれるため湖西線で２２日始発から午前８時ごろまで、和邇駅から近江今津駅の間で列車の運転を取りやめます。\n\n　天候の状況に応じて午前８時以降についても運転を取りやめる",
+          "link": "https://news.yahoo.co.jp/articles/dbcb3b816a6e40281072d69e0943e3674b644f46?source=rss",
+          "publishedOn": "2026-09-21T12:49:32.000Z",
+          "wordCount": 1655,
+          "title": "ＪＲ湖西線　２２日始発から一部運転取り止め　和邇駅ー近江今津駅間で８時ごろまで(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082661-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7ea492e5fd948c5c207907385bbf8ea724c4a5a9?source=rss",
+          "author": null,
+          "description": "バイクが男性をはねて、そのまま走り去りました。\n\n　午前２時４０分ごろ、兵庫県尼崎市昭和通の国道２号で、西に向かって走っていたバイクが道路を歩いて横断していた男性（３４）に衝突しました。\n\n　男性は",
+          "link": "https://news.yahoo.co.jp/articles/7ea492e5fd948c5c207907385bbf8ea724c4a5a9?source=rss",
+          "publishedOn": "2026-09-21T10:11:59.000Z",
+          "wordCount": 1675,
+          "title": "ひき逃げ事件を警察官が目撃　バイクにはねられた男性がろっ骨など折る重傷　兵庫・尼崎市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082659-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e574269b5bcf3126e38d087c083d06a93345e738?source=rss",
+          "author": null,
+          "description": "水上バイクに乗っていた男性３人が行方不明です。\n\n記者リポート\n「現在こちらでは強い風が吹いていて水面を見てみますと大きく波うっているのが確認できます」\n\n　警察や消防によりますと男性３人は２１日午",
+          "link": "https://news.yahoo.co.jp/articles/e574269b5bcf3126e38d087c083d06a93345e738?source=rss",
+          "publishedOn": "2026-09-21T10:03:04.000Z",
+          "wordCount": 1676,
+          "title": "琵琶湖で男性２人を発見　病院搬送も容体不明　身元の確認進める　水上バイクに乗っていた行方不明の男性らか(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082660-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b6cc6fc0983507d4ac5e35b06eed910d5cbc899e?source=rss",
+          "author": null,
+          "description": "台風２５号の影響は交通機関に広く出ています。帰省や旅行で移動する人が多いシルバーウィーク、鉄道や空の便への影響をまとめました。",
+          "link": "https://news.yahoo.co.jp/articles/b6cc6fc0983507d4ac5e35b06eed910d5cbc899e?source=rss",
+          "publishedOn": "2026-09-21T09:41:19.000Z",
+          "wordCount": 1678,
+          "title": "台風２５号がシルバーウィークを直撃　鉄道・空の便への影響は(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082658-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d19d5e49dde1e33086292e72255c0a95aca90668?source=rss",
+          "author": null,
+          "description": "いま、各地で大量発生している“毒キノコ”。連休中のおでかけ先でも、注意が必要です。",
+          "link": "https://news.yahoo.co.jp/articles/d19d5e49dde1e33086292e72255c0a95aca90668?source=rss",
+          "publishedOn": "2026-09-21T09:20:19.000Z",
+          "wordCount": 1679,
+          "title": "子どもたちが遊ぶ公園にも…各地で「毒キノコ」大量発生のワケ　誤食で食中毒相次ぐ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082657-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/47b80c31b2285e024bcd32a1a3ecfa89f9ab2638?source=rss",
+          "author": null,
+          "description": "滋賀県守山市で１８日、住宅で飼われていたヘビが逃げ、警察が注意を呼びかけています。\n\n　逃げたヘビは全長約１メートル、太さ約３センチ、赤・黒・白のまだら模様の「ミルクスネーク」で、毒はないということ",
+          "link": "https://news.yahoo.co.jp/articles/47b80c31b2285e024bcd32a1a3ecfa89f9ab2638?source=rss",
+          "publishedOn": "2026-09-21T08:39:01.000Z",
+          "wordCount": 1668,
+          "title": "シルバーウィークに約１メートルの「ミルクスネーク」が脱走　滋賀・守山市の住宅でペットとして飼育　赤・黒・白のまだら模様で毒はなし(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082656-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9c19536a4bf964623aebde77e29354098b4f7596?source=rss",
           "author": null,
@@ -8621,26 +8731,6 @@
           "wordCount": 1629,
           "title": "３分間の熱戦！　「全国金魚すくい選手権大会」奈良・大和郡山市で今年も開催(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00082183-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f56dc42c918e9f344cce9d68b1da2ac4cf598159?source=rss",
-          "author": null,
-          "description": "近鉄京都線は、午前９時３１分ごろに起きた人身事故のために新田辺～近鉄宮津間で運転を見合わせていましたが、１０時５５分に再開しました。列車に運休や遅延が出ているということです。\n\n　なお、事故列車の乗",
-          "link": "https://news.yahoo.co.jp/articles/f56dc42c918e9f344cce9d68b1da2ac4cf598159?source=rss",
-          "publishedOn": "2026-08-23T01:21:21.000Z",
-          "wordCount": 1640,
-          "title": "【運転再開】近鉄京都線・新田辺～近鉄宮津間で一時運転見合わせ　人身事故のため(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00082182-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1a10e03abce9857a8717411c299292f2291cd57d?source=rss",
-          "author": null,
-          "description": "今年４月、奈良県の薬師寺で国宝の「仏足石」に液体がかけられた事件で、警察は２２日、台湾出身の３９歳の女を逮捕しました。\n\n文化財保護法違反の疑いで逮捕されたのは、台湾出身で自称司会業の蔡宜臻容疑者（３",
-          "link": "https://news.yahoo.co.jp/articles/1a10e03abce9857a8717411c299292f2291cd57d?source=rss",
-          "publishedOn": "2026-08-22T20:17:23.000Z",
-          "wordCount": 1625,
-          "title": "奈良・薬師寺の国宝「仏足石」に液体をかけた疑い　台湾出身の女　逮捕(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260823-00082181-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -11264,6 +11354,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=133689",
+          "author": "多根清史",
+          "description": "アップルの最新スマートフォン「iPhone 18 Pro」は発売直後だが、分解・修理情報サイトiFixitはさっそく恒例の分解レポート動画を公開している。最大の新機能といえるメインカメラの可変絞り機構や、画面下に配置されたFace ID用IR（赤外線）カメラなどを確認した一方、ディスプレイ周囲の樹脂 […]",
+          "link": "https://gadget.phileweb.com/post-133689/",
+          "publishedOn": "2026-09-21T07:45:00.000Z",
+          "wordCount": 736,
+          "title": "iPhone 18 Pro分解レポート、iFixitが公開。可変絞りの超薄型6枚羽根、画面下Face IDカメラに工夫",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/131b2fd5fe15b3c41d2d40a39028bb1e.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=133676",
           "author": "Munenori Taniguchi",
           "description": "マイクロソフトは、プレイヤーのビデオゲーム体験を損ねることなく、ゲームの最中に広告を配信するシステムを開発している。 ゲームジャーナリストSikandar Mahmood氏が自身のニュースサイトRespawn Firstで報じたところによると、マイクロソフトの特許および技術移転活動を管理するMicr […]",
@@ -12790,6 +12890,116 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067517.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/21(月) 16:35:22.03 ID:F0kIZNKj0●.net\n\n\n\n\n\n\n\n【琵琶湖で3人不明 湖に水上バイク】https://t.co/7M7AM4g2M4— Yahoo!ニュース (@YahooNewsTopics) September 21, 2026  \n\n\n\n\n\n警察によるときょう＝21日午前11時半ごろ、大津市の琵琶湖で水上バイク１...",
+          "link": "https://itainews.com/archives/2067517.html",
+          "publishedOn": "2026-09-21T14:01:09.000Z",
+          "wordCount": 3149,
+          "title": "琵琶湖で男性３人が行方不明　レンタルした水上バイクだけが湖上で見つかる",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/2/52e1cc88-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067503.html",
+          "author": "takakichi5346",
+          "description": "1 名前：少考さん ★：2026/09/21(月) 10:27:11.58 ID:lCHhWqqV9.net\n\n\n\n\n\n\n\ntimelesz猪俣容疑者出演CMが“全滅”Google、ABCマートなど6社がサイトから画像を削除▼詳しい内容は画像をタップhttps://t.co/h6Qi151Noa— スポーツニッポン新聞社（スポニチ）【公式】 (@sp...",
+          "link": "https://itainews.com/archives/2067503.html",
+          "publishedOn": "2026-09-21T13:02:48.000Z",
+          "wordCount": 3710,
+          "title": "timelesz猪俣容疑者出演CM　Google、ABCマートなど6社がサイトから画像を削除",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/c/2c5d42c2-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067516.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2026/09/21(月) 16:59:24.55 ID:NrbZml2l9.net\n\n\n\n\n\n\n\nメガバンクから突然、2300万円返せ　「高齢社会あるある」に遭遇 https://t.co/jntumIJZR8— 朝日新聞 経済ニュース (@asahi_biz_r) September 21, 2026  \n\n\n\n\n\n\n　銀行からいきなり2300万円返せ...",
+          "link": "https://itainews.com/archives/2067516.html",
+          "publishedOn": "2026-09-21T12:30:02.000Z",
+          "wordCount": 3325,
+          "title": "メガバンクから突然、2300万円返せ　「高齢社会あるある」に遭遇",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/3/13d4f46a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067500.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/21(月) 09:47:51.63 ID:B3xnfNJk0●.net 2BP(7777)\n\n\n\n\n\n\n\n平野レミ、生放送で突然告知→ＮＨＫアナ「公共放送ですよ」「本当にやめてください」本気で怒るhttps://t.co/lqLQQg1t9I #デイリースポーツ #DailySports— デイリースポーツ (@Daily_Online...",
+          "link": "https://itainews.com/archives/2067500.html",
+          "publishedOn": "2026-09-21T12:04:48.000Z",
+          "wordCount": 3538,
+          "title": "平野レミ、生放送で突然告知→ＮＨＫアナ「公共放送ですよ」「本当にやめてください」本気で怒る",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/7/273e9de8-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067511.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/21(月) 09:36:26.99 ID:jjVu77w99.net\n\n\n\n\n\n\n\n「ベルリンのマムダニ」が市長候補に　トルコ系急進左派女性、家賃高騰に歯止め訴え https://t.co/kP8QBrz3Gx— World Up News (@WorldUpNews) September 21, 2026  \n\n\n\n\n\n\n「ベルリンのマムダ...",
+          "link": "https://itainews.com/archives/2067511.html",
+          "publishedOn": "2026-09-21T11:31:05.000Z",
+          "wordCount": null,
+          "title": "【ドイツ】「ベルリンのマムダニ」が市長候補に　トルコ系急進左派女性、家賃高騰に歯止め訴え",
+          "imageUrl": null
+        },
+        {
+          "id": "https://itainews.com/archives/2067499.html",
+          "author": "takakichi5346",
+          "description": "1 名前：征夷大将軍 ★：2026/09/21(月) 08:36:43.24 ID:jDL0cuVK9.net\n\n\n\n\n\n\n\n【アジア大会】トラブル続発で…五輪やＷ杯の招致に影響必至「日本の信用低下に」「国際問題レベル」（東スポWEB） https://t.co/tGIaMP96hk— Junn3⁺ (@Hayabusa_052) September 21, 2026 ...",
+          "link": "https://itainews.com/archives/2067499.html",
+          "publishedOn": "2026-09-21T11:00:21.000Z",
+          "wordCount": 3960,
+          "title": "【愛知・名古屋アジア大会】トラブル続発で…五輪やＷ杯の招致に影響必至「日本の信用低下に」「国際問題レベル」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/c/cc3da40f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067510.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/09/21(月) 10:19:33.35 ID:kNSDW28V9.net\n\n\n\n\n\n\n\n「パンダ返還後、中国からは何の接触もありません」　ゼロ・パンダでも観光客増加　和歌山「白浜町長」が語るこの1年　「役場に抗議電話が相次ぎましたが、今は…」(デイリー新潮)https://t.co/Auc...",
+          "link": "https://itainews.com/archives/2067510.html",
+          "publishedOn": "2026-09-21T10:30:23.000Z",
+          "wordCount": 3752,
+          "title": "【和歌山】ゼロ・パンダでも“観光客増加” 「白浜町長」が語るこの1年 「役場に抗議電話が相次ぎましたが、今は…」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/a/9af2ef3f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067497.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/21(月) 01:23:27.35 ID:eIl1dLHP9.net\n\n\n\n\n\n\n\nちょろすぎるｗ「ダーリンに会いたい デートしたい」８０代の男性がSNSで知り合った女性を名乗る人物に１１００万円をだまし取られる【SNS型ロマンス詐欺】静岡市https://t.co/AYPoYQQ0hr— お...",
+          "link": "https://itainews.com/archives/2067497.html",
+          "publishedOn": "2026-09-21T10:02:18.000Z",
+          "wordCount": 3354,
+          "title": "「ダーリンに会いたい デートしたい」８０代の男性がSNSで知り合った女性を名乗る人物に１１００万円をだまし取られる　静岡市",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/c/3c6af484-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067509.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/21(月) 11:05:24.26 ID:aZaH9WZz0.net\n\n\n\n\n\n\n\nフランスのガソリン価格・レギュラー　　　：約423円/L ・日本のレギュラー：約170～180円/Lありえへん…一回の給油で1万6000円…高市さんよくやってると俺は思うぞ🤔 https://t.co/3eHihH54Md— 椎井蹴人...",
+          "link": "https://itainews.com/archives/2067509.html",
+          "publishedOn": "2026-09-21T09:31:53.000Z",
+          "wordCount": 4014,
+          "title": "フランス、ガソリン1Lで471円突破",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/f/9fe2a48f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067495.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/21(月) 00:39:37.26 ID:eIl1dLHP9.net\n\n\n\n\n\n\n\n女性2人への殺人未遂容疑で自称トラック運転手の男（53）を逮捕 埼玉県警川口署 車を急発進させてドアにしがみついた20代女性をひきずり、前方の女性に衝突させたか https://t.co/7UfgIN4orP—...",
+          "link": "https://itainews.com/archives/2067495.html",
+          "publishedOn": "2026-09-21T09:00:41.000Z",
+          "wordCount": 3377,
+          "title": "女性2人への殺人未遂容疑で男を逮捕 　車を急発進させて　20代女性をひきずり前方の女性に衝突させたか　川口市",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/772a03e9-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067493.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/20(日) 22:54:49.75 ● 2BP(3000).net\n\n\n\n\n\n\n\n最初ぬい没収されるのかと思って焦ってたら、お姉さんがTrust meと言ったので託しました、一生の思い出となってしまいました。。ちなみにうっすら反射してますが凄い数の人が広ぬいにシャッターを向けてい...",
+          "link": "https://itainews.com/archives/2067493.html",
+          "publishedOn": "2026-09-21T08:01:25.000Z",
+          "wordCount": 3979,
+          "title": "日本人、ルーブル美術館のモナリザ前でぬい活ｗｗ→スタッフの対応が日本と違いすぎて話題に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c0387a11.png"
+        },
         {
           "id": "https://itainews.com/archives/2067492.html",
           "author": "damono3856",
@@ -19889,56 +20099,6 @@
           "wordCount": 3427,
           "title": "観音像を壊した中国人ネット配信者が24歳で死亡　ネットで憶測が広がる",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/7/57051ffb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066371.html",
-          "author": "dqnplus",
-          "description": "1 ：少考さん ★：2026/08/22(土) 10:25:22.11 ID:hWm0Be8P9.net\n\n\n\n\n\n\n\n\n\n公邸について書きましたので、よく頂くご質問についても、お答えします。「公邸にはオバケが出るそうですが、もう会いましたか？」  私は、オバケに会ったことは無いのですが、先日までは、ゴキ...",
-          "link": "https://itainews.com/archives/2066371.html",
-          "publishedOn": "2026-08-23T02:01:43.000Z",
-          "wordCount": 3436,
-          "title": "高市早苗氏「ゴキブリに会って叫び声を上げていました。」@公邸",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/d/ad828e3e.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066376.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/22(土) 13:55:46.19 ID:rC+RnmuY0●.net\n\n\n\n\n\n\n\n〈「一死」「併殺」「死球」が消える？〉「殺せ」「刺せ」が飛び交う野球界に宮城県高野連が問題提起…「言葉狩り」批判に理事長が語った“真意”https://t.co/YUKe1aO6Ag— 集英社オンライン (@shuei...",
-          "link": "https://itainews.com/archives/2066376.html",
-          "publishedOn": "2026-08-23T01:00:57.000Z",
-          "wordCount": 3944,
-          "title": "宮城県高野連「野球の現場で『殺せ！』とか言ってたら子供が怖がるのでは？」　野球用語見直しの真意",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/2/e270e331-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066364.html",
-          "author": "takakichi5346",
-          "description": "1 名前：ぐれ ★：2026/08/22(土) 13:11:08.54 ID:75y7QRIl9.net\n\n\n\n\n\n\n\n新幹線はやぶさで「持ち込み椅子」の“ライフハック自慢”に批判殺到…JR東日本が語るデッキ・通路のルールと「安全確保」 : https://t.co/lLMopBRAc3 ##はやぶさ　#新幹線 #迷惑行為 #鉄道 #ビジ...",
-          "link": "https://itainews.com/archives/2066364.html",
-          "publishedOn": "2026-08-23T00:04:37.000Z",
-          "wordCount": 3740,
-          "title": "【鉄道】新幹線はやぶさで「持ち込み椅子」の“ライフハック自慢”に批判殺到…JR東日本が明かしたルール",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/0/60b41db8-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066362.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/22(土) 10:50:13.43 ID:mBBbDQ0G0●.net\n\n\n\n\n\n\n\n日本人だよ。〉「アンタのせいで日本が！！」袴姿でバスに乗っただけで突然怒鳴られ…日本育ちの黒人ハーフ女子が心配する“強まる風当り”「日本人優先って、その枠に私たち入ってるよね…？」（文春...",
-          "link": "https://itainews.com/archives/2066362.html",
-          "publishedOn": "2026-08-22T23:00:35.000Z",
-          "wordCount": 3425,
-          "title": "黒人女性ハーフが憂う、「アンタのせいで日本が！！」の声",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/e/be31ac8b-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066361.html",
-          "author": "nobi0929",
-          "description": "1 名前：冬月記者 ★：2026/08/22(土) 11:13:01.42 ID:XOZVvBNl9.net\n\n\n\n\n\n\n\n「高校野球のレベルは落ちた。もう清原、松井は出てこないのか」球界大御所が“夏の甲子園”に苦言…本塁打“過去最少”危機7本に失策数117…「パワハラ告発、保護者過剰関与が指導者をダメに...",
-          "link": "https://itainews.com/archives/2066361.html",
-          "publishedOn": "2026-08-22T22:00:59.000Z",
-          "wordCount": 3589,
-          "title": "「高校野球のレベルは落ちた。もう清原、松井は出てこないのか」　球界OBが苦言「パワハラ告発、保護者過剰関与が指導者をダメにしてる」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/f/4fe137dc-s.jpg"
         }
       ]
     },
@@ -20361,6 +20521,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=318743",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 生チョコアイス」を世界一詳しく調査しました。   【セブンイレブン】セブン […]",
+          "link": "https://foodfighter.jp/711sej-namachoco-ice-2026",
+          "publishedOn": "2026-09-21T14:07:39.000Z",
+          "wordCount": 1905,
+          "title": "【セブンイレブン】セブンプレミアム 生チョコアイス【2026年・新作コンビニアイス】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/f127ec654b283c7b3d6fbb488fb30a8e.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=318701",
           "author": "foodfighter",
@@ -21008,6 +21178,66 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127445/",
+          "author": null,
+          "description": "テレビアニメ「#ゾンビさがしてます」の放送が10月3日からスタートすることが決定し、日笠陽子、小市眞琴、高柳知葉、島田愛野、鳥海浩輔の出演と主題歌の詳細が発表された。メインPV（https://...",
+          "link": "https://anime.eiga.com/news/127445/",
+          "publishedOn": "2026-09-21T12:00:00.000Z",
+          "wordCount": 743,
+          "title": "「#ゾンビさがしてます」に日笠陽子、小市眞琴、高柳知葉、島田愛野、鳥海浩輔が出演　主題歌はすりぃ、cadodeが担当",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127423/",
+          "author": null,
+          "description": "道枝駿佑が主演を務め、安斉星来が共演する映画「うるわしの宵の月」の新場面写真が、このほど披露された。 本作は、講談社「デザート」で連載中のやまもり三香による同名コミックの実写映画化。圧倒的なビジ...",
+          "link": "https://anime.eiga.com/news/127423/",
+          "publishedOn": "2026-09-21T11:00:00.000Z",
+          "wordCount": 649,
+          "title": "道枝駿佑が切ない表情を浮かべ、安斉星来が涙を流す――実写映画「うるわしの宵の月」新場面写真公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/sudo_business/127477/",
+          "author": null,
+          "description": "なぜいま「クールジャパンファンド」 日本政府が旗を振ってきた「クールジャパン政策」が、また注目を浴びている。クールジャパン政策は、日本カルチャーの海外発信を掲げて2010年頃から国が積極的に進め...",
+          "link": "https://anime.eiga.com/news/column/sudo_business/127477/",
+          "publishedOn": "2026-09-21T10:00:00.000Z",
+          "wordCount": 634,
+          "title": "【数土直志の「月刊アニメビジネス」】アニメ産業に影響はあったのか？ クールジャパン再考",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127437/",
+          "author": null,
+          "description": "2027年に声優アーティストデビュー15周年をむかえる花澤香菜の通算8枚目となる最新アルバム「未知数」が、2027年2月24日に発売されることが分かった。 アルバム「未知数」には、「忍者と殺し屋...",
+          "link": "https://anime.eiga.com/news/127437/",
+          "publishedOn": "2026-09-21T09:00:00.000Z",
+          "wordCount": 700,
+          "title": "花澤香菜の最新アルバムが27年2月発売　リリイベとして「ありがとう」耳元ささやき会＆オンライン個別トーク会を実施",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127478/",
           "author": null,
@@ -23906,6 +24136,26 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126725",
+          "author": null,
+          "description": "HJノベルス発のアニメ『ブチ切れ令嬢は報復を誓いました。 ～魔導書の力で祖国...",
+          "link": "https://ln-news.com/articles/126725",
+          "publishedOn": "2026-09-21T10:00:00.000Z",
+          "wordCount": 239,
+          "title": "アニメ『ブチ切れ令嬢は報復を誓いました。 ～魔導書の力で祖国を叩き潰します～』第12話「ブチ切れ令嬢の報復は終わらない」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/380efb8e3f4e438fb4ef5333d5b03284.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126703",
+          "author": null,
+          "description": "GCノベルズ刊『乙女ゲー世界はモブに厳しい世界です』と『ヴァルキリー・バレッ...",
+          "link": "https://ln-news.com/articles/126703",
+          "publishedOn": "2026-09-21T08:30:00.000Z",
+          "wordCount": 237,
+          "title": "『乙女ゲー世界はモブに厳しい世界です』×『ヴァルキリー・バレット』コラボフェアが全国の書店にて開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/f924486104f74040acaf328883cdb64d.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126699",
           "author": null,
           "description": "2026年9月11日に渋谷BEAMギャラリーにて行われた「TVアニメ『Re：...",
@@ -25053,6 +25303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/UJxQUcoLG28",
+          "author": null,
+          "description": "陸上自衛隊第3師団草津音楽フェスティバルへ行ってきました！！【陸上自衛隊第３師団のYouTubeチャンネル】@陸上自衛隊第3師団【ちっぴぃちゃんズのYouTubeチャンネル】​⁠​⁠@chippychanz #陸上自衛隊 #自衛隊音楽隊 #第3師団 #第3音楽隊 #ちっぴぃちゃんズ #キッチンでドラクエ吹く人 #みつ美",
+          "link": "https://www.youtube.com/shorts/UJxQUcoLG28",
+          "publishedOn": "2026-09-21T11:00:11.000Z",
+          "wordCount": 3084,
+          "title": "先輩やけど同期やから。@chippychanz",
+          "imageUrl": "https://i.ytimg.com/vi/UJxQUcoLG28/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC4V2QzY9ktGdtnqMIPWCQSkyWH3w&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/shorts/KZ0dJVu8-J8",
           "author": null,
           "description": "陸上自衛隊第3師団草津音楽フェスティバルへ行ってきました！！【陸上自衛隊第３師団のYouTubeチャンネル】@陸上自衛隊第3師団【ちっぴぃちゃんズのYouTubeチャンネル】​⁠@chippychanz #陸上自衛隊 #自衛隊音楽隊 #第3師団 #ちっぴぃちゃんズ #キッチンでドラクエ吹く人 #みつ美",
@@ -25437,6 +25697,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GkqN3eUCV5s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GkqN3eUCV5s",
+          "publishedOn": "2026-09-21T11:01:30.000Z",
+          "wordCount": null,
+          "title": "「仕事まだかかるの？」と見つめてくる甘えんぼ猫が…",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9XjZpS-PP3M",
           "author": null,
           "description": "",
@@ -25733,6 +26003,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13526",
+          "author": "watanabe@logipara.com",
+          "description": "今日は、ひさしぶりのゲーム紹介！ 「SANDUSTRY」です！ まだアーリーアクセスだけど、めちゃめちゃ面白いよ！ 　 　 SANDUSTRYは、俗にFactorio系と呼ばれる工場・コンベア系ゲームです。 他のFact […]",
+          "link": "https://logipara.com/game/sandustry/",
+          "publishedOn": "2026-09-21T08:42:49.000Z",
+          "wordCount": 2776,
+          "title": "ゲームレビュー：Sandustryはアーリーアクセスだけど面白いぞ",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-32.png"
+        },
         {
           "id": "https://logipara.com/?p=13524",
           "author": "watanabe@logipara.com",
@@ -26061,16 +26341,6 @@
           "publishedOn": "2026-08-24T00:07:03.000Z",
           "wordCount": 2742,
           "title": "ｯﾀｰﾝ（enterキーを叩く音）",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13404",
-          "author": "watanabe@logipara.com",
-          "description": "「モバイルオーダーなのに電波が届かずWi-Fiもない店」に出会ったときの気持ちを少しずつ集めて作った元気玉。",
-          "link": "https://logipara.com/diary-text/2026-08-23/",
-          "publishedOn": "2026-08-23T01:28:56.000Z",
-          "wordCount": 2736,
-          "title": "元気玉シリーズ",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
