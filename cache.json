@@ -4084,16 +4084,6 @@
           "wordCount": 8239,
           "title": "身近に潜むさまざまな恐怖を味わえる短編ホラー集「怖い話 グロテスク」，2026年8月27日にNintendo Switchで配信予定",
           "imageUrl": "https://www.4gamer.net/games/035/G103557/20260824046/SS/008.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/035/G103535/20260821055/",
-          "author": null,
-          "description": "SHIFTUPは本日（2026年8月24日），NintendoSwitch2版「StellarBladeCompleteEdition」を，2026年後半にリリース予定であると発表した。PS5とPC向けに登場したアクションゲームがSwitch2でも楽しめるようになる。また，今回の発表に伴い，トレイラーも公開された。",
-          "link": "https://www.4gamer.net/games/035/G103535/20260821055/",
-          "publishedOn": "2026-08-24T07:55:20.000Z",
-          "wordCount": 8094,
-          "title": "Nintendo Switch 2版「Stellar Blade Complete Edition」，2026年後半に発売。トレイラーも解禁",
-          "imageUrl": "https://www.4gamer.net/games/035/G103535/20260821055/SS/001.jpg"
         }
       ]
     },
@@ -4102,6 +4092,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/e3fecd5a0a054d826817153ab20e37158b4dfc1c?source=rss",
+          "author": null,
+          "description": "２２日深夜、和歌山県有田川町の住宅で火事があり、住人の女性と連絡が取れていません。\n\n　２２日午後１１時ごろ、有田川町徳田にある木造平屋建ての住宅で「火が出ている」と近所の人から消防に通報がありまし",
+          "link": "https://news.yahoo.co.jp/articles/e3fecd5a0a054d826817153ab20e37158b4dfc1c?source=rss",
+          "publishedOn": "2026-09-22T20:54:10.000Z",
+          "wordCount": 1617,
+          "title": "和歌山・有田川町で住宅火災　住人の４０代女性と連絡取れず(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082679-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/99b5d37e66e15f3dc5c9fb1f02a631e29a260f55?source=rss",
           "author": null,
@@ -8711,16 +8711,6 @@
           "wordCount": 1659,
           "title": "終戦直後に５４９人が犠牲　浮島丸事件から８１年で追悼　京都・舞鶴市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00082200-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8117b089960e403c7fbcc5ad55347d2a66acf633?source=rss",
-          "author": null,
-          "description": "大阪公立大学は２４日、所属する教授によって約６９万円の研究費が不正に使用されたと発表しました。\n\n　公立大の発表によると、不正に関与したとされるのは、工学研究科の倉方俊輔教授です。\n\n　倉方教授は出",
-          "link": "https://news.yahoo.co.jp/articles/8117b089960e403c7fbcc5ad55347d2a66acf633?source=rss",
-          "publishedOn": "2026-08-24T08:42:34.000Z",
-          "wordCount": 1655,
-          "title": "大阪公立大学で研究費約６９万円の不正使用が発覚　工学研究科教授は不正請求の大部分を否定(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260824-00082198-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -10688,36 +10678,6 @@
           "wordCount": 1868,
           "title": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cvgyerv55j2o#0",
-          "author": null,
-          "description": "中国当局は、食用の白菜・キャベツ類の鮮度を保つために有害性化学物質ホルムアルデヒドが一部で使用されているとの指摘を受け、調査を開始した。",
-          "link": "https://www.bbc.com/japanese/articles/cvgyerv55j2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-24T08:38:54.000Z",
-          "wordCount": 1775,
-          "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/czjzydk8zkwo#0",
-          "author": null,
-          "description": "イギリスの小規模発電所がサイバー攻撃を受け、一時操業を停止していたことが明らかになった。7月に発生したこの攻撃については、イギリス政府も、重要インフラへの攻撃に対処する国家サイバーセキュリティーセンター（NCSC）も、影響を受けた施設の詳細を明らかにしなかった。ただし、大規模発電所のような基幹サービスへの攻撃ではなかったという。",
-          "link": "https://www.bbc.com/japanese/articles/czjzydk8zkwo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-24T08:13:41.000Z",
-          "wordCount": 1840,
-          "title": "イギリスの発電所にサイバー攻撃、イランと関係あるハッカー集団が関与か",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ce8e0xzjn2go#0",
-          "author": null,
-          "description": "サッカーのアルゼンチン代表だった故ディエゴ・マラドーナ氏が1986年のワールド・カップ（W杯）で、「神の手」ゴールとして有名なゴールを決めた際に使われていたサッカーボールが22日、オークションで335万ドル（約5億3300万円）で落札された。",
-          "link": "https://www.bbc.com/japanese/articles/ce8e0xzjn2go?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-24T08:06:43.000Z",
-          "wordCount": 1832,
-          "title": "マラドーナ選手「神の手」ゴールのボール、5億円超で落札",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg"
         }
       ]
     },
@@ -12792,26 +12752,6 @@
           "wordCount": 726,
           "title": "iPhone 18 Pro、思ったより高額ではないかも。アップルがコストを一部肩代わりとの予想",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/60d1e6a928898b99855e1c6f0cd46890.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=131516",
-          "author": "Munenori Taniguchi",
-          "description": "現在、ロードスターを除けば、一般向けの販売車種がほぼすべてSUVという保守的なラインナップに落ち着いているマツダだが、最近米特許商標庁（USPTO）に提出された特許出願技術は、筋金入りのマツダファンなら気になるであろうロータリーエンジンに関するものだ。 マツダがロータリーエンジンをレンジエクステンダ […]",
-          "link": "https://gadget.phileweb.com/post-131516/",
-          "publishedOn": "2026-08-24T08:45:00.000Z",
-          "wordCount": 714,
-          "title": "マツダ、ロータリーエンジンの排ガス問題を改善する新特許を米国で出願",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/1952f68db8f8e32eff4ee0bd6c826e2d.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=131502",
-          "author": "Munenori Taniguchi",
-          "description": "間もなくリリースされるLinux 7.3カーネルに、前世紀の人気ビデオカード「Voodoo3」用ドライバーのアップデートが取り込まれた。これにより、同グラフィックカードはBIOSの手助けなしに起動が可能になるという。 1990年代からPCの自作を嗜んできたベテランPCマニアなら、Voodoo3という […]",
-          "link": "https://gadget.phileweb.com/post-131502/",
-          "publishedOn": "2026-08-24T07:30:00.000Z",
-          "wordCount": 721,
-          "title": "前世紀の名グラボ「3dfx Voodoo3」向けのLinuxドライバーがアップデート",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/4ae1352a37316b249e4a454ba0b2dfc8.jpg"
         }
       ]
     },
@@ -12820,6 +12760,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067534.html",
+          "author": "nobi0929",
+          "description": "1 名前：ぐれ ★：2026/09/22(火) 09:51:15.86 ID:F6k+QIG89.net\n\n\n\n\n\n\n\n去年、訳の分からんことした反動やね。「作れば赤字」米価大幅下落でコメ農家窮地に　新米コシヒカリ販売価格が前年より2000円安　過去最大の“コメ余り”　家計助かる一方で　新潟(ＢＳＮ新潟放送...",
+          "link": "https://itainews.com/archives/2067534.html",
+          "publishedOn": "2026-09-22T22:00:46.000Z",
+          "wordCount": 3093,
+          "title": "【新潟】「作れば赤字」米価大幅下落でコメ農家窮地に　新米コシヒカリ販売価格が前年より2000円安　過去最大の“コメ余り”",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/7/e78d8c00-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067554.html",
           "author": "damono3856",
@@ -19889,56 +19839,6 @@
           "wordCount": 3325,
           "title": "顔と名前を覚えたい→名刺交換と一緒にスマホで相手を撮影→これってマナー違反？【ビジネスマナー講師が解説】",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/b/db209672-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066430.html",
-          "author": "damono3856",
-          "description": "1 名前：♪♪♪ ★：2026/08/24(月) 07:03:40.65 ID:hozdZ81I9.net\n\n\n\n\n\n\n\n千葉豪雨、水没車両は1万台規模か　一変した日常「まだ10年乗りたかった」愛車との別れに悲痛な声【news LOG】https://t.co/eT9Wbnyu2F— 日テレNEWS NNN (@news24ntv) August 23, 2026  \n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2066430.html",
-          "publishedOn": "2026-08-24T10:02:36.000Z",
-          "wordCount": 3191,
-          "title": "千葉豪雨、水没車両は1万台規模か　一変した日常「まだ10年乗りたかった」愛車との別れに悲痛な声",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/4/642e3ef1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066419.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/23(日) 19:19:10.42 ID:QZoEea4u0●.net\n\n\n\n\n\n\n\nすげぇ。こんな考え出来るなんてマジですげぇ。 https://t.co/upuwGH0eMb— もへもへ (@gerogeroR) August 23, 2026 \n\n\n\n\n\n\n\n\n\n\n\nhttps://i.imgur.com/8RmcTMD.jpeg",
-          "link": "https://itainews.com/archives/2066419.html",
-          "publishedOn": "2026-08-24T09:30:52.000Z",
-          "wordCount": 3860,
-          "title": "パヨクさん「托卵されようが夫は妻と、生まれてくる子供を愛せばいいだけの話。血統主義夫は自己中」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/2/62ac468c-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066429.html",
-          "author": "damono3856",
-          "description": "1 名前：：2026/08/23(日) 22:50:56.09 ID:CwImak/f0●.net\n\n\n\n\n\n\n\n『北斗の拳』は「見切り発車」だった　後で「ところでケンシロウは何で旅してるんだ」って　話の肖像画　漫画原作者・武論尊＜21＞https://t.co/GJqGcoK7erやっぱり女を追いかけているんだろうな、って...",
-          "link": "https://itainews.com/archives/2066429.html",
-          "publishedOn": "2026-08-24T09:01:38.000Z",
-          "wordCount": 3570,
-          "title": "原作者武論尊　『北斗の拳』は見切り発車、そもそも彼らなんで旅してるんでしょうね",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/7776ebff-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066424.html",
-          "author": "nobi0929",
-          "description": "1 名前：muffin ★：2026/08/23(日) 14:01:43.42 ID:aWhXvOof9.net\n\n\n\n\n\n\n\n『みいちゃんと山田さん』アニメ化問題について、全国手をつなぐ育成会連合会（知的障害のある人や家族、支援者などによる10万人規模の全国組織）と全国「精神病」者集団（1974年5月に結成された...",
-          "link": "https://itainews.com/archives/2066424.html",
-          "publishedOn": "2026-08-24T08:00:03.000Z",
-          "wordCount": 3403,
-          "title": "「みいちゃんと山田さん」アニメ化で新たに別団体「全国『精神病』者集団」が意見書公表、問題未解決なら「中止」を要求",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/4/a4f0ec8b-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066423.html",
-          "author": "takakichi5346",
-          "description": "1 名前：それでも動く名無し：2026/08/23(日) 21:22:23.37 ID:Q1+y/81j0.net\n\n\n\n\n\n\n\nりくりゅう、教室の隅っこでいちゃいちゃしてるから興味ないけど付き合ってるのって聞いてみたらえー笑笑クスクスみたいな感じで返されるような大してお前らに興味ないのにめんどくさい...",
-          "link": "https://itainews.com/archives/2066423.html",
-          "publishedOn": "2026-08-24T07:30:49.000Z",
-          "wordCount": 3580,
-          "title": "【悲報】日本国民の「りくりゅう」叩き、一線を越えるｗｗｗｗｗ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/e/2e2845d2-s.png"
         }
       ]
     },
@@ -23907,36 +23807,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127295/",
-          "author": null,
-          "description": "椹木伸一氏（原作）、ガス山タンク氏（作画）による漫画をテレビアニメ化する「ペンと手錠（ワッパ）と事実婚」の放送開始時期が2027年1月に決定した。メインキャストを前野智昭、水瀬いのりが務めるほか...",
-          "link": "https://anime.eiga.com/news/127295/",
-          "publishedOn": "2026-08-24T10:00:00.000Z",
-          "wordCount": 779,
-          "title": "「ペンと手錠と事実婚」27年1月放送開始　中年刑事役に前野智昭、筆談女子高生役に水瀬いのり",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127303/",
-          "author": null,
-          "description": "テレビアニメ「Fate/strange Fake」の新シリーズ制作が決定した。PVとティザービジュアルが公開されている。 2015年から刊行中（KADOKAWA刊）の原作は「デュラララ!!」で知...",
-          "link": "https://anime.eiga.com/news/127303/",
-          "publishedOn": "2026-08-24T09:00:00.000Z",
-          "wordCount": 819,
-          "title": "「Fate/strange Fake」TVアニメ新シリーズ製作決定　アヤカ、セイバー、シグマの横顔を映したPV＆ティザービジュアル公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23945,6 +23815,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126696",
+          "author": null,
+          "description": "HJノベルス刊『呼び出された殺戮者』の新コミカライズ連載が、「COMICリュ...",
+          "link": "https://ln-news.com/articles/126696",
+          "publishedOn": "2026-09-22T21:00:00.000Z",
+          "wordCount": 229,
+          "title": "『呼び出された殺戮者』の新コミカライズ連載が開始　勇者として呼び出された最凶男のダークファンタジー",
+          "imageUrl": "https://assets.ln-news.com/images/medias/e0e9f68ca73c4af39737fa523669da43.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126728",
           "author": null,
@@ -24934,16 +24814,6 @@
           "wordCount": 3083,
           "title": "FRUITSZIPPER × GRe4NBOYZ コラボコメント動画",
           "imageUrl": "https://i.ytimg.com/vi/tbLRYgsDN8c/hqdefault.jpg?sqp=-oaymwEkCMoBEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBZ0y6TL4VeMl6RLOX7kZvtxg9V8g"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w7affz8vIVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w7affz8vIVs",
-          "publishedOn": "2026-08-24T09:00:05.000Z",
-          "wordCount": null,
-          "title": "GRe4N BOYZ /「虹」 Teaser Part.1",
-          "imageUrl": null
         }
       ]
     },
