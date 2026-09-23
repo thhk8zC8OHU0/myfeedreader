@@ -4113,6 +4113,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/1c8dc0686367ff16b9091545be930c3af2021992?source=rss",
+          "author": null,
+          "description": "１１年ぶりの５連休となったシルバーウィークも23日が最終日。\n\n　関西空港には、連休を海外で過ごした人が多く帰国したほか、大阪・天王寺のてんしばではオクトーバーフェストが開かれ、近場でレジャーを楽し",
+          "link": "https://news.yahoo.co.jp/articles/1c8dc0686367ff16b9091545be930c3af2021992?source=rss",
+          "publishedOn": "2026-09-23T09:28:35.000Z",
+          "wordCount": 1816,
+          "title": "11年ぶり“奇跡の５連休”　シルバーウィークは「自宅でゆっくり」が過半数に？？　多くの人が近場でレジャー　一方で関空には帰国する人の姿も　この連休から見る今後の傾向は？(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082688-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e519591c2e0936b8eec15fea51390d10a3c1a815?source=rss",
+          "author": null,
+          "description": "自称占い師の男（３２）が、知人女性の暗号資産約７３００万円相当を自身の口座に不正に移した疑いで逮捕されました。\n\n　兵庫県姫路市に住む、自称占い師の伊勢大輔容疑者（３２）はおととし１０月、知人女性（",
+          "link": "https://news.yahoo.co.jp/articles/e519591c2e0936b8eec15fea51390d10a3c1a815?source=rss",
+          "publishedOn": "2026-09-23T07:11:19.000Z",
+          "wordCount": 1682,
+          "title": "【速報】姫路市の自称“占い師”の男　パスワード失念した知人女性から相談受け･･･自身の口座に暗号資産約７３００万円相当を不正に移したか　「ハッキングするほどの能力ありません」容疑を否認(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082687-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/669203adffd7f279131dc4438fb402772c3dccfb?source=rss",
           "author": null,
           "description": "京都市山科区が誕生して１０月で５０周年を迎えるの前に、地元で活動する４つの団体が２３日、区内の公園でイベントを開催しています。\n\n　人口の増加に伴い、京都市山科区は１９７６年１０月１日に、東山区から",
@@ -11324,6 +11344,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=133759",
+          "author": "Munenori Taniguchi",
+          "description": "スイス連邦工科大学チューリッヒ校（ETH Zurich）の研究者たちは、手首から先しかない自律型ロボットハンドを開発した。映画『アダムス・ファミリー』に登場する、人の手首から先だけの格好でちょこまかと歩きまわるキャラクター「ハンドくん（The Thing）」から着想を得たという。 中国Wuji Te […]",
+          "link": "https://gadget.phileweb.com/post-133759/",
+          "publishedOn": "2026-09-23T08:45:00.000Z",
+          "wordCount": 715,
+          "title": "【動画】アダムス・ファミリー「ハンドくん」風、手だけの歩くロボット。強化学習で14種類の路面に対応",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/9119aaf426771828b423a9cc12bcdc68.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=133734",
+          "author": "多根清史",
+          "description": "ポケモンカードゲーム（略称「ポケカ」）は2026年に30周年を迎え、記念拡張パック「30th Celebration」は、発売に際して店舗に長蛇の列ができるほどの人気を集めている。その背景には、品薄の商品がフリマサイトやネットオークションなどで高値転売されるという状況もある。 これに先立つ6月、米オ […]",
+          "link": "https://gadget.phileweb.com/post-133734/",
+          "publishedOn": "2026-09-23T05:50:00.000Z",
+          "wordCount": 705,
+          "title": "72歳男性、ポケカの店舗配送車にGPS追跡装置取り付け有罪に。不正に入荷情報得ようとしたか",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/79cc1665f2966c600737d3f48811b34a.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=133717",
           "author": "Munenori Taniguchi",
           "description": "航空ベンチャー企業のJoby Aviationは、同社の技術を搭載し自律飛行を可能にしたセスナ機を用い、安全のため搭乗したパイロットの介入なしに米国を西海岸から東海岸まで横断することに成功した。 このチャレンジは、技術的なデモンストレーションだけでなく、自律飛行技術やその運用方法、そして既存の航空機 […]",
@@ -12830,6 +12870,86 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067570.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/22(火) 21:44:01.97 ID:Zn9YbZjt0●.net\n\n\n\n\n\n\n\n「男なら扉開けて着替えろ」　県立病院の女性課長がセクハラ https://t.co/JHHCMSRbsc— テレ朝NEWS (@tv_asahi_news) September 22, 2026  \n\n\n\n\n\n\nセクハラとパワハラが判明したのは静岡の県立総合病院...",
+          "link": "https://itainews.com/archives/2067570.html",
+          "publishedOn": "2026-09-23T09:31:08.000Z",
+          "wordCount": 3322,
+          "title": "女性課長、着替えを恥ずかしがる男性職員に「男なんだからとびら開けて着替えろ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8e808772-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067567.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2026/09/23(水) 06:32:44.94 ID:pDI0TJgX9.net\n\n\n\n\n\n\n\nトランプ氏、国連全加盟国にICC脱退を要請　「反米的な法廷」https://t.co/T5D757kmtX— 日本経済新聞 電子版（日経電子版） (@nikkei) September 22, 2026  \n\n\n\n\n\n\n【ニューヨーク=甲原潤之介】...",
+          "link": "https://itainews.com/archives/2067567.html",
+          "publishedOn": "2026-09-23T09:02:06.000Z",
+          "wordCount": 3328,
+          "title": "トランプ氏、ICC全加盟国に脱退を要請　「反米的な法廷」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/9/290e237a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067565.html",
+          "author": "damono3856",
+          "description": "1 名前：七波羅探題 ★：2026/09/22(火) 20:27:39.92 ID:JbNPfzpd9.net\n\n\n\n\n\n\n\n博士号求め、奈良女子大を提訴 － 論文審査「合格」も不授与https://t.co/GqDMsO4Ai4— 共同通信公式 (@kyodo_official) September 22, 2026  \n\n\n\n\n\n\n　博士論文の審査合格や学術誌掲載など...",
+          "link": "https://itainews.com/archives/2067565.html",
+          "publishedOn": "2026-09-23T08:02:42.000Z",
+          "wordCount": 3567,
+          "title": "博士号求め、奈良女子大を提訴　論文審査「合格」も不授与",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/a/3aff5392-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067577.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/23(水) 10:47:44.26 ID:WO4Gph9f0●.net \n\n\n\n\n\n\n\n高市首相、やりよった！ 旧敵国条項の削除を要請「日本の誇りと名誉にかけて強く申し上げる」→日本の国連加盟70周年。その節目の国連総会で、長年残されてきた「旧敵国条項」について、「早急に削除さ...",
+          "link": "https://itainews.com/archives/2067577.html",
+          "publishedOn": "2026-09-23T07:31:17.000Z",
+          "wordCount": 4217,
+          "title": "【速報】　高市総理、国連演説で「敵国条項を削除すべき」と真正面から主張　超絶GJだろこれ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/f/aff8f5c6-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067563.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/22(火) 22:15:46.61 ID:OPwBLHwh0●.net 2BP(2000)\n\n\n\n\n\n\n\n現在のスペイン領、セウタの様子一気に移民希望者が押し寄せたことでここまで街の様子が一変します pic.twitter.com/u0v2j8Z6Yp— ulala🇫🇷エンジニア視点の時事解説：日仏の思考の違いを解...",
+          "link": "https://itainews.com/archives/2067563.html",
+          "publishedOn": "2026-09-23T07:04:32.000Z",
+          "wordCount": 3663,
+          "title": "大量の移民が押し寄せたスペイン領セウタ、ゴミだらけのスラム状態に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c087ccb2-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067562.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/22(火) 20:26:43.11 ID:IjSVfBFM0●.net 2BP(3001)\n\n\n\n\n\n\n\n元カレとも子どもがほしい30代ママ　鈴木涼美が思う「子宮を外で使おうという願望」が「わりと普通に存在する欲望」なわけ https://t.co/d9j1oPVLTp— AERA DIGITAL (@dot_asahi_pub) Septemb...",
+          "link": "https://itainews.com/archives/2067562.html",
+          "publishedOn": "2026-09-23T06:33:40.000Z",
+          "wordCount": 3657,
+          "title": "35歳人妻「元カレのことが今でも大好きで元カレとの子供もほしいです。どうすればいいですか？」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/6/66f331a2-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067561.html",
+          "author": "takakichi5346",
+          "description": "1 名前：バイト歴50年 ★：2026/09/22(火) 18:02:31.20 ID:hgIDnvWc9.net\n\n\n\n\n\n\n\n政党助成金を自分あてに「寄付」/自民候補　１７億円/２４年１０月総選挙/国民の生活苦よそに高市氏ら２１７人平均７９８万円｜しんぶん赤旗｜日本共産党 https://t.co/V2RTJ5wKPP— 小池...",
+          "link": "https://itainews.com/archives/2067561.html",
+          "publishedOn": "2026-09-23T06:01:54.000Z",
+          "wordCount": 4495,
+          "title": "自民党　原資が国民の税金である「政党助成金」を自分あてに「寄付」17億円",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/8/58067731-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067560.html",
+          "author": "takakichi5346",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2026/09/22(火) 19:10:21.61 ID:Gouf0LDp9.net\n\n\n\n\n\n\n\nM!LKの大躍進に藤島ジュリー景子氏“怒り”報道のウラで…STARTOファンvsM!LKファンの“対立が広がらない”ワケ https://t.co/TwJcJiNOBc— ピンズバNEWS (@pinzubanews) Septem...",
+          "link": "https://itainews.com/archives/2067560.html",
+          "publishedOn": "2026-09-23T05:34:42.000Z",
+          "wordCount": 3489,
+          "title": "【STARTO ENTERTAINMENT】M!LKの大躍進に藤島ジュリー景子氏が激怒か…『MAJ』受賞に不満で「今後うちの子たちは出さない」“憤慨”報道",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/2/f29a1b1c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067564.html",
           "author": "nobi0929",
@@ -20393,16 +20513,6 @@
           "wordCount": 5063,
           "title": "Sony & Mitsubishi Electric collab",
           "imageUrl": null
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/08/elio-raises-21m-for-ai-sensing.html",
-          "author": null,
-          "description": "Elio: https://www.eliolabs.com/technology \nNews Link: https://www.businesswire.com/news/home/20260723118244/en/Elio-Raises-%2421M-to-Build-Sensing-for-the-AI-Era\nSILICON VALLEY, Calif.--(BUSINESS WIRE)--Elio, a company building sensors designed for artificial intelligence rather than the human eye, today announced a $21 million funding round led by Innovation Endeavors and Xora, with participation from Kevin Weil and Scribble VC. Existing investors UpWest and Resolute Ventures, who led the company's previous round, are continuing their support.\nToday's sensors capture one fixed view of the world, decided in advance, shaped by what the human eye can see rather than what a machine needs. Elio is changing that: its sensors let AI decide what to capture, in real time, based on what it is tryin…",
-          "link": "https://image-sensors-world.blogspot.com/2026/08/elio-raises-21m-for-ai-sensing.html",
-          "publishedOn": "2026-08-24T18:57:00.000Z",
-          "wordCount": 4233,
-          "title": "Elio raises $21m for AI sensing",
-          "imageUrl": null
         }
       ]
     },
@@ -21098,6 +21208,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127497/",
+          "author": null,
+          "description": "トム・クルーズとアレハンドロ・G・イニャリトゥ監督が挑んだ“規格外”の新作映画「DIGGER ディガー」が10月9日より日本公開される。このほど、日本語吹替版の上映が決定し、超豪華ベテラン声優陣...",
+          "link": "https://anime.eiga.com/news/127497/",
+          "publishedOn": "2026-09-23T09:00:00.000Z",
+          "wordCount": 761,
+          "title": "超豪華声優陣が集結「DIGGER ディガー」日本語吹替版上映決定　吹替テレビスポット、IMAX＆Dolbyポスター、場面写真も解禁",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127456/",
           "author": null,
@@ -23920,6 +24045,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126704",
+          "author": null,
+          "description": "MF文庫J発のアニメ『Re：ゼロから始める異世界生活』のJR東海「推し旅」の...",
+          "link": "https://ln-news.com/articles/126704",
+          "publishedOn": "2026-09-23T08:30:00.000Z",
+          "wordCount": 303,
+          "title": "アニメ『Re：ゼロから始める異世界生活』とJR東海「推し旅」のコラボイベントが開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/1724f106aad44a2aa05b4be4c7bd209b.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126687",
+          "author": null,
+          "description": "KAエスマ文庫発の劇場アニメ『ヴァイオレット・エヴァーガーデン 外伝 -永遠...",
+          "link": "https://ln-news.com/articles/126687",
+          "publishedOn": "2026-09-23T07:00:00.000Z",
+          "wordCount": 235,
+          "title": "『ヴァイオレット・エヴァーガーデン』と腕時計メーカー・セイコーがコラボした腕時計が登場",
+          "imageUrl": "https://assets.ln-news.com/images/medias/6ab6724951e24c9c9d6b9e2896d6823d.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126731",
+          "author": null,
+          "description": "アース・スターノベル発のアニメ『野生のラスボスが現れた！ 第2期』の最新キー...",
+          "link": "https://ln-news.com/articles/126731",
+          "publishedOn": "2026-09-23T05:30:00.000Z",
+          "wordCount": 344,
+          "title": "アニメ『野生のラスボスが現れた！ 第2期』最新キービジュアルが公開　キャスト出演第2期放送前特番の配信も決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/ee11fb30bdf8469b9bd4036cbe91166c.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126729",
           "author": null,
