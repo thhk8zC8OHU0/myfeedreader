@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/016/G101604/20260918046/",
+          "author": null,
+          "description": "バンダイナムコエンターテインメントは2026年10月15日に「テイルズオブエターニアリマスター」を発売する。オリジナル版から25年以上の歳月を経て蘇った傑作RPGを発売前に試遊する機会を得たので，オリジナル版からの変更点を中心にレポートしたい。",
+          "link": "https://www.4gamer.net/games/016/G101604/20260918046/",
+          "publishedOn": "2026-09-23T14:00:00.000Z",
+          "wordCount": 9018,
+          "title": "約25年の歳月を経て蘇った「テイルズ オブ エターニア」はやはり最高だった。メディア向けの試遊で確認できたリマスターでの変更点をチェック",
+          "imageUrl": "https://www.4gamer.net/games/016/G101604/20260918046/SS/012.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/649/G064915/20260921069/",
           "author": null,
           "description": "TGS2026の「わしゃがなTV出張版」で，「餓狼伝説CityoftheWolves」のステージが開催された。中村悠一さんがカインを操作し，簡単に連続技を出せるスマートスタイルを体験した。マフィア梶田さんとともに，サルバトーレ・ガナッチの技の意外な元ネタや春麗の造形をめぐる開発陣の話を聞いた。",
@@ -4074,36 +4084,6 @@
           "wordCount": 8336,
           "title": "「天地創造」，現行機向け移植版を2027年初頭に発売決定。1995年にSFCで発売されたアクションRPGの名作が復活",
           "imageUrl": "https://www.4gamer.net/games/035/G103571/20260825011/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/421/G042182/20260824042/",
-          "author": null,
-          "description": "「ゼンレスゾーンゼロ」のVer.3.2「秘密と、過去と、彼女たちと」予告番組が，8月28日20：30に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
-          "link": "https://www.4gamer.net/games/421/G042182/20260824042/",
-          "publishedOn": "2026-08-24T23:00:00.000Z",
-          "wordCount": 8150,
-          "title": "「ゼンレスゾーンゼロ」，Ver.3.2「秘密と、過去と、彼女たちと」予告番組は8月28日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-          "imageUrl": "https://www.4gamer.net/games/421/G042182/20260824042/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/969/G096932/20260824048/",
-          "author": null,
-          "description": "シティコネクションは2026年8月25日，「じゃじゃ丸の百鬼夜行伝」を2027年内に発売すると発表した。本作は，2025年に発売40周年を迎えた「忍者じゃじゃ丸くん」シリーズの“ハックアンドスラッシュアクション”だ。ゲームプレイシーンを確認できるトレイラーも掲載しよう。",
-          "link": "https://www.4gamer.net/games/969/G096932/20260824048/",
-          "publishedOn": "2026-08-24T22:00:00.000Z",
-          "wordCount": 8233,
-          "title": "「じゃじゃ丸の百鬼夜行伝」，2027年内に発売。多彩な装備や忍法でダンジョンを攻略するハクスラアクション",
-          "imageUrl": "https://www.4gamer.net/games/969/G096932/20260824048/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/034/G103417/20260824038/",
-          "author": null,
-          "description": "シティコネクションは本日，2026年12月10日に発売を予定しているベルトスクロールアクション「野球格闘リーグマンBasesLoaded」に，「燃えろ!!プロ野球」とのコラボステージを実装すると発表した。ホームラン級の威力を誇る新技「バント」も登場する。",
-          "link": "https://www.4gamer.net/games/034/G103417/20260824038/",
-          "publishedOn": "2026-08-24T22:00:00.000Z",
-          "wordCount": 8435,
-          "title": "「野球格闘リーグマン Bases Loaded」，「燃えろ!!プロ野球」とのコラボステージを実装。ホームラン級の威力を誇る新技「バント」も登場",
-          "imageUrl": "https://www.4gamer.net/games/034/G103417/20260824038/SS/001.jpg"
         }
       ]
     },
@@ -4112,6 +4092,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/324f075d00ae0592528785406bbb6fdf9f9edb1e?source=rss",
+          "author": null,
+          "description": "彼岸の伝統行事「砂灸」がありました。\n\n　箱の中の砂を踏んで、つけた足跡にお灸をすえる「砂灸」は、その昔、徳島市の農家が家に泊まった修行僧に教わったとされています。\n\n　この行事は毎年、春と秋の彼岸",
+          "link": "https://news.yahoo.co.jp/articles/324f075d00ae0592528785406bbb6fdf9f9edb1e?source=rss",
+          "publishedOn": "2026-09-23T10:28:07.000Z",
+          "wordCount": 1676,
+          "title": "徳島市での彼岸伝統行事「砂灸」　農家が泊まった修行僧に教わったとされる伝統行事　人だけでなく猫も体験？(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082689-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b0b2be5fb6e59181cbd135a87e49b1577b6211a7?source=rss",
+          "author": null,
+          "description": "暗号資産７３００万円相当を不正に移した疑いです。\n\n　兵庫県姫路市の自称・占い師、伊勢大輔容疑者（３２）はおととし１０月、知人女性（５４）が保有する暗号資産、約７３００万円相当を自身の口座に不正に移",
+          "link": "https://news.yahoo.co.jp/articles/b0b2be5fb6e59181cbd135a87e49b1577b6211a7?source=rss",
+          "publishedOn": "2026-09-23T10:08:57.000Z",
+          "wordCount": 1664,
+          "title": "知人女性の暗号資産7300万円相当を自身の口座に移したか　32歳の自称・占い師の男逮捕　会話からパスワードを割り出した可能性も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082691-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e72ee305088feb0053afa1ce33bb249ad2a21795?source=rss",
+          "author": null,
+          "description": "大型の鳥「エミュー」が住宅街を歩き回りました。\n\n　傘で追い払おうとする女性に頭を突き出すように近寄っていくのは、大型の鳥「エミュー」です。女性の背丈ほどの大きさに見えます。\n\n　午前６時４５分ごろ",
+          "link": "https://news.yahoo.co.jp/articles/e72ee305088feb0053afa1ce33bb249ad2a21795?source=rss",
+          "publishedOn": "2026-09-23T10:08:37.000Z",
+          "wordCount": 1667,
+          "title": "体長約２メートル「エミュー」が住宅街を歩き回る　目撃から約２時間後に捕獲　周辺住人にけがなし　滋賀・守山市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082690-asahibcv-000-3-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/1c8dc0686367ff16b9091545be930c3af2021992?source=rss",
           "author": null,
@@ -10758,16 +10768,6 @@
           "wordCount": 1812,
           "title": "ウクライナ、ロシア通販2位オゾンの施設を攻撃",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cd94dzjqv5wo#0",
-          "author": null,
-          "description": "イギリスのバーナム首相は24日、就任以降初めて公式訪問しているウクライナで、ロシアからの「言語道断の脅迫」にひるむことなく、イギリスはロシアに圧力をかけ続けると誓った。",
-          "link": "https://www.bbc.com/japanese/articles/cd94dzjqv5wo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-25T01:39:38.000Z",
-          "wordCount": 1868,
-          "title": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg"
         }
       ]
     },
@@ -11315,26 +11315,6 @@
           "wordCount": 2630,
           "title": "AIデータセンター管理向けUSB-UARTブリッジ、MaxLinear",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/21/l_edn20260818edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/24/news073.html",
-          "author": null,
-          "description": "今回はInfineon Technologiesが手掛ける「TriCore（トライコア）」を紹介する。十分、現役なのだが、登場して30年以上が経過しているので、“懐古録”として取り上げられるほど長い歴史を持つプロセッサだ。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/24/news073.html",
-          "publishedOn": "2026-08-25T02:00:00.000Z",
-          "wordCount": 2670,
-          "title": "シーメンス時代に開発された「TriCore」　今は車載MCUで息づく",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/24/cover_news073.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/25/news047.html",
-          "author": null,
-          "description": "Texas Instruments（TI）は、CAN XL（Controller Area Network extended data-field length）対応トランシーバー「TCAN6062」を発売した。データレートは最大20Mビット/秒で、1フレーム当たり最大2048バイトのペイロードに対応する。商用CAN XLトランシーバーは「業界で初めて」（TI）だという。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/25/news047.html",
-          "publishedOn": "2026-08-25T00:00:00.000Z",
-          "wordCount": 2675,
-          "title": "「業界初」商用CAN XLトランシーバー　ヒューマノイドなど想定",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/25/cover_news047.jpg"
         }
       ]
     },
@@ -12870,6 +12850,76 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067593.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/23(水) 14:05:36.21 ID:U59wwBlt0●.net\n\n\n\n\n\n\n\n米ジェットコースターで100人超が脳損傷訴え、死亡や後遺症も　時速130キロ近く、座席は360度回転https://t.co/s8QzafV9Bi— cnn_co_jp (@cnn_co_jp) September 23, 2026  \n\n\n\n\n\n\n（CNN）　米カリフォル...",
+          "link": "https://itainews.com/archives/2067593.html",
+          "publishedOn": "2026-09-23T14:01:41.000Z",
+          "wordCount": 3274,
+          "title": "時速140km　アメリカのジェットコースターで100人以上脳損傷、死亡者も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/a/dad4263a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067579.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/23(水) 10:32:25.83 ID:OR9yxGrO0●.net\n\n\n\n\n\n\n\n「2時間の映画に耐えられない」子どもが急増。脳科学者が警告する“倍速・ショート動画”の想像以上に恐ろしい影響(with online)#Yahooニュースhttps://t.co/sfF5EcfmGI— #SOZO美術館 (@sozo_museum) S...",
+          "link": "https://itainews.com/archives/2067579.html",
+          "publishedOn": "2026-09-23T13:01:31.000Z",
+          "wordCount": 3743,
+          "title": "「2時間の映画に耐えられない」子どもが急増。脳科学者が警告“倍速・ショート動画”の恐ろしい影響",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/a/ba482b1c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067574.html",
+          "author": "takakichi5346",
+          "description": "1 名前：征夷大将軍 ★：2026/09/23(水) 08:14:19.51 ID:jN4Kie6v9.net\n\n\n\n\n\n\n\nポケカ30周年、買い占めた転売屋が悲鳴。高レアカードが予想以上に出やすく相場急落（多根清史） https://t.co/fCIWJbmzmN— 不良将校 (@tiger3kai) September 22, 2026 \n\n\n\n\n\n\nYahoo!オリジ...",
+          "link": "https://itainews.com/archives/2067574.html",
+          "publishedOn": "2026-09-23T12:02:13.000Z",
+          "wordCount": 3441,
+          "title": "【ポケモンカード】ポケカ30周年、買い占めた転売屋が悲鳴。高レアカードが予想以上に出やすく相場急落",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/d/fdce8b3f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067591.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/23(水) 13:57:33.95 ID:Nf5nG4MO9.net\n\n\n\n\n\n\n\n【速報】クマが海を泳ぎ無人島に上陸　漁船に居座った個体か　宮城・塩釜市 | khb東日本放送 https://t.co/Cil1c6z8x6— khb報道部 (@HodoKhb) September 23, 2026  \n\n\n\n\n\n\n【速報】クマが海を...",
+          "link": "https://itainews.com/archives/2067591.html",
+          "publishedOn": "2026-09-23T11:31:06.000Z",
+          "wordCount": 3236,
+          "title": "クマが海を泳ぎ無人島に上陸　漁船に居座った個体か　宮城・塩釜市",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/778e7730-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067569.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/22(火) 21:25:18.19 ID:kNlxuko90●.net\n\n\n\n\n\n\n\n9月21日，天津，一名老人摔倒在路边。现场拍摄者称，周围“没人敢管，谁也不敢扶”。视频显示，老人随后多次尝试自行爬起，但均未成功。评论区有网友留言称：“兜里有钱吗？”“信不过她家属的人品。” ...",
+          "link": "https://itainews.com/archives/2067569.html",
+          "publishedOn": "2026-09-23T11:00:35.000Z",
+          "wordCount": 3795,
+          "title": "中国・天津の路上で高齢者が転倒するも誰も助けようとしない件",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/3/c31eaded.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067578.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/23(水) 08:57:58.50 ID:tKmHtx5r9.net\n\n\n\n\n\n\n\nキツネと言えば稲荷神社！キツネは神様の使者！キツネがモグラをくわえて現れ玄関先にポトリと落として去って行った…今年7回目のキツネ出没、謎行動に住民困惑　専門家が立てた仮説「日当たりの良...",
+          "link": "https://itainews.com/archives/2067578.html",
+          "publishedOn": "2026-09-23T10:31:16.000Z",
+          "wordCount": 3336,
+          "title": "キツネが「モグラ」をくわえて現れ、玄関先にポトリと落として去る…今年7回目の出没　専門家「日当たりの良い所に置いて干物に…」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/0/40430d8e-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067568.html",
+          "author": "damono3856",
+          "description": "1 名前：もん様！：2026/09/23(水) 05:34:26.80 ID:I0+UmoK+0●.net\n\n\n\n\n\n\n\n【ＭＬＢ】イチロー氏　女子選手への〝圧勝劇〟が波紋「生物学的に性別の違いが運動能力差の要因」｜東スポWEB https://t.co/rTAAiWaNjq— 東スポ (@tospo_prores) September 22, 2026  \n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2067568.html",
+          "publishedOn": "2026-09-23T10:01:28.000Z",
+          "wordCount": 3440,
+          "title": "イチロー　女子野球で無双し続けたら、52歳の体なのに生物学的理由で海外メディアの議論対象に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/1/b12325dc-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067570.html",
           "author": "damono3856",
@@ -20009,66 +20059,6 @@
           "wordCount": 3186,
           "title": "フランス人 「暑すぎ！！クーラーもないし、川で水浴びするしかない！」 → すでに300人溺死",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/9/99f0c907-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066444.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/08/24(月) 12:34:30.98 ID:MH2OkZ3C0●.net\n\n\n\n\n\n\n\n\n\n\n箸の持ち方#漫画が読めるハッシュタグ pic.twitter.com/EN0n1eTji7— ゐ (@irk_hrk) November 17, 2022 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n引用元\nhttps://news.yahoo.co.jp/articles/62593017838dc6bec728cbd78bf1f90...",
-          "link": "https://itainews.com/archives/2066444.html",
-          "publishedOn": "2026-08-25T02:31:19.000Z",
-          "wordCount": 3516,
-          "title": "男「わさびを醤油に溶かすなんて常識ないな。親に刺身に乗せて食べると教わらなかったの?」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/8/38efdf43.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066442.html",
-          "author": "nobi0929",
-          "description": "1 名前：もん様！：2026/08/24(月) 16:06:36.37 ID:pQvV8CbH0●.net\n\n\n\n\n\n\n\n【判明】ローソン、おにぎり値下げへ 9月29日から手巻きおにぎり一律10円値下げhttps://t.co/6SEjHQB6ir具体的には、「シーチキンマヨネーズ」を税込181円から171円に、「熟成辛子明太子」を税...",
-          "link": "https://itainews.com/archives/2066442.html",
-          "publishedOn": "2026-08-25T02:00:28.000Z",
-          "wordCount": 3502,
-          "title": "おにぎり　なぜか全品値下げ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/d/bde5e944-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066440.html",
-          "author": "takakichi5346",
-          "description": "1 名前：muffin ★：2026/08/24(月) 14:18:28.70 ID:9edoPlm99.net\n\n\n\n\n\n\n\n【「デリカシーがない」川口春奈主演の映画『ママがもうこの世界にいなくても』タイアップポスターが波紋…厚労省は「検討は十分でなかった」と謝罪、各病院にもポスター取り下げを依頼へ】https...",
-          "link": "https://itainews.com/archives/2066440.html",
-          "publishedOn": "2026-08-25T01:03:31.000Z",
-          "wordCount": 3654,
-          "title": "川口春奈主演『ママがもうこの世界にいなくても』タイアップポスターが波紋…厚労省は謝罪、各病院にもポスター取り下げを依頼へ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/0/6045374f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066435.html",
-          "author": "takakichi5346",
-          "description": "1 名前：ぐれ ★：2026/08/24(月) 11:54:16.60 ID:Cb1ik0um9.net\n\n\n\n\n\n\n\n【速報】有期刑の上限「懲役30年」少年（当時17）判決確定　札幌地裁「その責任は重い」江別暴行死https://t.co/SlpjVJXXc0— STVニュース北海道 (@stvhoudoubu) August 24, 2026 \n\n\n\n\n\n\n8/24(月) ...",
-          "link": "https://itainews.com/archives/2066435.html",
-          "publishedOn": "2026-08-25T00:01:19.000Z",
-          "wordCount": 3581,
-          "title": "【江別暴行死】有期刑の上限「懲役30年」少年（当時17）判決確定　札幌地裁「その責任は重い」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/6/b6671393-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066433.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/24(月) 10:24:08.02 ID:E/ff3zvX0●.net\n\n\n\n\n\n\n\n「ながらスマホ」運転、自動検知・警告義務付け　31年から全新型車にhttps://t.co/Z6mki8ET5H— 日本経済新聞 電子版（日経電子版） (@nikkei) August 23, 2026 \n\n\n\n\n\n\n国土交通省は国産車と輸入車を...",
-          "link": "https://itainews.com/archives/2066433.html",
-          "publishedOn": "2026-08-24T23:00:46.000Z",
-          "wordCount": 3075,
-          "title": "「ながらスマホ」運転、自動検知・警告義務付け　31年から全新型車に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/6/3622c505-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066432.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/24(月) 10:18:41.79 ID:E/ff3zvX0●.net\n\n\n\n\n\n\n\n「ゆで太郎」運営会社、社員の約3割が外国人労働者に。代表は「外国人は真面目。日本人は現場で働きたがらない」と受け入れ拡大を訴えました。■外食の特定技能枠「5万人では足りない」と主張■外国人...",
-          "link": "https://itainews.com/archives/2066432.html",
-          "publishedOn": "2026-08-24T22:00:49.000Z",
-          "wordCount": 3048,
-          "title": "社員の3割が「外国人」のゆで太郎・池田智昭氏「外国人は真面目。日本人は現場で働きたがらない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/7/1738c987-s.jpg"
         }
       ]
     },
@@ -20521,6 +20511,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=318848",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 抹茶チーズケーキ」を世界一詳しく調査しました。   【セブンイレブン】セブ […]",
+          "link": "https://foodfighter.jp/711sej-matcha-cheesecake",
+          "publishedOn": "2026-09-23T13:22:33.000Z",
+          "wordCount": 1902,
+          "title": "【セブンイレブン】セブンプレミアム 抹茶チーズケーキ（冷凍スイーツ）【新作コンビニ冷凍食品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/508e5beeb747f25aad12040345a044ad.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=318821",
           "author": "foodfighter",
@@ -21190,16 +21190,6 @@
           "wordCount": 2058,
           "title": "【松屋】豚キムチ定食【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/69046abf031ce85ad5a02e3dba284ab9.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=317134",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、デイリーヤマザキの新商品「喫茶店風のナポリタン（麺70％増量）」を世界一詳しく調査しました。   【デイリーヤマザキ […]",
-          "link": "https://foodfighter.jp/daily-yamazaki-napolitan-zoryo",
-          "publishedOn": "2026-08-25T00:11:53.000Z",
-          "wordCount": 2050,
-          "title": "【デイリーヤマザキ】喫茶店風のナポリタン（麺70％増量）【サービスフェア・新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/80a77bb22b82006bb8e346ec85d87d66.jpg"
         }
       ]
     },
@@ -21208,6 +21198,51 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127473/",
+          "author": null,
+          "description": "アニメ映画「TAMALA2030 a punk cat in dark」が、2027年1月22日から日米同時公開されることが分かった。あわせて、メインビジュアルと本予告映像が披露されている。 同...",
+          "link": "https://anime.eiga.com/news/127473/",
+          "publishedOn": "2026-09-23T12:00:00.000Z",
+          "wordCount": 690,
+          "title": "「TAMALA2030」27年1月22日に日米同時公開　「ファッキンな1日がまた始まりますね」収録の本予告公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127462/",
+          "author": null,
+          "description": "ゲーム「Link！Like！ラブライブ！」で蓮ノ空女学院スクールアイドルクラブの105期生、セラス・柳田・リリエンフェルト役を務めた声優・三宅美羽の1st写真集が、三宅の誕生日である12月14日...",
+          "link": "https://anime.eiga.com/news/127462/",
+          "publishedOn": "2026-09-23T11:00:00.000Z",
+          "wordCount": 735,
+          "title": "「ラブライブ！蓮ノ空女学院」三宅美羽の1st写真集が12月14日に発売　テーマは日常・デート・夢の中",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/editor_bookshelf/127464/",
+          "author": null,
+          "description": "最近は大半の映画を配信で見ることができる。新作が劇場公開からほんの数カ月で配信されることも珍しくなくなってきて、それほど強く見たいと思わない映画は、少し待てば配信されるだろうから、そのときまで待...",
+          "link": "https://anime.eiga.com/news/column/editor_bookshelf/127464/",
+          "publishedOn": "2026-09-23T10:00:00.000Z",
+          "wordCount": 719,
+          "title": "【編集Gのサブカル本棚】第62回　「完全版 ザ・レンチキュラーズ a/b」を見て感じた、映画館でしか見られない作品の意義",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127497/",
           "author": null,
@@ -24046,6 +24081,16 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126718",
+          "author": null,
+          "description": "オーバーラップノベルス発のアニメ『骸骨騎士様、只今異世界へお出掛け中II』の...",
+          "link": "https://ln-news.com/articles/126718",
+          "publishedOn": "2026-09-23T10:00:00.000Z",
+          "wordCount": 235,
+          "title": "アニメ『骸骨騎士様、只今異世界へお出掛け中II』スペシャルムービーが公開　第12話「天晴！ 悪を蹴散らす骸骨裁き！」のあらすじ＆先行カットも到着",
+          "imageUrl": "https://assets.ln-news.com/images/medias/4b144118c5ff450ba95ea417087877d1.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126704",
           "author": null,
           "description": "MF文庫J発のアニメ『Re：ゼロから始める異世界生活』のJR東海「推し旅」の...",
@@ -25363,6 +25408,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/njGhRvRYpXE",
+          "author": null,
+          "description": "陸上自衛隊第3師団草津音楽フェスティバルへ行ってきました！！【陸上自衛隊第３師団のYouTubeチャンネル】@陸上自衛隊第3師団【ちっぴぃちゃんズのYouTubeチャンネル】​⁠​⁠​⁠​⁠@chippychanz #陸上自衛隊 #自衛隊音楽隊 #第3師団 #第3音楽隊 #ちっぴぃちゃんズ #キッチンでドラクエ吹...",
+          "link": "https://www.youtube.com/shorts/njGhRvRYpXE",
+          "publishedOn": "2026-09-23T11:00:13.000Z",
+          "wordCount": 3096,
+          "title": "息ぴったり！@chippychanz",
+          "imageUrl": "https://i.ytimg.com/vi/njGhRvRYpXE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDGYE7ryGp9D0WOPX5rAg4Lw9hA2g&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/shorts/_3zN0osSHTA",
           "author": null,
           "description": "陸上自衛隊第3師団草津音楽フェスティバルへ行ってきました！！【陸上自衛隊第３師団のYouTubeチャンネル】@陸上自衛隊第3師団【ちっぴぃちゃんズのYouTubeチャンネル】​⁠​⁠​⁠@chippychanz #陸上自衛隊 #自衛隊音楽隊 #第3師団 #第3音楽隊 #ちっぴぃちゃんズ #キッチンでドラクエ吹く人...",
@@ -25706,6 +25761,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=p7jTvOu1V14",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p7jTvOu1V14",
+          "publishedOn": "2026-09-23T11:01:39.000Z",
+          "wordCount": null,
+          "title": "お尻が大好きな兄猫に長年追いかけられてる弟がついにこうなっちゃいました…笑",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=th39cxufVQI",
           "author": null,
