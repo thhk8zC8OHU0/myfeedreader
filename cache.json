@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/041/G104110/20260923002/",
+          "author": null,
+          "description": "東京ゲームショウ2026のジー・モードブースに，「ポートピア連続殺人事件」のリメイク作「続ポートピア連続殺人事件:忘却の埋葬」がプレイアブル出展されていた。ファミコン版をやり込んだ編集者が触ってみた感想をお届けしよう。",
+          "link": "https://www.4gamer.net/games/041/G104110/20260923002/",
+          "publishedOn": "2026-09-23T23:00:00.000Z",
+          "wordCount": 8561,
+          "title": "「続ポートピア連続殺人事件:忘却の埋葬」プレイレポ。リメイクによって虫めがねやダンジョンはどう変わった？［TGS2026］",
+          "imageUrl": "https://www.4gamer.net/games/041/G104110/20260923002/SS/005.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/044/G104430/20260918077/",
           "author": null,
           "description": "レジスタは本日（2026年9月24日），Chilla'sArtが手がけるホラーゲーム「夜勤事件」のNintendoSwitch2版を配信開始した。Switch2版では，新規エンディングに加え，マップに点在するマスコット「チラ丸」を集めることで，コンビニ店内に変化が起こる新要素が実装されている。",
@@ -4004,26 +4014,6 @@
           "wordCount": 8503,
           "title": "「ロックマン：デュアル オーバーライド」最新トレイラーを公開。新キャラクター「トゥインクルガール」や新アクションをチェック",
           "imageUrl": "https://www.4gamer.net/games/968/G096894/20260826016/SS/004.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/001/G100114/20260825039/",
-          "author": null,
-          "description": "FellowTravellerは本日（2026年8月25日），ORIGAMEDIGITALが開発中の新作タイトル「PenguinColony」を，10月8日にリリースすると発表した。本作は，「狂気の山脈にて」などのラヴクラフト作品を再解釈した物語を，ペンギンの視点で追っていくホラーシミュレーションゲームだ。",
-          "link": "https://www.4gamer.net/games/001/G100114/20260825039/",
-          "publishedOn": "2026-08-25T10:41:00.000Z",
-          "wordCount": 8221,
-          "title": "凍える南極をペンギンとして探索しながら，狂気に堕ちていく人々を観察。「Penguin Colony」，10月8日に発売決定",
-          "imageUrl": "https://www.4gamer.net/games/001/G100114/20260825039/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/035/G103578/20260825017/",
-          "author": null,
-          "description": "ハムスターは本日，「コンソールアーカイブスバブルボブル」を2026年8月26日に配信すると発表した。「バブルボブル」は，1988年にタイトーから発売されたアクションゲームだ。さらわれたベティーちゃんとパティーちゃんを救うため，バブルンとボブルンが冒険する。全100面で構成されている。",
-          "link": "https://www.4gamer.net/games/035/G103578/20260825017/",
-          "publishedOn": "2026-08-25T10:00:00.000Z",
-          "wordCount": 8273,
-          "title": "「コンソールアーカイブス バブルボブル」，8月26日に配信決定。1988年にタイトーから発売されたアクションゲーム",
-          "imageUrl": "https://www.4gamer.net/games/035/G103578/20260825017/SS/003.jpg"
         }
       ]
     },
@@ -4032,6 +4022,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f3923b0d9909794214254c47976803095d176fc3?source=rss",
+          "author": null,
+          "description": "24日未明、大阪市北区の路上で会社役員の男性が２人組の男に突き飛ばされ負傷し、現金100万円が入ったバッグを奪われました。\n\n　24日午前3時50分ごろ、大阪市北区野崎町の公園付近の路上で、会社役員",
+          "link": "https://news.yahoo.co.jp/articles/f3923b0d9909794214254c47976803095d176fc3?source=rss",
+          "publishedOn": "2026-09-23T23:39:10.000Z",
+          "wordCount": 1630,
+          "title": "会社役員男性　突き飛ばされ100万円入りバッグ奪われる　大阪・北区　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00082693-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/27d86665deee400286e0872aa2ef06fd72266db4?source=rss",
           "author": null,
@@ -8571,36 +8571,6 @@
           "wordCount": 1643,
           "title": "生活道路の法定速度　９月から時速６０キロ→３０キロに　警察が通学路などで啓発活動(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082222-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3d6333d10f9fb293f94a5d3ba06d074ba8f8b30a?source=rss",
-          "author": null,
-          "description": "大阪・ミナミの通称「グリ下」で知り合った１０代の少女に無許可で処方薬を譲り渡したなどとして、医薬品医療機器法違反の疑いで逮捕された男性について、大阪地検は２５日、不起訴処分としました。\n\n　大阪地検",
-          "link": "https://news.yahoo.co.jp/articles/3d6333d10f9fb293f94a5d3ba06d074ba8f8b30a?source=rss",
-          "publishedOn": "2026-08-25T11:13:07.000Z",
-          "wordCount": 1635,
-          "title": "「グリ下」で知り合った１０代少女に無許可で処方薬を譲り渡したとして逮捕の男性　不起訴処分　大阪地検(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082221-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/09d607d236fc2d0e36d37473118b4c8dbd492181?source=rss",
-          "author": null,
-          "description": "いま、新米の値段が古米よりも安くなる逆転現象が起きています。\n\n　消費者にとってはうれしい状況になっていますが、農家や小売店からは不安の声が上がっています。",
-          "link": "https://news.yahoo.co.jp/articles/09d607d236fc2d0e36d37473118b4c8dbd492181?source=rss",
-          "publishedOn": "2026-08-25T11:00:00.000Z",
-          "wordCount": 1684,
-          "title": "新米が古米より安い！？　価格下落の理由は\"コメ余り\"　「5キロで2000円台に突入する可能性も」【専門家解説】(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082220-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cb47ece0f840eda5221d77d9bca3c6ebd2f413d1?source=rss",
-          "author": null,
-          "description": "いま、子どもたちの間で爆発的な人気を集めているのが、柔らかくモチモチした感触の「スクイーズ」です。\n\n「一度触るとクセになる」と話題の、触って楽しむ”癒やし系雑貨”です。\n\n　なぜ今これほど人気なの",
-          "link": "https://news.yahoo.co.jp/articles/cb47ece0f840eda5221d77d9bca3c6ebd2f413d1?source=rss",
-          "publishedOn": "2026-08-25T10:00:00.000Z",
-          "wordCount": 1747,
-          "title": "いま「スクイーズ」が空前のブームに！　背景に人間の本能が？　“感触系おもちゃ” 次に流行するのは？【識者解説】(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260825-00082210-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -12462,16 +12432,6 @@
           "wordCount": 714,
           "title": "M6／M5 Pro搭載「Mac mini」発表。約15万円から",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/e6945be6bc411afc11d4ef0e19267935.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=131398",
-          "author": "編集部：平山洸太",
-          "description": "COFOは、電動昇降デスク「COFO Desk Studio」の先行予約を8月25日20時より開始した。カラーはナチュラル、ブラウン、マットブラック、マットホワイトの4色。サイズは120cm、140cm、160cm、180cmをラインナップする。 秘密基地のような ″個人空間” が作れることを目指し […]",
-          "link": "https://gadget.phileweb.com/post-131398/",
-          "publishedOn": "2026-08-25T11:00:00.000Z",
-          "wordCount": 712,
-          "title": "自分仕様にできる電動昇降デスク「COFO Desk Studio」。PCや引き出しを取り付け、ポモドーロタイマーも",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/3ede621551e7ec1f83b998c5dcb54399.jpg"
         }
       ]
     },
@@ -12480,6 +12440,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067584.html",
+          "author": "takakichi5346",
+          "description": "1 名前：少考さん ★：2026/09/23(水) 12:33:12.04 ID:Nf5nG4MO9.net\n\n\n\n\n\n\n\nノーベル平和賞に玉城デニー知事を推薦　立命館大の君島教授https://t.co/TZvPCSb90E— 琉球新報 (@ryukyushimpo) September 23, 2026 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n引用元\nhttps://ryukyushimpo.jp/nation...",
+          "link": "https://itainews.com/archives/2067584.html",
+          "publishedOn": "2026-09-24T00:01:20.000Z",
+          "wordCount": 3162,
+          "title": "ノーベル平和賞に玉城デニー知事を推薦　立命館大の君島教授",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/c/5c534d43-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067583.html",
+          "author": "takakichi5346",
+          "description": "1 名前：背油チャッチャ ★：2026/09/23(水) 13:58:43.33 ID:06vVN/qj9.net\n\n\n\n\n\n\n\n台風２５号で千葉のラーメン店また被災…１か月余りで３度目「再開しては被災繰り返し、心身ともに疲れた」 : 読売新聞 https://t.co/cykSh4nWtk #台風　#台風２５号— 読売新聞オンライ...",
+          "link": "https://itainews.com/archives/2067583.html",
+          "publishedOn": "2026-09-23T23:03:31.000Z",
+          "wordCount": 3419,
+          "title": "台風２５号で千葉のラーメン店また被災…１か月余りで３度目「再開しては被災繰り返し、心身ともに疲れた」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/f/2fb86716-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067573.html",
+          "author": "nobi0929",
+          "description": "1 名前：それでも動く名無し：2026/09/23(水) 07:04:56.72 ID:hWYegg2A0.net\n\n\n\n\n\n\n\n日本共産党解散を求めるXアンケート、12万票超で99％が賛成最終更新: 1 時間前共産党側が集めた高市首相退陣要求の1万筆署名を「民意」と主張したことに反発し、9月21日に野党監視委員...",
+          "link": "https://itainews.com/archives/2067573.html",
+          "publishedOn": "2026-09-23T22:00:24.000Z",
+          "wordCount": 3991,
+          "title": "【ツイッター】日本共産党解散を求めるXアンケート、15万票超で99％が賛成",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/5/b5250166-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067593.html",
           "author": "damono3856",
@@ -19529,56 +19519,6 @@
           "wordCount": 3288,
           "title": "【2026年熊本地震】イオンモール熊本、爆発前に「ガス臭」　複数の従業員が証言",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8ebb8864-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066468.html",
-          "author": "damono3856",
-          "description": "1 名前：：2026/08/25(火) 11:56:32.27 ID:ifq96oig0.net\n\n\n\n\n\n\n\n年利150%掲げた暗号資産レンディング「IZAKA-YA」で出金停止騒動 https://t.co/ERdGQD17Mz— NADA NEWS（旧CoinDesk JAPAN）- デジタルアセット報道メディア (@nadanews_com) August 24, 2026  \n\n\n\n\n\n\n暗...",
-          "link": "https://itainews.com/archives/2066468.html",
-          "publishedOn": "2026-08-25T12:03:45.000Z",
-          "wordCount": 3428,
-          "title": "年利150%を謳った「IZAKA-YA」、突然の出金停止で利用者ら悲鳴　計画的夜逃げ疑惑も浮上",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/1/f13d0cb7-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066475.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/25(火) 15:24:34.24 ID:F3UcemKI9.net\n\n\n\n\n\n\n\n誤報でなければ、学長印の注文やこれまでの言動を含めた状況証拠から、田久保氏には不利だろう。“偽造された卒業証書のデータ”田久保前伊東市長のパソコンから押収 弁護側は裁判で無罪主張方針=...",
-          "link": "https://itainews.com/archives/2066475.html",
-          "publishedOn": "2026-08-25T11:31:50.000Z",
-          "wordCount": 3503,
-          "title": "【静岡】“偽造された卒業証書のデータ”田久保前伊東市長のパソコンから押収 弁護側は裁判で無罪主張方針",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/0/f0e3e0da-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066464.html",
-          "author": "takakichi5346",
-          "description": "1 名前：ぐれ ★：2026/08/25(火) 11:16:18.29 ID:F3UcemKI9.net\n\n\n\n\n\n\n\n在留手数料“大幅値上げ”を政府が閣議決定　期間に応じ6000円→1万～7万5000円に　10月1日からhttps://t.co/wH6QyarSM3— 日テレNEWS NNN (@news24ntv) August 25, 2026 \n\n\n\n\n\n\n在留手数料“大幅...",
-          "link": "https://itainews.com/archives/2066464.html",
-          "publishedOn": "2026-08-25T11:03:20.000Z",
-          "wordCount": 3572,
-          "title": "在留手数料“大幅値上げ”を政府が閣議決定　期間に応じ6000円→1万～7万5000円に　10月1日から",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/9/49adabdb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066465.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/25(火) 11:26:08.74 ID:F3UcemKI9.net\n\n\n\n\n\n\n\n牛の飼育には大量の水や餌が必要で環境負荷が大きく、牛のげっぷには #温室効果ガス の #メタン も多く含まれる「牛の #培養肉」来年１月にも試験生産開始へ「本物に近い形状」生産ライン世界初 : ...",
-          "link": "https://itainews.com/archives/2066465.html",
-          "publishedOn": "2026-08-25T10:31:55.000Z",
-          "wordCount": 3176,
-          "title": "【🥩】「牛の培養肉」来年１月にも試験生産開始へ、「本物に近い形状」生産ラインは世界初…大阪大など共同事業体",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/a/aaae665f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066461.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/25(火) 09:16:42.93 ID:lf4IW4rD9.net\n\n\n\n\n\n\n\n■記事https://t.co/uGVllvv78Z— 読売テレビ　ニュース (@news_ytv) August 25, 2026  \n\n\n\n\n\n\n【賛否】電車内でハンディファン使用はアリ？ナシ？「あんたの汗を気化させた風が…」タレントがSNS...",
-          "link": "https://itainews.com/archives/2066461.html",
-          "publishedOn": "2026-08-25T10:00:16.000Z",
-          "wordCount": 3274,
-          "title": "【賛否】電車内でハンディファン使用はアリ？ナシ？「あんたの汗を気化させた風が…」 “髪の毛が吸い込まれる”トラブル報告も",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/7/97e8efab-s.png"
         }
       ]
     },
@@ -23507,51 +23447,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127312/",
-          "author": null,
-          "description": "2025年10月に公開された劇場アニメ「ホウセンカ」が、8月29日からNetflixにて見放題独占配信がスタートする。 同作は、「オッドタクシー」の木下麦（監督・キャラクターデザイン）と此元和津...",
-          "link": "https://anime.eiga.com/news/127312/",
-          "publishedOn": "2026-08-25T12:00:00.000Z",
-          "wordCount": 744,
-          "title": "「ホウセンカ」8月29日からNetflixで見放題独占配信開始　「オッドタクシー」木下麦、此元和津也×「ポンポさん」CLAP制作のオリジナル劇場アニメ",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127258/",
-          "author": null,
-          "description": "人気キャラクター「ちいかわ」と明星食品がコラボレーションしたミニカップめん「明星 チャルメラ ちいかわラーメン」のとんこつ味が9月14日に新発売される。 「ちいかわ」と「明星 チャルメラ」のコラ...",
-          "link": "https://anime.eiga.com/news/127258/",
-          "publishedOn": "2026-08-25T11:00:00.000Z",
-          "wordCount": 746,
-          "title": "ちいかわ×明星チャルメラ、とんこつ味が新発売　冬毛のちいかわたちが“毛量対策”するキュートなデザイン",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/eiga_ranking/127309/",
-          "author": null,
-          "description": "8月21～23日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「映画ちいかわ 人魚の島のひみつ」が、週末3日間で観客動員82万5800人、興行収入12億4200万円と前週を...",
-          "link": "https://anime.eiga.com/news/column/eiga_ranking/127309/",
-          "publishedOn": "2026-08-25T10:00:00.000Z",
-          "wordCount": 770,
-          "title": "【週末アニメ映画ランキング】「映画ちいかわ」前週を上回る成績で1位キープ、累計興収は110億円を突破",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23560,6 +23455,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126582",
+          "author": null,
+          "description": "MFブックス刊『無職転生～異世界行ったら本気だす～』より、剣王エリス・グレイ...",
+          "link": "https://ln-news.com/articles/126582",
+          "publishedOn": "2026-09-23T23:00:00.000Z",
+          "wordCount": 234,
+          "title": "『無職転生～異世界行ったら本気だす～』剣王エリス・グレイラットのノンスケールフィギュアが2027年3月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/4f3793dced7842b79db215d32d7f26c3.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126706",
           "author": null,
@@ -25540,16 +25445,6 @@
           "wordCount": null,
           "title": "応援されるとついつい張り切っちゃう猫が可愛すぎましたw",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PqOtjlvf6TA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PqOtjlvf6TA",
-          "publishedOn": "2026-08-25T11:01:27.000Z",
-          "wordCount": null,
-          "title": "洗濯機が詰まった音にびっくりして起きちゃった猫がこうなっちゃいました汗",
-          "imageUrl": null
         }
       ]
     },
@@ -25558,6 +25453,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13546",
+          "author": "watanabe@logipara.com",
+          "description": "見知らぬ電話番号から電話がかかってきたので、 「ははーん、これはいつもの詐欺的なやつだな？セキュリティ意識が高いこの私に、詐欺を働きかけようとするなど甘いわ！！」 と出なかったのですが、留守電を聞くとカード会社からの連絡 […]",
+          "link": "https://logipara.com/diary-text/2026-09-24/",
+          "publishedOn": "2026-09-23T23:32:04.000Z",
+          "wordCount": 2750,
+          "title": "セキュリティ意識が低すぎる",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13542",
           "author": "watanabe@logipara.com",
@@ -26050,6 +25955,16 @@
           "publishedOn": "2026-09-02T23:55:04.000Z",
           "wordCount": null,
           "title": "「モンスターハンターNowカーニバル 2026：大阪」詳細発表&チケット販売開始！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NEPr4X7AHL0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NEPr4X7AHL0",
+          "publishedOn": "2026-09-02T13:16:18.000Z",
+          "wordCount": null,
+          "title": "【モンハンNow】3周年イベント&シーズン11最新情報、徹底解説！ Nowナビ#7【祝3周年！】",
           "imageUrl": null
         },
         {
