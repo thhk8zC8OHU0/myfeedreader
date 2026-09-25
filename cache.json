@@ -6,6 +6,36 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/045/G104535/20260925007/",
+          "author": null,
+          "description": "モノクロとグッドスマイルカンパニーは本日（2026年9月25日），完全新規IPブランド「イグニスフィア（IGNISPHERE）」の始動を発表した。これに伴い，両社が新作ゲーム「ドーンゲイザー（DAWNGAZER）」の共同開発に着手したことも明らかにされた。",
+          "link": "https://www.4gamer.net/games/045/G104535/20260925007/",
+          "publishedOn": "2026-09-25T04:23:14.000Z",
+          "wordCount": 8495,
+          "title": "完全新規IPブランド「イグニスフィア」が始動。野間崇史氏がディレクターを務める「ドーンゲイザー（DAWNGAZER）」の開発に着手",
+          "imageUrl": "https://www.4gamer.net/games/045/G104535/20260925007/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/967/G096772/20260920037/",
+          "author": null,
+          "description": "集英社ゲームズとヒストリアがタッグを組み制作が進められているソウル・トリアージアドベンチャー「UN:Me」。東京ゲームショウ2026にも出展されていた本作には，まだまだ謎が多い。それを探るべく4Gamerは今回，制作陣と4つの魂を演じる声優の花守ゆみりさんに話を聞いてきた。",
+          "link": "https://www.4gamer.net/games/967/G096772/20260920037/",
+          "publishedOn": "2026-09-25T04:00:00.000Z",
+          "wordCount": 8707,
+          "title": "ソウル・トリアージADV「UN:Me」インタビュー。花守ゆみりさんの演技がもたらしたモーションキャプチャ採用への決断。そして人の感情から導かれた作品のカタチとは［TGS2026］",
+          "imageUrl": "https://www.4gamer.net/games/967/G096772/20260920037/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/045/G104530/20260925005/",
+          "author": null,
+          "description": "KONAMIは，「Castlevania（悪魔城ドラキュラ）」シリーズが2026年9月26日に40周年を迎えるにあたり，記念キャンペーンの実施を発表した。今回は，スマホ向け初代「悪魔城ドラキュラ」の期間限定無料配信，セール情報，コンサートの開催決定などが一挙明らかにされた。",
+          "link": "https://www.4gamer.net/games/045/G104530/20260925005/",
+          "publishedOn": "2026-09-25T03:01:08.000Z",
+          "wordCount": 8798,
+          "title": "「Castlevania」シリーズ，40周年を記念したキャンペーンを実施。スマホで楽しめる初代「悪魔城ドラキュラ」が期間限定で無料に",
+          "imageUrl": "https://www.4gamer.net/games/045/G104530/20260925005/SS/003.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/010/G101055/20260918040/",
           "author": null,
           "description": "スクウェア・エニックスは本日，2026年12月3日に発売予定の「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新情報を公開した。フィールド上のモンスターを直接仲間にできる「フィールドスカウト」や，巨大モンスターに複数パーティで挑む「共闘バトル」の詳細が明らかになった。",
@@ -4104,16 +4134,6 @@
           "wordCount": 10192,
           "title": "「METAL GEAR SOLID 4」の「オクトカム」ファッションスナップ。景色を纏う，スネークの特別な装いをご覧あれ",
           "imageUrl": "https://www.4gamer.net/games/983/G098337/20260818012/TN/043.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/036/G103658/20260826083/",
-          "author": null,
-          "description": "BlackLanternCollectiveは，家庭用ゲーム機版「Horripilant」を本日（2026年8月27日）発売する。対応機種はPS5，XBOXSeriesX|S，Switch。本作はクリッカーゲームの要素やオートバトルRPGのシステムなど，さまざまなジャンルのアイデアを融合したダンジョンRPGだ。",
-          "link": "https://www.4gamer.net/games/036/G103658/20260826083/",
-          "publishedOn": "2026-08-26T15:00:00.000Z",
-          "wordCount": 8383,
-          "title": "放置系ダンジョンRPG「Horripilant」，家庭用ゲーム機版がリリース。PS5，XBOX Series X|S，Switchで楽しめる",
-          "imageUrl": "https://www.4gamer.net/games/036/G103658/20260826083/SS/003.jpg"
         }
       ]
     },
@@ -4122,6 +4142,76 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/dd02d026adc9a180aa8da1da0ebd7d4a238b0f3b?source=rss",
+          "author": null,
+          "description": "クレジットカードの決済代行を手掛ける「全東信」の破産管財人が、加盟店に振り込まれていない売上金について１０月中にも支払うと発表しました。\n\n　「全東信」は飲食店などを対象にクレジットカードの立て替え",
+          "link": "https://news.yahoo.co.jp/articles/dd02d026adc9a180aa8da1da0ebd7d4a238b0f3b?source=rss",
+          "publishedOn": "2026-09-25T04:44:56.000Z",
+          "wordCount": 1700,
+          "title": "「全東信」破産　未回収の売上金はカード会社が１０月中にも加盟店に支払いへ　総額約５４億円(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082720-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e1823914d9038ee35d5141f02037501f2661905c?source=rss",
+          "author": null,
+          "description": "温州みかんの収穫量が日本一の和歌山県で「極早生（ごくわせ）みかん」の収穫が始まっています\n\n　「極早生みかん」は最も早熟なミカンの総称で、皮に青みが残り、ほどよい酸味と甘みが特徴です。\n\n　田辺市の",
+          "link": "https://news.yahoo.co.jp/articles/e1823914d9038ee35d5141f02037501f2661905c?source=rss",
+          "publishedOn": "2026-09-25T03:23:29.000Z",
+          "wordCount": 1672,
+          "title": "ほどよい酸味と甘さ　「極早生みかん」収穫始まる　和歌山・田辺市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082717-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/04ae33f8b064302b079f6119cdd0d5e93e5d3e15?source=rss",
+          "author": null,
+          "description": "日本で開かれているアジア競技大会で２４日、競泳の男子２００メートル平泳ぎで大阪の高校３年生・１７歳の大橋信選手が、世界新記録を樹立しました。\n\n　今大会、１００メートル平泳ぎですでに金メダルを獲得し",
+          "link": "https://news.yahoo.co.jp/articles/04ae33f8b064302b079f6119cdd0d5e93e5d3e15?source=rss",
+          "publishedOn": "2026-09-25T03:22:52.000Z",
+          "wordCount": 1670,
+          "title": "大阪の高校３年生・大橋信選手が快挙　２００ｍ平泳ぎで世界新　地元は歓喜(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082719-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ac38bb88dd3fd8a65ee51f9658a63871acfbea07?source=rss",
+          "author": null,
+          "description": "滋賀県長浜市で秋の七草の一つ、「ハギの花」が見ごろを迎えています。\n\n　長浜市の神照寺には１３種、約５０００本のハギが植えられています。\n\n　室町幕府の初代将軍・足利尊氏が寺を訪れた際に、ハギを植え",
+          "link": "https://news.yahoo.co.jp/articles/ac38bb88dd3fd8a65ee51f9658a63871acfbea07?source=rss",
+          "publishedOn": "2026-09-25T03:19:48.000Z",
+          "wordCount": 1678,
+          "title": "秋の七草　「ハギの花」が見ごろ　滋賀・長浜市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082718-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f40305d42767f789cb1224bc5b289c193f8f7c49?source=rss",
+          "author": null,
+          "description": "阪急電鉄によりますと、２５日正午現在、阪急神戸線は大阪梅田－西宮北口駅間で運転を見合わせています。\n\n　午前１１時２６分ごろに神戸線の塚口－武庫之荘駅間で発生した人身事故の影響ということです。",
+          "link": "https://news.yahoo.co.jp/articles/f40305d42767f789cb1224bc5b289c193f8f7c49?source=rss",
+          "publishedOn": "2026-09-25T02:54:49.000Z",
+          "wordCount": 1681,
+          "title": "【速報】阪急神戸線が一部で運転見合わせ　大阪梅田―西宮北口駅間　人身事故の影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082716-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5c61767d1ea85ad6d84648344e40b0910d8a5459?source=rss",
+          "author": null,
+          "description": "「NTM症（非結核性抗酸菌症）」という病名を、これまで耳にしたことがあるでしょうか。患者数が20年前の3倍にまで増加しているにもかかわらず、一般的な認知度はいまだ低いのが現状です。9月24日からNT",
+          "link": "https://news.yahoo.co.jp/articles/5c61767d1ea85ad6d84648344e40b0910d8a5459?source=rss",
+          "publishedOn": "2026-09-25T02:30:00.000Z",
+          "wordCount": 1711,
+          "title": "“風邪と似た症状”でも油断禁物　長引くせき・たんは「NTM症」のおそれ　患者数は20年前の3倍に(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00082712-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7c399b476bcbc230130f13038290e906951f3c9f?source=rss",
+          "author": null,
+          "description": "兵庫県たつの市で５月、親子の女性２人が自宅で殺害された事件で、兵庫県警は今月２５日、事件後に遺体で見つかった４０代の男を殺人容疑で書類送検しました。\n\n　住所不定・無職の大山賢二容疑者（当時４２）は",
+          "link": "https://news.yahoo.co.jp/articles/7c399b476bcbc230130f13038290e906951f3c9f?source=rss",
+          "publishedOn": "2026-09-25T02:08:44.000Z",
+          "wordCount": 1682,
+          "title": "【速報】兵庫・たつの市で母娘を殺害か　過去近くに住んでいた４０代男を被疑者死亡のまま書類送検(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082715-asahibcv-000-3-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/c11a4a421e62b517f55adce4f17024c498a09658?source=rss",
           "author": null,
@@ -8720,6 +8810,46 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c6wyzm2gydvmo#0",
+          "author": null,
+          "description": "愛知・名古屋アジア大会の24日の競泳男子200メートル平泳ぎで、日本の大橋信選手（17）が世界記録を更新した。大会直前に新型コロナウイルスに感染したが、ものともしない泳ぎを見せた。",
+          "link": "https://www.bbc.com/japanese/articles/c6wyzm2gydvmo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-25T04:49:57.000Z",
+          "wordCount": 1788,
+          "title": "17歳の大橋信選手、アジア大会・競泳で世界新記録　新型コロナ乗り越え",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/796b/live/91d692f0-b827-11f1-9173-8b6ede38f022.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cq9860k04kx5o#0",
+          "author": null,
+          "description": "日本の鈴木浩・駐イギリス大使は24日、17世紀に日本に漂着し、イギリス人で唯一「サムライ」となったウィリアム・アダムスが洗礼を受けた教会を訪れた。イギリスでは2024年の着任以来、鈴木大使がイギリス各地を訪問した際の写真や動画がソーシャルメディアで話題となっている。",
+          "link": "https://www.bbc.com/japanese/articles/cq9860k04kx5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-25T04:18:48.000Z",
+          "wordCount": 1857,
+          "title": "イギリスで人気の日本大使、イギリスただ一人の「サムライ」の洗礼地を訪問",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5e70/live/05579de0-b83d-11f1-aeab-cbd1b7662429.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c8x2zkv9d20ro#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領が米報道3社のホワイトハウスでの取材を禁止し、連邦裁判所が取材可能な状態に戻すよう命じた問題で、3社のうちCNNとMS NOWの記者が24日、ホワイトハウスでの夕食会の取材を拒まれたと説明した。",
+          "link": "https://www.bbc.com/japanese/articles/c8x2zkv9d20ro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-25T03:14:32.000Z",
+          "wordCount": 1835,
+          "title": "トランプ氏が締め出したメディア、ホワイトハウスでの取材を再び拒まれる　裁判所が許可を命じた直後",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5n4kn843dpro#0",
+          "author": null,
+          "description": "イスラエルのネタニヤフ首相は24日、国連総会で演説し、イランやパレスチナ・ガザ地区など中東各地での自国の軍事作戦を強く擁護し、「我々は勝つ。他に選択肢はない」と戦いの継続を約束した。 首相が壇上に上がると、複数の国の代表団が次々と抗議のために退席した。",
+          "link": "https://www.bbc.com/japanese/articles/c5n4kn843dpro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-25T02:24:12.000Z",
+          "wordCount": 1872,
+          "title": "ネタニヤフ首相、国連演説でイスラエル軍の行動擁護　複数の代表団が抗議の退席",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1483/live/18d71090-b878-11f1-b1d1-571ed4d7ff2c.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/crwyzjenxv39o#0",
           "author": null,
           "description": "トランプ米大統領が主導するパレスチナ・ガザ地区での和平計画を遂行する「平和評議会」は23日、24億5000万ドル（約3500億円）規模の復興計画を発表した。一方で評議会の一員でトランプ大統領の義理の息子でもあるクシュナー氏は、このプロジェクトが「さまざまな理由で、さまざまな事柄において、さまざまな遅延に直面している」と述べた。",
@@ -10597,6 +10727,26 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/25/news006.html",
+          "author": null,
+          "description": "EverProXは、最大20Gbpsで長距離伝送できるMIPI D-PHY SerDesチップセット「MSDL 20G」を提供する。従来のMIPI D-PHYが抱える帯域幅、EMI、伝送距離の制約を克服しながら、消費電力を1リンク当たり100mW未満に抑える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/25/news006.html",
+          "publishedOn": "2026-09-25T03:30:00.000Z",
+          "wordCount": 2666,
+          "title": "最大20Gbpsに対応の低消費電力MIPI D-PHY SerDes",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/25/l_edn20260915edn001.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2609/25/news053.html",
+          "author": null,
+          "description": "日清紡マイクロデバイスは2026年9月、Bluetooth Low Energyなどの2.4GHz帯無線通信向けに、超低消費電流のRxブースター「NT1741」を発表した。高いRF性能を維持しつつ、LNAモード時に1.5mA、バイパスモード時に1μAの低消費電流を達成している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2609/25/news053.html",
+          "publishedOn": "2026-09-25T00:00:00.000Z",
+          "wordCount": 2644,
+          "title": "小型ウェアラブル向け 小型／超低電力BLE Rxブースター",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/25/cover_news053.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2609/24/news028.html",
           "author": null,
           "description": "ビシェイ・インターテクノロジーは、産業用途向けの中精度位置センサーエンコーダー「Vishay MCB RAIK045I MP」を発表した。16ビットの分解能や14ビット以上の繰り返し精度を備える。",
@@ -11113,6 +11263,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=133916",
+          "author": "Munenori Taniguchi",
+          "description": "国際天文学連合（IAU）は、これまで1981 EC26と呼ばれてきた小惑星に、パロディソングの帝王として知られる人気アーティスト、アル・ヤンコビックにちなんだ(14331) Alyankovicという名称を付けることを承認した。 この名称申請を行ったのは、テキサス州ヒューストンにある月惑星研究所のア […]",
+          "link": "https://gadget.phileweb.com/post-133916/",
+          "publishedOn": "2026-09-25T04:15:09.000Z",
+          "wordCount": 754,
+          "title": "小惑星1981 EC26の名称が「アル・ヤンコビック」に。国際天文学連合が承認",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/96dc1ac6500ad9042d448fc817a15e93.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=133899",
+          "author": "多根清史",
+          "description": "先週発売されたばかりのiPhone 18 Pro／Pro Maxで、Face IDの認証に失敗すると、端末がフリーズして再起動する不具合が複数報告されている。 アップルは9to5Macに対し、この問題を修正するソフトウェアアップデートを来週初めに提供する予定だと明らかにした。 Redditなどで報告 […]",
+          "link": "https://gadget.phileweb.com/post-133899/",
+          "publishedOn": "2026-09-25T03:26:31.000Z",
+          "wordCount": 721,
+          "title": "iPhone 18 ProにFace ID失敗・再起動する不具合。アップルが来週修正へ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/89ad818821cdce0b0aa668614d646abb.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=133873",
           "author": "Munenori Taniguchi",
@@ -12540,6 +12710,76 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067630.html",
+          "author": "nobi0929",
+          "description": "1 名前：少考さん ★：2026/09/24(木) 19:20:19.03 ID:ZgRgTKaI9.net\n\n\n\n\n\n\n\n富士山閉山期、登山届出さず救助→上限5万円の過料　静岡で来期から https://t.co/qr29E6Ujdo 静岡県の鈴木康友知事は24日の定例会見で、富士山の閉山期における無謀な登山を防ぐため、登山届...",
+          "link": "https://itainews.com/archives/2067630.html",
+          "publishedOn": "2026-09-25T04:30:49.000Z",
+          "wordCount": 3201,
+          "title": "富士山閉山期、登山届出さず救助→上限5万円の過料　静岡で来期から",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/8/483847c3.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067629.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/24(木) 18:48:11.44 ID:Xh9Gu/kf0●.net\n\n\n\n\n\n\n\n\n\nみんなこれ要保存だよー！！週刊誌が特定野党へ情報提供を行っている事、週刊誌との関係を杉尾が正直にバラしてくれてる証拠ですよー。… https://t.co/q0zc17uFnS pic.twitter.com/fXh62LfXqp— 茶請け (...",
+          "link": "https://itainews.com/archives/2067629.html",
+          "publishedOn": "2026-09-25T04:01:13.000Z",
+          "wordCount": 3414,
+          "title": "立憲・杉尾氏、また懲りもせず週刊誌片手に国会で騒ぐ模様",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/7/b73471b5.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067639.html",
+          "author": "damono3856",
+          "description": "1 名前：征夷大将軍 ★：2026/09/25(金) 05:44:36.13 ID:JAOOn7R+9.net\n\n\n\n\n\n\n\n体調不良で活動休止のアイドル「閉鎖病棟に入院」明かす（日刊スポーツ） https://t.co/XL9scnmpp9— yamada4649 (@yamada4649ver1) September 24, 2026  \n\n\n\n\n\n\nhttps://www.nikkansports.c...",
+          "link": "https://itainews.com/archives/2067639.html",
+          "publishedOn": "2026-09-25T03:30:43.000Z",
+          "wordCount": 3292,
+          "title": "体調不良で活動休止のアイドル「閉鎖病棟に入院」明かす",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/2/5209d6c0-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067620.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/24(木) 16:11:53.97 ID:/EbWB//Y0●.net\n\n\n\n\n\n\n\n\n\n\n5歳の娘と“ラーメン屋”で「1200円の大盛り」を注文しシェアの予定が「1人1杯頼んで」と言われた…子どもが“並だと残してしまう”のですが、子どもも「1人1杯ルール」に従うべきでしょうか？(ファイナ...",
+          "link": "https://itainews.com/archives/2067620.html",
+          "publishedOn": "2026-09-25T03:01:52.000Z",
+          "wordCount": 4054,
+          "title": "親「大盛りラーメンを頼んで子供と分けようとしたら一人一杯頼んでと言われました。子供が頼む必要？」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/abc744a5.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067622.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/24(木) 16:23:46.51 ID:eJ3YTqeN0●.net\n\n\n\n\n\n\n\n\n社民・福島氏、山下法相に「4人殺している」ラサール氏発言は容認「表現の仕方の範囲内」https://t.co/gDL4G7NAtC死刑について「法律に基づく処刑だから、やはり人を殺しているわけだ。『処刑』といえば良...",
+          "link": "https://itainews.com/archives/2067622.html",
+          "publishedOn": "2026-09-25T02:31:43.000Z",
+          "wordCount": 4863,
+          "title": "福島瑞穂「法に基づく処刑だから人を殺しているわけ。『殺した』が良くないのかはちょっと分からない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff0fd326.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067621.html",
+          "author": "dqnplus",
+          "description": "1 ：それでも動く名無し：2026/09/24(木) 12:24:13.88 ID:GFuRmvL40.net\n\n\n\n\n\n\n\n\n国民に伝えたいと思って下さるなら、まずは記者会見を通年通り開いて欲しい。切り取りが心配なら同時に政府で🎥を回してノンカットで流す等、予算レスな方法はある。PVは如何様にも「作れ...",
+          "link": "https://itainews.com/archives/2067621.html",
+          "publishedOn": "2026-09-25T02:01:01.000Z",
+          "wordCount": 3871,
+          "title": "愛国保守・緒方恵美「高市早苗は切り抜きガー言うならノーカット版もネットにアップしなさい」→炎上",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/8/88b21167.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067625.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/24(木) 12:59:55.78 ID:WOGbQB7D0●.net\n\n\n\n\n\n\n\n中国🇨🇳のスシロー。こりゃあひどいや😂 https://t.co/de1onfmG73— Black China ブラックチャイナ (@superwangbadan) September 22, 2026 \n\n\n\n\n\n\n\n\n\n\n\nhttps://i.imgur.com/d2O0274.jpeg\n\n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2067625.html",
+          "publishedOn": "2026-09-25T01:00:01.000Z",
+          "wordCount": 3663,
+          "title": "中国のスシロー。汚い",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/8945633b.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067614.html",
           "author": "nobi0929",
@@ -19599,26 +19839,6 @@
           "wordCount": 3724,
           "title": "ヒロシとトラブルのアウトドア用品メーカー　風評被害を告白「被害届を出す事になりました」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/3/c3e9eb7a-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066521.html",
-          "author": "damono3856",
-          "description": "1 名前：爆笑ゴリラ ★：2026/08/26(水) 16:30:23.40 ID:JHw/LoSA9.net\n\n\n\n\n\n\n\nショートスリーパー堀大輔、無断転載・誹謗中傷への法的措置を表明　配信アーカイブの大部分は非公開にhttps://t.co/vQSYznG2yV— News Everyday (@24newseveryday) August 26, 2026  \n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2066521.html",
-          "publishedOn": "2026-08-26T14:01:20.000Z",
-          "wordCount": 3195,
-          "title": "ショートスリーパー堀大輔、無断転載・誹謗中傷への法的措置を表明　配信アーカイブの大部分は非公開に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/2/92a61c60-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066511.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/26(水) 10:44:19.79 ID:6ehMZeRY9.net\n\n\n\n\n\n\n\n【速報】“強盗に約200万円奪われ気絶”はウソ　スーパーのパート女逮捕「家賃の督促で追い込まれた」　金庫から約400万円盗んだ疑い　兵庫・朝来市(MBSニュース)#Yahooニュースhttps://t.co/guD3J...",
-          "link": "https://itainews.com/archives/2066511.html",
-          "publishedOn": "2026-08-26T13:00:27.000Z",
-          "wordCount": 3250,
-          "title": "【兵庫】“強盗に約200万円奪われ気絶”はウソ スーパーのパート女逮捕「家賃の督促で追い込まれた」金庫から約400万円盗んだ疑い 朝来",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/0/a05e125d-s.png"
         }
       ]
     },
@@ -20710,16 +20930,6 @@
           "wordCount": 2050,
           "title": "【デイリーヤマザキ】三陸産わかめのおにぎり（わかめごはん50％増量）【サービスフェア・新作おにぎり】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/343528c878139fa430155059859abc7e.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=317278",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]",
-          "link": "https://foodfighter.jp/matsuya-nakaochi-karubi",
-          "publishedOn": "2026-08-26T14:35:37.000Z",
-          "wordCount": 2064,
-          "title": "【松屋】炙り中落カルビ丼【店舗限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/a1c94e788c3b2f9638aa29dadc078536.jpg"
         }
       ]
     },
@@ -20728,6 +20938,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127509/",
+          "author": null,
+          "description": "テレビアニメ「ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～」の第2クールの放送が、2027年1月からスタートすることが決定した。中村悠一、土岐隼一、小林千晃の出演が明らかになり、メイン...",
+          "link": "https://anime.eiga.com/news/127509/",
+          "publishedOn": "2026-09-25T03:26:38.000Z",
+          "wordCount": 735,
+          "title": "「ふつつかな悪女ではございますが」第2クール、27年1月から放送　新キャラ役に中村悠一、土岐隼一、小林千晃",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127447/",
           "author": null,
@@ -23602,21 +23827,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127308/",
-          "author": null,
-          "description": "実写映画版「NARUTO ナルト」のはたけカカシ役をめぐり、Netflixドラマ「BEEF ビーフ」のチャールズ・メルトンが最終交渉に入っていると、米ハリウッド・リポーターが報じた。カカシは、主...",
-          "link": "https://anime.eiga.com/news/127308/",
-          "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 773,
-          "title": "実写版「NARUTO ナルト」カカシ役に「BEEFビーフ」のチャールズ・メルトン",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23625,6 +23835,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126736",
+          "author": null,
+          "description": "アニメ『転生したらスライムだった件 第4期』第96話「勇者覚醒」のあらすじ＆...",
+          "link": "https://ln-news.com/articles/126736",
+          "publishedOn": "2026-09-25T04:00:00.000Z",
+          "wordCount": 229,
+          "title": "アニメ『転生したらスライムだった件 第4期』第96話「勇者覚醒」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/d26a0eea702846c1826a1f9871a60eed.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126697",
+          "author": null,
+          "description": "アイリスNEO発のアニメ『悲劇の元凶となる最強外道ラスボス女王は民の為に尽く...",
+          "link": "https://ln-news.com/articles/126697",
+          "publishedOn": "2026-09-25T02:00:00.000Z",
+          "wordCount": 230,
+          "title": "『悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。』LINE着せかえとLINE絵文字が発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/80d74e3f053741cbad94f26e230da3f8.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126742",
+          "author": null,
+          "description": "第25回角川ビーンズ小説大賞の三次選考通過作品の発表が行われた。三次選考を通...",
+          "link": "https://ln-news.com/articles/126742",
+          "publishedOn": "2026-09-25T00:30:00.000Z",
+          "wordCount": 225,
+          "title": "第25回角川ビーンズ小説大賞の三次選考通過作品が発表",
+          "imageUrl": "https://assets.ln-news.com/images/medias/fc38018889c64970a6d662c2e2424522.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126700",
           "author": null,
