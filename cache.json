@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/010/G101055/20260918040/",
+          "author": null,
+          "description": "スクウェア・エニックスは本日，2026年12月3日に発売予定の「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新情報を公開した。フィールド上のモンスターを直接仲間にできる「フィールドスカウト」や，巨大モンスターに複数パーティで挑む「共闘バトル」の詳細が明らかになった。",
+          "link": "https://www.4gamer.net/games/010/G101055/20260918040/",
+          "publishedOn": "2026-09-24T22:00:00.000Z",
+          "wordCount": 8773,
+          "title": "「ドラゴンクエストモンスターズ4」，新要素「フィールドスカウト」と，巨大モンスターとの共闘バトルを紹介",
+          "imageUrl": "https://www.4gamer.net/games/010/G101055/20260918040/SS/006.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/947/G094758/20260924060/",
           "author": null,
           "description": "「20周年記念『龍が如く』冠婚贈祭展 -極-」   配信元 グラウンディングラボ 配信日 2026/09/24    20周年記念『龍が如く』冠婚贈祭展 -極- 9月22日(火・祝)18:00よりチケ…",
@@ -4104,56 +4114,6 @@
           "wordCount": 8383,
           "title": "放置系ダンジョンRPG「Horripilant」，家庭用ゲーム機版がリリース。PS5，XBOX Series X|S，Switchで楽しめる",
           "imageUrl": "https://www.4gamer.net/games/036/G103658/20260826083/SS/003.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/521/G052100/20260826088/",
-          "author": null,
-          "description": "『PSO2 ニュージェネシス ver.2』新ACスクラッチ「スイートドリームズ」追加！ 株式会社セガは、好評サービス中の『PSO2 ニュージェネシス ver.2』（以下、NGS）にて、新ACスクラッチ…",
-          "link": "https://www.4gamer.net/games/521/G052100/20260826088/",
-          "publishedOn": "2026-08-26T11:01:43.000Z",
-          "wordCount": 8475,
-          "title": "「NGS ver.2」，新ACスクラッチ「スイートドリームズ」を追加",
-          "imageUrl": "https://www.4gamer.net/games/521/G052100/20260826088/SS/013.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/968/G096894/20260826078/",
-          "author": null,
-          "description": "「ロックマン：デュアルオーバーライド」gamescom出展バージョンのインプレッションをお届けしよう。プレイをサポートする「カスタムチップ」と，ロックマンがパワーアップする新システム「オーバーライド」によって，シリーズ伝統の歯応えはそのままに，初心者にも遊びやすく，よりアグレッシブな戦いを楽しめる作品に仕上がっていた。",
-          "link": "https://www.4gamer.net/games/968/G096894/20260826078/",
-          "publishedOn": "2026-08-26T11:00:00.000Z",
-          "wordCount": 8779,
-          "title": "［プレイレポ］「ロックマン：デュアル オーバーライド」gamescom出展バージョンをプレイ。華やかな美少女ボス，新たな切り札「オーバーライド」で戦いはさらに激しく！",
-          "imageUrl": "https://www.4gamer.net/games/968/G096894/20260826078/SS/028.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/015/G101558/20260826081/",
-          "author": null,
-          "description": "「ドラゴンズドグマ2：ダークアリズン」gamescom出展バージョンのインプレッションをお届けしよう。新たな雪原での冒険では，特殊な性能を持つ装備を収集するハクスラ要素「遺戦品」が登場。雪に適応した魔物たちに加え，寒さや吹雪といった新たな障害も立ちはだかり，これまで以上に歯ごたえのある冒険が楽しめた。",
-          "link": "https://www.4gamer.net/games/015/G101558/20260826081/",
-          "publishedOn": "2026-08-26T11:00:00.000Z",
-          "wordCount": 8586,
-          "title": "［プレイレポ］「ドラゴンズドグマ 2：ダークアリズン」のgamescom出展バージョンを先行試遊。「遺戦品」を掘る手が止まらない。ランダム効果のハクスラに早くも“沼”の予感",
-          "imageUrl": "https://www.4gamer.net/games/015/G101558/20260826081/SS/003.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/897/G089794/20260826079/",
-          "author": null,
-          "description": "RAIDOU Remastered: 超力兵団奇譚 RAIDOU Remastered: 超力兵団奇譚 RAIDOU Remastered: 超力兵団奇譚 RAIDOU Remastered: 超力兵…",
-          "link": "https://www.4gamer.net/games/897/G089794/20260826079/",
-          "publishedOn": "2026-08-26T10:20:00.000Z",
-          "wordCount": 8488,
-          "title": "「RAIDOU Remastered: 超力兵団奇譚」が過去最大割引率。アトラスの「8月PICK UPセール」開催中",
-          "imageUrl": "https://www.4gamer.net/games/897/G089794/20260826079/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/918/G091863/20260826077/",
-          "author": null,
-          "description": "ソニックレーシング クロスワールド Nintendo Switch 2 Edition ソニックレーシング クロスワールド ソニックレーシング クロスワールド ソニックレーシング クロスワールド   …",
-          "link": "https://www.4gamer.net/games/918/G091863/20260826077/",
-          "publishedOn": "2026-08-26T09:59:20.000Z",
-          "wordCount": 8494,
-          "title": "「ソニックレーシング クロスワールド」が60％オフ。セガの「8月スペシャルセール」が開催中",
-          "imageUrl": "https://www.4gamer.net/games/918/G091863/20260826077/SS/001.jpg"
         }
       ]
     },
@@ -8751,36 +8711,6 @@
           "wordCount": 1676,
           "title": "夏休み明けは子どもの自殺が増える時期　「学校に行きたくない」と言われたら…(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00082237-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ff6a968087ca56cc071d6d50a1cbbfea292d515d?source=rss",
-          "author": null,
-          "description": "関西電力がアメリカの企業と設立した合弁会社が、大阪府箕面市に新たなデータセンターを建設することがわかりました。\n\n　関西電力とアメリカの企業の合弁会社は、箕面市粟生間谷東に、地上４階建てで延べ床面積",
-          "link": "https://news.yahoo.co.jp/articles/ff6a968087ca56cc071d6d50a1cbbfea292d515d?source=rss",
-          "publishedOn": "2026-08-26T10:50:44.000Z",
-          "wordCount": 1630,
-          "title": "関電と米企業の合弁会社、大阪・箕面市にデータセンター建設へ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00082236-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/bdc72cc279ed6d4ea4bb7b2ef189a65f0b6b4b8a?source=rss",
-          "author": null,
-          "description": "「襲われて現金を奪われた」と被害を申告していたスーパーのパート従業員が、店の売上金約４００万円を盗んだとして逮捕されました。\n\n　兵庫県朝来市のパート従業員梅村里香容疑者（５０）は24日、勤務先のス",
-          "link": "https://news.yahoo.co.jp/articles/bdc72cc279ed6d4ea4bb7b2ef189a65f0b6b4b8a?source=rss",
-          "publishedOn": "2026-08-26T10:18:28.000Z",
-          "wordCount": 1610,
-          "title": "「売上金を奪われた」とうそ、金庫から現金を盗んだ疑いで従業員逮捕(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00082235-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/38c5d360b67fe01810f1303799ce548e0bf232ea?source=rss",
-          "author": null,
-          "description": "夏の全国高校野球で、５年ぶり４度目の優勝を果たした智弁和歌山の選手たちが、和歌山県知事らに優勝を報告しました。\n\n　智弁和歌山の選手たちは午前１１時ごろ、和歌山市のホテルアバローム紀の国で、宮崎泉和",
-          "link": "https://news.yahoo.co.jp/articles/38c5d360b67fe01810f1303799ce548e0bf232ea?source=rss",
-          "publishedOn": "2026-08-26T10:11:11.000Z",
-          "wordCount": 1616,
-          "title": "「皆さんの応援で優勝できた」智弁和歌山の選手たちが知事らを表敬訪問(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260826-00082234-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -10658,26 +10588,6 @@
           "wordCount": 1299,
           "title": "ネパール・中国国境付近の土石流、発生時の映像　建物や橋が流失",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d165/live/62eb5330-a149-11f1-aed2-8d6da8d75094.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cvgyxq710evo#0",
-          "author": null,
-          "description": "「ジョリーン」や「オールウェイズ・ラブ・ユー」などの代表曲で知られるアメリカのカントリー歌手ドリー・パートンさんが、25日に死去した。80歳だった。パートンさんの家族が発表した。70年にわたるキャリアの中で、パートンさんはグラミー賞を10回受賞。全世界で販売されたレコードは1億枚を超え、作った楽曲は3000曲を超えた。トランプ米大統領は、パートンさんの追悼のため、「アメリカ全土の国旗を、8月25日夕から1週間、半旗にする」と表明した。",
-          "link": "https://www.bbc.com/japanese/articles/cvgyxq710evo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-26T10:46:28.000Z",
-          "wordCount": 1945,
-          "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2dc1/live/49a1a7c0-a12c-11f1-a291-b542ee92de7c.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c89jlpj3gk2o#0",
-          "author": null,
-          "description": "パキスタンの首都イスラマバードにある病院の産科病棟で26日、火災が発生し、少なくとも14人の新生児が死亡した。病院関係者がBBCに説明した。",
-          "link": "https://www.bbc.com/japanese/articles/c89jlpj3gk2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-26T09:56:49.000Z",
-          "wordCount": 1785,
-          "title": "病院で火災、少なくとも14人の新生児が死亡　パキスタン首都",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/c030/live/0bd5d120-a125-11f1-a291-b542ee92de7c.jpg"
         }
       ]
     },
@@ -12630,6 +12540,26 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067614.html",
+          "author": "nobi0929",
+          "description": "1 名前：それでも動く名無し：2026/09/24(木) 07:39:20.07 ID:mOR4c0JW0.net\n\n\n\n\n\n\n\nジャングリア沖縄 親会社が173億円余の赤字https://t.co/EPw1LJn8C4 #nhk_news— NHKニュース (@nhk_news) September 23, 2026 \n\n\n\n\n\n\n\n\n\n\n\nジャングリア沖縄 親会社が173億円余の赤字 ...",
+          "link": "https://itainews.com/archives/2067614.html",
+          "publishedOn": "2026-09-24T23:00:11.000Z",
+          "wordCount": 3397,
+          "title": "ジャングリア沖縄、173億円の赤字ｗｗｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/0/706827cc-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067612.html",
+          "author": "nobi0929",
+          "description": "1 名前：もん様！：2026/09/24(木) 08:20:25.64 ID:7q80vSU90●.net\n\n\n\n\n\n\n\n国連で演説するという機会がありながら、ICC所長の赤根智子さんへのトランプの不法な制裁について抗議をしない？「法の支配」と語りながら？いったいなんのために行ったのか。日本が誇るべき存...",
+          "link": "https://itainews.com/archives/2067612.html",
+          "publishedOn": "2026-09-24T22:00:21.000Z",
+          "wordCount": 4068,
+          "title": "坂本龍一さんの娘「空っぽな言葉しか言えない世界の恥晒し」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/d/dd8e7e8f-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067624.html",
           "author": "damono3856",
@@ -19689,56 +19619,6 @@
           "wordCount": 3250,
           "title": "【兵庫】“強盗に約200万円奪われ気絶”はウソ スーパーのパート女逮捕「家賃の督促で追い込まれた」金庫から約400万円盗んだ疑い 朝来",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/0/a05e125d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066510.html",
-          "author": "damono3856",
-          "description": "1 名前：冬月記者 ★：2026/08/26(水) 12:28:30.16 ID:v2InNbwY9.net\n\n\n\n\n\n\n\n大谷翔平、限定カードが歴代最高1.1億円で落札　直筆サイン入り…レブロン＆カリー超え #ShoheiOhtani #Shotime #Dodgershttps://t.co/pdgjQCDUOw— Full-Count フルカウント (@Fullcountc2) A...",
-          "link": "https://itainews.com/archives/2066510.html",
-          "publishedOn": "2026-08-26T12:03:22.000Z",
-          "wordCount": 3302,
-          "title": "【MLB】大谷翔平の限定カード、歴代最高の1億1000万円で落札　直筆サイン入り…レブロン＆カリー超え",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/9/191836bb-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066520.html",
-          "author": "damono3856",
-          "description": "1 名前： ：2026/08/26(水) 17:06:49.89 ● 2BP(2000).net\n\n\n\n\n\n\n\n【神谷宗幣】※事態が急変しました…「見えない力が参政党を潰しにきてる」【参政党 街頭演説 切り抜き】#参政党 #神谷宗幣 #日本の意志 https://t.co/Z7zxG83EIg @YouTube— swanp fox2 (@Nexus61296043...",
-          "link": "https://itainews.com/archives/2066520.html",
-          "publishedOn": "2026-08-26T11:31:19.000Z",
-          "wordCount": 3304,
-          "title": "参政党「最近再生回数が伸びない。見えない力によって妨害されている」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/0/8021cbb5-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066508.html",
-          "author": "damono3856",
-          "description": "1 名前：蚤の市 ★：2026/08/26(水) 09:02:37.51 ID:1zo2nGjZ9.net\n\n\n\n\n\n\n\nふるさと納税「赤字」19都府県　25年度、東京都は2255億円に https://t.co/ZEKdnLfPI9— 朝日新聞(asahi shimbun） (@asahi) August 25, 2026  \n\n\n\n\n\n\n　2025年度のふるさと納税について、受け入...",
-          "link": "https://itainews.com/archives/2066508.html",
-          "publishedOn": "2026-08-26T11:02:01.000Z",
-          "wordCount": 3345,
-          "title": "【ふるさと納税】「赤字」19都府県　25年度、東京都は2255億円に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/2/3292e506-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066502.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/08/26(水) 07:51:01.36 ID:6ehMZeRY9.net\n\n\n\n\n\n\n\n【独自】中継見張り員、所定位置におらず　東武線4人死亡事故　直前までホーム下に7人、3人は避難#下野新聞https://t.co/fvhDM9QLch— 下野新聞 (@shimotsuke_np) August 25, 2026  \n\n\n\n\n\n\n中継見...",
-          "link": "https://itainews.com/archives/2066502.html",
-          "publishedOn": "2026-08-26T10:31:34.000Z",
-          "wordCount": 3393,
-          "title": "【東武線4人死亡事故】中継見張り員、所定位置におらず　直前までホーム下に7人",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/f/5f6454e1-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066500.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/26(水) 08:25:56.76 ID:5fzToDHO0●.net\n\n\n\n\n\n\n\n中国人の認識は戦勝国である中国が日本の主権地を決めるから沖縄は中国だ、つまり尖閣は中国だと言いたいわけ？中国は何様なんだ？ pic.twitter.com/PnHH1AsT6v— 髙橋/闇を暴く人 (@Parsonalsecret) ...",
-          "link": "https://itainews.com/archives/2066500.html",
-          "publishedOn": "2026-08-26T10:00:05.000Z",
-          "wordCount": 3197,
-          "title": "中国人「日本の領土は本州、北海道、四国、九州、その付近の島々のみ。沖縄とかは中国領」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/f/3fc14fc9-s.jpg"
         }
       ]
     },
@@ -23737,51 +23617,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127317/",
-          "author": null,
-          "description": "イラストレーターのせきやゆりえ氏が描くオリジナルキャラクター「ペロペロ★スパ～クルズ」がテレビアニメ化されることが分かった。 テレビ東京がプロデュース、キャラクター育成・展開事業を手がけ、その一...",
-          "link": "https://anime.eiga.com/news/127317/",
-          "publishedOn": "2026-08-26T12:00:00.000Z",
-          "wordCount": 729,
-          "title": "「ペロペロ★スパ～クルズ」TVアニメ化　せきやゆりえのオリジナルキャラクターをテレビ東京がプロデュース",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127319/",
-          "author": null,
-          "description": "10月4日から放送を開始するテレビアニメ「アオのハコ Season2」のオープニング主題歌をaiko、エンディング主題歌を「エルスウェア紀行」が担当することが決定した。メインPVとメインビジュア...",
-          "link": "https://anime.eiga.com/news/127319/",
-          "publishedOn": "2026-08-26T11:00:00.000Z",
-          "wordCount": 810,
-          "title": "「アオのハコ Season2」OP主題歌をaiko、ED主題歌をエルスウェア紀行が担当　新キャラ・木戸夢佳が登場するPVも公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/konki_ranking/127313/",
-          "author": null,
-          "description": "8月第4週の2026年夏アニメ録画ランキングは、「転生したらスライムだった件（第4期）」が3週連続で首位となった。 2位の「攻殻機動隊 THE GHOST IN THE SHELL」、3位の「ス...",
-          "link": "https://anime.eiga.com/news/column/konki_ranking/127313/",
-          "publishedOn": "2026-08-26T10:00:00.000Z",
-          "wordCount": 811,
-          "title": "【今期TVアニメランキング】「転スラ」連続首位、「逃げ上手の若君」がランクアップ",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23790,6 +23625,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126700",
+          "author": null,
+          "description": "MF文庫J刊『ゼロの使い魔』より、アニメ20周年を記念したルイズのノンスケー...",
+          "link": "https://ln-news.com/articles/126700",
+          "publishedOn": "2026-09-24T23:00:00.000Z",
+          "wordCount": 243,
+          "title": "『ゼロの使い魔』アニメ20周年を記念したルイズのノンスケールフィギュアが2027年2月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/ce452ebcc3674a0e8d53047966ffda70.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126628",
           "author": null,
@@ -25466,36 +25311,6 @@
           "wordCount": null,
           "title": "【FF4】名曲メドレー| FINAL FANTASY Ⅳ Classic Song Medley 【赤い翼〜愛のテーマーゴルベーザ四天王とのバトル〜など】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/KiWYKBGyfK8",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer→すぎやまこういち Koichi ​⁠Sugiyama​⁠​⁠​⁠​⁠​⁠@squareenix @squareenixmusicchannel9893 Game Play：​⁠​⁠​⁠​⁠​⁠@viridian-game...",
-          "link": "https://www.youtube.com/shorts/KiWYKBGyfK8",
-          "publishedOn": "2026-08-26T12:00:25.000Z",
-          "wordCount": 3226,
-          "title": "【ドラクエ4】フィールド曲メドレーField Music Medley③#ドラクエ #ドラゴンクエスト #dragonquest #dq #ドラクエ4 #clarinet #クラリネット",
-          "imageUrl": "https://i.ytimg.com/vi/KiWYKBGyfK8/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB0zmsGSMnL3oQAZohgJIooWd3Tlg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/IYKO3mMrisw",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer→すぎやまこういち Koichi ​⁠Sugiyama​⁠​⁠​⁠​⁠@squareenix @squareenixmusicchannel9893 Game Play：​⁠​⁠​⁠​⁠@viridian-game-BGM...",
-          "link": "https://www.youtube.com/shorts/IYKO3mMrisw",
-          "publishedOn": "2026-08-26T11:00:10.000Z",
-          "wordCount": 3426,
-          "title": "【ドラクエ4】フィールド曲メドレーField Music Medley②#ドラクエ #ドラゴンクエスト #dragonquest #dq #ドラクエ4 #clarinet #クラリネット",
-          "imageUrl": "https://i.ytimg.com/vi/IYKO3mMrisw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDuubo98V0ipnE_F7XVZirMpCpFOA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/VL0Iv_24C2Y",
-          "author": null,
-          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer→すぎやまこういち Koichi ​⁠Sugiyama​⁠​⁠​⁠@squareenix @squareenixmusicchannel9893 Game Play：​⁠​⁠​⁠@viridian-game-BGM #ドラ...",
-          "link": "https://www.youtube.com/shorts/VL0Iv_24C2Y",
-          "publishedOn": "2026-08-26T10:00:16.000Z",
-          "wordCount": 3325,
-          "title": "【ドラクエ4】フィールド曲メドレーField Music Medley①#ドラクエ #ドラゴンクエスト #dragonquest #dq #ドラクエ4 #clarinet #クラリネット",
-          "imageUrl": "https://i.ytimg.com/vi/VL0Iv_24C2Y/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBP4UgvtZ0SL5h8mIdugX0lOjqajQ&usqp=CCk"
         }
       ]
     },
@@ -25879,16 +25694,6 @@
           "publishedOn": "2026-08-27T11:01:15.000Z",
           "wordCount": null,
           "title": "何歳になってもトムとジェリーに夢中なもちとはなが可愛すぎます…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I_lw_MdcfcY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I_lw_MdcfcY",
-          "publishedOn": "2026-08-26T11:01:14.000Z",
-          "wordCount": null,
-          "title": "応援されるとついつい張り切っちゃう猫が可愛すぎましたw",
           "imageUrl": null
         }
       ]
