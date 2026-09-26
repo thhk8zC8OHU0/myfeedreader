@@ -4054,26 +4054,6 @@
           "wordCount": 8482,
           "title": "アイソメトリックや肩越し視点を組み合わせたレトロサバイバルホラー「Holstin」，2027年に発売決定。gamescom 2026トレイラーも公開",
           "imageUrl": "https://www.4gamer.net/games/735/G073548/20260828037/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/898/G089828/20260828008/",
-          "author": null,
-          "description": "フロム・ソフトウェアは本日（2026年8月28日），NintendoSwitch2用ソフト「ELDENRINGTarnishedEdition」を発売した。価格は9020円（税込）。これは，ゲーム本編に大型DLC「SHADOWOFTHEERDTREE」や新たな追加要素を収録した「オールインバージョン」だ。",
-          "link": "https://www.4gamer.net/games/898/G089828/20260828008/",
-          "publishedOn": "2026-08-28T02:32:26.000Z",
-          "wordCount": 8697,
-          "title": "「ELDEN RING Tarnished Edition」Nintendo Switch 2向けに発売。ゲーム本編に大型DLCや新たな追加要素を収録した「オールインバージョン」",
-          "imageUrl": "https://www.4gamer.net/games/898/G089828/20260828008/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/010/G101087/20260825045/",
-          "author": null,
-          "description": "2026年8月22日から26日まで，「CallofDuty:ModernWarfare4」の先行予約者を主な対象とした早期アクセスβテストが行われた。このテストに参加した筆者の所感をお伝えしたい。",
-          "link": "https://www.4gamer.net/games/010/G101087/20260825045/",
-          "publishedOn": "2026-08-27T23:00:00.000Z",
-          "wordCount": 9021,
-          "title": "［プレイレポ］「Call of Duty: Modern Warfare 4」早期アクセスβに参戦。粗削りな部分はあるが，MWシリーズの楽しさを再認識させてくれる",
-          "imageUrl": "https://www.4gamer.net/games/010/G101087/20260825045/SS/026.jpg"
         }
       ]
     },
@@ -4083,6 +4063,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/4babbc4d76dd0cd8d46ed4b084c540ea9518e7f5?source=rss",
+          "author": null,
+          "description": "兵庫県議への脅迫の疑いで不起訴となり、検察審査会が「不起訴不当」としていたＮＨＫから国民を守る党の立花孝志党首について、神戸地検は再び不起訴処分としました。\n\n　立花孝志党首は、おととし１１月の兵庫",
+          "link": "https://news.yahoo.co.jp/articles/4babbc4d76dd0cd8d46ed4b084c540ea9518e7f5?source=rss",
+          "publishedOn": "2026-09-26T13:05:24.000Z",
+          "wordCount": 1616,
+          "title": "神戸地検がN党・立花孝志党首を再び「不起訴」　兵庫県議の事務所兼自宅前で拡声器を使って街頭演説で脅迫容疑　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00082740-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/1402167151d63d31e25c3e7038661f99c06b4ed6?source=rss",
           "author": null,
           "description": "小学生以下を対象にした国内最大規模の「こども将棋大会」が大阪市で開かれ、熱戦が繰り広げられました。\n\n　小学生以下を対象にしたこの大会は、藤井聡太六冠も優勝したことがあり、約９００人の子どもたちが集",
@@ -4091,6 +4081,16 @@
           "wordCount": 1636,
           "title": "約９００人が熱戦　「こども将棋大会」大阪で開催　詰め将棋のクイズコーナーも(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00082737-asahibcv-000-5-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a24220e5826435d066e29d113fa360efba2571da?source=rss",
+          "author": null,
+          "description": "毎年１０月に行われる「全国地域安全運動」を前に、大阪府警が防犯イベントを開き、特殊詐欺などの被害防止を呼びかけました。\n\n　２６日午後、大阪市内で府民の防犯意識を高めるためのイベントが開催され、大阪",
+          "link": "https://news.yahoo.co.jp/articles/a24220e5826435d066e29d113fa360efba2571da?source=rss",
+          "publishedOn": "2026-09-26T09:27:07.000Z",
+          "wordCount": 1634,
+          "title": "大阪府警が防犯イベント　特殊詐欺などの被害防止を呼びかけ　セレッソ・森島会長がＪリーグ観戦チケットを寄贈(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00083739-asahibcv-000-3-thumb.jpg?exp=10800"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/6ef4476cd67c57bd370fa1eceb62d321cc7e52f4?source=rss",
@@ -10618,16 +10618,6 @@
           "wordCount": 1279,
           "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/734d/live/7cfde3c0-a1f1-11f1-bf30-b9c45f18ad85.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o#0",
-          "author": null,
-          "description": "英ロンドンの病院でこのほど、世界で初めてとなる、リアルタイムで人工知能（AI）の支援を受けながらの脳の手術が行われ、腫瘍の摘出に成功した。",
-          "link": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-28T02:11:44.000Z",
-          "wordCount": 1921,
-          "title": "AIのリアルタイム支援による世界初の脳外科手術、腫瘍摘出に成功　ロンドンの病院で",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg"
         }
       ]
     },
@@ -11125,16 +11115,6 @@
           "wordCount": 2622,
           "title": "小型人工衛星でも精度維持　宇宙向け原子クロック",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/31/cover_news038.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/28/news049.html",
-          "author": null,
-          "description": "キオクシアは、第10世代BiCS FLASH TLCフラッシュメモリを搭載した、エンタープライズSSD「KIOXIA CM10」シリーズを開発した。PCIe 6.0に対応している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/28/news049.html",
-          "publishedOn": "2026-08-28T00:00:00.000Z",
-          "wordCount": 2660,
-          "title": "キオクシア初のPCIe 6.0対応エンタープライズSSD",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/28/cover_news049.jpg"
         }
       ]
     },
@@ -12540,6 +12520,56 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067704.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/26(土) 16:22:50.99 ID:JgP6P9EJ0●.net\n\n\n\n\n\n\n\n「私個人が、職業人として、人として『消される』のかも」　声優・緒方恵美さんが明かす政治発言の真意と不安(J-CASTニュース)#Yahooニュースhttps://t.co/qqw7XHZrB1— いりりんその2 (@Iririnyka0) Se...",
+          "link": "https://itainews.com/archives/2067704.html",
+          "publishedOn": "2026-09-26T14:01:27.000Z",
+          "wordCount": 3459,
+          "title": "声優・緒方恵美さん「私個人が、職業人として、人として『消される』のかも」← 相当キてるねこれ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/a/9aa9c9ee-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067687.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/26(土) 07:47:40.51 ID:DqPKcyD+0.net 2BP(6005)\n\n\n\n\n\n\n\n台風25号　死者12人に、3人行方不明　停電いまだ6800軒https://t.co/4z2j1tWsnw房総半島の西岸を走る内房線の被害が大きく、姉ケ崎（市原市）―木更津（木更津市）間は復旧まで約3カ月程度かか...",
+          "link": "https://itainews.com/archives/2067687.html",
+          "publishedOn": "2026-09-26T13:02:44.000Z",
+          "wordCount": null,
+          "title": "【豪雨】東京電力「すまん、千葉県民！停電長期化するわ」道路ふさがれ復旧困難",
+          "imageUrl": null
+        },
+        {
+          "id": "https://itainews.com/archives/2067680.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/09/26(土) 08:39:00.93 ID:e7uphv9T0●.net 2BP(2000)\n\n\n\n\n\n\n\n【悲報】米中首脳会談晩餐会で民衆の反権力闘争と革命を象徴するレ・ミゼラブル劇中歌を大合唱して喧嘩を売ってしまう習近平国家主席を迎えたホワイトハウスの晩餐会でミュージカルレ・ミゼラ...",
+          "link": "https://itainews.com/archives/2067680.html",
+          "publishedOn": "2026-09-26T12:04:57.000Z",
+          "wordCount": 3924,
+          "title": "トランプさん、中国で禁止されているレ・ミゼラブル劇中歌と台湾の名歌を米中首脳晩餐会で流す",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/4/441490c2-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067702.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/26(土) 16:35:15.32 ID:i9K+DjZM9.net\n\n\n\n\n\n\n\n印旛沼決壊、養殖のウナギ「全滅だろう」・４代続く稲作農家「廃業も考えざるを得ない」…農漁業に大打撃https://t.co/uwMLvJ7Uy1#ニュース— 読売新聞オンライン (@Yomiuri_Online) September 25,...",
+          "link": "https://itainews.com/archives/2067702.html",
+          "publishedOn": "2026-09-26T11:31:32.000Z",
+          "wordCount": 3391,
+          "title": "【印旛沼決壊】養殖のウナギ「全滅だろう」・４代続く稲作農家「廃業も考えざるを得ない」…農漁業に大打撃",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/e/6e75e1be-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067678.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/26(土) 00:29:45.56 ID:+x19IjhN9.net\n\n\n\n\n\n\n\n覚醒剤所持クルド人デニス被告に有罪判決　懲役2年執行猶予4年、東京地裁「悪質な犯行」https://t.co/nlfIyS9MlR現行犯逮捕から公判まで一貫して全面否認したが、林裁判官は、逮捕の際に被告を...",
+          "link": "https://itainews.com/archives/2067678.html",
+          "publishedOn": "2026-09-26T11:02:49.000Z",
+          "wordCount": 3808,
+          "title": "覚醒剤所持クルド人デニス被告に有罪判決　懲役2年執行猶予4年、東京地裁",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/a/6aeca21e-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067691.html",
           "author": "damono3856",
@@ -19869,26 +19899,6 @@
           "wordCount": 3905,
           "title": "【東京】中野ブロードウェイ2億円分の腕時計窃盗容疑、チリ国籍の20代と30代の男2人逮捕",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/4/04f8de58-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066546.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：2026/08/27(木) 12:28:38.14 ID:cBqhNihe0.net[1/2] PLT(12346)\n\n\n\n\n\n\n\n「比例復活のくせに」と怒鳴りつけ…国民民主党の代表選の裏で玉木雄一郎氏が見せた「器量の小ささ」https://t.co/0QqJlxp4Pz#フライデー #玉木雄一郎— FRIDAY (@FRIDAY_twit) August 26...",
-          "link": "https://itainews.com/archives/2066546.html",
-          "publishedOn": "2026-08-28T00:00:16.000Z",
-          "wordCount": 3307,
-          "title": "玉木、当然代表戦で対立候補支持者を罵倒「比例復活のくせに！！」→スピーカーモードで皆聞いてました",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/6/96e4a953-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066543.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/08/27(木) 08:29:34.47 ID:Nuem640F0●.net\n\n\n\n\n\n\n\n日本の新幹線の17倍もつくったのに､運賃は高くて駅はガラガラ…習近平が採算度外視で広げた中国高速鉄道の末路 https://t.co/zFzkPkuoyl— PRESIDENT Online / プレジデントオンライン (@Pre_Online) ...",
-          "link": "https://itainews.com/archives/2066543.html",
-          "publishedOn": "2026-08-27T23:00:35.000Z",
-          "wordCount": 3914,
-          "title": "日本の新幹線の17倍もつくったのに､運賃は高くて駅はガラガラ…採算度外視で広げた中国高速鉄道の末路",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/b/7b3c8216-s.jpg"
         }
       ]
     },
@@ -20970,26 +20980,6 @@
           "wordCount": 2060,
           "title": "【ケンタッキー】とろ～り月見フィレバーガー【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/e25cc57bf12eb179c291b8b3f41c7f0d.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=317341",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]",
-          "link": "https://foodfighter.jp/mos-shake-mitsuimo",
-          "publishedOn": "2026-08-28T02:43:05.000Z",
-          "wordCount": 2059,
-          "title": "【モスバーガー】まぜるシェイク 蜜いも【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/2378f62e148d3682fcf6e9779685c678.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=317316",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   【吉野家】月見牛とじ丼・大 […]",
-          "link": "https://foodfighter.jp/yoshinoya-tsukimigyutoji-2026",
-          "publishedOn": "2026-08-27T22:45:12.000Z",
-          "wordCount": 2065,
-          "title": "【吉野家】月見牛とじ丼・大盛り【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/37e29f26a5b39ef94e9f82ab32012023.jpg"
         }
       ]
     },
@@ -20998,6 +20988,51 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127531/",
+          "author": null,
+          "description": "シリーズ史上初の“Filmed For IMAX®”作品として、IMAX®認証デジタルカメラで撮影された映画「バイオハザード」が10月9日より全国公開される。⽇本に先駆けて9⽉18⽇に公開を迎え...",
+          "link": "https://anime.eiga.com/news/127531/",
+          "publishedOn": "2026-09-26T13:00:00.000Z",
+          "wordCount": 667,
+          "title": "「バイオハザード」全米オープニング興収初登場No.1　シリーズ史上最高の出足＆全世界オープニングもシリーズ史上初1億ドル突破",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127501/",
+          "author": null,
+          "description": "10月26日から開催される、第39回東京国際映画祭の予告編（https://www.youtube.com/@TIFFTOKYOnet）が9月18日から関東近郊の各劇場で上映されている。 今回の...",
+          "link": "https://anime.eiga.com/news/127501/",
+          "publishedOn": "2026-09-26T12:00:00.000Z",
+          "wordCount": 935,
+          "title": "第39回東京国際映画祭、予告編公開　アニメーション部門のラインナップ発表",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127523/",
+          "author": null,
+          "description": "10月2日から放送を開始するテレビアニメ「蒼き伝承 ウェルシュ＆シェダー」の主題歌を、影山ヒロノブと奥井雅美が担当することが決定した。追加キャストとして、甲斐田裕子、古川慎、景山梨彩の出演も明ら...",
+          "link": "https://anime.eiga.com/news/127523/",
+          "publishedOn": "2026-09-26T11:00:00.000Z",
+          "wordCount": 749,
+          "title": "「蒼き伝承 ウェルシュ＆シェダー」主題歌は影山ヒロノブ＆奥井雅美のデュエット　メインPVで音源を公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127533/",
           "author": null,
@@ -25967,6 +26002,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s0EWYXqsGLA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s0EWYXqsGLA",
+          "publishedOn": "2026-09-26T11:01:20.000Z",
+          "wordCount": null,
+          "title": "猫たちが起こしてくれなくて大寝坊した日の朝がこちらです…",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=y_5_eFQhA6M",
           "author": null,
           "description": "",
@@ -26263,6 +26308,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13553",
+          "author": "watanabe@logipara.com",
+          "description": "メールで 「マイル失効までまであとわずか」 という連絡があり、こりゃいけない、使わなければ、と改めてメールを見たら、 　 　　 　 　 ンジガマルーメ。 　 スパムとはいえ、何をどうしたらそうなるの",
+          "link": "https://logipara.com/diary-text/2026-09-27/",
+          "publishedOn": "2026-09-26T13:26:12.000Z",
+          "wordCount": 2758,
+          "title": "マイル失効",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-45.png"
+        },
         {
           "id": "https://logipara.com/?p=13551",
           "author": "watanabe@logipara.com",
