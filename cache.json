@@ -4074,16 +4074,6 @@
           "wordCount": 9021,
           "title": "［プレイレポ］「Call of Duty: Modern Warfare 4」早期アクセスβに参戦。粗削りな部分はあるが，MWシリーズの楽しさを再認識させてくれる",
           "imageUrl": "https://www.4gamer.net/games/010/G101087/20260825045/SS/026.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/463/G046388/20260827066/",
-          "author": null,
-          "description": "フロム・ソフトウェアは本日（2026年8月27日），アクションRPG「ELDENRING」で，最新アップデートファイル“Ver.1.17”を配信した。今回のアップデートは，8月28日に配信されるDLC「TarnishedPack」への対応に加え，ゲームバランスの調整や不具合修正などを行うものだ。",
-          "link": "https://www.4gamer.net/games/463/G046388/20260827066/",
-          "publishedOn": "2026-08-27T13:48:53.000Z",
-          "wordCount": 8488,
-          "title": "「ELDEN RING」，アップデートファイル“Ver.1.17”を配信。DLC「Tarnished Pack」への対応，ゲームバランスの大幅な調整などが行われた",
-          "imageUrl": "https://www.4gamer.net/games/463/G046388/20260827066/SS/002.jpg"
         }
       ]
     },
@@ -4092,6 +4082,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c48bebb87d647fab6b92891c43cca782bec8c73c?source=rss",
+          "author": null,
+          "description": "「熊野古道」を訪れる外国人観光客に日本酒の文化を伝える施設が、和歌山県新宮市に来月、オープンします。\n\n　観光交流センター「ＫＵＭＡＮＯ ＳＡＫＥ ＧＡＴＥ」は、地元の酒蔵「尾﨑酒造」が運営し、日本",
+          "link": "https://news.yahoo.co.jp/articles/c48bebb87d647fab6b92891c43cca782bec8c73c?source=rss",
+          "publishedOn": "2026-09-26T03:18:55.000Z",
+          "wordCount": 1705,
+          "title": "熊野の魅力を発信　外国人観光客に日本酒文化を伝える施設　和歌山・新宮市に来月オープン(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00082736-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/947e1207afec5d368653d34c2c35d5d547584a50?source=rss",
+          "author": null,
+          "description": "熊野の名湯が集まる和歌山県田辺市で、温泉郷の繁栄を願う「献湯祭」が行われました。\n\n　熊野本宮大社では、世界遺産の「つぼ湯」がある湯の峰温泉や、川湯温泉、渡瀬温泉から朝一番に汲み上げた湯が大樽にそそ",
+          "link": "https://news.yahoo.co.jp/articles/947e1207afec5d368653d34c2c35d5d547584a50?source=rss",
+          "publishedOn": "2026-09-26T03:18:55.000Z",
+          "wordCount": 1650,
+          "title": "温泉郷の繁栄を願って　熊野本宮大社で「献湯祭」　和歌山・田辺市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00082735-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7e6f6d7ddcc80d8feee5e4344fa8af7bf3b78ba1?source=rss",
+          "author": null,
+          "description": "物価高が続くなか、子どもの将来に向けた資産形成をどう進めるか。多くの家庭にとって切実な問題です。\n\n　そんな中、来年1月の制度開始に向けて、10月から「こどもNISA」の口座開設受付が始まります。",
+          "link": "https://news.yahoo.co.jp/articles/7e6f6d7ddcc80d8feee5e4344fa8af7bf3b78ba1?source=rss",
+          "publishedOn": "2026-09-26T03:00:00.000Z",
+          "wordCount": 1825,
+          "title": "「こどもNISA」10月から口座開設の受付スタート　0歳から投資が可能に　競争も激化【週イチのアマモト】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082733-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/24648d3140098670bf05373dd4e74d78bf5852db?source=rss",
           "author": null,
@@ -8671,56 +8691,6 @@
           "wordCount": 1674,
           "title": "ＪＲ西日本の各線で大幅な遅れや運転見合わせ　大雨の影響(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00082261-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/043c4181c53cf21ec059a087ff99585df83357a3?source=rss",
-          "author": null,
-          "description": "兵庫県川西市の小学校敷地内で７歳男の子を車でひき逃げし、大けがをさせたとして、児童指導員の女が逮捕されました。\n\n　過失運転致傷などの疑いで逮捕されたのは、兵庫県宝塚市の児童指導員・古川恵利香容疑者",
-          "link": "https://news.yahoo.co.jp/articles/043c4181c53cf21ec059a087ff99585df83357a3?source=rss",
-          "publishedOn": "2026-08-27T16:24:40.000Z",
-          "wordCount": 1615,
-          "title": "小学校敷地内で児童指導員が7歳男の子を車でひき逃げか　男の子は頭から出血し重傷　兵庫・川西市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00082255-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c79701d1174dab53d1a018974fda9594a1c285e9?source=rss",
-          "author": null,
-          "description": "２７日、高級時計店を狙った強盗事件の容疑者が空港から海外逃亡を企てたという想定で、兵庫県警が訓練を実施しました。\n\n　訓練は、神戸・三宮の高級時計店に２人組の男が押し入り腕時計を奪って逃走したあと、",
-          "link": "https://news.yahoo.co.jp/articles/c79701d1174dab53d1a018974fda9594a1c285e9?source=rss",
-          "publishedOn": "2026-08-27T14:05:56.000Z",
-          "wordCount": 1603,
-          "title": "兵庫県警らが初訓練　強盗犯の神戸空港から海外へ逃亡を阻止(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00082254-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/bb7be34a802e3623f80b1d50da635a2c36b9f590?source=rss",
-          "author": null,
-          "description": "兵庫県の斎藤知事は、県が「起債許可団体」に移行したことを受け、２７日、財政立て直しに向けた計画書を国に提出しました。\n\n　兵庫県は、財政悪化により新たな借金をする際に国の許可が必要な「起債許可団体」",
-          "link": "https://news.yahoo.co.jp/articles/bb7be34a802e3623f80b1d50da635a2c36b9f590?source=rss",
-          "publishedOn": "2026-08-27T13:53:32.000Z",
-          "wordCount": 1611,
-          "title": "兵庫・斎藤知事　公債費負担適正化計画を総務省に提出　財政悪化で「起債許可団体」に移行(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00082252-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/51fbd8124dd0dbfc0d8d826f89ee68decb997d25?source=rss",
-          "author": null,
-          "description": "教え子の生徒になりすまして英検を受験し、教え子を不正に大学に合格させたなどの罪に問われた男の裁判で検察は２７日、拘禁刑２年を求刑しました。\n\n　起訴状などによりますと大阪市浪速区の家庭教師・野口瑞希",
-          "link": "https://news.yahoo.co.jp/articles/51fbd8124dd0dbfc0d8d826f89ee68decb997d25?source=rss",
-          "publishedOn": "2026-08-27T13:45:32.000Z",
-          "wordCount": 1602,
-          "title": "教え子の英検を替え玉受験しそのスコアで大学合格させた塾講師の男に拘禁刑２年求刑(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00082253-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0592dc2aee7d348cbbcccdc6bc6421e83f8c8316?source=rss",
-          "author": null,
-          "description": "神戸市灘区の県道で、車のブレーキが利かなくなる「フェード現象」が原因とみられる事故が起きたことを受け、警察がドライバーにエンジンブレーキの活用を呼びかけました。\n\n　神戸市北区と灘区の間を走る県道９",
-          "link": "https://news.yahoo.co.jp/articles/0592dc2aee7d348cbbcccdc6bc6421e83f8c8316?source=rss",
-          "publishedOn": "2026-08-27T13:26:44.000Z",
-          "wordCount": 1597,
-          "title": "「ブレーキが効かない」トラック衝突事故受け警察が「エンジンブレーキ活用」呼びかけ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260827-00082251-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -8729,6 +8699,26 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro#0",
+          "author": null,
+          "description": "アメリカ南部ミシシッピ州で先月、黒人女性が木につるされた状態で死んでいるのが見つかった事件で、地元警察は25日、女性は死後に木につるされたとの見方を示した。",
+          "link": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-26T03:36:17.000Z",
+          "wordCount": 1784,
+          "title": "死後に木につるされたと警察、アメリカ南部で遺体で発見の黒人女性",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1485/live/6664e170-b922-11f1-b685-519146636d7f.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqp8ddj03ypgo#0",
+          "author": null,
+          "description": "イランのアッバス・アラグチ外相は25日、事実上の封鎖が続くホルムズ海峡について、1週間以内に再開する案をアメリカ側に提示したと明らかにした。",
+          "link": "https://www.bbc.com/japanese/articles/cqp8ddj03ypgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-26T03:20:09.000Z",
+          "wordCount": 1819,
+          "title": "ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c6e30q0wk7plo#0",
           "author": null,
@@ -12540,6 +12530,96 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067681.html",
+          "author": "nobi0929",
+          "description": "1 名前：少考さん ★：2026/09/26(土) 10:20:14.52 ID:sPXZcgj99.net\n\n\n\n\n\n\n\n女児2人投げ落とした疑い　父親逮捕、マンション6階https://t.co/QcST0mcUei岐阜県警は26日、マンション6階のベランダから長女（4）と次女（1）を投げ落としたとして、殺人未遂の疑いで容疑者...",
+          "link": "https://itainews.com/archives/2067681.html",
+          "publishedOn": "2026-09-26T05:30:49.000Z",
+          "wordCount": 3210,
+          "title": "女児2人投げ落とした疑い　父親逮捕、マンション6階 　岐阜",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/2/b20dab09-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067669.html",
+          "author": "takakichi5346",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2026/09/25(金) 19:22:31.88 ID:nZxvHXSt9.net\n\n\n\n\n\n\n\n【「胸きゅっとなった」FRUITS ZIPPER・仲川瑠夏　月足天音の手だけ取らず…メンバー集合のソロデビュー祝福シーンでファンが感じた“違和感”】https://t.co/3cPPj2KMX0 #仲川...",
+          "link": "https://itainews.com/archives/2067669.html",
+          "publishedOn": "2026-09-26T05:04:53.000Z",
+          "wordCount": 3165,
+          "title": "【アイドル】「胸きゅっとなった」FRUITS ZIPPER・仲川瑠夏　月足天音だけ手を取らず…メンバー集合のシーンでファンが感じた“違和感”",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/5/65d4225a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067670.html",
+          "author": "dqnplus",
+          "description": "1 ：muffin ★：2026/09/25(金) 18:57:51.34 ID:gz2p4G5x9.net\n\n\n\n\n\n\n\n\n【「ノーブラもいます」皇居ランめぐる『5時に夢中！』男性MCの発言が波紋「言っている内容が気持ち悪い」】https://t.co/qhC5l2vIWE #5時に夢中 #TOKYOMX #垣花正 #女性自身［@jisinjp］— 女性自...",
+          "link": "https://itainews.com/archives/2067670.html",
+          "publishedOn": "2026-09-26T04:31:42.000Z",
+          "wordCount": 3277,
+          "title": "「ノーブラもいます」皇居ランめぐる『5時に夢中！』男性MCの発言が波紋「言っている内容が気持ち悪い」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/0/301ffaf3-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067665.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/25(金) 18:24:44.03 ID:JP9G3Keo0●.net\n\n\n\n\n\n\n\n\n\nそれから、「政府は千葉県をちゃんと支援しているのか」と疑問に思う方、中にはこの災害に乗じて政権批判をする方がいるのですが、発災直後より各省庁とは緊密に連携し、全面的な支援を受けています。… p...",
+          "link": "https://itainews.com/archives/2067665.html",
+          "publishedOn": "2026-09-26T04:01:58.000Z",
+          "wordCount": 3681,
+          "title": "千葉県知事「この災害に乗じて政権批判をする方がいるのですが、全面的な支援を受けています」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/e/9e411ead-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067664.html",
+          "author": "nobi0929",
+          "description": "1 名前：muffin ★：2026/09/25(金) 18:30:57.87 ID:gz2p4G5x9.net\n\n\n\n\n\n\n\n「STREET DANCE GIRLS FIGHTER2」で優勝…日本人ダンサー山田リアさん、闘病の末に16歳で死去https://t.co/MT3V7kEsqN— Kstyle (@Kstyle_news) September 25, 2026 \n\n\n\n\n\n\n\n\n\n\n\n9/25(金) 18:25 ...",
+          "link": "https://itainews.com/archives/2067664.html",
+          "publishedOn": "2026-09-26T03:30:38.000Z",
+          "wordCount": 3300,
+          "title": "【訃報】ダンサー山田リアさん死去　16歳　かねて自己免疫疾患で闘病　23年に韓国のサバ番出演",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/3/b372d87f-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067655.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/24(木) 21:39:17.75 ID:d3WHwYz70●.net\n\n\n\n\n\n\n\n\n\nあまり知られていない事ですが\"オール沖縄\"という政治団体はありません理由はシンプルで届出していないからですという事で私がオール沖縄という政治団体で届出し受理されました#辺野古移設容認#アイデンテ...",
+          "link": "https://itainews.com/archives/2067655.html",
+          "publishedOn": "2026-09-26T03:01:50.000Z",
+          "wordCount": 3790,
+          "title": "【爆笑】　「オール沖縄」名称、右派活動家が登録したのでデニーや共産系が使えなくなるwww",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/9/d958b69f.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067663.html",
+          "author": "dqnplus",
+          "description": "1 ：Anonymous ★：2026/09/25(金) 13:28:41.25 ID:jicT8DDO9.net\n\n\n\n\n\n\n\n\n\nわざわざ嫌いとかなんでいうの？ https://t.co/MNVHRsttce— 堀江貴文(Takafumi Horie、ホリエモン) (@takapon_jp) September 24, 2026 \n\n\n\n\n\n\n\n\n\n実業家の堀江貴文氏が24日、自身のX（旧ツイッ...",
+          "link": "https://itainews.com/archives/2067663.html",
+          "publishedOn": "2026-09-26T02:36:56.000Z",
+          "wordCount": 3701,
+          "title": "堀江貴文氏、「ホリエモンは嫌いだけど好きになりそう」との声に疑問「わざわざ嫌いとかなんでいうの？」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/3/8321954c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067658.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/09/25(金) 15:30:21.42 ID:71X3ByjU0●.net \n\n\n\n\n\n\n\n\n\n中道分裂「民主改革」初総会　2人入党せず「少数精鋭」“1人残して年間17億円”批判も https://t.co/g0apirUrXx@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 25, 2026 \n\n\n\n\n\n\n\n\nhttps://news...",
+          "link": "https://itainews.com/archives/2067658.html",
+          "publishedOn": "2026-09-26T02:01:28.000Z",
+          "wordCount": 3983,
+          "title": "民主改革の会　小川淳也代表「我々は少数精鋭です！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/4/f4f46c8c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067662.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/09/25(金) 12:22:08.60 ID:KEkmCwHc0.net\n\n\n\n\n\n\n\n【凍結事件】ボディコン写真を投稿したInstagram‼️開設して一週間でアカウントがボンバーしました😂53000人のフォローしてくださっていたみなさん、初めましてのみなさん、再びよろしくお願いいたしま...",
+          "link": "https://itainews.com/archives/2067662.html",
+          "publishedOn": "2026-09-26T01:00:59.000Z",
+          "wordCount": 3480,
+          "title": "森口ピロ子さん、セクシーポーズでインスタ垢BAN。あまりにもエロすぎたため",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/3/f3b0bba1.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067659.html",
           "author": "takakichi5346",
@@ -19729,26 +19809,6 @@
           "wordCount": 3655,
           "title": "【社会】「好きな子をAVに」　写真1枚で性的動画をAI生成…無料サービスが拡散　「現状取り締まる法律がない」弁護士が見解",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/0/d0fdd999-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066551.html",
-          "author": "damono3856",
-          "description": "1 名前：muffin ★：2026/08/27(木) 13:25:24.50 ID:7dNjswoF9.net\n\n\n\n\n\n\n\nこめおが麻布十番まつりで販売した蟹ラーメンをめぐり、体調不良の報告がSNSで相次ぐ▼記事https://t.co/knFvemD8W9・8月22・23日に開催された麻布十番まつりに出店・食べた人から発熱や下痢の報...",
-          "link": "https://itainews.com/archives/2066551.html",
-          "publishedOn": "2026-08-27T14:01:06.000Z",
-          "wordCount": 4362,
-          "title": "こめおが麻布十番まつりで販売した蟹ラーメンをめぐり、体調不良の報告がSNSで相次ぐ　港区保健所が調査",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/8/c8e112ed-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066548.html",
-          "author": "damono3856",
-          "description": "1 名前：冬月記者 ★：2026/08/27(木) 11:46:43.04 ID:RuicWBgD9.net\n\n\n\n\n\n\n\n成人は18歳からなのに🤔橋木太希騎手が引退…重大な非行で1年間の騎乗停止中　本人が騎手免許取り消し申請（スポニチアネックス） https://t.co/ZwIi6P9VpP— りゅうたん@ごちうさ愚連隊 (@pud...",
-          "link": "https://itainews.com/archives/2066548.html",
-          "publishedOn": "2026-08-27T13:01:03.000Z",
-          "wordCount": 3577,
-          "title": "【競馬】JRA・橋木太希騎手が引退…　重大な非行があったため、1年間の騎乗停止中　本人が騎手免許取り消し申請",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/d/cda39885-s.png"
         }
       ]
     },
@@ -19757,6 +19817,26 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=62064",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 先日、アミューあつぎで買い物を済ませ、B1から地下道へ出ようとしたところ、 しばらく動きのなかった場所に突如、自習室・ワーキングスペースがオープンしているのを発見いたしましたー！ 「コインスペース アミュ…",
+          "link": "https://atsugi-lab.com/open-coinspace-amyu-atsugi-202609/",
+          "publishedOn": "2026-09-26T03:22:59.000Z",
+          "wordCount": 825,
+          "title": "【開店】アミューあつぎB1Fに、自習室・ワーキングスペース「コインスペース」が9月22日にオープンしていた！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/cs20260922.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=62049",
+          "author": "田原",
+          "description": "こんにちは！タハラ＠あつらぼです。 10月といえばハロウィン！ 本厚木ミロードでは、子どもから大人まで楽しめるハロウィンイベントが多数開催されますよ～！ メインとなる10月24日は、お子さまが喜ぶお菓子配布やパレード、ワークショップなど盛り…",
+          "link": "https://atsugi-lab.com/event-h-mylord-halloween-202610/",
+          "publishedOn": "2026-09-26T01:26:48.000Z",
+          "wordCount": 862,
+          "title": "【イベント】10月24日の本厚木ミロードはハロウィン一色！仮装でのキッズパレードやコンサート、お菓子配布も♪★［厚木市泉町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/hmh202610.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=62002",
           "author": "fumie",
@@ -20828,6 +20908,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127526/",
+          "author": null,
+          "description": "テレビアニメ「ちいかわ」が、10月2日の放送回より新作の放送を一時休止し、人気シリーズ回をリバイバル放送することがわかった。なお、新作アニメの放送再開は2027年1月を予定している。 リバイバル...",
+          "link": "https://anime.eiga.com/news/127526/",
+          "publishedOn": "2026-09-26T03:00:00.000Z",
+          "wordCount": 699,
+          "title": "アニメ「ちいかわ」10月2日～12月25日は人気シリーズのリバイバル放送に　シリーズをまとめた特別動画も配信",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127515/",
           "author": null,
@@ -23732,21 +23827,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127322/",
-          "author": null,
-          "description": "世界中で愛される大ヒットシリーズの7年ぶりとなる完全新作アニメーション「ちいさなプリンセス ソフィア おうこくのまほう」が、8月26日からディズニープラスで独占配信中。あわせてキービジュアル、予...",
-          "link": "https://anime.eiga.com/news/127322/",
-          "publishedOn": "2026-08-27T13:00:00.000Z",
-          "wordCount": 789,
-          "title": "「ちいさなプリンセス ソフィア」シリーズ最新作ではモアナとの初共演も実現　藤本美貴「親子で会話しながら見てほしい」",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23755,6 +23835,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126768",
+          "author": null,
+          "description": "アース・スターノベル発のアニメ『ヘルモード ～やり込み好きのゲーマーは廃設定...",
+          "link": "https://ln-news.com/articles/126768",
+          "publishedOn": "2026-09-26T05:30:00.000Z",
+          "wordCount": 247,
+          "title": "アニメ『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 3rd Season』の制作決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/058dd94020f14de9b438d04853720e23.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126559",
+          "author": null,
+          "description": "電撃の新文芸刊『Unnamed Memory』の完結を記念したサイン会が、A...",
+          "link": "https://ln-news.com/articles/126559",
+          "publishedOn": "2026-09-26T04:00:00.000Z",
+          "wordCount": 289,
+          "title": "『Unnamed Memory』完結を記念したサイン会がAKIHABARAゲーマーズ本店にて開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/61f28e4ac9a24841a227f8937360ade0.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126756",
+          "author": null,
+          "description": "2026年9月25日に発売されたMFブックス9月刊行のラインナップ10冊のジ...",
+          "link": "https://ln-news.com/articles/126756",
+          "publishedOn": "2026-09-26T02:00:00.000Z",
+          "wordCount": 314,
+          "title": "MFブックス2026年9月刊行のラインナップをご紹介。『八男って、それはないでしょう！ みそっかす5』『魔導具師ダリヤはうつむかない14』など10冊",
+          "imageUrl": "https://assets.ln-news.com/images/medias/54ead93e6d4545cabd4298c71f7a84a9.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126744",
           "author": null,
@@ -26291,16 +26401,6 @@
           "publishedOn": "2026-08-29T00:58:06.000Z",
           "wordCount": 2745,
           "title": "サジェスト",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13417",
-          "author": "watanabe@logipara.com",
-          "description": "今日は、 「エアコンをつけるかどうか迷うぎりぎりの室温」 で、 「傘をさすかどうか迷ううっすらとした雨」 も降っていて、いろいろギリギリな日だなぁ、と思っていたら、いままさに 　 「薬を飲むかどうか迷うギリギリな腹痛」  […]",
-          "link": "https://logipara.com/diary-text/2026-08-28/",
-          "publishedOn": "2026-08-27T13:26:45.000Z",
-          "wordCount": 2754,
-          "title": "あいまい戦術",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
