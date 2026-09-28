@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-27T23:25:21.661Z</updated>
+    <updated>2026-09-28T01:49:43.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米軍が使用のイギリス空軍基地近くで5人逮捕　テロ行為準備などの疑い]]></title>
+        <id>https://www.bbc.com/japanese/articles/cqwyz7rzj61go#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cqwyz7rzj61go?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-28T01:23:43.000Z</updated>
+        <summary type="html"><![CDATA[イギリス対テロ警察（CTP）とイングランド南西部グロスタシャー州の警察は27日、同州にあるフェアフォード空軍基地近くで、テロ行為の準備と爆発物関連の法律違反の疑いで男性5人を逮捕したと発表した。3台の「不審車両」が空軍基地に向かって走行していると通報があったという。基地はアメリカ空軍が長年使用し、最近ではイランに対する防衛的攻撃の拠点として使っている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女優が「ネトウヨ」について私見「『淋しい方』なのだと理解いたしました」　(沢海陽子)]]></title>
+        <id>https://itainews.com/archives/2067725.html</id>
+        <link href="https://itainews.com/archives/2067725.html"/>
+        <updated>2026-09-28T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：少考さん ★：2026/09/27(日) 12:57:15.93 ID:U733e67B9.net
+
+
+
+
+
+
+
+私ネトウヨという方々がどういう方なのか良くわからないのですが私なりに思ったのが「淋しい方」なのだなと理解いたしました私なりの解釈ですよ☺️— 沢海陽子 Yoko Soumi (@531ysoumi) Septe...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南アフリカで銃乱射事件相次ぐ、2件で27人死亡]]></title>
+        <id>https://www.bbc.com/japanese/articles/ckeq83yr5312o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ckeq83yr5312o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-28T00:52:34.000Z</updated>
+        <summary type="html"><![CDATA[南アフリカで26日夜から翌朝にかけて、2件の銃乱射事件が相次ぎ、計27人が殺害された。南アフリカは殺人発生率が特に高く、近年はギャング関連の銃暴力が多発している。警察は、今回の2件の襲撃事件について、明確な動機を特定していない。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『無自覚聖女は今日も無意識に力を垂れ流す』のオンラインくじが登場　メインビジュアルを再現したデフォルメフィギュアなどがラインナップ]]></title>
+        <id>https://ln-news.com/articles/126737</id>
+        <link href="https://ln-news.com/articles/126737"/>
+        <updated>2026-09-28T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アース・スター ルナ発のアニメ『無自覚聖女は今日も無意識に力を垂れ流す』より...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坂本美雨「7万人のニューヨーク市民をオペラ観劇に招待！なんて素敵なんだ…日本が愚かすぎる」]]></title>
+        <id>https://itainews.com/archives/2067722.html</id>
+        <link href="https://itainews.com/archives/2067722.html"/>
+        <updated>2026-09-28T00:00:32.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：少考さん ★：2026/09/27(日) 10:48:40.18 ID:U733e67B9.net
+
+
+
+
+
+
+
+7万人のニューヨーク市民をオペラ観劇に招待！なんて素敵なんだ。文化が人を豊かにする、それが街に、社会に、経済に還元されることをちゃんとわかっているからこそ。文化と芸術への助成を削り...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[低／高電圧機器を1チップで接続 LVCMOSクロックバッファー]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2609/28/news046.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2609/28/news046.html"/>
+        <updated>2026-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マイクロチップ・テクノロジーは、1.2V出力LVCMOSクロックバッファー「SY757xx」ファミリーを発表した。FPGAやSoCと高電圧コンポーネントとの接続を可能にする。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「中国国旗はよくて我々はダメなのか！」台湾タオル没収され怒り爆発　観客とスタッフ衝突が物議]]></title>
         <id>https://itainews.com/archives/2067721.html</id>
@@ -34270,104 +34346,6 @@ https:/...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ケンタッキー】とろ～り月見和風カツバーガーこぼれタルタル【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=317430</id>
-        <link href="https://foodfighter.jp/kfc-tsukimi-burger-wakatsu-2026"/>
-        <updated>2026-08-29T13:27:23.000Z</updated>
-        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「とろ～り月見和風カツバーガーこぼれタルタル」を世界一詳しく調査しま […]]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岸谷五朗息子の蘭丸「アメリカの空港で買ったこの水とクッキー2400円。日本円終わり」]]></title>
-        <id>https://itainews.com/archives/2066620.html</id>
-        <link href="https://itainews.com/archives/2066620.html"/>
-        <updated>2026-08-29T13:00:46.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：★：2026/08/29(土) 09:57:10.23 ID:● 2BP(3000).net
-
-
-
-
-
-
-
-米国から帰国の岸谷蘭丸氏　空港での「水とクッキー」の値段明かし「日本円、終わり」(デイリースポーツ) https://t.co/ocyUMRZbdb— 氏長者 (@Ponkich3) August 29, 2026 
-
-
-
-
-
-
-
-実業家でインフル...]]></summary>
-        <author>
-            <name>nobi0929</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[つたない作画で話題になった中国のアニメ映画「牛来」が一転してヒット]]></title>
-        <id>https://anime.eiga.com/news/127321/</id>
-        <link href="https://anime.eiga.com/news/127321/"/>
-        <updated>2026-08-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中国で公開されたアニメ映画「牛来（原題）」が作画の稚拙さで話題を呼び、興行収入を伸ばしていると英BBCが報じている。公開から10日間の興収は、日本円にして20万円に満たなかった。 中国の興行デー...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[急逝の恩師に届ける阪神淡路大震災の復興を願う歌「しあわせ運べるように」　教え子らが神戸・ノエビアスタジアムで合唱(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/ca077968108e3781cf2182b8280c48d7c0ebe45c?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/ca077968108e3781cf2182b8280c48d7c0ebe45c?source=rss"/>
-        <updated>2026-08-29T12:49:35.000Z</updated>
-        <summary type="html"><![CDATA[阪神淡路大震災の復興を願う歌、「しあわせ運べるように」。作詞・作曲を手がけ、７月に亡くなった臼井真さんの思いを継ぎ、大学生らがスタジアムで合唱しました。
-
-　２９日、ノエビアスタジアム神戸のサッカー]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国軍、洪水対応頑張ってますアピールのため濁った水の中で弁当を食うプロパガンダ映像を公開]]></title>
-        <id>https://itainews.com/archives/2066631.html</id>
-        <link href="https://itainews.com/archives/2066631.html"/>
-        <updated>2026-08-29T12:31:19.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：：2026/08/29(土) 12:04:08.52 ID:ztMxRck70●.net 
-
-
-
-
-
-
-
-别人救灾的时候在救灾。共军救灾的时候要么吃饭、要么睡觉。感动得我吃的东西都吐了。 pic.twitter.com/SVLZGJf0Wn— Lawrence 精卫 (@Lawrenc09874431) August 28, 2026]]></summary>
-        <author>
-            <name>damono3856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電車にスマホ貼り付け、ホーム全力疾走の様子を撮影…TikTokerの動画が物議　衣服ブランドの宣伝目的か]]></title>
-        <id>https://itainews.com/archives/2066618.html</id>
-        <link href="https://itainews.com/archives/2066618.html"/>
-        <updated>2026-08-29T12:04:20.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：おっさん友の会 ★：2026/08/29(土) 00:49:20.20 ID:pB821/9r9.net
-
-
-
-
-
-
-
-電車にスマホ貼り付け、ホーム全力疾走の様子を撮影……TikTokerの動画が物議　衣服ブランドの宣伝目的かhttps://t.co/abezDBAj1g— ITmedia NEWS (@itmedia_news) August 28, 2026 
-
-
-
-...]]></summary>
-        <author>
-            <name>takakichi5346</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【FF4】名曲メドレー|FINAL FANTASY Ⅳ/Medley of Greatest Hits③#ファイナルファンタジー #ff #ff4 #finalfantasy #clarinet]]></title>
         <id>https://www.youtube.com/shorts/QZnsjGSNwkY</id>
         <link href="https://www.youtube.com/shorts/QZnsjGSNwkY"/>
@@ -34378,47 +34356,12 @@ https:/...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「東京リベンジャーズ 三天戦争編」10月3日からディズニープラスで独占配信決定　新キービジュアル＆PV披露]]></title>
-        <id>https://anime.eiga.com/news/127305/</id>
-        <link href="https://anime.eiga.com/news/127305/"/>
-        <updated>2026-08-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「東京リベンジャーズ 三天戦争編」が、10月3日からディズニープラスで世界定額制動画配信（SVOD）独占配信されることが決定した（中国本土を除く）。あわせて、新たなキービジュアルとP...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[結婚相談所に20年通うおじさんを成婚させるため、自ら結婚する婚活プランナー【ジェラードン】]]></title>
         <id>https://www.youtube.com/watch?v=bSjsKQKhZM8</id>
         <link href="https://www.youtube.com/watch?v=bSjsKQKhZM8"/>
         <updated>2026-08-29T11:42:39.000Z</updated>
         <author>
             <name>ジェラードンチャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアへの学生派遣事業は時期尚早では　「戦争特約保険」も検討…安全置き去りの交流再開に疑問の声]]></title>
-        <id>https://itainews.com/archives/2066627.html</id>
-        <link href="https://itainews.com/archives/2066627.html"/>
-        <updated>2026-08-29T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[1 名前：少考さん ★：2026/08/29(土) 11:19:31.27 ID:boraUbhA9.net
-
-
-
-
-
-
-
-ロシアへの学生派遣事業は時期尚早では　「戦争特約保険」も検討…安全置き去りの交流再開に疑問の声https://t.co/2qyvJB2CdO— 東京新聞デジタル (@tokyo_shimbun) August 28, 2026  
-
-
-
-
-
-
-...]]></summary>
-        <author>
-            <name>damono3856</name>
         </author>
     </entry>
 </feed>
