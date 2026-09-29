@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/046/G104637/20260929034/",
+          "author": null,
+          "description": "CDPROJEKTREDは本日，「ウィッチャー3ワイルドハントリマスター」をPC/Switch2/PS5/XBOXSeriesX|S向けにリリースした。オープンワールドRPG「ウィッチャー3ワイルドハント」のリマスター版で，ビジュアルの強化やスキルツリーの刷新に加え，コンシューマ版ではクロスプラットフォームMODにも対応した。",
+          "link": "https://www.4gamer.net/games/046/G104637/20260929034/",
+          "publishedOn": "2026-09-29T11:48:45.000Z",
+          "wordCount": 8922,
+          "title": "「ウィッチャー3 ワイルドハント リマスター」本日リリース。ビジュアルの強化やスキルツリーの刷新に加え，コンシューマ版もMODに対応",
+          "imageUrl": "https://www.4gamer.net/games/046/G104637/20260929034/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/958/G095815/20260929017/",
           "author": null,
           "description": "任天堂は本日，カプセルトイ「フルーツキーホルダーコレクションどうぶつの森」の一般販売をNintendoTOKYO/OSAKA/KYOTO/FUKUOKAで開始した。本商品は，あつまれほっかいどうエアポー島ポップアップイベントin新千歳空港などで，8月14日から先行販売していたものだ。",
@@ -4084,36 +4094,6 @@
           "wordCount": 8368,
           "title": "「Fate/EXTRA Record」，アニプレックスからのリリースが決定。公式サイトとXアカウントも開設",
           "imageUrl": "https://www.4gamer.net/games/520/G052062/20260831004/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/015/G101555/20260831003/",
-          "author": null,
-          "description": "集英社ゲームズは2026年8月30日，サバイバーズロワイアルゲーム「呪術廻戦RUMBLE:SURVIVATON」の新キービジュアルと，羂索と禪院直哉がボスとして登場することを発表した。また，9月17日から開催される「東京ゲームショウ2026」では，世界初となる試遊展示を実施する。",
-          "link": "https://www.4gamer.net/games/015/G101555/20260831003/",
-          "publishedOn": "2026-08-31T02:27:03.000Z",
-          "wordCount": 8442,
-          "title": "「呪術廻戦 RUMBLE: SURVIVATON」，新キービジュアルを公開。羂索と禪院直哉がボスとして登場，TGS 2026では試遊出展",
-          "imageUrl": "https://www.4gamer.net/games/015/G101555/20260831003/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/954/G095479/20260830001/",
-          "author": null,
-          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，シリーズ最新作「鬼武者WayoftheSword」や，吸血鬼を主人公に据えたダークファンタジーアクションRPG「TheBloodofDawnwalker」が発売される。",
-          "link": "https://www.4gamer.net/games/954/G095479/20260830001/",
-          "publishedOn": "2026-08-30T23:00:00.000Z",
-          "wordCount": 8518,
-          "title": "【今週のモチベ】「鬼武者 Way of the Sword」や「The Blood of Dawnwalker」が発売される 2026年8月31日〜9月6日",
-          "imageUrl": "https://www.4gamer.net/games/954/G095479/20260830001/SS/006.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/040/G004099/20260830004/",
-          "author": null,
-          "description": "2026年8月24日〜8月30日，4Gamerに掲載された記事は358本でした。ヨーロッパ最大規模のゲームショウ「gamescom2026」がドイツで開幕し，アッと驚く新情報が次々に公開されました。多数のレポート記事を現地からお届けした4Gamerと世界のゲーム業界の1週間をササっと振り返りましょう。",
-          "link": "https://www.4gamer.net/games/040/G004099/20260830004/",
-          "publishedOn": "2026-08-30T22:00:00.000Z",
-          "wordCount": 9887,
-          "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月24日〜8月30日",
-          "imageUrl": "https://www.4gamer.net/games/040/G004099/20260830004/SS/036.jpg"
         }
       ]
     },
@@ -4122,6 +4102,96 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/a5e16eef6ce53ad45eb7ec54246406b5b506bb7c?source=rss",
+          "author": null,
+          "description": "関西電力は１１月分の一般的な家庭の電気料金が、前の月と比べ１３００円以上値上がりすると発表しました。長雨で葉物野菜が高騰、キャベツ畑は「3分の1くらいが根腐れ」 一方でお得な野菜は？ 関西電力によりま",
+          "link": "https://news.yahoo.co.jp/articles/a5e16eef6ce53ad45eb7ec54246406b5b506bb7c?source=rss",
+          "publishedOn": "2026-09-29T11:32:20.000Z",
+          "wordCount": 1685,
+          "title": "関西電力　１１月分の電気料金が平均モデルで１３００円以上の値上げへ　国の支援分がなくなることなどが要因(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082784-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4354fee38467dbb37b17feea31f788de66c4da10?source=rss",
+          "author": null,
+          "description": "モーター大手のニデックは、社長を務めていた岸田光哉氏が２９日付けで辞任したと発表しました。新社長には専務執行役員の戒田理夫氏が就任しました。「節約したかった」ETCレーンを約150回、不正に通過か 男",
+          "link": "https://news.yahoo.co.jp/articles/4354fee38467dbb37b17feea31f788de66c4da10?source=rss",
+          "publishedOn": "2026-09-29T11:07:32.000Z",
+          "wordCount": 1705,
+          "title": "ニデックの岸田光哉社長が辞任　財務報告に「適切とは言いかねる言動」　その後自ら辞意示す　後任には専務執行役員の戒田理夫氏が就任(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082783-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2a9d55b8f4914801f910a4545e358c195e95f24c?source=rss",
+          "author": null,
+          "description": "今、スーパーで買い物客の頭を悩ませているのが「葉物野菜の価格高騰」です。 大阪市内のスーパーでは、ホウレンソウは８月上旬の約２倍となる税抜き３９８円。ハクサイは４分の１サイズで、税抜き２７８円となって",
+          "link": "https://news.yahoo.co.jp/articles/2a9d55b8f4914801f910a4545e358c195e95f24c?source=rss",
+          "publishedOn": "2026-09-29T11:00:00.000Z",
+          "wordCount": 1716,
+          "title": "長雨で葉物野菜が高騰、キャベツ畑は「3分の1くらいが根腐れ」　一方でお得な野菜は？(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082782-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ecd32ffccf278c7e36cd3fec02a64ce35ef7f1bc?source=rss",
+          "author": null,
+          "description": "和歌山県有田川町の住宅に侵入し、現金などを盗んだ疑いで、匿名・流動型犯罪グループ「トクリュウ」の指示役とみられる男が逮捕されました。「節約したかった」ETCレーンを約150回、不正に通過か 男を逮捕",
+          "link": "https://news.yahoo.co.jp/articles/ecd32ffccf278c7e36cd3fec02a64ce35ef7f1bc?source=rss",
+          "publishedOn": "2026-09-29T10:38:26.000Z",
+          "wordCount": 1672,
+          "title": "現金約２３０万円など盗んだか　「トクリュウ」指示役とみられる男を逮捕　フィリピンから帰国したところを確保(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082780-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f205d3280a372615caaebbe900fcf20fd9677066?source=rss",
+          "author": null,
+          "description": "２０代の男性に車の中で暴行を加えてけがをさせたうえ現金を奪ったとして、２０歳の男ら３人が逮捕されました。区役所で死亡届を受理後、職員が誤って配偶者の住民票を削除 堺市 堺市の会社員・青山旺佳容疑者（２",
+          "link": "https://news.yahoo.co.jp/articles/f205d3280a372615caaebbe900fcf20fd9677066?source=rss",
+          "publishedOn": "2026-09-29T10:38:13.000Z",
+          "wordCount": 1695,
+          "title": "「生きて帰れんぞ」「内蔵売って金作ってもええぞ」　２０代男性に車内で暴行を加えたうえ現金など奪ったか　２０歳の男ら３人を逮捕・起訴(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082781-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/85d726ae7c6f9aabe28378cb57b9659b59e903af?source=rss",
+          "author": null,
+          "description": "元阪神の秋山拓巳さんが、安全運転を呼びかけました。 大阪・四條畷警察署の一日署長に任命されたのは、元阪神タイガースの秋山拓巳さんです。宅配便の箱に傷、直接の謝罪要求はカスハラ？ 社労士が2つの判断基準",
+          "link": "https://news.yahoo.co.jp/articles/85d726ae7c6f9aabe28378cb57b9659b59e903af?source=rss",
+          "publishedOn": "2026-09-29T10:23:00.000Z",
+          "wordCount": 1649,
+          "title": "元阪神・秋山拓巳さんが一日警察署長　自転車のヘルメット着用を呼びかけ　大阪・四條畷署(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082779-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/123c6f7f0c7c58cebf961fddebccfa5219f031a5?source=rss",
+          "author": null,
+          "description": "阪神高速の料金所のＥＴＣレーンを不正に通過し、料金を払わなかった疑いで自営業の４５歳の男が逮捕されました。母親の遺体を自宅に放置した疑いで55歳男を逮捕 容疑認める 南野和也容疑者（４５）は今月１日、",
+          "link": "https://news.yahoo.co.jp/articles/123c6f7f0c7c58cebf961fddebccfa5219f031a5?source=rss",
+          "publishedOn": "2026-09-29T09:24:58.000Z",
+          "wordCount": 1682,
+          "title": "「節約したかった」ETCレーンを約150回、不正に通過か 男を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082774-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0f5c8f3d23238ce39aa31a899b8dbec151274ef1?source=rss",
+          "author": null,
+          "description": "大阪大学発のベンチャー「クオリプス」は、ｉＰＳ細胞から作った心筋細胞シート「リハート」の移植手術が大阪市内の病院で実施されたと発表しました。区役所で死亡届を受理後、職員が誤って配偶者の住民票を削除 堺",
+          "link": "https://news.yahoo.co.jp/articles/0f5c8f3d23238ce39aa31a899b8dbec151274ef1?source=rss",
+          "publishedOn": "2026-09-29T09:17:07.000Z",
+          "wordCount": 1660,
+          "title": "iPS細胞から作った心筋細胞シート「リハート」を移植　製品の保険適用後初めて(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082775-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d31568804019ed667b6148b4fb23c2598a7ce827?source=rss",
+          "author": null,
+          "description": "神戸市教育委員会は２９日、女子中学生にわいせつな画像を送るよう要求し逮捕された神戸市立中学校の２０代の男性教師を、懲戒免職処分としました。宅配便の箱に傷、直接の謝罪要求はカスハラ？ 社労士が2つの判断",
+          "link": "https://news.yahoo.co.jp/articles/d31568804019ed667b6148b4fb23c2598a7ce827?source=rss",
+          "publishedOn": "2026-09-29T08:37:34.000Z",
+          "wordCount": 1648,
+          "title": "女子中学生にわいせつ画像を要求か　逮捕された中学校教師を懲戒免職(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260929-00082772-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/093fd4f15d1a1c0683f55254375a6901d04feca1?source=rss",
           "author": null,
@@ -8810,6 +8880,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cjg496zdk6nro#0",
+          "author": null,
+          "description": "米ニューヨーク州検察当局は28日、2024年に同州のコーネル大学で女性がレイプされた疑いの事件について、捜査を再開すると発表した。被害者の女性は今月16日、同大学の男子学生社交クラブの建物で2024年に、複数の人物に薬物を盛られレイプされたとして、民事訴訟を起こした。同大学は、米北東部にある名門大学「アイビーリーグ」8校の一つ。",
+          "link": "https://www.bbc.com/japanese/articles/cjg496zdk6nro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-29T13:20:50.000Z",
+          "wordCount": 1688,
+          "title": "米検察、コーネル大学で集団レイプの疑いを捜査再開へ",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1df7/live/c6cdfd60-bbd6-11f1-bd21-bdf910f2cec6.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cq2dw9xl593ko#0",
           "author": null,
           "description": "アルゼンチンのミレイ大統領は28日、イギリス政府が南大西洋にあるフォークランド諸島沖での石油探査活動をやめさせなければ、同政府に対して法的措置を取ると脅した。",
@@ -11315,26 +11395,6 @@
           "wordCount": 2655,
           "title": "6.5kV SiC MOSFETを開発、NoMIS Power",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/28/l_edn20260827edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news009.html",
-          "author": null,
-          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、初級者の方からよく質問される「Neural-ARTアクセラレーター」についてです。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/31/news009.html",
-          "publishedOn": "2026-08-31T02:00:00.000Z",
-          "wordCount": 2638,
-          "title": "Neural-ARTアクセラレーターってどんな機能？",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/31/cover_news009.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html",
-          "author": null,
-          "description": "マイクロチップ・テクノロジーは、宇宙システム向けチップスケール原子クロック「Space CSAC-SA65」を発表した。同社の従来品をベースに、耐放射線性や対応温度範囲を強化している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2608/31/news038.html",
-          "publishedOn": "2026-08-31T00:00:00.000Z",
-          "wordCount": 2622,
-          "title": "小型人工衛星でも精度維持　宇宙向け原子クロック",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/31/cover_news038.jpg"
         }
       ]
     },
@@ -12790,6 +12850,96 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067807.html",
+          "author": "damono3856",
+          "description": "1 名前：もん様！：2026/09/29(火) 15:58:01.51 ID:eRLxSRdS0●.net\n\n\n\n\n\n\n\n【速報】iPS細胞使った“世界初”の手術実施　重い心臓病患者の治療でついに実用化　山中教授が「iPS細胞」発表から20年の節目（読売テレビ） https://t.co/WSYuvmqtpP— 普通のおばさん (@rk_r...",
+          "link": "https://itainews.com/archives/2067807.html",
+          "publishedOn": "2026-09-29T14:01:19.000Z",
+          "wordCount": 3250,
+          "title": "iPS細胞発表から20年　心臓治しちゃった　実用化",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/4/247aed82-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067798.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2026/09/29(火) 10:56:35.60 ID:la2tymRm9.net\n\n\n\n\n\n\n\nトクリュウに顧客情報提供疑い　強盗事件関与、自称不動産業逮捕―警視庁https://t.co/GuOkyI9J1T#時事通信 #ニュース #時事ドットコム— 時事ドットコム（時事通信ニュース） (@jijicom) Septem...",
+          "link": "https://itainews.com/archives/2067798.html",
+          "publishedOn": "2026-09-29T13:01:05.000Z",
+          "wordCount": 3358,
+          "title": "トクリュウに顧客情報提供疑い　強盗事件関与、自称不動産業逮捕―警視庁",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/c/ac3f49be-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067797.html",
+          "author": "damono3856",
+          "description": "1 名前：ニーニーφ ★：2026/09/29(火) 01:00:15.04 ID:vM9Mrojp9.net\n\n\n\n\n\n\n\n🇻🇪怒り🇯🇵「あり得ない」ベネズエラ代表DFがジャッジに怒り、監督も指摘したシーンをSNSで共有「ホスト国を勝たせるための試合」https://t.co/RzPHwxTvWO🗣️編集部より「ベネズエラ代表...",
+          "link": "https://itainews.com/archives/2067797.html",
+          "publishedOn": "2026-09-29T12:03:22.000Z",
+          "wordCount": 3416,
+          "title": "【サッカー】ベネズエラ代表DFがジャッジに怒り、監督も指摘したシーンをSNSで共有「ホスト国を勝たせるために仕組まれた親善試合だ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/d/bdfa78ad-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067805.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/09/29(火) 16:40:05.35 ID:Wms3QBCA9.net\n\n\n\n\n\n\n\n【総務省 富山市職員を県警に告発】https://t.co/qMj17ExQP7— Yahoo!ニュース (@YahooNewsTopics) September 29, 2026  \n\n\n\n\n\n\n9/29(火) 14:46配信\n富山テレビ\n\n総務省は29日、統計法違反の疑いで...",
+          "link": "https://itainews.com/archives/2067805.html",
+          "publishedOn": "2026-09-29T11:31:11.000Z",
+          "wordCount": 3332,
+          "title": "総務省が富山市職員を統計法違反の疑いで県警本部に告発",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/8/c85b7e25-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067790.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/28(月) 21:26:23.44 ID:WOvy4Svp0●.net\n\n\n\n\n\n\n\nノルウェーで、中国製スマートEV 7万7000台による隠密監視が発覚。エンジン停止後もデータの90%を中国に送信 pic.twitter.com/F4Z1nNYuW7— 中国の真実 (@himawar14376267) September 27, 2026 \n\n\n\n\n\n\nh...",
+          "link": "https://itainews.com/archives/2067790.html",
+          "publishedOn": "2026-09-29T11:02:01.000Z",
+          "wordCount": 3903,
+          "title": "ノルウェーで、中国製EVによる隠密監視が発覚。エンジン停止後もデータの90%を中国に送信",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/77c341c3-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067795.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/29(火) 08:59:03.12 ID:qWjFBnvm0●.net\n\n\n\n\n\n\n\nお気に入り動画を、こっそり見ていたら「突然、音が消えた。なんでだ？」　車で帰ってきたばかりの妻から文句……文明の利器がもたらした、まさかの悲劇 https://t.co/ffG8NDaAKW— 風天 (@gxoAmAlalL20...",
+          "link": "https://itainews.com/archives/2067795.html",
+          "publishedOn": "2026-09-29T10:31:07.000Z",
+          "wordCount": 3484,
+          "title": "エロ動画視聴中に突然音声が聞こえなくなる。原因は嫁の車のブルートゥースに繋がっていた",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/4/740816b1-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067788.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/09/29(火) 06:05:32.46 ID:8fF5Y7ql0●.net\n\n\n\n\n\n\n\n共産党が「残業代」請求された訴訟で“全面敗訴”…「党職員は労働者」104年の歴史で初認定https://t.co/gh4BFmyVNI— 岡口基一 (@okaguchik) July 7, 2026  \n\n\n\n\n\n\nhttps://www.ben54.jp/news/3685\n\n共...",
+          "link": "https://itainews.com/archives/2067788.html",
+          "publishedOn": "2026-09-29T10:00:10.000Z",
+          "wordCount": 3758,
+          "title": "共産党が全面敗訴　党職員に法定賃金支払わず　なぜか『赤旗』は裁判を完全スルー",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/a/ca0a232d-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067786.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/09/28(月) 22:52:07.32 ID:3Gp0MWc99.net\n\n\n\n\n\n\n\n東京大学学長に藤垣裕子氏選出　女性初、学内投票覆すhttps://t.co/yIvngx9poy上位3人による2回目の意向投票で藤垣氏は553票を獲得。染谷隆夫副学長（1107票）に次いで2位でした。— 日本経済...",
+          "link": "https://itainews.com/archives/2067786.html",
+          "publishedOn": "2026-09-29T09:02:22.000Z",
+          "wordCount": 4227,
+          "title": "東京大学学長に藤垣裕子氏選出　女性初、学内投票覆す",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/d/cd30b688-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067780.html",
+          "author": "takakichi5346",
+          "description": "1 名前：少考さん ★：2026/09/28(月) 22:01:42.29 ID:lcJFmsf89.net\n\n\n\n\n\n\n\nアイドル練習生が8歳で死去「みんなの事が大好きでした」　死因は「インフルエンザ罹患に伴う心筋炎」(ENCOUNT)https://t.co/IKqBvpXSfe— ka (@_kasuke) September 28, 2026 \n\n\n\n\n\n\nDIANNAプ...",
+          "link": "https://itainews.com/archives/2067780.html",
+          "publishedOn": "2026-09-29T08:34:30.000Z",
+          "wordCount": 3813,
+          "title": "8歳アイドル練習生が急死 …インフル心筋炎 声明と「あのワクチン」の波紋",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/735b2fca-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067777.html",
           "author": "nobi0929",
@@ -20119,66 +20269,6 @@
           "wordCount": 3054,
           "title": "スポーツ選手が性的な目的で撮影される被害続発、禁止や許可制の動き…防止へ条例設けた自治体も",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/4/346bda2a.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066671.html",
-          "author": "dqnplus",
-          "description": "1 ：muffin ★：2026/08/30(日) 14:25:40.88 ID:1+YEKJ4w9.net\n\n\n\n\n\n\n\n\n\nひろゆき氏、“国ガチャ”だと日本は上位何パーセント？私見を展開「餓死することもないし」（スポニチアネックス）#Yahooニュース https://t.co/iPGswfo0hF— ღシーマღ 🦋ෆ.*紫衣舞ﾃﾞｽ(๑•̀...",
-          "link": "https://itainews.com/archives/2066671.html",
-          "publishedOn": "2026-08-31T02:31:07.000Z",
-          "wordCount": 3050,
-          "title": "ひろゆき氏、“国ガチャ”だと日本は上位何パーセント？「餓死することもないし、生きているだけで殺されることもあまりない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/6/c61de312.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066668.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/08/30(日) 11:14:47.21 ID:95OE350w0●.net \n\n\n\n\n\n\n\n\n\n\n【猫ミーム】男子は知らない女子トイレの心理戦　#猫ミーム #shorts #catmemes #猫マニ #あるある https://t.co/zFBHr4Wxcn @YouTubeより— くろまる (@qbxtiDRG7datmvG) August 26, 2026 \n\n\n\n\n\n\n\n\n女子...",
-          "link": "https://itainews.com/archives/2066668.html",
-          "publishedOn": "2026-08-31T02:01:19.000Z",
-          "wordCount": 3066,
-          "title": "【動画】　女子トイレだけがなぜ混むのか、その理由がついに判明",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/5/d547bf88.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066670.html",
-          "author": "nobi0929",
-          "description": "1 名前：煮卵 ★：2026/08/30(日) 18:55:40.30 ID:ydlEVU1k9.net\n\n\n\n\n\n\n\n高市氏への批判動画、7月急増 － 政策に落胆、肯定を逆転https://t.co/20HxtdMpjB— 共同通信公式 (@kyodo_official) August 30, 2026 \n\n\n\n\n\n\n高市早苗首相を取り上げたユーチューブ動画を分析する...",
-          "link": "https://itainews.com/archives/2066670.html",
-          "publishedOn": "2026-08-31T01:00:31.000Z",
-          "wordCount": 3046,
-          "title": "【YouTube】高市氏への批判動画、7月急増　政策に落胆、肯定を逆転",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/e/3ed5cc5f-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066665.html",
-          "author": "takakichi5346",
-          "description": "1 名前：少考さん ★：2026/08/30(日) 14:50:35.67 ID:dpRzVAjM9.net\n\n\n\n\n\n\n\n🎙️第1回 日韓少子化対策シンポジウム in 仙台🎙️8月28日（日）14:00～ 開催中📢✅「日韓少子化対策交流委員会」の紹介✅「日韓若者意識調査2026」の結果報告✅今後の共同研究の方向性案✅両...",
-          "link": "https://itainews.com/archives/2066665.html",
-          "publishedOn": "2026-08-31T00:01:18.000Z",
-          "wordCount": 3045,
-          "title": "日韓少子化対策交流委員会が発足",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/0/805ec568-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066660.html",
-          "author": "nobi0929",
-          "description": "1 名前：それでも動く名無し：2026/08/30(日) 18:23:08.58 ID:rB/SIQ5S0.net\n\n\n\n\n\n\n\nなんと、「人手不足」は嘘なのか？北村晴男氏、同世代の仲間がコンビニのバイト面接で落とされる外国人は採用されてるよこれって日本人差別にならないのか？ pic.twitter.com/DDhzmsj4P...",
-          "link": "https://itainews.com/archives/2066660.html",
-          "publishedOn": "2026-08-30T23:00:57.000Z",
-          "wordCount": 3048,
-          "title": "北村弁護士の友人、コンビニバイト応募するも全滅…「外国人は雇うのに日本人は雇わない。これが現実」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/8/7827bfef-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066659.html",
-          "author": "nobi0929",
-          "description": "1 名前：Ailuropoda melanoleuca ★：2026/08/30(日) 10:22:09.48 ID:2CkxbES99.net\n\n\n\n\n\n\n\n【写真多数】巨人・浦田俊輔＆齊藤なぎさの密着デート《腕を絡めて、恋人つなぎ…》 #週刊文春 https://t.co/HCjj3QB50k— ゆずき (@yuzuki_ogura) August 30, 2026 \n\n\n\n\n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2066659.html",
-          "publishedOn": "2026-08-30T22:00:31.000Z",
-          "wordCount": 3072,
-          "title": "【文春】「恋人つなぎで…」元=LOVE・齊藤なぎさ（23）が新人王最有力の巨人・浦田俊輔（23）と密着デート《スクープ撮》",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/c/2cf10988-s.jpg"
         }
       ]
     },
@@ -20621,6 +20711,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=319180",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-beefcurry",
+          "publishedOn": "2026-09-29T13:52:44.000Z",
+          "wordCount": 1927,
+          "title": "【すき家】ビーフカレー【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/85f385c95535be8a682271f0503b58d0.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=319150",
           "author": "foodfighter",
@@ -21298,6 +21398,81 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127551/",
+          "author": null,
+          "description": "KADOKAWAの「コミックキューン」で連載中の漫画「エルフ先生のトイレはどこですか？」が、「インゴクダンチ」などで知られるアニメーションレーベル「デレギュラ」にてテレビアニメ化されることが分か...",
+          "link": "https://anime.eiga.com/news/127551/",
+          "publishedOn": "2026-09-29T13:00:00.000Z",
+          "wordCount": 657,
+          "title": "「エルフ先生のトイレはどこですか？」TVアニメ化　自然豊かな場所でないと用がたせないエルフのファンタジーコメディ",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127542/",
+          "author": null,
+          "description": "テレビアニメ「ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season」が9月25日に最終回を迎え、放送終了後に3rd Season「S級ダンジョン攻略編」の製作が...",
+          "link": "https://anime.eiga.com/news/127542/",
+          "publishedOn": "2026-09-29T12:00:00.000Z",
+          "wordCount": 635,
+          "title": "「ヘルモード」3rd Season「S級ダンジョン攻略編」が製作決定　新ビジュアルも公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127538/",
+          "author": null,
+          "description": "日本の新人アニメーション作家による長編デビュー作が、カンヌ国際映画祭監督週間でワールドプレミア上映、そしてアヌシー国際映画祭アニメーション2026の長編コンペティション部門に選出と、日本公開前か...",
+          "link": "https://anime.eiga.com/news/127538/",
+          "publishedOn": "2026-09-29T11:00:00.000Z",
+          "wordCount": 749,
+          "title": "少年時代のノスタルジーと苦い思い出描く「我々は宇宙人」　日本アニメーション映画界に登場した新星、門脇康平監督に聞く",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/eiga_ranking/127550/",
+          "author": null,
+          "description": "9月25～27日の国内映画ランキング（全国週末興行成績・興行通信社提供）が発表され、「映画ちいかわ 人魚の島のひみつ」が2位となった。週末3日間で観客動員18万2000人、興行収入2億8000万...",
+          "link": "https://anime.eiga.com/news/column/eiga_ranking/127550/",
+          "publishedOn": "2026-09-29T10:00:00.000Z",
+          "wordCount": 718,
+          "title": "【週末アニメ映画ランキング】2位の「映画ちいかわ」累計興収168億円突破　3位の「映画名探偵プリキュア！」は累計9億円突破",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127552/",
+          "author": null,
+          "description": "テレビアニメ「LIAR GAME」第1期（全26話）の放送が9月28日に終了し、第2期の製作決定が明らかになった。あわせて、制作決定記念イラストやキャストインタビューなどが公開された。 同作は、...",
+          "link": "https://anime.eiga.com/news/127552/",
+          "publishedOn": "2026-09-29T09:00:00.000Z",
+          "wordCount": 721,
+          "title": "「LIAR GAME」第2期が製作決定　記念イラストやキャスト＆原作者インタビュー公開　第1期一挙配信も実施",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127548/",
           "author": null,
@@ -24226,6 +24401,26 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126798",
+          "author": null,
+          "description": "MF文庫J発のアニメ『Re：ゼロから始める異世界生活 4th season』...",
+          "link": "https://ln-news.com/articles/126798",
+          "publishedOn": "2026-09-29T10:00:00.000Z",
+          "wordCount": 243,
+          "title": "アニメ『Re：ゼロから始める異世界生活 4th season』第85話「シャウラ／英雄」のあらすじ＆先行カット解禁　45分拡大スペシャルで放送へ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/3cae50da0ea94f669589a5032ccda31d.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126754",
+          "author": null,
+          "description": "グラストNOVELS刊『悪徳孤児院長に転生した俺、死にたくないので原作主人公...",
+          "link": "https://ln-news.com/articles/126754",
+          "publishedOn": "2026-09-29T08:30:00.000Z",
+          "wordCount": 223,
+          "title": "『悪徳孤児院長に転生した俺、死にたくないので原作主人公たちを最強私兵にする』のコミカライズ連載がcomicグラスト129号にて開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/ff488f38939c496fa61f1eb6f3b1c860.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126781",
           "author": null,
           "description": "エンターブレイン単行本発のアニメ『幼女戦記』の作品初となるフィルムコンサート...",
@@ -25959,6 +26154,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_fEXQaBNe18",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_fEXQaBNe18",
+          "publishedOn": "2026-09-29T12:37:03.000Z",
+          "wordCount": null,
+          "title": "スマホ失くして探してたら夜になってたOL【ジェラードン】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/Zm6-vAP_6Ls",
           "author": null,
           "description": "#ジェラードン#コント コント",
@@ -26102,6 +26307,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJopoT40y_vazwcaYc2LAg",
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ZZHqKzhXqM0",
+          "author": null,
+          "description": "フルの演奏は関連動画からご覧いただけます。【Special Thanks】　Composer→すぎやまこういち Koichi ​⁠Sugiyama@squareenix @squareenixmusicchannel9893 #ドラクエ #ドラゴンクエスト #dragonquest #dq #gamemusic ...",
+          "link": "https://www.youtube.com/shorts/ZZHqKzhXqM0",
+          "publishedOn": "2026-09-29T11:00:11.000Z",
+          "wordCount": 3281,
+          "title": "クラリネットだけで【戦士はひとり征く/ドラクエ4】はい、最高。#ドラゴンクエスト #ドラクエ #dq #クラリネット #gamemusic #clarinet #ゲーム音楽",
+          "imageUrl": "https://i.ytimg.com/vi/ZZHqKzhXqM0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAiA9yqnikKk3n8yTFstuZCLJc1DA&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ly2saUD3G6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ly2saUD3G6M",
+          "publishedOn": "2026-09-29T10:00:13.000Z",
+          "wordCount": null,
+          "title": "戦士はひとり征く〈FC版〉/ドラゴンクエスト4|A Lonely Soldier/DRAGON QUEST  Ⅳ【FC:1990】クラリネットだけで吹いてみた！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=pQTIrU0a6YE",
           "author": null,
@@ -26350,6 +26575,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8dQYBMH_mW_gXlSIusty7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/FfXMRU52gL0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/FfXMRU52gL0",
+          "publishedOn": "2026-09-29T11:12:41.000Z",
+          "wordCount": 3111,
+          "title": "柴犬を一瞬で笑顔にさせる方法 #柴犬 #shorts #ytshorts",
+          "imageUrl": "https://i.ytimg.com/vi/FfXMRU52gL0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDpVraxKMrsd6-4SG8tlUyy-dzDNg&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dFpuDb-HJVc",
           "author": null,
           "description": "",
@@ -26426,6 +26661,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DZXTz8fbu04",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DZXTz8fbu04",
+          "publishedOn": "2026-09-29T11:01:14.000Z",
+          "wordCount": null,
+          "title": "今日も筋トレをジャマしに来た猫がこうなっちゃいましたw",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ArHhLv484jE",
           "author": null,
@@ -26723,6 +26968,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13560",
+          "author": "watanabe@logipara.com",
+          "description": "世の中、「信じてはいけない言葉」がたくさんあります。 　 ・私たちはあなたの味方です ・あなただけに教える、絶対に儲かるお話です ・どこからでも開けます ・こすらず落ちる ・ニャーは何も悪いことしてないにゃー　＜ NEW",
+          "link": "https://logipara.com/diary-text/2026-09-30/",
+          "publishedOn": "2026-09-29T13:29:59.000Z",
+          "wordCount": 2752,
+          "title": "信じてはいけない言葉集",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13558",
           "author": "watanabe@logipara.com",
@@ -27089,16 +27344,6 @@
           "wordCount": 3556,
           "title": "シスター・クレアの過去発言の真相を真如苑を使って解説！これでわかる！真如苑！",
           "imageUrl": "https://assets.st-note.com/img/1788758886-TRh3jX2q7cBOnAQyg0YvJN1w.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/nb8c2ae91ce8a",
-          "author": null,
-          "description": "中沢啓治著作集3 オキナワ【完全版】amzn.to 1,650円(2026年08月23日 20:30時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/nb8c2ae91ce8a",
-          "publishedOn": "2026-08-31T02:07:35.000Z",
-          "wordCount": 6634,
-          "title": "先週観たもの",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6f49f5d22a8e73a27ad1519698c43afd3d2d62c9.png"
         }
       ]
     },
