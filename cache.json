@@ -3973,6 +3973,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/20514734085b1310fd128e3563b60539f60fd706?source=rss",
+          "author": null,
+          "description": "神戸市で、人によって認識が違う「三宮」と「元町」の境界を綱引きで決めるイベントが開かれました。世界遺産・二条城で「二重価格」導入へ 市民は１０００円 市民以外は２０００円 増収分は改修工事の費用に 京",
+          "link": "https://news.yahoo.co.jp/articles/20514734085b1310fd128e3563b60539f60fd706?source=rss",
+          "publishedOn": "2026-10-03T10:42:54.000Z",
+          "wordCount": 1676,
+          "title": "「三宮」と「元町」の境界は？　綱引きで決めるイベント　神戸(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00082860-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/e874d7ffd233d7d22b545e7e3c9890f9166219a7?source=rss",
           "author": null,
           "description": "大阪府の中高生ら８人が、大阪の競技連盟の申し込みの遅れで、今月末の全国大会に出場出来なくなっている問題で、大会を主催する日本陸上競技連盟が「救済措置は行わない」と発表しました。防犯カメラは“いじめ抑止",
@@ -8681,26 +8691,6 @@
           "wordCount": 1734,
           "title": "近畿各地で警報級大雨のおそれ　車に乗ってはいけない水位は”縁石が見えない”１５センチ　岩本計介アナが緊急脱出用ハンマーをJAFで体験(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082371-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f638f2ef707c470d33d87666d7f2325b802fa06d?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本によりますと、４日午前７時半ごろの時点で、ＪＲきのくに線は串本～周参見駅間で運転を見合わせています。\n\n　大雨の影響ということで、再開のめどは立っていないということです。\n\n　今後の情報に",
-          "link": "https://news.yahoo.co.jp/articles/f638f2ef707c470d33d87666d7f2325b802fa06d?source=rss",
-          "publishedOn": "2026-09-03T23:03:05.000Z",
-          "wordCount": 1614,
-          "title": "【速報】ＪＲきのくに線で一部運転見合わせ　大雨の影響　再開のめど立たず　和歌山(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082370-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c73af347862ab6764af1209781bd3a5af7d3365e?source=rss",
-          "author": null,
-          "description": "奈良県の薬師寺で国宝の「仏足石」に液体をかけて汚したとして、台湾出身の３９歳の女性が文化財保護法違反の罪で略式起訴され、罰金５０万円の略式命令を受けました。\n\n　台湾出身で自称・司会業の３９歳の女性",
-          "link": "https://news.yahoo.co.jp/articles/c73af347862ab6764af1209781bd3a5af7d3365e?source=rss",
-          "publishedOn": "2026-09-03T21:12:06.000Z",
-          "wordCount": 1593,
-          "title": "奈良・薬師寺の国宝に液体かけたとして台湾出身の39歳女性に罰金50万円の略式命令(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00082369-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -11105,16 +11095,6 @@
           "wordCount": 2642,
           "title": "Quectel、Android 16搭載4G／5Gスマートモジュール",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/03/l_edn20260827edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2609/04/news044.html",
-          "author": null,
-          "description": "キヤノンは、第8世代ガラス基板に対応するFPD露光装置「MPAsp-H1003H」向けのLED照明オプションを発売する。新設装置向けのオプションで、従来の水銀ランプをLED光源に置き換えられる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2609/04/news044.html",
-          "publishedOn": "2026-09-04T00:00:00.000Z",
-          "wordCount": 2615,
-          "title": "65％低電力化、キヤノンがFPD露光装置向けLED照明",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/04/cover_news044.jpg"
         }
       ]
     },
@@ -12462,36 +12442,6 @@
           "wordCount": 703,
           "title": "AIチャットボットに登山計画を丸投げした一行、あえなく遭難。水も食料も必要量持たず、翌朝救助",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/6d22a02d907059109870df4afab5f8bb.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=132422",
-          "author": "編集部：平山洸太",
-          "description": "ダイソンは、水拭きクリーナー「PencilWash」を発表した。 直径38mmのスリム設計を採用する水拭きクリーナー。重くてスペースを取るといった、一般的な水拭きクリーナーの課題を解決したモデルだとしている。同社は昨年、同社で最もスリムな掃除機「PencilVac」を投入したが、その水拭き版といった […]",
-          "link": "https://gadget.phileweb.com/post-132422/",
-          "publishedOn": "2026-09-03T21:00:00.000Z",
-          "wordCount": 698,
-          "title": "“直径38mm”細くて軽い水拭きクリーナー、ダイソン「PencilWash」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/4da3600f8975ac56864dd5d4f9485c5a.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=132425",
-          "author": "編集部：平山洸太",
-          "description": "ダイソンは、HushJetシリーズの新たな空気清浄機「hushjet cool pure+ ioniser+uv」と「hushjet hot cool pure+」を発表した。hushjet cool pure+ ioniser+uvは2026年秋、hushjet hot cool pure+は20 […]",
-          "link": "https://gadget.phileweb.com/post-132425/",
-          "publishedOn": "2026-09-03T21:00:00.000Z",
-          "wordCount": 737,
-          "title": "ダイソン、ジェットエンジン技術を使った新扇風機。温風対応モデルも",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/9646cf706f3d2a30bced32c120ddd4d6.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=132395",
-          "author": "編集部：平山洸太",
-          "description": "ダイソンは、ロボット掃除機「r1 nurovi dry」「r2 nurovi wash+dry」を発表した。 新たなロボット掃除機のシリーズとして、2つのモデルが登場する格好。両モデルとも基本的な仕様の多くは共通しているが、r1は吸引専用のモデル、r2は水拭き対応のモデルとなっている。 ダイソンでは […]",
-          "link": "https://gadget.phileweb.com/post-132395/",
-          "publishedOn": "2026-09-03T21:00:00.000Z",
-          "wordCount": 722,
-          "title": "“ルーローの三角形”モップのロボット掃除機、ダイソン「r2 nurovi wash+dry」",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/cbce682baf4e4bc9b493be6515823862.jpg"
         }
       ]
     },
@@ -12500,6 +12450,66 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067939.html",
+          "author": "damono3856",
+          "description": "1 名前：少考さん ★：2026/10/03(土) 11:28:23.32 ID:IEu5C6uN9.net\n\n\n\n\n\n\n\n１０月１日の給食 - https://t.co/lt1Bauq1GE pic.twitter.com/4K67ZU9JYi— 砺波市 (@tonami_city) October 1, 2026  \n\n\n\n\n\n\n富山県砺波市の給食にネット衝撃　材料費高騰の波か…市HPへアク...",
+          "link": "https://itainews.com/archives/2067939.html",
+          "publishedOn": "2026-10-03T12:00:23.000Z",
+          "wordCount": 3240,
+          "title": "富山県砺波市の給食が話題を呼ぶ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/1/11e4c3d0-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067952.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/10/03(土) 17:44:13.49 ● 2BP(3000).net\n\n\n\n\n\n\n\nフランス・パリの高校で放火相次ぐ　各地でデモ激化　警察に花火撃ち込むなど衝突も https://t.co/HHMJTKLnKq@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) October 2, 2026  \n\n\n\n\n\n\nフランス・パリの高...",
+          "link": "https://itainews.com/archives/2067952.html",
+          "publishedOn": "2026-10-03T11:31:11.000Z",
+          "wordCount": 3642,
+          "title": "【動画】フランスのパリ、移民の子供たちの高校生が学校などに放火。反移民に対する抵抗運動に発展",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/f/ef662c65-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067937.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/10/03(土) 01:06:35.85 ID:y6ccu1or9.net\n\n\n\n\n\n\n\n産卵中のウミガメにまたがる女と生まれたてのカメを手に掴む男が大炎上「処罰されるべきだ」（クーリエ・ジャポン） https://t.co/mG9MklQeai— マチ@素潜り (@mizuhayame) October 2, 2...",
+          "link": "https://itainews.com/archives/2067937.html",
+          "publishedOn": "2026-10-03T11:03:21.000Z",
+          "wordCount": 3228,
+          "title": "【オマーン】産卵中のウミガメにまたがる女と生まれたてのカメを手に掴む男が大炎上「処罰されるべきだ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/e/ee0fed19-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067933.html",
+          "author": "damono3856",
+          "description": "1 名前：♪♪♪ ★：2026/10/02(金) 20:52:45.94 ID:m+kvckzj9.net\n\n\n\n\n\n\n\n男性監禁し集団暴行、中国籍の男ら6人を逮捕　民泊施設の投資購入巡りトラブルか　大阪　(産経新聞)#Yahooニュースhttps://t.co/dk2gPIfYHX— 民泊被害まとめ (@minpaku_higai) October 1, 2026 ...",
+          "link": "https://itainews.com/archives/2067933.html",
+          "publishedOn": "2026-10-03T10:02:28.000Z",
+          "wordCount": 3510,
+          "title": "「490万円を出せ、大阪に居場所なくなる」男性監禁し集団暴行、中国籍の男ら6人を逮捕　民泊施設の投資購入巡りトラブルか",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/5/65362ab8-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067931.html",
+          "author": "damono3856",
+          "description": "1 名前：夜のけいちゃん ★：2026/10/02(金) 21:40:19.71 ID:9j/K84/m9.net\n\n\n\n\n\n\n\n砲丸が頭に、中1女子が大けが － 愛知・春日井、部活動でhttps://t.co/oHTQdn4LMD— 共同通信公式 (@kyodo_official) October 2, 2026  \n\n\n\n\n\n\n2026年10月2日 20時6分\n共同通信\n\n\n　愛知...",
+          "link": "https://itainews.com/archives/2067931.html",
+          "publishedOn": "2026-10-03T09:02:59.000Z",
+          "wordCount": 3625,
+          "title": "砲丸が頭に、中1女子が大けが　愛知・春日井、部活動で",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/7/f78fe862-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067930.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/10/03(土) 01:00:30.32 ID:y6ccu1or9.net\n\n\n\n\n\n\n\n料理人・こめお、1000文字超えの反省文公開で『割烹こめを』閉店決断も、食中毒発覚の『蟹ラーメン』は続行で広がる憶測 : https://t.co/cDPRt8U4i6 #インフルエンサー #食中毒 #YouTube...",
+          "link": "https://itainews.com/archives/2067930.html",
+          "publishedOn": "2026-10-03T08:01:04.000Z",
+          "wordCount": 3617,
+          "title": "【麻布十番食中毒】こめお氏、1000文字超えの反省文公開で『こめを』閉店決断も、食中毒発覚の『かにを』は続行",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/8/08ed39c6-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2067929.html",
           "author": "damono3856",
@@ -19769,36 +19779,6 @@
           "wordCount": 3089,
           "title": "沖縄県知事選挙。選挙権がない人間に投票用紙が配られた模様。しかも有効票に",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/5/05028752-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066811.html",
-          "author": "takakichi5346",
-          "description": "1 名前：それでも動く名無し：2026/09/03(木) 11:07:13.36 ID:0MokKLao0.net[1/2]\n\n\n\n\n\n\n\nくら寿司、「ちいかわ」コラボグッズの不適切な取り扱いめぐり謝罪　事実関係を調査「法的措置も含め厳格に対応」（写真 全3枚）https://t.co/9PGdch2mBh— オリコンニュース【ア...",
-          "link": "https://itainews.com/archives/2066811.html",
-          "publishedOn": "2026-09-04T00:02:49.000Z",
-          "wordCount": 3046,
-          "title": "くら寿司、遂にキレた！「社内の人間がちいかわグッズを盗んでないか調査する！詳細は追って報告する」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/7/b76ed717-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066808.html",
-          "author": "takakichi5346",
-          "description": "1 名前：Ailuropoda melanoleuca ★：2026/09/03(木) 11:22:13.20 ID:0A4Dn+Im9.net\n\n\n\n\n\n\n\n「スーパーでバイトしてます」…前山剛久”息をするだけで誹謗中傷される”人生でたどり着いた境地　https://t.co/pnbzBITn72#フライデー #前山剛久— FRIDAY (@FRIDAY_twit) Se...",
-          "link": "https://itainews.com/archives/2066808.html",
-          "publishedOn": "2026-09-03T23:01:02.000Z",
-          "wordCount": 3095,
-          "title": "【芸能】「スーパーでバイトしてます」…神田沙也加さん元恋人・前山剛久”息をするだけで誹謗中傷される”人生でたどり着いた境地",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/b/ab13b454-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066805.html",
-          "author": "nobi0929",
-          "description": "1 名前：ぐれ ★：2026/09/03(木) 10:31:47.55 ID:0zQOO3Tg9.net\n\n\n\n\n\n\n\n老人は昔はひどかったとかいうけど、現代も変わらないよ《鹿児島中3男子自殺》「その調子だったら内申書を書かないぞ」学校中に響く大声で怒鳴り、不可能な指示を出して放置…判決で“違法”と断罪...",
-          "link": "https://itainews.com/archives/2066805.html",
-          "publishedOn": "2026-09-03T22:00:57.000Z",
-          "wordCount": 3102,
-          "title": "【鹿児島中3男子自殺】学校中に響く大声で怒鳴り、不可能な指示を出して放置…判決で“違法”と断罪された女性教師の「恐怖指導」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/6/d680984b-s.jpg"
         }
       ]
     },
@@ -19807,6 +19787,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=62242",
+          "author": "田原",
+          "description": "こんにちは、タハラ＠あつらぼです。 10月29日（木）、本厚木ミロードイーストにオープン予定の「スガキヤ 本厚木ミロードイースト店」。 先日発表されたメニューやオープン記念企画についてお伝えしましたが、オープンまで1か月を切ったので現地へ行…",
+          "link": "https://atsugi-lab.com/news3-sugakiya-atsugi202610/",
+          "publishedOn": "2026-10-03T08:13:30.000Z",
+          "wordCount": 830,
+          "title": "【話題沸騰！】10月29日開店予定の「スガキヤ」の外観にスーちゃん登場！オープンが楽しみすぎる～！［本厚木ミロード］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/sugakiya3.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=61948",
           "author": "fumie",
@@ -20231,6 +20221,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=319482",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「焼きチーズケーキシュー」を世界一詳しく調査しました。   【ビアードパパ】焼きチーズケーキ […]",
+          "link": "https://foodfighter.jp/beardpapa-yakicheese-2026",
+          "publishedOn": "2026-10-03T09:05:36.000Z",
+          "wordCount": 1899,
+          "title": "【ビアードパパ】焼きチーズケーキシュー（シュークリーム）【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/6ddca6f472f745f8ffb56727593e5735.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=319457",
           "author": "foodfighter",
@@ -20890,16 +20890,6 @@
           "wordCount": 2061,
           "title": "【松屋】リッチビーフカレー【店舗限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/f626906758e082bc729cc8059dc1fbf1.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=317742",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「とろり蜜芋 紅はるかムースティーラテ」を世界一詳しく調査しました。   […]",
-          "link": "https://foodfighter.jp/starbucks-mitsuimo-tea",
-          "publishedOn": "2026-09-03T22:42:20.000Z",
-          "wordCount": 2062,
-          "title": "【スターバックス】とろり蜜芋 紅はるかムースティーラテ【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/d9c03520ecac5466843e3690d50138fb.jpg"
         }
       ]
     },
@@ -20908,6 +20898,66 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127498/",
+          "author": null,
+          "description": "シリーズ史上初の“Filmed For IMAX®”作品として、IMAX®認証デジタルカメラで撮影された映画「バイオハザード」が10月9日より全国公開される。このほど、ザック・クレッガー監督と主...",
+          "link": "https://anime.eiga.com/news/127498/",
+          "publishedOn": "2026-10-03T12:00:00.000Z",
+          "wordCount": 653,
+          "title": "監督&主演が語る新たなバイオの主人公――「バイオハザード」特別映像＆超不穏なX線写真披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127579/",
+          "author": null,
+          "description": "「ヤングアニマル Web」で連載中のラブコメディ漫画「放課後のアイドルには秘密がある」がテレビアニメ化され、2027年4月から放送を開始することが分かった。 主人公の昼野ひざしを川島零士、ヒロイ...",
+          "link": "https://anime.eiga.com/news/127579/",
+          "publishedOn": "2026-10-03T11:00:00.000Z",
+          "wordCount": 739,
+          "title": "「放課後のアイドルには秘密がある」TVアニメ化、27年4月に放送決定　川島零士、遠野ひかる、野口衣織（＝LOVE）、前島亜美が出演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127565/",
+          "author": null,
+          "description": "10月10日から放送を開始するテレビアニメ「朱色の仮面」の最終話（第12話）に、手越祐也が声優として出演することが明らかになった。役どころは明らかにされていない。手越がボーカルを務めるロックバン...",
+          "link": "https://anime.eiga.com/news/127565/",
+          "publishedOn": "2026-10-03T10:00:00.000Z",
+          "wordCount": 661,
+          "title": "「朱色の仮面」の最終話に手越祐也が声優出演　「T.N.T」出演の特番、ウォッチパーティーも実施",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127576/",
+          "author": null,
+          "description": "10月3日に最終回をむかえたテレビアニメ「本好きの下剋上 領主の養女」に続く原作エピソード「貴族院の自称図書委員編」が、「本好きの下剋上 貴族院の自称図書委員」のタイトルでテレビアニメ化されるこ...",
+          "link": "https://anime.eiga.com/news/127576/",
+          "publishedOn": "2026-10-03T09:00:00.000Z",
+          "wordCount": 672,
+          "title": "「本好きの下剋上　領主の養女」続編「貴族院の自称図書委員編」がTVアニメ化　WIT STUDIOが制作続投",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127535/",
           "author": null,
@@ -23836,6 +23886,36 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126856",
+          "author": null,
+          "description": "電撃文庫発のアニメ『姫騎士様のヒモ』のキービジュアルとメインPV第1弾が公開...",
+          "link": "https://ln-news.com/articles/126856",
+          "publishedOn": "2026-10-03T11:30:00.000Z",
+          "wordCount": 260,
+          "title": "アニメ『姫騎士様のヒモ』キービジュアル＆メインPV第1弾が公開　追加キャストに高橋李依さん、稲田徹さん、長江里加さん",
+          "imageUrl": "https://assets.ln-news.com/images/medias/51b24254a66a45c98365071bc474992d.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126845",
+          "author": null,
+          "description": "HJ文庫発のアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の...",
+          "link": "https://ln-news.com/articles/126845",
+          "publishedOn": "2026-10-03T10:00:00.000Z",
+          "wordCount": 342,
+          "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第1話「闇より浮かびて」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/1f6c647319964a04b914b9a8d31904d3.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126780",
+          "author": null,
+          "description": "ファンタジア文庫刊『美少女しかいない生徒会の議題がいつも俺な件』のコミカライ...",
+          "link": "https://ln-news.com/articles/126780",
+          "publishedOn": "2026-10-03T08:30:00.000Z",
+          "wordCount": 226,
+          "title": "『美少女しかいない生徒会の議題がいつも俺な件』のコミカライズ連載が電撃だいおうじVol.157にて開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/07d9bfccf0da495983aa8ebe744c920b.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126818",
           "author": null,
           "description": "オーバーラップ文庫発のアニメ『信者ゼロの女神サマと始める異世界攻略』の第1弾...",
@@ -26124,6 +26204,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/pmQKhUsqwZs",
+          "author": null,
+          "description": "【コラボレーションcollaboration】バイオリンviolinあみ@amiviolin ピアノPiano直子@naokotakedapianist 【Special Thanks】Composer:すぎやまこういち Koichi Sugiyama@squareenix @squareenixmusiccha...",
+          "link": "https://www.youtube.com/shorts/pmQKhUsqwZs",
+          "publishedOn": "2026-10-03T12:00:38.000Z",
+          "wordCount": 3166,
+          "title": "【馬車のマーチ/ドラクエ4】コラボ演奏後半@amiviolin @naokotakedapianist #ドラクエ #dragonquest #dq #violin #piano #clarinet",
+          "imageUrl": "https://i.ytimg.com/vi/pmQKhUsqwZs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDtGHkguyA70mUjcRC0bUdyLWGtGg&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/e_m1OvJcuJg",
+          "author": null,
+          "description": "【コラボレーションcollaboration】バイオリンviolinあみ@amiviolin ピアノPiano直子@naokotakedapianist 【Special Thanks】Composer:すぎやまこういち Koichi Sugiyama@squareenix @squareenixmusiccha...",
+          "link": "https://www.youtube.com/shorts/e_m1OvJcuJg",
+          "publishedOn": "2026-10-03T11:00:21.000Z",
+          "wordCount": 3250,
+          "title": "【馬車のマーチ/ドラクエ4】コラボ演奏前半 @amiviolin @naokotakedapianist #ドラクエ #dragonquest #dq #violin #piano #clarinet",
+          "imageUrl": "https://i.ytimg.com/vi/e_m1OvJcuJg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDCNY3hpCDB00ODN_-4FWU__yg9qQ&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wjPfiDPROHs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wjPfiDPROHs",
+          "publishedOn": "2026-10-03T10:00:34.000Z",
+          "wordCount": null,
+          "title": "【ドラクエ4】馬車のマーチ|バイオリン&ピアノ&クラリネット/DRAGON QUEST Ⅳ - Wagon Wheel's March |Violin&Piano&Clarinet",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/1h1PzK4e7m4",
           "author": null,
           "description": "【コラボレーションcollaboration】バイオリンviolinあみ@amiviolin ピアノPiano直子@naokotakedapianist 【Special Thanks】Composer:すぎやまこういち Koichi Sugiyama@squareenix @squareenixmusiccha...",
@@ -26547,6 +26657,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QbfEhs2rEUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QbfEhs2rEUY",
+          "publishedOn": "2026-10-03T11:01:06.000Z",
+          "wordCount": null,
+          "title": "突然、しゃっくりが止まらなくなった猫がこうなっちゃいました…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qRUlsQlIJCA",
           "author": null,
