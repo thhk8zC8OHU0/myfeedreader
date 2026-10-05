@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/918/G091829/20261005013/",
+          "author": null,
+          "description": "アトラスは本日，「ペルソナ4リバイバル」の最新映像「シャドウトレーラー」を公開した。主人公たち“特別捜査隊”とシャドウの戦いを収録した映像で，本作のために書き下ろされた新曲も確認できる。あわせて，複数の楽曲のリリックMVも公開されている。",
+          "link": "https://www.4gamer.net/games/918/G091829/20261005013/",
+          "publishedOn": "2026-10-05T03:29:13.000Z",
+          "wordCount": 8667,
+          "title": "「ペルソナ4 リバイバル」，特別捜査隊とシャドウの戦いを描く最新映像を公開。新曲を初披露，リリックMVも公開",
+          "imageUrl": "https://www.4gamer.net/games/918/G091829/20261005013/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/047/G104744/20261002041/",
+          "author": null,
+          "description": "エディアは本日，「彩京Memories」を2027年2月18日にSwitch2/PS5向けに発売すると発表した。「ストライカーズ1945」「ガンバード」「戦国エース」など，1993〜2005年に登場した彩京のシューティング12作品をまとめたタイトルだ。当時の資料を閲覧できるギャラリーも搭載している。",
+          "link": "https://www.4gamer.net/games/047/G104744/20261002041/",
+          "publishedOn": "2026-10-05T01:00:00.000Z",
+          "wordCount": 8358,
+          "title": "彩京のシューティング12作品を収録。「彩京Memories」，Switch2/PS5向けに2027年2月18日発売",
+          "imageUrl": "https://www.4gamer.net/games/047/G104744/20261002041/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/954/G095479/20261004006/",
           "author": null,
           "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，モバイル向けに作り直されたほのぼのMMORPG「マビノギモバイル」や，自由な飛行が軸となったオープンワールドMMORPG「AION2」が発売される。",
@@ -3892,6 +3912,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/1b16b9983df477061e0662a3e38da9359488b7a1?source=rss",
+          "author": null,
+          "description": "奈良県明日香村にあるキトラ古墳の国宝の壁画が３つ同時に公開されています。 一般公開されているのは、キトラ古墳の壁画のうち、朱雀、玄武、青龍の３つです。キトラ古墳は、７月に世界文化遺産に登録された「飛鳥",
+          "link": "https://news.yahoo.co.jp/articles/1b16b9983df477061e0662a3e38da9359488b7a1?source=rss",
+          "publishedOn": "2026-10-05T03:36:06.000Z",
+          "wordCount": 1624,
+          "title": "キトラ古墳の壁画「朱雀」「玄武」「青龍」が同時公開　事前予約は締め切り　奈良・明日香村(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082873-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d96eb92988e6d65f506ded7b40e647b7488b1997?source=rss",
+          "author": null,
+          "description": "和歌山県新宮市の世界遺産・熊野速玉大社では、来年の干支・ヒツジをあしらった大絵馬が完成しました。阪神百貨店でタイガース連覇記念セール始まる 尼崎の商店街では「マジック０」点灯式 縦１．５メートル、横２",
+          "link": "https://news.yahoo.co.jp/articles/d96eb92988e6d65f506ded7b40e647b7488b1997?source=rss",
+          "publishedOn": "2026-10-05T03:33:18.000Z",
+          "wordCount": 1616,
+          "title": "寄り添う親子ヒツジに平和な世界への願い込める　和歌山・熊野速玉大社で来年の干支の大絵馬が完成(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082872-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4cddbb3df2014ed458bfb422bbae40cea84ddded?source=rss",
+          "author": null,
+          "description": "大阪府吹田市の橋の上で５日午前７時半すぎ、自転車と車が接触する事故があり、自転車の男性が意識不明の状態で病院に搬送されました。車の運転手は現行犯逮捕されました。大阪の泉佐野市と泉南市が「合併」視野に検",
+          "link": "https://news.yahoo.co.jp/articles/4cddbb3df2014ed458bfb422bbae40cea84ddded?source=rss",
+          "publishedOn": "2026-10-05T02:48:01.000Z",
+          "wordCount": 1627,
+          "title": "大阪・吹田市の橋で車と接触、自転車の男性が意識不明　車の運転手を現行犯逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082870-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e3172bee452aca3bd764441c60ded94817db9acf?source=rss",
+          "author": null,
+          "description": "５日午前１１時半現在、阪神本線は甲子園ー西宮駅間で運転を見合わせています。 阪神電気鉄道によりますと、午前１１時１７分ごろに阪神本線・今津駅で発生した人身事故が原因ということです。 運転再開は午後１時",
+          "link": "https://news.yahoo.co.jp/articles/e3172bee452aca3bd764441c60ded94817db9acf?source=rss",
+          "publishedOn": "2026-10-05T02:47:20.000Z",
+          "wordCount": 1615,
+          "title": "【速報】阪神本線の甲子園－西宮駅間で運転見合わせ　再開は午後1時ごろの見込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082871-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/411fd18ba34a285f6740c23eb3fb93eb0c37428a?source=rss",
+          "author": null,
+          "description": "大阪府の泉佐野市と泉南市が、合併を視野に入れた協議会を設置する方針を固めました。大阪の「副首都化」をにらみ、議論を加速させたい考えです。「三宮」と「元町」の境界は？ 綱引きで決めるイベント 神戸 関係",
+          "link": "https://news.yahoo.co.jp/articles/411fd18ba34a285f6740c23eb3fb93eb0c37428a?source=rss",
+          "publishedOn": "2026-10-05T02:23:19.000Z",
+          "wordCount": 1661,
+          "title": "大阪の泉佐野市と泉南市が「合併」視野に検討　「人口減少で効率的な行政運営が必要」と関係者(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082869-asahibcv-000-2-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8f2a2ad03e3fbd9e263c319905c80c70e2eb4c56?source=rss",
+          "author": null,
+          "description": "大阪府吹田市の橋の上で５日午前７時半すぎ、自転車と車が接触する事故があり、自転車の男性が意識不明の状態で病院に搬送されました。９歳男児を助けようと海に飛び込んだ知人男性死亡 男児は意識不明の重体 兵庫",
+          "link": "https://news.yahoo.co.jp/articles/8f2a2ad03e3fbd9e263c319905c80c70e2eb4c56?source=rss",
+          "publishedOn": "2026-10-05T01:04:49.000Z",
+          "wordCount": 1635,
+          "title": "【速報】吹田市の橋で車と接触、自転車の男性が意識不明(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082868-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/4159bef1acd20125e2742adf23b10235d325610b?source=rss",
           "author": null,
@@ -8341,16 +8421,6 @@
           "wordCount": 1647,
           "title": "盗んだバイクを積み込みトラック急発進　バイクの持ち主を引きずって逃走　強盗致傷容疑で捜査　大阪・堺市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00082406-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3b02ac2ff3700aace9b1ea1591330f7d39e2cc08?source=rss",
-          "author": null,
-          "description": "大手回転寿司チェーンの「くら寿司」（本部・大阪府堺市）は５日、人気キャラクター「ちいかわ」とのコラボキャンペーンを、６日からとりやめるとホームページ上で発表しました。従業員による不正行為が判明したた",
-          "link": "https://news.yahoo.co.jp/articles/3b02ac2ff3700aace9b1ea1591330f7d39e2cc08?source=rss",
-          "publishedOn": "2026-09-05T14:14:19.000Z",
-          "wordCount": 1642,
-          "title": "くら寿司　「ちいかわ」コラボキャンペーン中止　従業員の不正行為が判明(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00082405-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -8359,6 +8429,36 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6pqgz48nlw9o#0",
+          "author": null,
+          "description": "ウクライナの首都キーウで、主要な橋が4日連続でロシアのドローン攻撃を受けている。ロシア政府は、キーウの重要インフラへの攻撃を激化させている。こうした中、ドイツのメルツ首相は4日、ロシアによる全面侵攻が続くウクライナへの支持を示すためにキーウを電撃訪問した。",
+          "link": "https://www.bbc.com/japanese/articles/c6pqgz48nlw9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-05T03:21:03.000Z",
+          "wordCount": 1838,
+          "title": "ロシアがウクライナ首都の橋を連日攻撃、独首相の電撃訪問の最中も",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4b50/live/7ec32a00-c067-11f1-babe-4199b0e7ccea.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5wyrlpjgvw3o#0",
+          "author": null,
+          "description": "沖縄県警は4日、那覇市のホテルで3日、女性を殺害し所持品を奪ったとして、米海兵隊員を強盗殺人容疑で逮捕したと発表した。NHKなど複数の報道によると、容疑者は調べに対し容疑を否認しているという。",
+          "link": "https://www.bbc.com/japanese/articles/c5wyrlpjgvw3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-05T01:25:50.000Z",
+          "wordCount": 1766,
+          "title": "沖縄で女性の遺体発見、米海兵隊員を強盗殺人容疑で逮捕",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c34g15pxeklyo#0",
+          "author": null,
+          "description": "アメリカ軍は4日は、イギリスの対テロ警察による捜査が続くイギリスのフェアフォード空軍基地から全ての爆撃機を移動させた。アメリカ国務省当局者は同日の声明で、基地から全ての爆撃機をアメリカ国内の基地に戻したことを認めた。",
+          "link": "https://www.bbc.com/japanese/articles/c34g15pxeklyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-05T01:22:15.000Z",
+          "wordCount": 1783,
+          "title": "米軍、フェアフォード英空軍基地から全ての爆撃機を移動",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cm2kejzqnydqo#0",
           "author": null,
@@ -10117,6 +10217,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/05/news024.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、車載および産業用モーター制御向けに設計された、ホール技術ベースのデジタル角度センサー「XENSIV TLx49012」ファミリーを発表した。独自のシステム自己キャリブレーション機能を備える。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/05/news024.html",
+          "publishedOn": "2026-10-05T00:00:00.000Z",
+          "wordCount": 2657,
+          "title": "自己キャリブレーション機能搭載のデジタル角度センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/05/cover_news024.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/02/news006.html",
           "author": null,
           "description": "BrainChipは、エッジAIコプロセッサ「AKD1500」を搭載したPCIe開発カードを発売した。既存のAIフレームワークで構築したモデルを実行できる。",
@@ -10613,6 +10723,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=134337",
+          "author": "多根清史",
+          "description": "ドイツ在住のAfter-Cartoonist-196と名乗るRedditユーザーは、オンラインゲーム『VALORANT』のプレイ中に突然ゲームからBANされた（追い出された）。同氏はPCのCPUを、最近購入した中古品に交換したところだったという。 After-Cartoonist-196は、中古CP […]",
+          "link": "https://gadget.phileweb.com/post-134337/",
+          "publishedOn": "2026-10-05T03:12:34.000Z",
+          "wordCount": 765,
+          "title": "中古CPUのせいで『VALORANT』からBAN？ユーザーは前の持ち主のチートが原因と主張",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/ab84270d86076cd96c85deb63e9a5830.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=134303",
           "author": "山本 敦",
@@ -11920,6 +12040,66 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2067995.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/10/04(日) 19:12:03.20 ID:1pcQlnXc0●.net \n\n\n\n\n\n\n\n\n\nよく似ている https://t.co/USdpeCFbgN— 東郷ゆう子の旦那 (@togootto) October 4, 2026",
+          "link": "https://itainews.com/archives/2067995.html",
+          "publishedOn": "2026-10-05T03:31:22.000Z",
+          "wordCount": 3180,
+          "title": "日本共産党員「今までにない勢いで共産党に対するクソリプがついている。政権側は相当ビビってる」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/4/44c5b820-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067992.html",
+          "author": "dqnplus",
+          "description": "1 ：♪♪♪ ★：2026/10/04(日) 17:57:20.59 ID:PvGppDHn9.net\n\n\n\n\n\n\n\n\n\n\nなぜコンビニは「外国人店員」だらけになったのか？ 大手3社で8万人超…元セブン社員が明かす「日本人が集まらなくなった」現場の実情\nhttps://t.co/hnelt7tfVA— 集英社オンライン (@shueisha_on...",
+          "link": "https://itainews.com/archives/2067992.html",
+          "publishedOn": "2026-10-05T03:01:33.000Z",
+          "wordCount": 3442,
+          "title": "なぜコンビニは「外国人店員」だらけになったのか？ 大手3社で8万人超…元セブン社員が明かす「日本人が集まらなくなった」現場の実情",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/2/921ae904.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067989.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/10/04(日) 14:12:02.80 ID:RNR3IQ9y0●.net\n\n\n\n\n\n\n\n\n\nだから9条が強力な抑止力になるんです。「うちは絶対に攻撃しませんよ。なんせ永久に戦争を放棄してますから。もし戦争になったら100%あなたの国の責任です」ということになり相手は攻撃を諦めるしかない...",
+          "link": "https://itainews.com/archives/2067989.html",
+          "publishedOn": "2026-10-05T02:31:29.000Z",
+          "wordCount": 4260,
+          "title": "パ「9条は抑止力。「絶対に攻撃しません。戦争になったら100%あなたの国の責任」相手は攻撃を諦める」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/e/4ecc34fd-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2067987.html",
+          "author": "nobi0929",
+          "description": "1 名前：muffin ★：2026/10/04(日) 15:26:56.61 ID:h1RxaQKu9.net\n\n\n\n\n\n\n\n４歳児シンママ福田典子アナ　ベビーカーでエレベーター→２０代女性の「あまりにも無神経」行動にお説教\nhttps://t.co/qpMhJhsKDQ #デイリースポーツ #DailySports— デイリースポーツ (@Daily_...",
+          "link": "https://itainews.com/archives/2067987.html",
+          "publishedOn": "2026-10-05T02:00:09.000Z",
+          "wordCount": 3466,
+          "title": "４歳児ママ福田典子アナ　ベビーカーでエレベーター→２０代女性の「あまりにも無神経」「謝るくらいはするべきじゃ？」お説教",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/0/30570875-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067982.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/10/04(日) 12:11:22.83 ID:● 2BP(2000).net\n\n\n\n\n\n\n\n【話題】\n「レーシックってこんなこともあるのか…」CANDY TUNE村川緋杏、“サングラスで活動”の理由を告白\n\nライブ照明による目への負担から、今後サングラス姿でパフォーマンスする場合があると発...",
+          "link": "https://itainews.com/archives/2067982.html",
+          "publishedOn": "2026-10-05T01:00:07.000Z",
+          "wordCount": 3415,
+          "title": "AKBアイドル村川緋杏(26歳)、レーシック手術の後遺症でサングラス人生になり咽び泣くｗｗｗｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/b/1bab4b2e-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2067979.html",
+          "author": "nobi0929",
+          "description": "1 名前：征夷大将軍 ★：2026/10/04(日) 11:36:34.84 ID:cXcaOOXk9.net\n\n\n\n\n\n\n\n「運動音痴にとって、体育の授業は『公開処刑』」　運動嫌いを生みだす日本の教育の問題点\n\nhttps://t.co/GytVA7JOja\n\n#デイリー新潮— デイリー新潮 (@dailyshincho) October 3, 2026\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2067979.html",
+          "publishedOn": "2026-10-05T00:00:19.000Z",
+          "wordCount": 4420,
+          "title": "「運動音痴にとって、体育の授業は『公開処刑』」　運動嫌いを生みだす日本の教育の問題点",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/89ac9225-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2067975.html",
           "author": "nobi0929",
@@ -19069,36 +19249,6 @@
           "wordCount": 3065,
           "title": "「メルカトル図法の世界地図やめて」　国連決議が採択、日本も賛成　米国は反対",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/4/b407f131-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066893.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/09/05(土) 15:44:13.29 ID:XJEJvuVr9.net\n\n\n\n\n\n\n\n“暴行され”死亡の男子高校生　車に1km超追跡される　目撃者「尋常じゃない」相模原 ▼詳しくは画像をタッチhttps://t.co/4b3Uab5yfm@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) September 5, ...",
-          "link": "https://itainews.com/archives/2066893.html",
-          "publishedOn": "2026-09-05T14:01:47.000Z",
-          "wordCount": 3079,
-          "title": "【セツナ】“暴行され”死亡の男子高校生　車に1km超追跡される　目撃者「尋常じゃない」相模原",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/d/0d01f117-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066889.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2026/09/05(土) 10:25:51.39 ID:97HVKouS9.net\n\n\n\n\n\n\n\n航空券も購入済みだったのに…帰国予定の外国人を国費で強制送還　「人権蹂躙」の上に税金のムダ使いでは？https://t.co/CKJdxMT9td— 東京新聞デジタル (@tokyo_shimbun) September 4, 2026  ...",
-          "link": "https://itainews.com/archives/2066889.html",
-          "publishedOn": "2026-09-05T13:00:53.000Z",
-          "wordCount": 3105,
-          "title": "航空券も購入済みだったのに…帰国予定の外国人を国費で強制送還　「人権蹂躙」の上に税金のムダ使いでは？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/4/0492adba-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066887.html",
-          "author": "damono3856",
-          "description": "1 名前：♪♪♪ ★：2026/09/05(土) 11:15:43.78 ID:1RT0pvw/9.net\n\n\n\n\n\n\n\n「相手が殴ろうとしてきたので刺した」同じ日本語学校の男性を刺し殺そうとした疑いで逮捕されたスリランカ人留学生を不起訴　大阪地検 https://t.co/qc5gWuC7D8#MBSニュース #ニュース— MBSニ...",
-          "link": "https://itainews.com/archives/2066887.html",
-          "publishedOn": "2026-09-05T12:03:39.000Z",
-          "wordCount": 3077,
-          "title": "「相手が殴ろうとしてきたので刺した」同じ日本語学校の男性を刺し殺そうとした疑いで逮捕されたスリランカ人留学生を不起訴　大阪地検",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/7/87ba88bf-s.png"
         }
       ]
     },
@@ -19107,6 +19257,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=62231",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 本厚木駅の近くを歩いていたら、とーっても気になるイベントが間もなく開催されるというお知らせを発見いたしました★ 「麺屋 藤ろう」の場所・特徴について 「麺屋 藤ろう」の場所は本厚木駅から徒歩すぐ。 本厚木…",
+          "link": "https://atsugi-lab.com/topic-fujiro-atsugi-5th-202610/",
+          "publishedOn": "2026-10-05T01:26:00.000Z",
+          "wordCount": 827,
+          "title": "【10月9日～11日限定】1等は”ラーメン10杯無料”のハズレなしくじが引ける！「麺屋 藤ろう」5周年大感謝祭を開催★［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/fujirou202610.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=62242",
           "author": "田原",
@@ -20158,6 +20318,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127475/",
+          "author": null,
+          "description": "フランスのグラフィックノベルを、ルクセンブルク・日本・フランス・イタリアの4カ国共同製作・日本オールロケで実写映画化する「AMA（仮題）」の制作が決定した。監督はフランスを拠点に活動する河村勇樹...",
+          "link": "https://anime.eiga.com/news/127475/",
+          "publishedOn": "2026-10-05T03:00:00.000Z",
+          "wordCount": 653,
+          "title": "藤野涼子×尾野真千子が海女文化を伝える　フランスの漫画「AMA」4カ国共同製作・日本オールロケで実写映画化",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127530/",
           "author": null,
@@ -22987,36 +23162,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127243/",
-          "author": null,
-          "description": "スティーブン・スピルバーグ監督最新作「ディスクロージャー・デイ」の日本語吹き替え版に園崎未恵、入野自由ら実力派声優陣が出演していることがわかった。 数々の金字塔を打ち立て続けてきたスピルバーグ監...",
-          "link": "https://anime.eiga.com/news/127243/",
-          "publishedOn": "2026-09-05T13:00:00.000Z",
-          "wordCount": 784,
-          "title": "スティーブン・スピルバーグ最新作「ディスクロージャー・デイ」日本語吹き替え版に園崎未恵、入野自由ら実力派声優陣",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127389/",
-          "author": null,
-          "description": "2006年の公開から20周年を記念し、現在渋谷ホワイトシネクイントにてリバイバル上映中の映画「ハチミツとクローバー」が、10月以降、全国各地の劇場でも上映されることが決定した。 羽海野チカの人気...",
-          "link": "https://anime.eiga.com/news/127389/",
-          "publishedOn": "2026-09-05T12:00:00.000Z",
-          "wordCount": 762,
-          "title": "櫻井翔、蒼井優共演「ハチミツとクローバー」リバイバル上映　好評につき10月以降全国各地で順次公開決定",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23025,6 +23170,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126823",
+          "author": null,
+          "description": "GCノベルズ刊『転生したら剣でした』のスピンオフコミック『転生したら剣でした...",
+          "link": "https://ln-news.com/articles/126823",
+          "publishedOn": "2026-10-05T02:00:00.000Z",
+          "wordCount": 236,
+          "title": "スピンオフコミック『転生したら剣でした My Dish』の連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/1e31cf00d43148f8b0a59f326d2693df.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126817",
+          "author": null,
+          "description": "第7回集英社WEB小説大賞の結果発表が行われた。応募総数5,400超の作品の...",
+          "link": "https://ln-news.com/articles/126817",
+          "publishedOn": "2026-10-05T00:30:00.000Z",
+          "wordCount": 247,
+          "title": "第7回集英社WEB小説大賞の結果が発表　「大賞」に1作品など9作品が受賞へ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/0ac290ca9c6d4445b34bbd11dfbee10d.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126855",
           "author": null,
@@ -25967,6 +26132,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13574",
+          "author": "watanabe@logipara.com",
+          "description": "同僚「10月になるといろいろ忙しいですね（下半期開始の各種タスクがあるから）」 　 私「本当に10月になると忙しいですよね（秋アニメが始まるから）」",
+          "link": "https://logipara.com/diary-text/2026-10-05/",
+          "publishedOn": "2026-10-05T00:51:30.000Z",
+          "wordCount": 2749,
+          "title": "下半期が始まっています",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13571",
           "author": "watanabe@logipara.com",
