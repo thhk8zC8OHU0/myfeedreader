@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/199/G019924/20261005046/",
+          "author": null,
+          "description": "スクウェア・エニックスは本日（2026年10月5日），同社が開発・運営するMMORPG「ファイナルファンタジーXIV」のファンイベント「ファンフェスティバル2026in東京」について，ステージの詳細を公開した。初日となる10月31日には，プロデューサー兼ディレクターを務める吉田直樹氏による基調講演が実施される。",
+          "link": "https://www.4gamer.net/games/199/G019924/20261005046/",
+          "publishedOn": "2026-10-05T12:21:03.000Z",
+          "wordCount": 8644,
+          "title": "「ファイナルファンタジーXIV」のファンイベント「ファンフェスティバル 2026 in 東京」，ステージの詳細が明らかに",
+          "imageUrl": "https://www.4gamer.net/games/199/G019924/20261005046/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/981/G098166/20261005036/",
           "author": null,
           "description": "TeyonJapanは本日，パッケージ版「きかんしゃトーマスとなかまたち：ソドー島の不思議」デラックスエディションを2026年12月17日にPS5/Switch向けに発売すると発表した。本作は，トーマスたちを運転してソドー島を巡るADVで，複数のゲームモードと，ジェームスを追加するDLCを収録する。",
@@ -3924,16 +3934,6 @@
           "wordCount": 8950,
           "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年8月31日〜9月6日",
           "imageUrl": "https://www.4gamer.net/games/040/G004099/20260906004/SS/029.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/807/G080705/20260906002/",
-          "author": null,
-          "description": "2Kは日本時間の2026年9月6日，「シドマイヤーズシヴィライゼーションVII」の大型無料アップデートとなる「ArcofTomorrow」を2027年内に配信すると発表した。第4の時代として「原子力時代」が追加されるほか，初の有償拡張パック「Earthrise」のリリースも明らかにされている。",
-          "link": "https://www.4gamer.net/games/807/G080705/20260906002/",
-          "publishedOn": "2026-09-06T04:04:37.000Z",
-          "wordCount": 8529,
-          "title": "「シドマイヤーズ シヴィライゼーション VII」，第4の時代を追加する無料アップデート「Arc of Tomorrow」を2027年に配信。初の有償拡張パック「Earthrise」も発表",
-          "imageUrl": "https://www.4gamer.net/games/807/G080705/20260906002/SS/002.jpg"
         }
       ]
     },
@@ -3942,6 +3942,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3c98c864ac8ebb75a3feafae120a99efb5a52ed9?source=rss",
+          "author": null,
+          "description": "今月末に開催される陸上競技の全国大会に、大阪府内の中高生８人が中体連の手続きミスで出場出来なくなっている問題で、大阪の競技連盟らは５日夜、選手や保護者に対し説明会を開き経緯説明と謝罪を行いました。大阪",
+          "link": "https://news.yahoo.co.jp/articles/3c98c864ac8ebb75a3feafae120a99efb5a52ed9?source=rss",
+          "publishedOn": "2026-10-05T13:47:03.000Z",
+          "wordCount": 1659,
+          "title": "手続きミスで陸上の全国大会参加できず謝罪　競技連盟などが説明会　中体連担当者が申し込み期限を誤認(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082885-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d812e704912648490c6f0bb843be96e810661db3?source=rss",
+          "author": null,
+          "description": "性被害を訴える女性の個人情報を漏えいしたとして刑事告訴された副検事の不起訴処分について、検察審査会は、「不起訴相当」と議決しました。SNSでの誹謗中傷対策は？ 「山火事のような」デマ拡散・なりすましで",
+          "link": "https://news.yahoo.co.jp/articles/d812e704912648490c6f0bb843be96e810661db3?source=rss",
+          "publishedOn": "2026-10-05T13:28:23.000Z",
+          "wordCount": 1657,
+          "title": "性的暴行の噂を広めたとして刑事告訴された副検事の不起訴処分は「相当」　検察審査会が議決(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082884-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f76ebdde70ffbec714e08870f654289d85d8860c?source=rss",
+          "author": null,
+          "description": "平安女学院大学が共学化すると発表。 平安女学院大学を運営する学校法人は、２０２８年度から大学を男女共学化し、大学名を「京都地域共創大学（仮称）」とすると発表しました。【大阪都構想】淀川区、北区、なにわ",
+          "link": "https://news.yahoo.co.jp/articles/f76ebdde70ffbec714e08870f654289d85d8860c?source=rss",
+          "publishedOn": "2026-10-05T11:05:29.000Z",
+          "wordCount": 1647,
+          "title": "平安女学院大学が共学化へ　名称は「京都地域共創大学（仮称）」に　背景に学生数の落ち込み(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082883-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6e7b420caeae20944db570944e6b9b7048348edf?source=rss",
+          "author": null,
+          "description": "大規模システム障害の原因はサイバー攻撃でした。 大阪公立大学は、２日に起きたシステム障害の原因がサイバー攻撃で、少なくとも１３万人分の情報が流出した恐れがあると発表しました。システムのサーバーにデータ",
+          "link": "https://news.yahoo.co.jp/articles/6e7b420caeae20944db570944e6b9b7048348edf?source=rss",
+          "publishedOn": "2026-10-05T11:00:41.000Z",
+          "wordCount": 1658,
+          "title": "大阪公立大のシステム障害、原因はサイバー攻撃　少なくとも１３万人分の情報が流出した恐れ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082882-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f5ae9a2991b48ffe9d03a422780199f367695478?source=rss",
+          "author": null,
+          "description": "大阪府の泉佐野市と泉南市が、合併を視野に協議会を立ち上げます。 泉佐野市の千代松市長と泉南市の山本市長は、両市の合併を視野に来年１月にも協議会を発足させる考えを示しました。「運転手の体調が急変し、体が",
+          "link": "https://news.yahoo.co.jp/articles/f5ae9a2991b48ffe9d03a422780199f367695478?source=rss",
+          "publishedOn": "2026-10-05T10:56:38.000Z",
+          "wordCount": 1632,
+          "title": "大阪の泉佐野市と泉南市が合併検討　来年1月にも協議会発足へ　周辺２市町も加わる可能性(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082877-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0248d1e1168336af99e0fb3049ae4a065d722729?source=rss",
+          "author": null,
+          "description": "同乗者が「運転手の体調が急変した」などと説明しているということです。 １日、神戸市中央区のＪＲ三ノ宮駅近くの交差点で、男性（５８）が運転する乗用車が横断歩道を渡っていた歩行者らを次々とはね、岸上優空さ",
+          "link": "https://news.yahoo.co.jp/articles/0248d1e1168336af99e0fb3049ae4a065d722729?source=rss",
+          "publishedOn": "2026-10-05T10:51:40.000Z",
+          "wordCount": 1626,
+          "title": "「運転手の体調が急変し、体が震えて急発進」と同乗者　神戸５人死傷事故(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082881-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/1acc10fdcc380f5b5fdeadecb7d43b88cc3f1bb4?source=rss",
           "author": null,
@@ -8471,36 +8531,6 @@
           "wordCount": 1677,
           "title": "【速報】東海道新幹線　６日夜から遅れや運転見合わせの可能性　大雨予想で(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00082410-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2504a22b82db315b34b2bf71aedb131337efd8f8?source=rss",
-          "author": null,
-          "description": "５日、京都府舞鶴市の海水浴場で行方不明になっていた男性が６日朝、遺体で見つかりました。\n\n　舞鶴市の神崎海水浴場近くで遺体で見つかったのは、大阪府羽曳野市に住む３４歳の男性です。\n\n　男性は５日、知",
-          "link": "https://news.yahoo.co.jp/articles/2504a22b82db315b34b2bf71aedb131337efd8f8?source=rss",
-          "publishedOn": "2026-09-06T04:11:50.000Z",
-          "wordCount": 1647,
-          "title": "海水浴場で行方不明の男性が遺体で見つかる　知人らと飲酒後に遊泳、周辺の波はやや高く　京都・舞鶴市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00082409-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/610936400fa350d31a3886199263fac26ab29fd6?source=rss",
-          "author": null,
-          "description": "兵庫県豊岡市で、初秋の味覚として親しまれている「豊岡ぶどう」の収穫が最盛期を迎えています。\n\n　「豊岡ぶどう」は盆地特有の大きな寒暖差によりみずみずしい果汁、そしてさわやかな甘みが際立つ特産品です。",
-          "link": "https://news.yahoo.co.jp/articles/610936400fa350d31a3886199263fac26ab29fd6?source=rss",
-          "publishedOn": "2026-09-06T04:11:36.000Z",
-          "wordCount": 1657,
-          "title": "初秋の味覚「豊岡ぶどう」収穫最盛期　甘さ酸味ともに上々の出来　兵庫・豊岡市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00082408-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/90a662848cd32c8baadce19bdfa4f5e3823e825d?source=rss",
-          "author": null,
-          "description": "京都府舞鶴市の海水浴場で５日、遊泳中の男性が行方不明になった事故で、舞鶴海上保安部などによる捜索が６日朝、再開され、波打ち際の近くで、この男性の遺体が見つかりました。\n\n　５日午後３時半ごろ、舞鶴市",
-          "link": "https://news.yahoo.co.jp/articles/90a662848cd32c8baadce19bdfa4f5e3823e825d?source=rss",
-          "publishedOn": "2026-09-05T23:12:08.000Z",
-          "wordCount": 1635,
-          "title": "海水浴場で行方不明になった男性　遺体で発見　京都・舞鶴市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260905-00082407-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -12230,6 +12260,66 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2068030.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/10/05(月) 16:35:13.72 ID:8kELOnAF9.net\n\n\n\n\n\n\n\nどなり声あげ電話「ガチャ切り」、パワハラで東京都水道局の男性主事を懲戒処分…業務委託先に威圧的言動 : 読売新聞 https://t.co/2WBp5zZFie— 読売新聞オンライン (@Yomiuri_Online) ...",
+          "link": "https://itainews.com/archives/2068030.html",
+          "publishedOn": "2026-10-05T14:01:45.000Z",
+          "wordCount": 3507,
+          "title": "どなり声あげ電話「ガチャ切り」パワハラで東京都水道局の男性主事を停職1日の懲戒処分…業務委託先に威圧的言動、本人は反省",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/1/519f7e7c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068022.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/10/05(月) 10:06:26.86 ID:GosLk8UH9.net\n\n\n\n\n\n\n\n駐車場で車が10歳と2歳を含む親子3人に衝突　父親は重傷　神奈川・大和市 https://t.co/RraaOnTB3D— テレ朝NEWS (@tv_asahi_news) October 4, 2026\n\n\n\n\n\n\n\n駐車場で車が10歳と2歳を含む親子3人に...",
+          "link": "https://itainews.com/archives/2068022.html",
+          "publishedOn": "2026-10-05T13:00:26.000Z",
+          "wordCount": 3682,
+          "title": "【神奈川】駐車場でバックしていた乗用車が10歳と2歳を含む親子3人に衝突　父親は重傷　大和市",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/d/7db21901-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068029.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/10/05(月) 16:29:13.26 ID:HtHnOeym0●.net\n\n\n\n\n\n\n\n日本ハムが主力「シャウエッセン」を実質値上げ　1パックあたり10グラム減に　中東情勢などで原材料費や物流費が高騰 https://t.co/4vWRDnzLMS— TBS NEWS DIG Powered by JNN (@tbsnewsdig) October 5,...",
+          "link": "https://itainews.com/archives/2068029.html",
+          "publishedOn": "2026-10-05T12:31:04.000Z",
+          "wordCount": 3530,
+          "title": "シャウエッセン「1袋当りの容量は減、1本の重量は増加！」 ←皮も節約しただけだろ　物は言いようだな",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/4/f4b1c6f2-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068018.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/10/05(月) 09:33:22.60 ID:GosLk8UH9.net\n\n\n\n\n\n\n\n《はま寿司“醤油ドパがけ男”に拘禁1年》　\n\n「汚く見えるように髪を洗った手を…」\n\n新西悠太被告が法廷で語った“炎上”の経緯　https://t.co/vITCnsMuNk\n\n妻は判決前に「2～3時間くらいしか寝...",
+          "link": "https://itainews.com/archives/2068018.html",
+          "publishedOn": "2026-10-05T12:04:12.000Z",
+          "wordCount": 3378,
+          "title": "【はま寿司“醤油ドパがけ男”に拘禁1年】「汚く見えるように髪を洗った手を…」新西悠太被告が法廷で語った“炎上”の経緯",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/f/ff37cf57-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068024.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/10/05(月) 13:05:59.58 ID:ctvbUriN0.net\n\n\n\n\n\n\n\n太平洋の深海底で1万種以上のウイルスを発見、その99%が未知のものだった\nhttps://t.co/PfPnCvyvfl\n\n太平洋の深海に広がるクラリオン・クリッパートン海域は、レアメタルを含む多金属団塊の宝庫として、深...",
+          "link": "https://itainews.com/archives/2068024.html",
+          "publishedOn": "2026-10-05T11:31:35.000Z",
+          "wordCount": 3811,
+          "title": "中国の研究チームが太平洋の深海底で1万種以上のウイルスを発見。99%が未知のもの",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/1/c18eeddb-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068011.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/10/04(日) 19:31:21.28 ID:k8pxmULf9.net\n\n\n\n\n\n\n\nモトクロスコースでオートバイが転倒 運転していた60代男性が死亡=静岡県警浜松西署(静岡放送（SBS）)\n#Yahooニュース\nhttps://t.co/8whHMUS1CQ— 中古二輪自動車流通協会🛵 (@chunikyo) October 4...",
+          "link": "https://itainews.com/archives/2068011.html",
+          "publishedOn": "2026-10-05T11:00:13.000Z",
+          "wordCount": 3203,
+          "title": "【静岡】モトクロスコースでオートバイが転倒 運転していた60代男性が死亡　浜松",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/2/22933cda-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2068023.html",
           "author": "damono3856",
@@ -19409,136 +19499,6 @@
           "wordCount": 3091,
           "title": "「人が刺された。ガソリンをまいている」とケーキ店から110番,焼け跡から2遺体・3人搬送 岐阜・本巣市",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/3/533b9b67-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066904.html",
-          "author": "nobi0929",
-          "description": "1 名前：muffin ★：2026/09/05(土) 21:01:59.09 ID:Dx24k1nr9.net\n\n\n\n\n\n\n\n叩かれるのはわかってるよでも学歴って大事なのよだからあえて伝えてるの！全国の受験生に後悔しないでもらいたいためにね学歴とか偏差値関係ないってのは建前だからねw関係ないっていって東大京...",
-          "link": "https://itainews.com/archives/2066904.html",
-          "publishedOn": "2026-09-06T07:00:46.000Z",
-          "wordCount": 3052,
-          "title": "「令和の虎」林社長、受験生に「学歴とか偏差値関係ないってのは建前だから」「東大、京大、早稲田、慶應ばっかり採用してるw」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/8/286a8876-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066908.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2026/09/05(土) 21:53:33.88 ID:cbKS9ycz9.net\n\n\n\n\n\n\n\n「クマと5分ほど格闘した」キノコ採りの61歳男性　顔や全身に傷負い自力下山　クマは大型犬ほどの大きさ　市は山林に「入山禁止」の看板設置  関係者によりますと、男性は「クマと5分ほど格闘した...",
-          "link": "https://itainews.com/archives/2066908.html",
-          "publishedOn": "2026-09-06T06:31:57.000Z",
-          "wordCount": 3045,
-          "title": "【（・(ｪ)・）】「クマと5分ほど格闘した」キノコ採りの61歳男性　顔や全身に傷負い自力下山　クマは大型犬ほどの大きさ　長野県伊那市",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/f/cf5c0304-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066905.html",
-          "author": "takakichi5346",
-          "description": "1 名前：お断り ★：2026/09/05(土) 14:40:52.63 ID:rOMsQcmH9.net\n\n\n\n\n\n\n\n生活保護の受給者、指定の受診先以外なら原則紹介必須に　厚労省検討https://t.co/5X7sJDYB7E— 日本経済新聞 電子版（日経電子版） (@nikkei) September 3, 2026 \n\n\n\n\n\n\n生活保護の受給者、指定...",
-          "link": "https://itainews.com/archives/2066905.html",
-          "publishedOn": "2026-09-06T06:04:25.000Z",
-          "wordCount": 3030,
-          "title": "生活保護、過剰な受診を減らすため、指定の病院以外に行くには紹介必須に",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7a1169e7-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066901.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/09/05(土) 12:24:06.05 ID:ts3TwH090.net\n\n\n\n\n\n\n\nホンダ、30年までに原価低減1.5兆円 部品メーカーに要請＝関係者 https://t.co/2z5XMmVRYm中国製部品採用？どんどん駄目になっていく予想しか出来ない、残念— ぱさと (@passatmini) September 4, 2026 ...",
-          "link": "https://itainews.com/archives/2066901.html",
-          "publishedOn": "2026-09-06T05:30:12.000Z",
-          "wordCount": 3121,
-          "title": "【悲報】ホンダ「中国と競争できる安さにしないと中国産に切り替える」 部品メーカーに通告",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/9/498ab096-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066903.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：2026/09/05(土) 22:41:23.80 ID:dvwicdb60●.net PLT(17000)\n\n\n\n\n\n\n\nAmerican Airlines passenger duct taped to seat following disruptive behavior onboard the flight ✈️ pic.twitter.com/Phv2VLMdjJ— StarSnap 🌟 (@StarSnap_1) September 5, 2026 \n\n\n...",
-          "link": "https://itainews.com/archives/2066903.html",
-          "publishedOn": "2026-09-06T05:00:54.000Z",
-          "wordCount": 3084,
-          "title": "アメリカン航空の乗客、機内で乱暴に振る舞ったため座席にダクトテープで固定される………",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8e5b3a4e-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066902.html",
-          "author": "nobi0929",
-          "description": "1 名前：muffin ★：2026/09/05(土) 20:51:58.86 ID:Dx24k1nr9.net\n\n\n\n\n\n\n\n食中毒事故について。https://t.co/Ymg9gfE9PM pic.twitter.com/1BVOGWq1Ij— こめお (@komeo1144) September 5, 2026 \n\n\n\n\n\n\nhttps://www.tokyo-sports.co.jp/articles/-/401999  2026年9月5日 ...",
-          "link": "https://itainews.com/archives/2066902.html",
-          "publishedOn": "2026-09-06T04:30:31.000Z",
-          "wordCount": 3082,
-          "title": "カニラーメン食中毒でこめおが丸刈り謝罪 〝余った７００食〟に言及「作り置きという意味ではありません」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/c/0c0cacaa-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2066896.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/09/05(土) 18:05:46.25 ID:uGbVKpwA0●.net\n\n\n\n\n\n\n\n\n\n\n少なくとも鎌田さんは国民に否定されましたなんのための選挙か考えられない人間には何も任せられない https://t.co/Zn5Q6iSmyY— KSL-Live!（竹本てつじ） (@ksl_live) September 5, 2026 \n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2066896.html",
-          "publishedOn": "2026-09-06T04:01:11.000Z",
-          "wordCount": 3103,
-          "title": "宮城2区で落選の中革連・鎌田さゆり氏「選挙で勝てば、全てを白紙委任されているわけではありません」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/d/1d9eb935-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066898.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/09/05(土) 19:49:27.13 ID:u52LhqC00●.net \n\n\n\n\n\n\n\n\n\n\n取材拒否に何の正当性もない。こんな人間が「教育」に巣食っている https://t.co/1E97xuutts— 本田由紀 (@hahaguma) June 19, 2018 \n\n\n\n\n\n\n\n本田由紀 @hahaguma\n取材拒否に何の正当性もない。こんな人...",
-          "link": "https://itainews.com/archives/2066898.html",
-          "publishedOn": "2026-09-06T03:31:43.000Z",
-          "wordCount": 3146,
-          "title": "本田由紀「取材拒否する人間が教育に巣食っている」→「遺伝的要因のおそろしさ」→「取材はお断り」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/6/967eec45-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066891.html",
-          "author": "dqnplus",
-          "description": "1 ：おっさん友の会 ★：2026/09/02(水) 11:56:44.64 ID:j4kpWn3B9.net\n\n\n\n\n\n\n\n\n\n\n婚活パーティー、条件は「同姓」　鈴木・佐藤…各回で募集―主催側「改姓の悩み解消へ」 https://t.co/s3ibouxC5K— 時事ドットコム（時事通信ニュース） (@jijicom) September 1, 2026 \n...",
-          "link": "https://itainews.com/archives/2066891.html",
-          "publishedOn": "2026-09-06T03:01:04.000Z",
-          "wordCount": 3054,
-          "title": "婚活パーティー、条件は「同姓」　鈴木・佐藤…各回で募集　主催側「改姓の悩み解消へ」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/1/d1ae4284-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066894.html",
-          "author": "dqnplus",
-          "description": "1 ：それでも動く名無し：2026/09/05(土) 13:13:59.02 ID:klP3O5D10.net\n\n\n\n\n\n\n\n\n\n\nお騒がせしております。撮影許可はいただいておりますので、ご安心ください。二郎を愛するジロリアンの皆様ご丁寧に教えてくださりありがとうございます。 https://t.co/tCXB0xB3q9— ミ...",
-          "link": "https://itainews.com/archives/2066894.html",
-          "publishedOn": "2026-09-06T02:31:07.000Z",
-          "wordCount": 3092,
-          "title": "【悲報】ミス東大「ラーメン二郎三田本店の写真は撮影許可を取ってます」→炎上wwwwww",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/8/0849906e.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066892.html",
-          "author": "dqnplus",
-          "description": "1 ：もん様！：2026/09/05(土) 16:15:01.83 ID:k17vV84h0●.ne\n\n\n\n\n\n\n\n\n\n誤解を招くような表現となってしまい、申し訳ございません。こちらのシーンにつきましては、ホテル側より特別に撮影許可をいただいた上で撮影しております。また、本動画についても、リッツ・カー...",
-          "link": "https://itainews.com/archives/2066892.html",
-          "publishedOn": "2026-09-06T02:01:04.000Z",
-          "wordCount": 3053,
-          "title": "板野友美さん　ホテルの脱衣所で盗撮",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/2/22885b26.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066890.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：2026/09/05(土) 13:05:47.08 ID:rMy097Po0●.net 2BP(2000)\n\n\n\n\n\n\n\n突っ込みどころ満載でオモロイな・おにぎり、なぜラップを用意したのに手で握るのか？・明らかに自炊していない空っぽ冷蔵庫・極端な節約をしているのにペットボトル飲料・炊飯器の蓋が上の棚...",
-          "link": "https://itainews.com/archives/2066890.html",
-          "publishedOn": "2026-09-06T00:03:55.000Z",
-          "wordCount": 3110,
-          "title": "NHKクローズアップ現代でヤラセ発覚か　20代男性の節約生活を取材した回に違和感を訴える人相次ぐ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/9/d983808d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2066881.html",
-          "author": "nobi0929",
-          "description": "1 名前：Hitzeschleier ★：2026/09/05(土) 09:26:11.56 ID:fS+BqrMI9.net\n\n\n\n\n\n\n\nご注意ください。#高橋彩人容疑者“マチアプ”で知り合った女性を自宅に連れ込み“性的暴行”28歳男を逮捕　同様の行為を繰り返していたか(日テレNEWS NNN)https://t.co/vSlnNzNBz8— 闘...",
-          "link": "https://itainews.com/archives/2066881.html",
-          "publishedOn": "2026-09-05T23:00:30.000Z",
-          "wordCount": 3035,
-          "title": "「エッチしないと帰さない」”タップル”で出会った女性を自宅連れ込み性的暴行疑い 高橋彩人容疑者(28)逮捕　女性がAIに相談し事件発覚",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/4/548bafa2-s.jpg"
         }
       ]
     },
@@ -19866,16 +19826,6 @@
           "wordCount": 844,
           "title": "【速報】大雨に伴い厚木市内の小中学校が9月7日(月)臨時休校に。自主避難所開設や施設休館情報まとめ",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/ooame-atsugi202609.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=61308",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです。 先日、水引交差点から国道246号・129号を南へ歩いていたところ、 工事が始まりそうな雰囲気がありつつも、1年くらい動きがなかった場所にて、ついに工事が開始されているのを目撃しましたー！ まずは場所から詳…",
-          "link": "https://atsugi-lab.com/construction-sakaecho-202609/",
-          "publishedOn": "2026-09-06T01:58:53.000Z",
-          "wordCount": 813,
-          "title": "【話題】水引交差点近く・マンション横の一角にて工事がスタート！共同住宅および物販店舗ができるみたい。［厚木市栄町］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/sakae-kouji202609.jpg"
         }
       ]
     },
@@ -20590,16 +20540,6 @@
           "wordCount": 2064,
           "title": "【マクドナルド】チーズ月見【月見ファミリー・新商品】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/a2706a1d61cff78c8a84bb7d007be6d3.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=317852",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]",
-          "link": "https://foodfighter.jp/matsuya-mala-cheese-hamburg-steak",
-          "publishedOn": "2026-09-06T04:32:27.000Z",
-          "wordCount": 2061,
-          "title": "【松屋】麻辣チーズハンバーグ・ライスセット【店舗限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/abd76600e3b04c086d511d086d79f479.jpg"
         }
       ]
     },
@@ -20608,6 +20548,51 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127529/",
+          "author": null,
+          "description": "Robloxの人気ホラーゲーム「99 Nights in the Forest（原題）」が映画化されると、米デッドラインが報じた。製作は、「死霊のはらわた」「スパイダーマン」のサム・ライミ監督で...",
+          "link": "https://anime.eiga.com/news/127529/",
+          "publishedOn": "2026-10-05T13:00:00.000Z",
+          "wordCount": 562,
+          "title": "サム・ライミ製作、Robloxの人気ホラーゲームを映画化へ",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127574/",
+          "author": null,
+          "description": "シリーズ史上初の“Filmed For IMAX®”作品として、IMAX®認証デジタルカメラで撮影された映画「バイオハザード」が10月9日より全国公開される。⽇本に先駆けて9⽉18⽇に公開を迎え...",
+          "link": "https://anime.eiga.com/news/127574/",
+          "publishedOn": "2026-10-05T12:00:00.000Z",
+          "wordCount": 662,
+          "title": "“最恐”の「バイオハザード」日本語吹き替え版声優第2弾として⽇笠陽⼦、Lynn、小野大輔、杉田智和らが参加",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127592/",
+          "author": null,
+          "description": "「電撃文庫」（KADOKAWA刊）のライトノベル「組織の宿敵と結婚したらめちゃ甘い」がテレビアニメ化されることが決定した。あわせて、アニメ化決定PV（https://www.youtube.co...",
+          "link": "https://anime.eiga.com/news/127592/",
+          "publishedOn": "2026-10-05T11:00:00.000Z",
+          "wordCount": 623,
+          "title": "「組織の宿敵と結婚したらめちゃ甘い」TVアニメ化決定、PV披露　メインスタッフも発表",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127593/",
           "author": null,
@@ -23497,21 +23482,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127324/",
-          "author": null,
-          "description": "道枝駿佑が主演を務め、安斉星来が共演する映画「うるわしの宵の月」の場面写真が、このほど披露された。あわせて、2026年秋より、韓国で公開されることも決定した。 本作は、講談社「デザート」で連載中...",
-          "link": "https://anime.eiga.com/news/127324/",
-          "publishedOn": "2026-09-06T03:00:00.000Z",
-          "wordCount": 729,
-          "title": "道枝駿佑×安斉星来「うるわしの宵の月」原作でもおなじみの“あのシーン”を映し出す場面写真披露　韓国公開も決定",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -26237,6 +26207,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=004ZygnhxMc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=004ZygnhxMc",
+          "publishedOn": "2026-10-05T11:01:26.000Z",
+          "wordCount": null,
+          "title": "庭で走るのが楽しすぎて「戻っておいで〜」と声をかけても止まらない猫たちが可愛すぎたwww",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=twBpuQhHUVc",
           "author": null,
           "description": "",
@@ -26533,6 +26513,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13576",
+          "author": "watanabe@logipara.com",
+          "description": "春ごろ、新潟の泊まれるワイナリー「カーブドッチ」に宿泊しました。 　 そのときの体験があまりにも良すぎて、また行きたいなー、なんて言っていたですが。 季節は秋。ブドウの収穫時期にワイン祭りをやるとのことで、再訪してまいり […]",
+          "link": "https://logipara.com/trip/cavedocci2/",
+          "publishedOn": "2026-10-05T13:32:24.000Z",
+          "wordCount": 2782,
+          "title": "泊まれるワイナリー「カーブドッチ」が良すぎたのでワイン祭りに行ってきました",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image.png"
+        },
         {
           "id": "https://logipara.com/?p=13574",
           "author": "watanabe@logipara.com",
@@ -26832,26 +26822,6 @@
           "wordCount": 2746,
           "title": "水曜どうでしょう祭UNITE2026二日目（取り急ぎ版）",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/pxl_20260906_0149311193393070152204466237-1024x576.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=13440",
-          "author": "watanabe@logipara.com",
-          "description": "1日目に参加してきました！トイレにいくたびに階段の上り下りが発生して重労働！後ほどまとめます！",
-          "link": "https://logipara.com/everepo/2026-09-06/",
-          "publishedOn": "2026-09-05T23:59:31.000Z",
-          "wordCount": 2765,
-          "title": "水曜どうでしょう祭UNITE2026 1日目（取り急ぎ版）",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/pxl_20260904_233016378675927820419051042-1024x576.jpg"
-        },
-        {
-          "id": "https://logipara.com/?p=13440",
-          "author": "watanabe@logipara.com",
-          "description": "1日目に参加してきました！トイレにいくたびに階段の上り下りが発生して重労働！後ほどまとめます！",
-          "link": "https://logipara.com/diary-text/2026-09-06/",
-          "publishedOn": "2026-09-05T23:59:31.000Z",
-          "wordCount": 2755,
-          "title": "水曜どうでしょう祭UNITE2026 1日目（取り急ぎ版）",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/pxl_20260904_233016378675927820419051042-1024x576.jpg"
         }
       ]
     },
