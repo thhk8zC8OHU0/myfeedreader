@@ -3494,36 +3494,6 @@
           "wordCount": 8104,
           "title": "Nintendo Switch用ソフト「ONI零〜復活〜Reboot」，2027年春に発売。原作者・飯島多紀哉氏による新規イベントや戦闘曲の追加も予定",
           "imageUrl": "https://www.4gamer.net/games/041/G104190/20260911009/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/018/G101878/20260824028/",
-          "author": null,
-          "description": "イギリスのTwoPointStudiosが送り続けてきた，ユーモアあふれるヘンテコ経営シミュレーション「ツーポイント」シリーズ。今回はその歴史に触れつつ，最新作「ツーポイントホスピタル：ハートフルコレクション」の魅力に迫った。",
-          "link": "https://www.4gamer.net/games/018/G101878/20260824028/",
-          "publishedOn": "2026-09-11T03:00:00.000Z",
-          "wordCount": 8507,
-          "title": "変すぎて人気になったヘンテコ病院経営シム「ツーポイントホスピタル」。スタジオ10周年を振り返りつつ，その集大成に迫る【PR】",
-          "imageUrl": "https://www.4gamer.net/games/018/G101878/20260824028/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/728/G072884/20260911004/",
-          "author": null,
-          "description": "アークシステムワークスは本日，対戦アクション「UNDERNIGHTIN-BIRTHIISys:Celes」の新規DLCキャラクター「ゾハル」を，PC/PS5版は2026年9月16日，Switch版は9月24日に配信すると発表した。ゾハルは，ドッペルゲンガーとの連携や巨大な棘，一瞬で間合いを詰める裏回り技を駆使して戦うキャラクターだ。",
-          "link": "https://www.4gamer.net/games/728/G072884/20260911004/",
-          "publishedOn": "2026-09-11T02:35:22.000Z",
-          "wordCount": 8475,
-          "title": "「UNDER NIGHT IN-BIRTH II Sys:Celes」，DLCキャラクター「ゾハル」をPC/PS5向けに9月16日配信。ドッペルゲンガーとの連携で相手を翻弄",
-          "imageUrl": "https://www.4gamer.net/games/728/G072884/20260911004/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/642/G064217/20260911001/",
-          "author": null,
-          "description": "ドラガミゲームスは本日，ゾンビアクションゲーム「LOLLIPOPCHAINSAWRePOP」が発売2周年を迎えることを記念した無料アップデートを配信した。新コスチューム「パーティドレス」と新フォトフレームを追加し，ドレス姿のジュリエットでゾンビハントや記念撮影を楽しめる。",
-          "link": "https://www.4gamer.net/games/642/G064217/20260911001/",
-          "publishedOn": "2026-09-11T01:43:43.000Z",
-          "wordCount": 8408,
-          "title": "「LOLLIPOP CHAINSAW RePOP」，発売2周年記念の無料アップデートを本日配信。新コスチューム「パーティドレス」などを追加",
-          "imageUrl": "https://www.4gamer.net/games/642/G064217/20260911001/SS/001.jpg"
         }
       ]
     },
@@ -3532,6 +3502,66 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/18b4df2e1911e422307f8ce48fdf0433a9ffe800?source=rss",
+          "author": null,
+          "description": "奈良県は１０日、明日香村に初めてツキノワグマが出没したと発表しました。 明日香村の集落で午前８時５０分ごろ、イノシシやシカを捕獲するために設置していたワナに、ツキノワグマ１頭がかかっているのを住民が見",
+          "link": "https://news.yahoo.co.jp/articles/18b4df2e1911e422307f8ce48fdf0433a9ffe800?source=rss",
+          "publishedOn": "2026-10-10T12:54:15.000Z",
+          "wordCount": 1660,
+          "title": "奈良県明日香村でツキノワグマが初めて出没　県が殺処分　人的被害なしも注意呼びかけ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00082982-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d0d97567c9380d5d972a732dbea4a82d28e80047?source=rss",
+          "author": null,
+          "description": "湖国三大祭のひとつ大津祭は１０日夜、宵宮を迎えました。 「コンチキチン」とお囃しが響く中、提灯に明かりが灯され、江戸時代に製作された曳山が美しく浮かび上がりました。 １１日の本祭では、１３基の曳山が大",
+          "link": "https://news.yahoo.co.jp/articles/d0d97567c9380d5d972a732dbea4a82d28e80047?source=rss",
+          "publishedOn": "2026-10-10T12:16:03.000Z",
+          "wordCount": 1613,
+          "title": "大津祭「宵宮」　提灯の明かり　11日は本祭「曳山巡行」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00082981-asahibcv-000-2-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cde693b8257da28a2c2dfaec30b7a53e7703801c?source=rss",
+          "author": null,
+          "description": "１０月１０日は「目の愛護デー」です。親子で新幹線旅行を楽しみながら「目の大切さ」を体感できるイベントが開かれました。【発見】「十一面観世音菩薩」の中から巻物が見つかる 鎌倉時代創建の京都・正寿院 住職",
+          "link": "https://news.yahoo.co.jp/articles/cde693b8257da28a2c2dfaec30b7a53e7703801c?source=rss",
+          "publishedOn": "2026-10-10T11:38:25.000Z",
+          "wordCount": 1648,
+          "title": "１０月１０日は「目の愛護デー」　新幹線の特別車両「目のグリーン車」　ロート製薬「目のことを考えるきっかけに」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00082980-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ee8ffcf01bba8795cda92b9fe57a0a6a857bba05?source=rss",
+          "author": null,
+          "description": "京都市動物園は１０日、飼育していたグレビーシマウマのミナト（オス）が死んだと発表しました。６歳でした。死因については調査中としています。【発見】「十一面観世音菩薩」の中から巻物が見つかる 鎌倉時代創建",
+          "link": "https://news.yahoo.co.jp/articles/ee8ffcf01bba8795cda92b9fe57a0a6a857bba05?source=rss",
+          "publishedOn": "2026-10-10T11:15:50.000Z",
+          "wordCount": 1671,
+          "title": "グレビーシマウマ「ミナト」６歳で死ぬ　死因は調査中　京都市動物園(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00082979-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9660c375fabcaa62a171039d50cce21744609c05?source=rss",
+          "author": null,
+          "description": "大阪府泉佐野市と泉大津市で、秋祭りのだんじりが横転する事故があり、ともに男性１人が死亡しました。大阪・羽曳野市のグループホームで入所者虐待・行政は「改善命令」 なくならない施設での虐待に専門家は「職員",
+          "link": "https://news.yahoo.co.jp/articles/9660c375fabcaa62a171039d50cce21744609c05?source=rss",
+          "publishedOn": "2026-10-10T09:44:14.000Z",
+          "wordCount": 1659,
+          "title": "泉佐野と泉大津でだんじり横転　男性２人死亡　大阪(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00082978-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/525706d6c64b81e64ecf96462c59033c80df9365?source=rss",
+          "author": null,
+          "description": "和歌山県白浜町のアドベンチャーワールドでは、赤ちゃんの健やかな成長を祝う、「ハイハイレース」が開かれました。【発見】「十一面観世音菩薩」の中から巻物が見つかる 鎌倉時代創建の京都・正寿院 住職「大変驚",
+          "link": "https://news.yahoo.co.jp/articles/525706d6c64b81e64ecf96462c59033c80df9365?source=rss",
+          "publishedOn": "2026-10-10T09:44:14.000Z",
+          "wordCount": 1627,
+          "title": "赤ちゃんの健やかな成長祝う「ハイハイレース」　和歌山・白浜町のアドベンチャーワールド(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00082977-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/3513f15c62b36f1c2871a85a1b75562bb99bbaaf?source=rss",
           "author": null,
@@ -8201,16 +8231,6 @@
           "wordCount": 1661,
           "title": "維新が「大阪都構想」の宣伝強化　来春に想定する住民投票を見すえ　駅前などで街頭活動(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260911-00082495-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a0b7cadb2d68352c69c72eff967d35eec82fe299?source=rss",
-          "author": null,
-          "description": "通販大手Amazonが、兵庫県尼崎市に関西最大規模の物流拠点「アマゾン武庫川フルフィルメントセンター」を8月に開設し、9月10日に報道陣に公開しました。その広さはなんと甲子園球場約3個分。広大な施設",
-          "link": "https://news.yahoo.co.jp/articles/a0b7cadb2d68352c69c72eff967d35eec82fe299?source=rss",
-          "publishedOn": "2026-09-11T02:30:00.000Z",
-          "wordCount": 1672,
-          "title": "アマゾンのあまりに大きな物流拠点が再び尼崎に誕生！ あまねくエリアへ届けるためあまたのロボットが縦横無尽に動き回る倉庫の中に潜入　ユーザーだけでなく従業員も成長させる新形態とは！？(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260910-00082491-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -10088,26 +10108,6 @@
           "wordCount": 1980,
           "title": "イスラエル首相、ハマス襲撃をUAEから事前警告されていたと報じられ否定　新聞社を提訴へ",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c624le2ve90o#0",
-          "author": null,
-          "description": "2001年9月11日の米同時多発攻撃から25年目を迎えるのを前に10日夜、数千機のドローンの光によって、ニューヨークの世界貿易センタービルのツインタワーが実物大で再現された。使用されたドローン2977機の光は、それぞれがこの攻撃の犠牲者を表しているという。",
-          "link": "https://www.bbc.com/japanese/articles/c624le2ve90o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-11T03:14:41.000Z",
-          "wordCount": 1410,
-          "title": "ドローンの光でツインタワー再現、9/11攻撃から25年　米ニューヨーク",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5786/live/ab35c5b0-ad21-11f1-a540-61c3f7fc4e6c.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c14d77ml7jmo#0",
-          "author": null,
-          "description": "イエメンの反政府勢力フーシ派は10日までに、紅海沿岸の戦略的に重要な港湾都市モカを占領した。軍事筋や目撃者らが語った。モカは、サウジアラビアが支援するイエメン政府側の武装勢力が掌握していた。これにより、イランが支援するフーシ派は、アジアとヨーロッパを結ぶ交易路の南の玄関口であるバブ・エル・マンデブ海峡まで、わずか75キロに迫った。",
-          "link": "https://www.bbc.com/japanese/articles/c14d77ml7jmo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-11T02:24:12.000Z",
-          "wordCount": 1874,
-          "title": "イエメンのフーシ派、紅海沿岸の港湾都市モカを制圧との報道",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg"
         }
       ]
     },
@@ -10585,26 +10585,6 @@
           "wordCount": 2654,
           "title": "Achronix、Speedster7t FPGA向けにJESD204C IPコア",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/11/cover_news050.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2609/11/news062.html",
-          "author": null,
-          "description": "TDKは独自の樹脂電極構造を採用した積層セラミックコンデンサー（MLCC）「CNシリーズ」において、X7R特性で定格電圧100V／静電容量10μFのモデルを開発したと発表した。「従来品の2倍の大容量化」（TDK）により、部品数や実装面積の半減に寄与するとしている。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2609/11/news062.html",
-          "publishedOn": "2026-09-11T02:00:00.000Z",
-          "wordCount": 2627,
-          "title": "ヒューマノイドでも活用見込む　TDK独自樹脂電極MLCCに10μF品",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/11/cover_news062.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2609/11/news042.html",
-          "author": null,
-          "description": "リテルヒューズは、12V車載電子機器向けTVSダイオード「TPSMD-FL」シリーズを発表した。ピークパルス電力耐量は3000Wで、ISO 7637-2 Pulse 5bの負荷遮断保護を簡素化できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2609/11/news042.html",
-          "publishedOn": "2026-09-11T00:00:00.000Z",
-          "wordCount": 2628,
-          "title": "負荷遮断保護の簡素化に貢献　12V車載TVSダイオード",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/11/cover_news042.jpg"
         }
       ]
     },
@@ -11930,6 +11910,76 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2068224.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/10/10(土) 17:07:11.08 ID:+PGPw8k69.net\n\n\n\n\n\n\n\nトランプ氏、平和賞逃し批判　「ノルウェーに消えない汚点」 https://t.co/9YPsW6xmyy https://t.co/9YPsW6xmyy— ロイター (@ReutersJapan) October 10, 2026\n\n\n\n\n\n\n\n\n10/10(土) 11:24配信\nロイタ...",
+          "link": "https://itainews.com/archives/2068224.html",
+          "publishedOn": "2026-10-10T14:01:15.000Z",
+          "wordCount": 3473,
+          "title": "トランプ氏、平和賞逃し批判　「ノルウェーに消えない汚点」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/3/631a2534-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068220.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/10/10(土) 10:33:03.02 ID:XTPYX2xV0.net\n\n\n\n\n\n\n\n相模原高２殺害、逮捕少年ら「バイクを盗まれたと思い追いかけ暴行した」…実際は盗まれておらず思い込みか\nhttps://t.co/DTh2JvxSc9\n#ニュース— 読売新聞オンライン (@Yomiuri_Online) October 9, 2026\n...",
+          "link": "https://itainews.com/archives/2068220.html",
+          "publishedOn": "2026-10-10T13:02:31.000Z",
+          "wordCount": 3703,
+          "title": "少年4人組、バイクを盗んだとして高校生を車で追いかけ殴り殺す→勘違いでした",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/a/aa95277c-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068219.html",
+          "author": "damono3856",
+          "description": "1 名前：お断り ★：2026/10/10(土) 13:44:32.90 ID:UVHGIVjg9.net\n\n\n\n\n\n\n\nニッスイ、物流子会社が不正アクセスで冷凍食品などの入出荷ストップ 個人情報漏洩の可能性も https://t.co/52HaNIyZ4e— TBS NEWS DIG Powered by JNN (@tbsnewsdig) October 7, 2026\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2068219.html",
+          "publishedOn": "2026-10-10T12:01:47.000Z",
+          "wordCount": 3527,
+          "title": "冷凍食品大手ニッスイ、物流子会社がサイバー攻撃受け、全ての商品が出荷や入荷できない状態、個人情報漏洩の可能性も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/a/5ad79824-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068223.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/10/10(土) 16:55:29.20 ID:+PGPw8k69.net\n\n\n\n\n\n\n\nクリーニング工場で男性死亡　洗濯機に巻き込まれたか　岩手県盛岡市(岩手めんこいテレビ)\n#Yahooニュース\nhttps://t.co/sYNL6TppQN— めび (@mobius01ribon) October 10, 2026\n\n\n\n\n\n\n\n\nクリーニン...",
+          "link": "https://itainews.com/archives/2068223.html",
+          "publishedOn": "2026-10-10T11:31:56.000Z",
+          "wordCount": 3241,
+          "title": "【岩手】クリーニング工場で男性死亡　洗濯機に巻き込まれたか　洗濯かごの中から発見される　盛岡市",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/d/5d242932-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068212.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/10/10(土) 08:00:37.45 ID:57hGRwvK0.net\n\n\n\n\n\n\n\n六四天安門事件の未公開の衝撃映像が流出 \n→英国のインディペンデント・テレビジョン・ニュースが封印していたオリジナル映像がついに公開される\n\n→これは、歴史から消してはいけない映像だ。\n\n→1989年...",
+          "link": "https://itainews.com/archives/2068212.html",
+          "publishedOn": "2026-10-10T11:00:40.000Z",
+          "wordCount": 4252,
+          "title": "🇨🇳中国64天安門、イギリスンが大虐殺の未公開映像を発表",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/b/db88e1c0-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068209.html",
+          "author": "damono3856",
+          "description": "1 名前：お断り ★：2026/10/10(土) 01:03:29.88 ID:UVHGIVjg9.net\n\n\n\n\n\n\n\n〔アングル〕日韓で不正アクセスの「じゅうたん爆撃」、ＡＩ使いサイバー攻撃が手軽に https://t.co/YiIsSHpmbc https://t.co/YiIsSHpmbc— ロイター (@ReutersJapan) October 9, 2026\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2068209.html",
+          "publishedOn": "2026-10-10T10:01:45.000Z",
+          "wordCount": 3683,
+          "title": "AIを使ったサイバー攻撃、日本と韓国が「じゅうたん爆撃」を受けている　Googleアナリスト「現時点で全ての脅威がAI使用」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/d/3d24ca3a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2068208.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/10/09(金) 23:35:13.79 ID:8uInFMpf9.net\n\n\n\n\n\n\n\n中国のレアアース対日輸出規制、トランプ氏が習主席に撤回求める…「米国産業に対する脅威」 : 読売新聞 https://t.co/kgtkqXGMmk— 読売新聞オンライン (@Yomiuri_Online) October 8, 2026\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2068208.html",
+          "publishedOn": "2026-10-10T09:02:56.000Z",
+          "wordCount": 3928,
+          "title": "中国のレアアース対日輸出規制、トランプ氏が習主席に撤回求める…「米国産業に対する脅威」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/6/860d4af8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2068207.html",
           "author": "damono3856",
@@ -19159,76 +19209,6 @@
           "wordCount": 3096,
           "title": "こども家庭庁「心中ではなく『保護者の自殺を伴うこどもの虐待死』と呼ぶべきではないか」",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/5/f52769ae-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2067080.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/09/10(木) 09:53:51.13 ID:tBjzjf7T0●.net\n\n\n\n\n\n\n\n\n\nこれマジでありえなｽｷﾞﾙ……w pic.twitter.com/7bDOPmsV7n— しょげマニ (@syogemania) September 3, 2026 \n\n\n\n\n\n\n\n\n江崎グリコのレトルト丼『DONBURI亭』シリーズの牛丼をめぐる投稿が、X上で物議を醸し...",
-          "link": "https://itainews.com/archives/2067080.html",
-          "publishedOn": "2026-09-11T03:01:17.000Z",
-          "wordCount": 3103,
-          "title": "“具が少なすぎる”レトルト牛丼がXで物議…グリコ広報が回答",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/1/01689f6f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2067084.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/09/10(木) 17:31:32.34 ID:5XOESS+70●.net\n\n\n\n\n\n\n\n\n\n24の時に、18歳の男に手出すのキモすぎ https://t.co/jdd6zljfTt— momo (@sumomo92066779) September 9, 2026 \n\n\n\n\n\n\n\n\n\nhttps://i.imgur.com/yK4zhET.jpeg\n\nhttps://i.imgur.com/u7IR4x5.jpeg\n\nhttps://...",
-          "link": "https://itainews.com/archives/2067084.html",
-          "publishedOn": "2026-09-11T02:31:35.000Z",
-          "wordCount": 3111,
-          "title": "【悲報】女性が年上の年の差婚、女さんに叩かれてしまうｗｗｗｗｗｗｗｗｗｗ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/2/42cb6cd8.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2067081.html",
-          "author": "dqnplus",
-          "description": "1 ：：2026/09/10(木) 12:26:47.33 ID:XSO857JZ0●.net\n\n\n\n\n\n\n\n\n\nまだ何も終わっていない原油とナフサの価格が再びジリジリと騰がってきています。ホルムズ海峡はいま、1日に10隻も通っていない。悲しいかな、人は報道がないと忘れ、スーパーでの買い物で現実と向き合う...",
-          "link": "https://itainews.com/archives/2067081.html",
-          "publishedOn": "2026-09-11T02:01:25.000Z",
-          "wordCount": 3111,
-          "title": "境野春彦氏「ナフサ不足問題はまだ何も終わっていない！」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/7/470f3322-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2067085.html",
-          "author": "nobi0929",
-          "description": "1 名前：少考さん ★：2026/09/10(木) 11:14:36.35 ID:wlB7iZ129.net\n\n\n\n\n\n\n\n「も～ムリ！“サナ活”やめる」　若年層の高市首相への期待が失望に変わった心理とは https://t.co/wlzuME1Cz4— AERA DIGITAL (@dot_asahi_pub) September 10, 2026 \n\n\n\n\n\n\n\n\n\n\n\n「も～ムリ...",
-          "link": "https://itainews.com/archives/2067085.html",
-          "publishedOn": "2026-09-11T01:00:17.000Z",
-          "wordCount": 3112,
-          "title": "「も～ムリ！“サナ活”やめる」　若年層の高市首相への期待が失望に変わった心理とは",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/0272e879-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2067077.html",
-          "author": "nobi0929",
-          "description": "1 名前：★：2026/09/10(木) 13:49:33.89 ID:zV4hs/N50.net\n\n\n\n\n\n\n\n自転車追い抜き「新ルール」で相次ぐ交通違反　警視庁が都内の黄色センターラインを「白線」に塗り直しへ【スポットライト】 https://t.co/6UHnJOxXTm— FNNプライムオンライン (@FNN_News) September 1...",
-          "link": "https://itainews.com/archives/2067077.html",
-          "publishedOn": "2026-09-11T00:00:43.000Z",
-          "wordCount": 3068,
-          "title": "警視庁「道交法改正で、センターラインが黄色いと自転車を追い抜けないと判明」　白線に塗り直しへ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/1/01fd9ebb-s.jpg"
-        },
-        {
-          "id": "https://itainews.com/archives/2067071.html",
-          "author": "takakichi5346",
-          "description": "1 名前：Ailuropoda melanoleuca ★：2026/09/10(木) 10:40:07.74 ID:YsjP7hqp9.net\n\n\n\n\n\n\n\n【英断】安倍元首相映画中止も…菅田将暉だけ晒され「損した感すごい」と同情の声https://t.co/jxfl67FXep @zakdeskより— zakⅡ (@zakdesk) September 10, 2026 \n\n\n\n\n\n\n2026.9/...",
-          "link": "https://itainews.com/archives/2067071.html",
-          "publishedOn": "2026-09-10T23:03:56.000Z",
-          "wordCount": 3086,
-          "title": "【芸能】安倍元首相銃撃事件映画の中止が決定…Netflixで映画化予定も、菅田将暉だけ晒され「損した感すごい」と同情の声",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/c/ec6aedef-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2067069.html",
-          "author": "nobi0929",
-          "description": "1 名前：煮卵 ★：2026/09/10(木) 10:25:41.51 ID:sKjYMGdo9.net\n\n\n\n\n\n\n\n警備業の外国人就労、特定技能受け入れ巡り警察庁検討会　人手不足で https://t.co/3Eobj3Weu1— 日経 社会ニュース (@nikkeishakai) September 10, 2026 \n\n\n\n\n\n\n警察庁は10日、外国人労働者の在留...",
-          "link": "https://itainews.com/archives/2067069.html",
-          "publishedOn": "2026-09-10T22:00:27.000Z",
-          "wordCount": 3114,
-          "title": "【外国人】「特定技能」に“警備員”追加検討　警察庁が有識者検討会    現金運搬も？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/9/c9921c8d-s.jpg"
         }
       ]
     },
@@ -19671,6 +19651,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=319797",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、惣菜フェア、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。  […]",
+          "link": "https://foodfighter.jp/matsunoya-baimori",
+          "publishedOn": "2026-10-10T13:40:14.000Z",
+          "wordCount": 1939,
+          "title": "【松のや】【倍盛り】ロースかつ2枚+本格唐揚げ6個+皮付きハーフポテト（890円）【惣菜フェア】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/4772b768be0a6b7fa38ea9e12f66cf2f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=319751",
           "author": "foodfighter",
@@ -20270,16 +20260,6 @@
           "wordCount": 2055,
           "title": "【築地銀だこ】ねぎだこたこ焼き【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/4521792bd79a97287513a4608c7c62d0.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318106",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、サクサク・やわらか・ボリューム満点のカツ丼が人気の超有名チェーン「かつや」へ進撃しました。 &n […]",
-          "link": "https://foodfighter.jp/katsuya-2026-0911",
-          "publishedOn": "2026-09-11T00:06:32.000Z",
-          "wordCount": 2071,
-          "title": "【かつや】チャーハンとテリたま混ぜご飯の欲張り飯【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/e9413b32cc790dda284d41ddbc0907fd.jpg"
         }
       ]
     },
@@ -20288,6 +20268,81 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127614/",
+          "author": null,
+          "description": "シリーズ史上初の“Filmed For IMAX®”作品として、IMAX®認証デジタルカメラで撮影された映画「バイオハザード」が10月9日から全国公開中。主⼈公・ブライアンが迫る脅威にショットガ...",
+          "link": "https://anime.eiga.com/news/127614/",
+          "publishedOn": "2026-10-10T13:00:00.000Z",
+          "wordCount": 648,
+          "title": "主人公は弾を込めることすらままならない──「バイオハザード」緊迫の本編映像公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127630/",
+          "author": null,
+          "description": "漫画「EAT-MAN」を新たにアニメ化する「EAT-MAN The Over Order」のティザービジュアル第2弾が披露された。 原作者の吉富昭仁氏が描きおろしたティザービジュアル第2弾には、...",
+          "link": "https://anime.eiga.com/news/127630/",
+          "publishedOn": "2026-10-10T12:00:00.000Z",
+          "wordCount": 632,
+          "title": "「EAT-MAN The Over Order」原作者・吉富昭仁描き下ろしの最新ビジュアル公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127632/",
+          "author": null,
+          "description": "12月12日～2027年2月21日にCREATIVE MUSEUM TOKYOで開催される「高橋和希原画展 YU-GI-OH! ART WORKS」の会場で、「特別映像 ─友として!!─」が公開...",
+          "link": "https://anime.eiga.com/news/127632/",
+          "publishedOn": "2026-10-10T11:00:00.000Z",
+          "wordCount": 730,
+          "title": "「高橋和希原画展 YU-GI-OH! ART WORKS」で「遊☆戯☆王」バトル・シティ編決勝の新規映像を公開　風間俊介、津田健次郎の新録ボイス",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/127595/",
+          "author": null,
+          "description": "続々とスタートしている2026年秋アニメ。この3連休から見はじめようという方も多いのではないでしょうか。ラインナップのチェックには、タイトルやスタッフ・キャストがひと目で分かるアニメハックの今期...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/127595/",
+          "publishedOn": "2026-10-10T10:00:00.000Z",
+          "wordCount": 724,
+          "title": "編集部おすすめ26年秋アニメ　「バーテックスフォース」「チー付与」「FX戦士くるみちゃん」「サイバーパンク エッジランナーズ2」",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127638/",
+          "author": null,
+          "description": "テレビアニメ「名探偵コナン」で、3週にわたって展開されたエピソード「茜色の千秋楽」が、このほど最終話「茜色の千秋楽（大楽）」を迎えた。物語のラストで服部平次と遠山和葉がカップルになったことをうけ...",
+          "link": "https://anime.eiga.com/news/127638/",
+          "publishedOn": "2026-10-10T09:30:00.000Z",
+          "wordCount": 701,
+          "title": "「名探偵コナン」ついに平次＆和葉がカップルに　ふたりを祝うPV公開　“告白のあと”が聞ける施策も実施",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127631/",
           "author": null,
@@ -23227,21 +23282,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127415/",
-          "author": null,
-          "description": "テレビアニメ「ダイヤのA actII -Second Season-」の第2クールが10月11日から放送されることが決まり、キービジュアルが公開された。さらに、早乙女慎一郎役で佐久間大介が出演す...",
-          "link": "https://anime.eiga.com/news/127415/",
-          "publishedOn": "2026-09-11T03:00:00.000Z",
-          "wordCount": 758,
-          "title": "「ダイヤのA actII -Second Season-」第2クールに佐久間大介が出演　キービジュアルも公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -23250,6 +23290,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126912",
+          "author": null,
+          "description": "Kラノベブックス発のアニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27...",
+          "link": "https://ln-news.com/articles/126912",
+          "publishedOn": "2026-10-10T10:00:00.000Z",
+          "wordCount": 238,
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27話「ザットとブラッハム」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/009938eac277466f815dbc5f440b838c.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126834",
           "author": null,
@@ -26476,6 +26526,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=N73OpXJG5Dg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N73OpXJG5Dg",
+          "publishedOn": "2026-10-10T11:01:28.000Z",
+          "wordCount": null,
+          "title": "兄の弱点のお尻をクンクンした弟が大変なことに…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gd1wbXzYWMM",
           "author": null,
