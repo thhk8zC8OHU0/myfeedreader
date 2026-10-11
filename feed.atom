@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T16:38:54.794Z</updated>
+    <updated>2026-10-11T19:10:26.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
@@ -18654,28 +18654,6 @@ Yahoo Finance: https://finance.yahoo.com/technology/ai/articles/openai-acquires-
         <summary type="html"><![CDATA[9月25日に「金曜ロードショー」内で放送される、2時間テレビスペシャル「名探偵コナン 30号殺人事件」の全員出動PV（https://youtu.be/WWNZGCffhj4）とメインビジュアル...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/11の3年前に「爆発物を積んだ航空機」の脅威を米CIAが警告　機密文書公開で明らかに]]></title>
-        <id>https://www.bbc.com/japanese/articles/c3v4nr1z6x2o#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c3v4nr1z6x2o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-12T04:53:46.000Z</updated>
-        <summary type="html"><![CDATA[2001年9月11日の米同時多発攻撃の3年前に、武装勢力「アルイアイダ」が、「爆発物を積んだ航空機を米国内の都市に突入させる」可能性があると、米情報当局者が指摘していたことが、同攻撃から25年を迎えた11日に新たに機密解除された文書で明らかになった。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「６階から白い煙」と通報　マンションで火事　男女２人搬送　神戸・西区(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/8ce494624bea92add61072f3c1d9b696388d1967?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/8ce494624bea92add61072f3c1d9b696388d1967?source=rss"/>
-        <updated>2026-09-12T04:50:03.000Z</updated>
-        <summary type="html"><![CDATA[１２日昼すぎ、神戸市西区のマンションで火事があり、２人が救急搬送されました。
-
-　１２日午後１２時１０分ごろ、神戸市西区井吹台西町の市営住宅で、「６階から白い煙が見えます」と、通行人から１１９番通報]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
