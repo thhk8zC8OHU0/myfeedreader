@@ -3324,16 +3324,6 @@
           "wordCount": 8588,
           "title": "「餓狼伝説 City of the Wolves」，最新DLCキャラ「キム・カッファン」を9月24日に配信。2人の息子に続き，韓国最強のテコンドー使いが参戦",
           "imageUrl": "https://www.4gamer.net/games/649/G064915/20260911061/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/484/G048450/20260913003/",
-          "author": null,
-          "description": "BlizzardEntertainmentは本日（2026年9月13日），「BlizzCon2026」で「オーバーウォッチ」の新ヒーローや，既存ヒーローのリワークなど多数の新情報を公開した。",
-          "link": "https://www.4gamer.net/games/484/G048450/20260913003/",
-          "publishedOn": "2026-09-12T19:56:36.000Z",
-          "wordCount": 8422,
-          "title": "「オーバーウォッチ」，新サポート「ドクトリン」を発表。シーズン5のリワークで「ソンブラ」はサポート・ロールに移行へ",
-          "imageUrl": "https://www.4gamer.net/games/484/G048450/20260913003/SS/001.jpg"
         }
       ]
     },
@@ -3342,6 +3332,56 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0e4cf6c00aef907f49698d9011667b94fe23f397?source=rss",
+          "author": null,
+          "description": "１２日午後、徳島市の質店に男２人が押し入り、店主らにスプレーを噴射したあと、店のショーケースを破壊するなどし逃走しました。警察は強盗容疑事件として捜査しています。【速報】中国道でトラック炎上 消火活動",
+          "link": "https://news.yahoo.co.jp/articles/0e4cf6c00aef907f49698d9011667b94fe23f397?source=rss",
+          "publishedOn": "2026-10-12T06:33:05.000Z",
+          "wordCount": 1678,
+          "title": "【速報】質店に男２人が押し入り店主らにスプレー噴射　ショーケース破壊し逃走　徳島市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00082994-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a927a13e97bda61041d6c0c073240bc0b177393b?source=rss",
+          "author": null,
+          "description": "１２日正午前、中国自動車道下りの西宮山口ジャンクション付近でトレーラーが燃えました。けが人は確認されていないということです。マツタケ狩りのため入山した高齢男性 6.4ｍ下の河原に滑落し死亡 奈良・十津",
+          "link": "https://news.yahoo.co.jp/articles/a927a13e97bda61041d6c0c073240bc0b177393b?source=rss",
+          "publishedOn": "2026-10-12T03:53:22.000Z",
+          "wordCount": 1688,
+          "title": "【速報】中国道でトレーラー炎上　消火活動続く　けが人はなし　西宮山口ジャンクション付近(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00082993-asahibcv-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/588707840a9a7ca8bef78a2da4ba08d4f2894a5b?source=rss",
+          "author": null,
+          "description": "兵庫県丹波篠山市で、日本六古窯の一つ「丹波焼」の窯元の作品が勢ぞろいした、陶器まつりが開かれています。大粒で上品な甘み 秋の味覚「丹波栗」の収穫 兵庫・丹波篠山市 丹波焼は、約８５０年の歴史がある日本",
+          "link": "https://news.yahoo.co.jp/articles/588707840a9a7ca8bef78a2da4ba08d4f2894a5b?source=rss",
+          "publishedOn": "2026-10-12T03:29:23.000Z",
+          "wordCount": 1644,
+          "title": "「丹波焼」窯元の作品が勢ぞろい　陶器まつり「秋の郷めぐり」　兵庫・丹波篠山市で１８日まで(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00082991-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/32de57971bc9d1255f3306e8bc9bced79c33e053?source=rss",
+          "author": null,
+          "description": "和歌山県串本町の漁港では、秋の味覚「イセエビ」の漁が本格化し、イキのいい「イセエビ」が水揚げされています。大粒で上品な甘み 秋の味覚「丹波栗」の収穫 兵庫・丹波篠山市 午前７時ごろ、串本町の下田原漁港",
+          "link": "https://news.yahoo.co.jp/articles/32de57971bc9d1255f3306e8bc9bced79c33e053?source=rss",
+          "publishedOn": "2026-10-12T03:27:40.000Z",
+          "wordCount": 1663,
+          "title": "南紀の秋の味覚「イセエビ」漁が本格化　和歌山・串本町(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00082990-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/67d3fc74fc21adcafd5c6038816475b7a42aa2d8?source=rss",
+          "author": null,
+          "description": "大阪維新の会は１２日、いわゆる「大阪都構想」で設置される４つの特別区の名称について「最終アンケート」を開始しました。公明党大阪市議団 「都構想」めぐり街頭で宣伝活動 ボードアンケートを実施 維新の会は",
+          "link": "https://news.yahoo.co.jp/articles/67d3fc74fc21adcafd5c6038816475b7a42aa2d8?source=rss",
+          "publishedOn": "2026-10-12T03:27:16.000Z",
+          "wordCount": 1652,
+          "title": "【大阪都構想】４つの特別区の名称めぐる「最終アンケート」開始　２７日まで(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00082992-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/3ba96dee670bb130d8ab33c2e6281b41de163bf6?source=rss",
           "author": null,
@@ -7900,6 +7940,56 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cj3vqw72ennwo#0",
+          "author": null,
+          "description": "アメリカ・テネシー州での死刑執行で、致死量の薬物を2回にわたり注射されながら生き延び、病院に搬送された死刑囚について、弁護団は11日、死刑囚が退院し、刑務所に戻ったと明らかにした。死刑囚は過去30年間を過ごした刑務所に戻り、引き続き治療を受けているという。",
+          "link": "https://www.bbc.com/japanese/articles/cj3vqw72ennwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-12T04:24:28.000Z",
+          "wordCount": 1869,
+          "title": "死刑を生き延びた米死刑囚、執行失敗から10日後に退院",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ab18/live/eb6f9f10-c4e2-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c8r4y2134neno#0",
+          "author": null,
+          "description": "米司法省は10日、複数の主要テレビ局がドナルド・トランプ大統領に関連する代表取材を一時停止したことについて、反トラスト法（独占禁止法）に違反した可能性があるとして調査を進めていると明らかにした。",
+          "link": "https://www.bbc.com/japanese/articles/c8r4y2134neno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-12T04:19:44.000Z",
+          "wordCount": 1839,
+          "title": "米司法省、ホワイトハウス代表取材を取りやめたテレビ各局を調査",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1dbb/live/9bb34c30-c53a-11f1-ae34-756aa0b18b99.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/crz98nqqnw5no#0",
+          "author": null,
+          "description": "サウジアラビアの首都リヤドにある国際空港が11日、攻撃を受け、1人が死亡、11人が負傷した。当局が明らかにした。この空港への攻撃は2日連続。",
+          "link": "https://www.bbc.com/japanese/articles/crz98nqqnw5no?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-12T03:30:30.000Z",
+          "wordCount": 2087,
+          "title": "イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃　1人死亡し11人負傷",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6pqg2wzz9g8o#0",
+          "author": null,
+          "description": "イギリスのバーナム首相は、イギリスの欧州連合（EU）離脱を決めた2016年の国民投票について、ロシアの干渉があったと発言し、同様の活動がいまフランスやドイツでも行われていると警告した。 政治ポッドキャストによるインタビューでの発言が、11日に公開された。ブレグジットをめぐる国民投票の結果を左右しようとロシアが干渉したと、イギリスの首相が公言するのはこれが初めて。",
+          "link": "https://www.bbc.com/japanese/articles/c6pqg2wzz9g8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-12T03:19:23.000Z",
+          "wordCount": 1944,
+          "title": "バーナム英首相、ロシアがブレグジット投票に干渉したのは「明確」と",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjx23exyv909o#0",
+          "author": null,
+          "description": "ドナルド・トランプ米大統領は11日、ロシアとウクライナが「エネルギー停戦」に合意したと表明した。「即時発効」すると主張したが、詳細は明らかにしなかった。ウクライナ政府は、ロシアが条件を守るならそうした停戦を支持すると表明しているが、ロシア政府はまだコメントしていない。",
+          "link": "https://www.bbc.com/japanese/articles/cjx23exyv909o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-12T02:43:41.000Z",
+          "wordCount": 1869,
+          "title": "トランプ氏、ロシアとウクライナが「エネルギー停戦」と主張　ゼレンスキー氏は歓迎するもロシアは沈黙",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cq78pxnvvevpo#0",
           "author": null,
           "description": "トランプ米政権は9日、国際刑事裁判所（ICC）に対する幅広い制裁措置を発表した。トランプ政権はICCを「暴走」機関とみなし、「解体」しようとする動きを加速させている。イギリスや日本を含む加盟数カ国は、制裁措置に「強く反対する」と表明している。",
@@ -11381,6 +11471,36 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1791783570/",
+          "author": "朝一から閉店までφ ★",
+          "description": "[2026年10月11日19時30分]\nお笑いタレントの紺野ぶるま(40)が、10日放送のテレビ東京系「二軒目どうする?　～ツマミのハナシ～」(土曜深夜0時55分)に出演。4歳になる娘に伝えていることを明かした。この...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791783570/",
+          "link": "http://www.2nn.jp/dqnplus/1791783570/",
+          "publishedOn": "2026-10-12T05:39:30.000Z",
+          "wordCount": 1681,
+          "title": "紺野ぶるま、4歳娘は母の職業を女芸人と認識も「ママの芸名は…」松岡昌宏「おっと?」",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791783570.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1791777914/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "コンビニで米2袋盗んだ中学校教諭を懲戒免職「経済的に余裕がなくなり盗んだ」…東京都教委2026/10/07 16:27\n保存して後で読む\nシェアする\n「令和の米騒動」と言われた米価高騰のさなか、コンビニ店で米2袋を盗んだ...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791777914/",
+          "link": "http://www.2nn.jp/dqnplus/1791777914/",
+          "publishedOn": "2026-10-12T04:05:14.000Z",
+          "wordCount": 1615,
+          "title": "コンビニで米2袋盗んだ中学校教諭を懲戒免職「経済的に余裕がなくなり盗んだ」…東京都教委",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791777914.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1791770631/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "英検の「替え玉受験」発覚→教え子の大学合格が取り消しに…「合成写真」まで使った塾講師の手口「どうしても合格させなければ…」。追い詰められた塾講師が選んだのは、教え子になりすまして英検を受ける「替え玉受...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791770631/",
+          "link": "http://www.2nn.jp/dqnplus/1791770631/",
+          "publishedOn": "2026-10-12T02:03:51.000Z",
+          "wordCount": 1542,
+          "title": "英検の「替え玉受験」発覚→教え子の大学合格が取り消しに…「合成写真」まで使った塾講師の手口",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791770631.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1791770343/",
           "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
           "description": "消防局職員が110番に数回「ワン切り」、折り返しに「助けて」と虚偽通報し科料9000円の略式命令…「悪ふざけがエスカレートした」2026/10/10 12:24\n兵庫県明石市消防局の男性職員が今年6月、飲酒後の帰りに「助けて...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791770343/",
@@ -11599,6 +11719,16 @@
           "wordCount": 1575,
           "title": "ゲームセンター荒らし",
           "imageUrl": "http://www.2nn.jp/img/dqnplus/1791280563.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1790924382/",
+          "author": "朝一から閉店までφ ★",
+          "description": "オリコンニュース / 2026年10月2日 15時50分\n宮根誠司(63)がMCを務める読売テレビ・日本テレビ系昼のワイド番組『情報ライブ ミヤネ屋』(月～金　後1:55)が2日、最終回を迎えた。2006年の放送開始から20年にわ...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1790924382/",
+          "link": "http://www.2nn.jp/dqnplus/1790924382/",
+          "publishedOn": "2026-10-02T06:59:42.000Z",
+          "wordCount": 1664,
+          "title": "『ミヤネ屋』20年の歴史に幕 SNSでねぎらいや惜しむ声「終わるとなるとさみしい」「お昼はほぼ必ず見てた」",
+          "imageUrl": "http://www.2nn.jp/img/og/default.png"
         }
       ]
     },
@@ -12041,6 +12171,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=319854",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   【マクドナル […]\n投稿 【マクドナルド】三角チョコパイ 黒（凍らせてみた）【冷凍・新商品】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-sankaku-cold-2026",
+          "publishedOn": "2026-10-12T07:57:51.000Z",
+          "wordCount": 1932,
+          "title": "【マクドナルド】三角チョコパイ 黒（凍らせてみた）【冷凍・新商品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/2ba9ee32a9b0d1c1bc6411af48f20773.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=319825",
           "author": "foodfighter",
@@ -12638,6 +12778,36 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127629/",
+          "author": null,
+          "description": "2027年公開予定とアナウンスされていたアニメシリーズ「Ghost of Tsushima 冥人奇譚」が、28年に配信予定であることが分かった。 あわせて、キャストとして佐古真弓、ふくまつ進紗の...",
+          "link": "https://anime.eiga.com/news/127629/",
+          "publishedOn": "2026-10-12T09:00:00.000Z",
+          "wordCount": 673,
+          "title": "虚淵玄×岡崎能士×神風動画「Ghost of Tsushima 冥人奇譚」28年配信予定　佐古真弓、ふくまつ進紗が出演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127612/",
+          "author": null,
+          "description": "スタジオジブリ作品「魔女の宅急便」の4Kデジタルリマスター版を収録した、4K UHD＋ブルーレイ セットが11月25日に発売される。価格は1万1880円。 宮﨑駿が監督・脚本・プロデューサーを務...",
+          "link": "https://anime.eiga.com/news/127612/",
+          "publishedOn": "2026-10-12T03:00:00.000Z",
+          "wordCount": 669,
+          "title": "スタジオジブリ「魔女の宅急便」4K UHD＋ブルーレイセット、11月25日発売　封入特典はアートカード3枚セット",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127596/",
           "author": null,
@@ -15571,6 +15741,46 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126915",
+          "author": null,
+          "description": "HJ文庫発のアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の...",
+          "link": "https://ln-news.com/articles/126915",
+          "publishedOn": "2026-10-12T08:30:00.000Z",
+          "wordCount": 242,
+          "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2話「王都での仕事」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/caebe124a6e5458b989379f9dd92d541.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126850",
+          "author": null,
+          "description": "ビーズログ文庫刊『肉食令嬢は、肉のために結婚することにした。』のコミカライズ...",
+          "link": "https://ln-news.com/articles/126850",
+          "publishedOn": "2026-10-12T07:00:00.000Z",
+          "wordCount": 223,
+          "title": "『肉食令嬢は、肉のために結婚することにした。』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/472075cf6ac84d15a5b21d0f15510b66.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126926",
+          "author": null,
+          "description": "GCノベルズ発のアニメ『暴食のベルセルク Season 2』のティザーPVが...",
+          "link": "https://ln-news.com/articles/126926",
+          "publishedOn": "2026-10-12T05:30:00.000Z",
+          "wordCount": 258,
+          "title": "アニメ『暴食のベルセルク Season 2』ティザーPVが公開",
+          "imageUrl": "https://assets.ln-news.com/images/medias/384bd072086b4ae2be5be1998d93eb16.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126925",
+          "author": null,
+          "description": "ガガガ文庫発のアニメ『千歳くんはラムネ瓶のなか 第2クール』第14話「君と先...",
+          "link": "https://ln-news.com/articles/126925",
+          "publishedOn": "2026-10-12T04:00:00.000Z",
+          "wordCount": 276,
+          "title": "アニメ『千歳くんはラムネ瓶のなか 第2クール』第14話「君と先輩の駆け落ち」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/9bfbe286f61947d096cd9c91fa86d1ff.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126851",
           "author": null,
           "description": "サンクチュアリ出版の単行本『ド天然魔王、「魔王」を倒しにいく』第2巻の発売を...",
@@ -18267,16 +18477,6 @@
           "wordCount": null,
           "title": "【閲覧注意】迷惑客の注文したケーキに、う◯ち混ぜて仕返しする店員【ジェラードン】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lOQNDWAjUCI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lOQNDWAjUCI",
-          "publishedOn": "2026-09-12T11:00:35.000Z",
-          "wordCount": null,
-          "title": "非常事態重なりすぎて、どれも対処できずに時間経過するOL【ジェラードン】",
-          "imageUrl": null
         }
       ]
     },
@@ -18687,16 +18887,6 @@
           "publishedOn": "2026-09-13T11:01:35.000Z",
           "wordCount": null,
           "title": "5分家を空けただけで甘えんぼな猫はこうなっちゃいます…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zZql3YfjSZ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zZql3YfjSZ8",
-          "publishedOn": "2026-09-12T11:01:08.000Z",
-          "wordCount": null,
-          "title": "仕事がなかなか終わらないと退屈すぎて猫がこうなっちゃいます…",
           "imageUrl": null
         }
       ]
