@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/049/G104934/20261011012/",
+          "author": null,
+          "description": "OSAKAINDIEGAMESSUMMIT2026の会場で目を惹いた，変わった遊びの作品を紹介しよう。VRで獣人をなめる「シュ〜ペロ」から，麺切り包丁がコントローラーになる「うどんプッシャー」まで。",
+          "link": "https://www.4gamer.net/games/049/G104934/20261011012/",
+          "publishedOn": "2026-10-13T01:00:00.000Z",
+          "wordCount": 8705,
+          "title": "気づいたら，獣人の足をペロペロしていた。大阪出張で見てきた特殊なゲームとコントローラ［OIGS2026］",
+          "imageUrl": "https://www.4gamer.net/games/049/G104934/20261011012/SS/003.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/421/G042182/20261009041/",
+          "author": null,
+          "description": "「プリンセスコネクト！Re:Dive」と「ウマ娘プリティーダービー」のコラボを記念した特別番組が，10月17日19：00に配信される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+          "link": "https://www.4gamer.net/games/421/G042182/20261009041/",
+          "publishedOn": "2026-10-12T23:00:00.000Z",
+          "wordCount": 8412,
+          "title": "「プリコネR」と「ウマ娘」がコラボ！ 特別番組を10月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+          "imageUrl": "https://www.4gamer.net/games/421/G042182/20261009041/SS/003.png"
+        },
+        {
           "id": "https://www.4gamer.net/games/954/G095479/20261011003/",
           "author": null,
           "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，世界各地を舞台に，自分だけの動物園を設計＆運営していく「PlanetZoo2」や，「悪魔城ドラキュラ」シリーズ最新作「Castlevania:Belmont’sCurse」がリリースされる。",
@@ -3254,36 +3274,6 @@
           "wordCount": 8534,
           "title": "［プレイレポ］敵も味方も片っ端からキルする育成RTAシミュレーションRPG「デモンズナイトフィーバー」。あらゆる悪事を働いて邪神を復活させよう！",
           "imageUrl": "https://www.4gamer.net/games/924/G092453/20260911023/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/484/G048447/20260913008/",
-          "author": null,
-          "description": "開催中のイベント「BlizzCon2026」で，「ディアブロIV」の今後の展開についての情報が公開された。2026年9月16日には新シーズン「獄遺継承」がスタートし，さまざまな要素が追加されるほか，2027年には「ディアブロII」で人気だったクラス「アマゾン」が登場するという。",
-          "link": "https://www.4gamer.net/games/484/G048447/20260913008/",
-          "publishedOn": "2026-09-13T12:48:26.000Z",
-          "wordCount": 8517,
-          "title": "シリーズ30周年記念の「ディアブロ IV」新シーズン「獄遺継承」でデッカード・ケインと三大魔王の悪夢が蘇る。「アマゾン」参戦や新システムの全貌を聞いた",
-          "imageUrl": "https://www.4gamer.net/games/484/G048447/20260913008/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/983/G098360/20260911037/",
-          "author": null,
-          "description": "アイディアファクトリーは，本日開催されたイベント「オトメイトパーティー2026」2日目",
-          "link": "https://www.4gamer.net/games/983/G098360/20260911037/",
-          "publishedOn": "2026-09-13T12:40:00.000Z",
-          "wordCount": 1016,
-          "title": "タイトルが「CharadeManiacs Fond de Dialogue」に決定。イベント「オトメイトパーティー2026」2日目[夜公演]で発表された情報をまとめて掲載",
-          "imageUrl": "https://www.4gamer.net/games/983/G098360/20260911037/SS/006.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/870/G087004/20260909062/",
-          "author": null,
-          "description": "4Gamerを運営するAetasは本日，「シャインポスト」に登場するアイドルユニット「TINGS」のメンバー5人をモチーフにしたぬいぐるみキーホルダーを，2026年9月19日に発売すると発表した。これを記念して，発売当日にはTGS2026の4Gamer.netブースで，スペシャルトークショーの開催も決定した。",
-          "link": "https://www.4gamer.net/games/870/G087004/20260909062/",
-          "publishedOn": "2026-09-13T11:00:00.000Z",
-          "wordCount": 8399,
-          "title": "Aetasが「シャインポスト」のユニットTINGSのぬいぐるみキーホルダーを9月19日に発売。TGS 2026の4Gamerブースでは発売記念トークショーも",
-          "imageUrl": "https://www.4gamer.net/games/870/G087004/20260909062/SS/013.jpg"
         }
       ]
     },
@@ -3292,6 +3282,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/3fa61c7bbbc0a7380e130b92f3a95ade3416be2b?source=rss",
+          "author": null,
+          "description": "大阪府堺市の阪和自動車道上り線でトラックなど３台が絡む玉突き事故があり、女性１人が意識不明の重体です。【独自】「ともに立ち上がらねば」トランプ政権のＩＣＣ制裁受け赤根智子所長がコメント 締約国に連帯呼",
+          "link": "https://news.yahoo.co.jp/articles/3fa61c7bbbc0a7380e130b92f3a95ade3416be2b?source=rss",
+          "publishedOn": "2026-10-13T00:55:26.000Z",
+          "wordCount": 1663,
+          "title": "３連休明けに阪和道で車３台絡む玉突き事故　前後トラックに挟まれた軽乗用車の女性が意識不明の重体　大阪・堺市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083000-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/53ea842ecbc5fc3ffadfb6842c1b2e269fe168b4?source=rss",
+          "author": null,
+          "description": "日々、襲いかかるサイバー攻撃の魔の手…。タイムズカー、シチズン時計、エイチ・アイ・エス（HIS）など、サイバー攻撃による被害が相次いでいます。大阪公立大が９日授業を再開 「ランサムウェア」とみられるサ",
+          "link": "https://news.yahoo.co.jp/articles/53ea842ecbc5fc3ffadfb6842c1b2e269fe168b4?source=rss",
+          "publishedOn": "2026-10-12T22:00:00.000Z",
+          "wordCount": 1839,
+          "title": "日本がサイバー攻撃の標的に？　国内で相次ぐ被害　運転免許証の情報が漏れると、知らぬ間に“犯罪に自分が利用されている”可能性も…　識者「企業が対策に投資し、責任を持ってデータ管理すべき」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00082989-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2e2b5cf7d12baf726c2588a6c322dc6a3506bb9b?source=rss",
           "author": null,
@@ -7881,26 +7891,6 @@
           "wordCount": 1610,
           "title": "京都・伏見区の商店街で水噴き出す　市の上下水道局が修繕作業　現場周辺は一時断水(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082526-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/99f4eb3b56be62497bc6155e8b363b2782ea94a4?source=rss",
-          "author": null,
-          "description": "京都市伏見区の商店街で道路が隆起し、水が噴き出しています。京都市上下水道局は水道管が破損したとみて、原因を調べています。\n\n　警察によりますと１３日午後、京都市伏見区東大手町の伏見大手筋商店街で道路",
-          "link": "https://news.yahoo.co.jp/articles/99f4eb3b56be62497bc6155e8b363b2782ea94a4?source=rss",
-          "publishedOn": "2026-09-13T09:49:58.000Z",
-          "wordCount": 1669,
-          "title": "上水道が破損か　商店街で道路が隆起し水噴き出す　京都・伏見区(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00082525-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a5a0ae83b57f87388b2577f733476da1a6a75a8e?source=rss",
-          "author": null,
-          "description": "京都市伏見区の商店街で道路が隆起し、水が噴き出しています。京都市上下水道局は水道管が破損したとみて、原因を調べています。\n\n　警察によりますと１３日午後、京都市伏見区東大手町の伏見大手筋商店街で道路",
-          "link": "https://news.yahoo.co.jp/articles/a5a0ae83b57f87388b2577f733476da1a6a75a8e?source=rss",
-          "publishedOn": "2026-09-13T08:18:03.000Z",
-          "wordCount": 1675,
-          "title": "【速報】京都・伏見区の商店街で道路隆起、水が噴き出す　水道管が破損か(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00082524-asahibcv-000-3-view.jpg?exp=10800"
         }
       ]
     },
@@ -9737,6 +9727,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/13/news035.html",
+          "author": null,
+          "description": "ミツミ電機は、1.2×1.2×0.4mmの極小パッケージを採用した、リチウムイオン電池保護IC「MM422x」シリーズを発表した。高精度な電流検知方式を採用し、放電過電流検出電圧1において、周囲温度25℃環境下で±0.75mVの高い精度を達成している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/13/news035.html",
+          "publishedOn": "2026-10-13T00:00:00.000Z",
+          "wordCount": 2635,
+          "title": "1.2mm角の高精度リチウムイオン電池保護IC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/13/cover_news035.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/09/news006.html",
           "author": null,
           "description": "Diodesは、低順方向電圧と低逆漏れ電流を特長とする車載向け整流ダイオード「Field-Plated Super Barrier Rectifier（SBRFP）」4製品を投入した。",
@@ -10203,6 +10203,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=134804",
+          "author": "編集部：平山洸太",
+          "description": "スマーウォッチの市場は年々拡大し、普及率が高まりつつある。その中で存在感を増やしつつあるのが、中国の巨大テック企業であるファーウェイだ。同社は近年ではゴルフやサイクリングなど、各スポーツに特化した独自の機能を増やしつつあり、それが多くのユーザーに受け入れられている。 ファーウェイは今回、日本国内のメ […]",
+          "link": "https://gadget.phileweb.com/post-134804/",
+          "publishedOn": "2026-10-12T21:30:00.000Z",
+          "wordCount": 766,
+          "title": "ファーウェイのスマートウォッチはなぜ選ばれる？ 中国の巨大ラボで見えた“技術への本気度”",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/a9ae008d41ef228fab9d5eab8caa448a.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=134783",
+          "author": "山本 敦",
+          "description": "かねてから噂されてきた、アップルの新しいスマートホーム端末がいよいよ登場するのではないかと注目を集めている。 米アップルのワールドワイドマーケティング担当シニアバイスプレジデントであるグレッグ・ジョズウィアック氏が、10月9日の日本時間未明、自身のXアカウントに「Welcome home」と題する発 […]",
+          "link": "https://gadget.phileweb.com/post-134783/",
+          "publishedOn": "2026-10-12T21:30:00.000Z",
+          "wordCount": 803,
+          "title": "今夜発表？ アップルの「Siri AI搭載スマートホーム端末」、鍵になるのはApple Watch",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/9923ee12b75eb7b36778268cf8d1496e.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=134753",
           "author": "Munenori Taniguchi",
@@ -11441,6 +11461,36 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1791847512/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "【露出男が闖入】朝の小学校が緊迫「不審な男が敷地内にいる。学校付近で下半身を露出したようだ」駆けつけた警察官が25歳\"酒酔い\"男を逮捕「記憶がないので説明のしようがない」公然わいせ...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791847512/",
+          "link": "http://www.2nn.jp/dqnplus/1791847512/",
+          "publishedOn": "2026-10-12T23:25:12.000Z",
+          "wordCount": 1687,
+          "title": "【露出男が闖入】「不審な男が敷地内にいる。下半身を露出したようだ」25歳酒酔い男を逮捕「記憶がないので説明のしようがない」",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791847512.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1791846880/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "2026年10月12日(月) 16:18\nラブホテルを1人で利用か…タオル掛けやハンガーを壊し、マグカップを2個盗んだ疑い　松江市に住む自称・建設業の男(44)を逮捕　鳥取・米子市　|　BSSニュース | BSS山陰放送ラブホテルの...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791846880/",
+          "link": "http://www.2nn.jp/dqnplus/1791846880/",
+          "publishedOn": "2026-10-12T23:14:40.000Z",
+          "wordCount": 1574,
+          "title": "ラブホテルを1人で利用か…タオル掛けやハンガーを壊し、マグカップを2個盗んだ疑い 松江市に住む自称・建設業の男(44)を逮捕",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791846880.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1791846584/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "(広島)広島市安佐北区三入2丁目で全裸類似行為　10月6日\n2026/10/12\n広島県警によると、10月6日午後10時20分頃、広島市安佐北区三入2丁目で、女子高校生への全裸類似行為が発生しました。(実行者の特徴:男性、黒色ロ...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791846584/",
+          "link": "http://www.2nn.jp/dqnplus/1791846584/",
+          "publishedOn": "2026-10-12T23:09:44.000Z",
+          "wordCount": 1572,
+          "title": "コートでは 誰でもポロリ ポロリ出す",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791846584.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1791811972/",
           "author": "朝一から閉店までφ ★",
           "description": "By - grape TREND編集部 　公開:2026-10-12 　更新:2026-10-12\n2026年5月8日に亡くなった、『リング』『らせん』などの名作ホラー小説で知られる作家の鈴木光司さん。同年10月11日、東京都内で行われた『しのぶ会』...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791811972/",
@@ -11727,6 +11777,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=62193",
+          "author": "shino",
+          "description": "こんにちは、しの＠あつらぼです。 今回はお隣、平塚市の嬉しいニュースです♪ 関東を中心に展開している、スーパーマーケットの「ベルク」が平塚市に初出店するみたい！との情報をキャッチし、早速現地を確認してきました！ 場所は国道129号沿い「旧相…",
+          "link": "https://atsugi-lab.com/news-belc-hiratsuka202610/",
+          "publishedOn": "2026-10-12T22:39:26.000Z",
+          "wordCount": 807,
+          "title": "【平塚初出店】国道129号沿い旧相模小学校跡地にスーパーマーケットの「ベルク」ができるみたい！工事看板にテナント・保育所の文字も♪",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/belc-hi2026.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=62349",
           "author": "fumie",
@@ -12760,16 +12820,6 @@
           "wordCount": 2066,
           "title": "【松屋】牛ビビン丼（リニューアル）【定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/38c01c6a45c4444cb2dac13ddee105b7.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318229",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、夜マックメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]",
-          "link": "https://foodfighter.jp/mcdonalds-shrimp-double",
-          "publishedOn": "2026-09-13T08:44:30.000Z",
-          "wordCount": 2054,
-          "title": "【マクドナルド】倍えびフィレオ【夜マックメニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/18263587ebb18212d9861708102f751a.jpg"
         }
       ]
     },
@@ -15702,66 +15752,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127343/",
-          "author": null,
-          "description": "Prime Videoが、なにわ男子・大西流星主演で人気コミックを実写化し、Prime Original ドラマ「ブレス」として27年春に世界独占配信することを発表した。併せてティザービジュアル...",
-          "link": "https://anime.eiga.com/news/127343/",
-          "publishedOn": "2026-09-13T12:00:00.000Z",
-          "wordCount": 687,
-          "title": "なにわ男子・大西流星主演で人気コミックを実写化　Prime Originalドラマ「ブレス」ティザービジュアルを公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127432/",
-          "author": null,
-          "description": "テレビアニメ「同居している剣聖の女師匠が可愛すぎて毎日幸せです」のキービジュアル第1弾が披露され、メインスタッフも明らかとなった。 監督を「かくして！マキナさん!!」西田正義、シリーズ演出を佐々...",
-          "link": "https://anime.eiga.com/news/127432/",
-          "publishedOn": "2026-09-13T11:00:00.000Z",
-          "wordCount": 665,
-          "title": "「同居している剣聖の女師匠が可愛すぎて毎日幸せです」キービジュアル第1弾披露　西田正義監督らメインスタッフも発表",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127418/",
-          "author": null,
-          "description": "10月5日からスタートするテレビアニメ「転生ゴブリンだけど質問ある？」のメインPV（https://youtu.be/ynr8tFWrK4c）とメインビジュアルが公開された。 また、オープニング...",
-          "link": "https://anime.eiga.com/news/127418/",
-          "publishedOn": "2026-09-13T10:00:00.000Z",
-          "wordCount": 725,
-          "title": "「転生ゴブリンだけど質問ある？」メインPV＆ビジュアル公開　橘杏咲考案の宣伝隊長ゴブリンのビジュアルも披露",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127391/",
-          "author": null,
-          "description": "テレビアニメ「弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった」の追加キャストとして、白石晴香、坂田将吾、石毛翔弥の出演が決定した。キービジュアル、PV第2弾、主題歌情報、放送日時なども...",
-          "link": "https://anime.eiga.com/news/127391/",
-          "publishedOn": "2026-09-13T09:00:00.000Z",
-          "wordCount": 754,
-          "title": "「弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった」追加キャストに白石晴香、坂田将吾、石毛翔弥　PV第2弾なども公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15770,6 +15760,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126809",
+          "author": null,
+          "description": "SQEXノベル発のアニメ『片田舎のおっさん、剣聖になるII』より、LINEス...",
+          "link": "https://ln-news.com/articles/126809",
+          "publishedOn": "2026-10-13T00:30:00.000Z",
+          "wordCount": 223,
+          "title": "『片田舎のおっさん、剣聖になる』LINEスタンプが発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/5704c267a4f34c648c9f98b35ad45d6a.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126806",
+          "author": null,
+          "description": "ガガガ文庫刊『やはり俺の青春ラブコメはまちがっている。結』より、第2巻の表紙...",
+          "link": "https://ln-news.com/articles/126806",
+          "publishedOn": "2026-10-12T23:00:00.000Z",
+          "wordCount": 237,
+          "title": "『やはり俺の青春ラブコメはまちがっている。結』第2巻表紙をイメージした一色いろは1／6スケールフィギュアが2027年10月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/03a72c77ed604db6a93fb82b6cf85e3c.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126880",
+          "author": null,
+          "description": "サーガフォレスト刊『アーシャ・リボルヴァの崇拝～皇帝陛下に溺愛される悪役令嬢...",
+          "link": "https://ln-news.com/articles/126880",
+          "publishedOn": "2026-10-12T21:00:00.000Z",
+          "wordCount": 233,
+          "title": "『アーシャ・リボルヴァの崇拝～皇帝陛下に溺愛される悪役令嬢は、結婚の手土産に不穏分子を平定するようです。～』のコミカライズ配信が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/3ec3e050e53740c49465d2a8537e327e.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126921",
           "author": null,
@@ -18928,16 +18948,6 @@
           "wordCount": null,
           "title": "どうしてもはなちゃんと一緒に遊びたいもちが…",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XDQyfugrDb0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XDQyfugrDb0",
-          "publishedOn": "2026-09-13T11:01:35.000Z",
-          "wordCount": null,
-          "title": "5分家を空けただけで甘えんぼな猫はこうなっちゃいます…",
-          "imageUrl": null
         }
       ]
     },
@@ -19235,16 +19245,6 @@
           "wordCount": 2758,
           "title": "クレジットカードの勧誘ポスティング",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-23.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13469",
-          "author": "watanabe@logipara.com",
-          "description": "2026年9月4日～6日に開催された、水曜どうでしょう祭UNITE2026。 7年ぶりとなるこのお祭り、藩士（どうでしょうファン）として行ってきましたよ！ 　 会場は、北海道は札幌にある大和ハウスプレミストドーム。 新千 […]",
-          "link": "https://logipara.com/everepo/dou_unite2026_1/",
-          "publishedOn": "2026-09-13T12:10:37.000Z",
-          "wordCount": 2781,
-          "title": "水曜どうでしょう祭 UNITE2026に行ってきました(その1)",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-6.png"
         }
       ]
     },
