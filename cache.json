@@ -3204,16 +3204,6 @@
           "wordCount": 8099,
           "title": "9月17日から開催される「東京ゲームショウ2026」に合わせて，さまざまな番組が配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
           "imageUrl": "https://www.4gamer.net/games/421/G042182/20260914043/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/144/G014484/20260914040/",
-          "author": null,
-          "description": "EpicGamesは本日（2026年9月14日），同社がサービス中のバトルロイヤルゲーム「フォートナイト」に，「KINGDOMHEARTS」とのコラボとして「ソラ」が登場すると発表した。発表に合わせて，キーブレードを持ったソラの映像が公開されている。",
-          "link": "https://www.4gamer.net/games/144/G014484/20260914040/",
-          "publishedOn": "2026-09-14T10:30:36.000Z",
-          "wordCount": 8547,
-          "title": "「フォートナイト」，「キングダムハーツ」コラボでソラが登場。今週中に実装予定",
-          "imageUrl": "https://www.4gamer.net/games/144/G014484/20260914040/SS/001.jpg"
         }
       ]
     },
@@ -3222,6 +3212,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ac8f38e2e04ab517a20480479244db0bcdbd8a7f?source=rss",
+          "author": null,
+          "description": "１３日夜、京都市の交差点で、バイクと車が衝突し、バイクに乗っていた男性は足を骨折する重傷を負いました。車はその場から立ち去っていて、警察はひき逃げ事件として捜査しています。 １３日午後７時前、京都市左",
+          "link": "https://news.yahoo.co.jp/articles/ac8f38e2e04ab517a20480479244db0bcdbd8a7f?source=rss",
+          "publishedOn": "2026-10-13T23:13:37.000Z",
+          "wordCount": 1626,
+          "title": "交差点でバイクと車が衝突　車はその場から立ち去る　ひき逃げ容疑で捜査　京都(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00083024-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/1f2d12d34052e10fd450b2620e3e779cdca816cb?source=rss",
           "author": null,
@@ -7831,76 +7831,6 @@
           "wordCount": 1764,
           "title": "【独自】「いってきます」から半年…沖縄・辺野古沖転覆事故　女子生徒の遺族が語るいま【岩本計介ニュースの現場から】(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082546-asahibcv-000-2-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6ad3d62561df1bfd8d86006651038a51773a77ec?source=rss",
-          "author": null,
-          "description": "１２日に京都市で開かれた陸上大会で、弁当を食べたスタッフらが体調不良を訴え救急搬送された問題で、京都市保健所は１４日、集団食中毒と断定し、弁当を提供した業者に３日間の営業停止を命じました。\n\n　１４",
-          "link": "https://news.yahoo.co.jp/articles/6ad3d62561df1bfd8d86006651038a51773a77ec?source=rss",
-          "publishedOn": "2026-09-14T10:21:15.000Z",
-          "wordCount": 1691,
-          "title": "陸上大会の体調不良を集団食中毒と断定　弁当提供した飲食店に３日間の営業停止命令　スタッフらが救急搬送　京都市保健所(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082544-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1d2701c319d7111cfb3b4a669edb4f7e41aaf3fa?source=rss",
-          "author": null,
-          "description": "ＵＳＪが子どもたちを無料招待します。\n\n　ユニバーサル・スタジオ・ジャパンは１４日、全国の子どもをパークに無料で招待する、新たなキャンペーンを始めました。\n\n　ＵＳＪのチケットは価格変動制を採用して",
-          "link": "https://news.yahoo.co.jp/articles/1d2701c319d7111cfb3b4a669edb4f7e41aaf3fa?source=rss",
-          "publishedOn": "2026-09-14T10:15:12.000Z",
-          "wordCount": 1671,
-          "title": "ユニバーサル・スタジオ・ジャパンが子どもたちを“無料招待”　大人１人の入場料金で一緒に入場する子ども１人分が無料に「ホリデー・キッズフリー・パス」発売(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082539-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3d8f6cba6dcdd3fe39b6907a2e8d6ed684813451?source=rss",
-          "author": null,
-          "description": "関西空港と京都市を約２５分で結びます。\n\n　京都市に本社を置くヘリコプター運航会社「スペースアビエーション」は、関西空港と京都市伏見区のヘリポートを結ぶヘリコプター便の運航を15日から始めます。",
-          "link": "https://news.yahoo.co.jp/articles/3d8f6cba6dcdd3fe39b6907a2e8d6ed684813451?source=rss",
-          "publishedOn": "2026-09-14T10:14:58.000Z",
-          "wordCount": 1676,
-          "title": "関空ー京都が約25分！？　おどろきのスピードは･･･ヘリ　新路線開設へ　1席2万円で一日8往復(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082540-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/864ce8ab93a8de7afa2d4de258a70c94e12ec0fc?source=rss",
-          "author": null,
-          "description": "「アーモンド効果」シリーズの一部商品を自主回収です。\n\n　江崎グリコは、「アーモンド効果ＰＲＯＴＥＩＮ」の「ナッツミックス２５０ｇ」と、「ナッツミックス砂糖不使用２５０ｇ」の一部の商品、あわせて１０",
-          "link": "https://news.yahoo.co.jp/articles/864ce8ab93a8de7afa2d4de258a70c94e12ec0fc?source=rss",
-          "publishedOn": "2026-09-14T10:14:20.000Z",
-          "wordCount": 1653,
-          "title": "江崎グリコ「アーモンド効果」シリーズの一部商品に“風味の劣化”か　１０万本以上自主回収(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082543-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/06d1729efa7fe124442d606fa8cd3ce5361730be?source=rss",
-          "author": null,
-          "description": "「ミャクミャク」が、空中散歩を楽しみました。\n\n記者リポート\n「しっかりと鉄骨に囲われて、ミャクミャクにとっては初めての空中散歩です。およそ１．５キロ先のちはや園地ピクニック広場までヘリで移動します",
-          "link": "https://news.yahoo.co.jp/articles/06d1729efa7fe124442d606fa8cd3ce5361730be?source=rss",
-          "publishedOn": "2026-09-14T10:14:07.000Z",
-          "wordCount": 1657,
-          "title": "ミャクミャクが初の「空中散歩」！？　千早赤阪村の「府民の森ちはや園地」までヘリで輸送　府内各地へ巡回設置の一環(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082542-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2e481a3a8ab319e12feaa9956007e648b63b9928?source=rss",
-          "author": null,
-          "description": "会場跡地を約９２１億円で売却する方針です。\n\n　大阪・関西万博の跡地「夢洲第２期区域」内で売却する予定の約４２ヘクタールについて、大阪府と市は１４日、予定価格を９２１億１３００万円とすることを発表し",
-          "link": "https://news.yahoo.co.jp/articles/2e481a3a8ab319e12feaa9956007e648b63b9928?source=rss",
-          "publishedOn": "2026-09-14T10:13:44.000Z",
-          "wordCount": 1664,
-          "title": "大阪・関西万博跡地予定価格は９２１億円超　“売却先”は来年１月まで受け付け　２月１７日に決定(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082541-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/db272b78ce6659ec05e133ae9a69c305c0f1838e?source=rss",
-          "author": null,
-          "description": "ユニバーサル・スタジオ・ジャパンは１４日、全国の子どもをパークに無料で招待するとして、新たなキャンペーンを始めました。\n\n　ＵＳＪのチケットは価格変動制を採用していて、一日券となる「１デイ・スタジオ",
-          "link": "https://news.yahoo.co.jp/articles/db272b78ce6659ec05e133ae9a69c305c0f1838e?source=rss",
-          "publishedOn": "2026-09-14T09:24:51.000Z",
-          "wordCount": 1678,
-          "title": "ＵＳＪが全国の子どもを“無料招待”へ　「ホリデー・キッズフリー・パス」で大人１人の入場料金で子ども１人分が無料となるチケットを発売(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00082538-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9728,26 +9658,6 @@
           "wordCount": 1978,
           "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d2ed/live/92f70d70-b02c-11f1-a8a9-13be82d23441.png"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo#0",
-          "author": null,
-          "description": "イギリスのウェールズ、スコットランド、北アイルランド各自治政府の第一大臣（首相に相当）は14日、憲政問題を含めて「より緊密に協力していく」方法について話し合うため、ウェールズのカーディフで会合を開く。イギリスの連合王国を構成する4カ国のうち3カ国の首長がそろって、連合王国からの離脱を目指すことになって以来、3人が対面で会談するのは初めて。",
-          "link": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T09:14:11.000Z",
-          "wordCount": 1930,
-          "title": "英ウェールズ、スコットランド、北アイルランドの首長らが初会合へ",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7a40/live/c6871800-adee-11f1-b1d1-571ed4d7ff2c.png"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cnvl21n27ypo#0",
-          "author": null,
-          "description": "新興国グループ「BRICS」の首脳会議が先週末、インドの首都デリーで開かれた。加盟国は新たな世界秩序の必要性については同意しているものの、それに代わるものが何であるべきか、そしてどのようにしてそれを実現するのかという問いに答えるのは容易ではない。",
-          "link": "https://www.bbc.com/japanese/articles/cnvl21n27ypo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T09:07:49.000Z",
-          "wordCount": 1978,
-          "title": "【解説】 BRICS首脳会議、イラン戦争で関係を再構築　分断も明らかに",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg"
         }
       ]
     },
@@ -11512,16 +11422,6 @@
           "wordCount": 739,
           "title": "戻らぬドコモの通信品質への信頼。どこまで改善したか、担当者に聞く",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/bb20e2435af387bcfea5ad7b53fd6624.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=133151",
-          "author": "編集部：平山洸太",
-          "description": "EcoFlow Technology Japan、ポータブル電源「RIVER Pro」および専用エクストラバッテリーの自主回収を9月24日から実施すると発表した。 長期間の使用に伴うバッテリー劣化により、極めて稀に発煙・発火現象が生じることによるもの。ユーザーの安全確保および事故の未然防止・再発防止 […]",
-          "link": "https://gadget.phileweb.com/post-133151/",
-          "publishedOn": "2026-09-14T10:20:00.000Z",
-          "wordCount": 704,
-          "title": "EcoFlowポータブル電源「RIVER Pro」に発煙・発火のおそれ、9月24日から自主回収",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/257304a22053577529f79dec4ea8c032.jpg"
         }
       ]
     },
@@ -11530,6 +11430,16 @@
       "feedUrl": "https://www.2nn.jp/rss/dqnplus.rdf",
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
+        {
+          "id": "http://www.2nn.jp/dqnplus/1791924792/",
+          "author": "朝一から閉店までφ ★",
+          "description": "2026/10/13 10:35\nWeb先行\n12日午前10時10分ごろ、大熊町の畑で同町大川原の大工の男性(73)がいも収穫機のコンベヤーに右腕を巻き込まれた。男性は右手首の骨を折るなどの重傷。双葉署によると、男性は複数人でサツ...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791924792/",
+          "link": "http://www.2nn.jp/dqnplus/1791924792/",
+          "publishedOn": "2026-10-13T20:53:12.000Z",
+          "wordCount": 1536,
+          "title": "サツマイモ収穫中に巻き込まれる、男性重傷",
+          "imageUrl": "http://www.2nn.jp/img/og/default.png"
+        },
         {
           "id": "http://www.2nn.jp/dqnplus/1791902295/",
           "author": "朝一から閉店までφ ★",
@@ -12301,6 +12211,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=319979",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]\n投稿 【コメダ珈琲店】お好み焼きバーガー【数量限定・期間限定メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/komeda-okonomiyaki-burger",
+          "publishedOn": "2026-10-13T23:51:21.000Z",
+          "wordCount": 2160,
+          "title": "【コメダ珈琲店】お好み焼きバーガー【数量限定・期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/263926dfd02cd8f24d52405b376d06ed.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=319956",
           "author": "foodfighter",
@@ -15872,66 +15792,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127444/",
-          "author": null,
-          "description": "イラストレーターのナガノが手がける人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」の入場者特典第5弾が、ナガノ氏描き下ろしのイラストやまんがなど“秘密”コンテンツが...",
-          "link": "https://anime.eiga.com/news/127444/",
-          "publishedOn": "2026-09-14T12:00:00.000Z",
-          "wordCount": 644,
-          "title": "「映画ちいかわ　人魚の島のひみつ」入場特典第5弾は「ひみつ本」　描き下ろし漫画やエッセイ、「セイレーン編」構想時のストーリーイラスト等を収録",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127436/",
-          "author": null,
-          "description": "テレビアニメ「ブレス」が、2027年1月から全国フジテレビ系のアニメ枠「ノイタミナ」で放送を開始することがわかった。メインキャラクターの宇田川アイアを大野智敬、炭崎純を三浦千幸が演じる。さらに、...",
-          "link": "https://anime.eiga.com/news/127436/",
-          "publishedOn": "2026-09-14T11:00:00.000Z",
-          "wordCount": 647,
-          "title": "「ブレス」27年1月に「ノイタミナ」枠で放送開始　宇田川アイア役に大野智敬、炭崎純役に三浦千幸",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127442/",
-          "author": null,
-          "description": "上映中の「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」の公開中PV（https://youtu.be/mESs-ii2l6A）と、キャラクター原案・蒼樹うめが描いたキービジュアル第3弾が...",
-          "link": "https://anime.eiga.com/news/127442/",
-          "publishedOn": "2026-09-14T10:00:00.000Z",
-          "wordCount": 688,
-          "title": "「魔法少女まどか☆マギカ　ワルプルギスの廻天」ネタバレ満載の新PV公開　新キャラ・ワス役は坂本真綾",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127441/",
-          "author": null,
-          "description": "「ガンダム」シリーズの最新作「機動戦士ガンダムRG XARX-ZERO（アレックスゼロ）」が、テレビアニメとして2027年4月から放送されることが分かった。 また、同作と世界観を共有するアクショ...",
-          "link": "https://anime.eiga.com/news/127441/",
-          "publishedOn": "2026-09-14T09:00:00.000Z",
-          "wordCount": 684,
-          "title": "神山健治×円城塔「機動戦士ガンダムRG XARX-ZERO」はTVアニメ、27年4月放送開始　関連ゲームの発売日も発表",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15940,6 +15800,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126606",
+          "author": null,
+          "description": "ファンタジア文庫刊『ハイスクールD×D』より、バニー姿の姫島朱乃の1／3スケ...",
+          "link": "https://ln-news.com/articles/126606",
+          "publishedOn": "2026-10-13T23:00:00.000Z",
+          "wordCount": 235,
+          "title": "『ハイスクールD×D』バニー姿の姫島朱乃1／3スケールフィギュアが2027年4月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/f45081b0351541938be980bd2aa975cf.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126905",
+          "author": null,
+          "description": "GCノベルズ刊『ちび神獣たちのお世話係始めました ～世界樹の森でもふもふスロ...",
+          "link": "https://ln-news.com/articles/126905",
+          "publishedOn": "2026-10-13T21:00:00.000Z",
+          "wordCount": 234,
+          "title": "『ちび神獣たちのお世話係始めました ～世界樹の森でもふもふスローライフ！～』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/7ced9b535a5446b3be8e1b70f0ddcada.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126917",
           "author": null,

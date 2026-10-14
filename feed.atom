@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T20:58:30.861Z</updated>
+    <updated>2026-10-14T00:12:40.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【コメダ珈琲店】お好み焼きバーガー【数量限定・期間限定メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=319979</id>
+        <link href="https://foodfighter.jp/komeda-okonomiyaki-burger"/>
+        <updated>2026-10-13T23:51:21.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、いつも同じ味のコーヒーを楽しめる有名人気喫茶店チェーン「珈琲所 コメダ珈琲店」へ […]
+投稿 【コメダ珈琲店】お好み焼きバーガー【数量限定・期間限定メニュー】 は 進撃のグルメ に最初に表示されました。]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交差点でバイクと車が衝突　車はその場から立ち去る　ひき逃げ容疑で捜査　京都(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ac8f38e2e04ab517a20480479244db0bcdbd8a7f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ac8f38e2e04ab517a20480479244db0bcdbd8a7f?source=rss"/>
+        <updated>2026-10-13T23:13:37.000Z</updated>
+        <summary type="html"><![CDATA[１３日夜、京都市の交差点で、バイクと車が衝突し、バイクに乗っていた男性は足を骨折する重傷を負いました。車はその場から立ち去っていて、警察はひき逃げ事件として捜査しています。 １３日午後７時前、京都市左]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ハイスクールD×D』バニー姿の姫島朱乃1／3スケールフィギュアが2027年4月発売]]></title>
+        <id>https://ln-news.com/articles/126606</id>
+        <link href="https://ln-news.com/articles/126606"/>
+        <updated>2026-10-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ファンタジア文庫刊『ハイスクールD×D』より、バニー姿の姫島朱乃の1／3スケ...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ちび神獣たちのお世話係始めました ～世界樹の森でもふもふスローライフ！～』のコミカライズ連載が開始]]></title>
+        <id>https://ln-news.com/articles/126905</id>
+        <link href="https://ln-news.com/articles/126905"/>
+        <updated>2026-10-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GCノベルズ刊『ちび神獣たちのお世話係始めました ～世界樹の森でもふもふスロ...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サツマイモ収穫中に巻き込まれる、男性重傷]]></title>
+        <id>http://www.2nn.jp/dqnplus/1791924792/</id>
+        <link href="http://www.2nn.jp/dqnplus/1791924792/"/>
+        <updated>2026-10-13T20:53:12.000Z</updated>
+        <summary type="html"><![CDATA[2026/10/13 10:35
+Web先行
+12日午前10時10分ごろ、大熊町の畑で同町大川原の大工の男性(73)がいも収穫機のコンベヤーに右腕を巻き込まれた。男性は右手首の骨を折るなどの重傷。双葉署によると、男性は複数人でサツ...
+https://egg.5ch.io/test/read.cgi/dqnplus/1791924792/]]></summary>
+        <author>
+            <name>朝一から閉店までφ ★</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[道頓堀のグリコの看板リニューアル　来年春ごろお披露目予定　ランナーのポーズは変わらず(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/1f2d12d34052e10fd450b2620e3e779cdca816cb?source=rss</id>
@@ -18866,78 +18920,12 @@ Yahoo Finance: https://finance.yahoo.com/technology/ai/articles/openai-acquires-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「映画ちいかわ　人魚の島のひみつ」入場特典第5弾は「ひみつ本」　描き下ろし漫画やエッセイ、「セイレーン編」構想時のストーリーイラスト等を収録]]></title>
-        <id>https://anime.eiga.com/news/127444/</id>
-        <link href="https://anime.eiga.com/news/127444/"/>
-        <updated>2026-09-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イラストレーターのナガノが手がける人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」の入場者特典第5弾が、ナガノ氏描き下ろしのイラストやまんがなど“秘密”コンテンツが...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[どうしてもはなちゃんと一緒に遊びたいもちが…]]></title>
         <id>https://www.youtube.com/watch?v=RAf2Yer9Lr4</id>
         <link href="https://www.youtube.com/watch?v=RAf2Yer9Lr4"/>
         <updated>2026-09-14T11:01:10.000Z</updated>
         <author>
             <name>もちまる日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ブレス」27年1月に「ノイタミナ」枠で放送開始　宇田川アイア役に大野智敬、炭崎純役に三浦千幸]]></title>
-        <id>https://anime.eiga.com/news/127436/</id>
-        <link href="https://anime.eiga.com/news/127436/"/>
-        <updated>2026-09-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「ブレス」が、2027年1月から全国フジテレビ系のアニメ枠「ノイタミナ」で放送を開始することがわかった。メインキャラクターの宇田川アイアを大野智敬、炭崎純を三浦千幸が演じる。さらに、...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「フォートナイト」，「キングダムハーツ」コラボでソラが登場。今週中に実装予定]]></title>
-        <id>https://www.4gamer.net/games/144/G014484/20260914040/</id>
-        <link href="https://www.4gamer.net/games/144/G014484/20260914040/"/>
-        <updated>2026-09-14T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[EpicGamesは本日（2026年9月14日），同社がサービス中のバトルロイヤルゲーム「フォートナイト」に，「KINGDOMHEARTS」とのコラボとして「ソラ」が登場すると発表した。発表に合わせて，キーブレードを持ったソラの映像が公開されている。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[陸上大会の体調不良を集団食中毒と断定　弁当提供した飲食店に３日間の営業停止命令　スタッフらが救急搬送　京都市保健所(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/6ad3d62561df1bfd8d86006651038a51773a77ec?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/6ad3d62561df1bfd8d86006651038a51773a77ec?source=rss"/>
-        <updated>2026-09-14T10:21:15.000Z</updated>
-        <summary type="html"><![CDATA[１２日に京都市で開かれた陸上大会で、弁当を食べたスタッフらが体調不良を訴え救急搬送された問題で、京都市保健所は１４日、集団食中毒と断定し、弁当を提供した業者に３日間の営業停止を命じました。
-
-　１４]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EcoFlowポータブル電源「RIVER Pro」に発煙・発火のおそれ、9月24日から自主回収]]></title>
-        <id>https://gadget.phileweb.com/?p=133151</id>
-        <link href="https://gadget.phileweb.com/post-133151/"/>
-        <updated>2026-09-14T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[EcoFlow Technology Japan、ポータブル電源「RIVER Pro」および専用エクストラバッテリーの自主回収を9月24日から実施すると発表した。 長期間の使用に伴うバッテリー劣化により、極めて稀に発煙・発火現象が生じることによるもの。ユーザーの安全確保および事故の未然防止・再発防止 […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニバーサル・スタジオ・ジャパンが子どもたちを“無料招待”　大人１人の入場料金で一緒に入場する子ども１人分が無料に「ホリデー・キッズフリー・パス」発売(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/1d2701c319d7111cfb3b4a669edb4f7e41aaf3fa?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/1d2701c319d7111cfb3b4a669edb4f7e41aaf3fa?source=rss"/>
-        <updated>2026-09-14T10:15:12.000Z</updated>
-        <summary type="html"><![CDATA[ＵＳＪが子どもたちを無料招待します。
-
-　ユニバーサル・スタジオ・ジャパンは１４日、全国の子どもをパークに無料で招待する、新たなキャンペーンを始めました。
-
-　ＵＳＪのチケットは価格変動制を採用して]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
     <entry>
@@ -18951,113 +18939,12 @@ Yahoo Finance: https://finance.yahoo.com/technology/ai/articles/openai-acquires-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[関空ー京都が約25分！？　おどろきのスピードは･･･ヘリ　新路線開設へ　1席2万円で一日8往復(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/3d8f6cba6dcdd3fe39b6907a2e8d6ed684813451?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/3d8f6cba6dcdd3fe39b6907a2e8d6ed684813451?source=rss"/>
-        <updated>2026-09-14T10:14:58.000Z</updated>
-        <summary type="html"><![CDATA[関西空港と京都市を約２５分で結びます。
-
-　京都市に本社を置くヘリコプター運航会社「スペースアビエーション」は、関西空港と京都市伏見区のヘリポートを結ぶヘリコプター便の運航を15日から始めます。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[江崎グリコ「アーモンド効果」シリーズの一部商品に“風味の劣化”か　１０万本以上自主回収(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/864ce8ab93a8de7afa2d4de258a70c94e12ec0fc?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/864ce8ab93a8de7afa2d4de258a70c94e12ec0fc?source=rss"/>
-        <updated>2026-09-14T10:14:20.000Z</updated>
-        <summary type="html"><![CDATA[「アーモンド効果」シリーズの一部商品を自主回収です。
-
-　江崎グリコは、「アーモンド効果ＰＲＯＴＥＩＮ」の「ナッツミックス２５０ｇ」と、「ナッツミックス砂糖不使用２５０ｇ」の一部の商品、あわせて１０]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミャクミャクが初の「空中散歩」！？　千早赤阪村の「府民の森ちはや園地」までヘリで輸送　府内各地へ巡回設置の一環(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/06d1729efa7fe124442d606fa8cd3ce5361730be?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/06d1729efa7fe124442d606fa8cd3ce5361730be?source=rss"/>
-        <updated>2026-09-14T10:14:07.000Z</updated>
-        <summary type="html"><![CDATA[「ミャクミャク」が、空中散歩を楽しみました。
-
-記者リポート
-「しっかりと鉄骨に囲われて、ミャクミャクにとっては初めての空中散歩です。およそ１．５キロ先のちはや園地ピクニック広場までヘリで移動します]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪・関西万博跡地予定価格は９２１億円超　“売却先”は来年１月まで受け付け　２月１７日に決定(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/2e481a3a8ab319e12feaa9956007e648b63b9928?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/2e481a3a8ab319e12feaa9956007e648b63b9928?source=rss"/>
-        <updated>2026-09-14T10:13:44.000Z</updated>
-        <summary type="html"><![CDATA[会場跡地を約９２１億円で売却する方針です。
-
-　大阪・関西万博の跡地「夢洲第２期区域」内で売却する予定の約４２ヘクタールについて、大阪府と市は１４日、予定価格を９２１億１３００万円とすることを発表し]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「魔法少女まどか☆マギカ　ワルプルギスの廻天」ネタバレ満載の新PV公開　新キャラ・ワス役は坂本真綾]]></title>
-        <id>https://anime.eiga.com/news/127442/</id>
-        <link href="https://anime.eiga.com/news/127442/"/>
-        <updated>2026-09-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[上映中の「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」の公開中PV（https://youtu.be/mESs-ii2l6A）と、キャラクター原案・蒼樹うめが描いたキービジュアル第3弾が...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ＵＳＪが全国の子どもを“無料招待”へ　「ホリデー・キッズフリー・パス」で大人１人の入場料金で子ども１人分が無料となるチケットを発売(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/db272b78ce6659ec05e133ae9a69c305c0f1838e?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/db272b78ce6659ec05e133ae9a69c305c0f1838e?source=rss"/>
-        <updated>2026-09-14T09:24:51.000Z</updated>
-        <summary type="html"><![CDATA[ユニバーサル・スタジオ・ジャパンは１４日、全国の子どもをパークに無料で招待するとして、新たなキャンペーンを始めました。
-
-　ＵＳＪのチケットは価格変動制を採用していて、一日券となる「１デイ・スタジオ]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英ウェールズ、スコットランド、北アイルランドの首長らが初会合へ]]></title>
-        <id>https://www.bbc.com/japanese/articles/cvgyrvnxenzo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cvgyrvnxenzo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T09:14:11.000Z</updated>
-        <summary type="html"><![CDATA[イギリスのウェールズ、スコットランド、北アイルランド各自治政府の第一大臣（首相に相当）は14日、憲政問題を含めて「より緊密に協力していく」方法について話し合うため、ウェールズのカーディフで会合を開く。イギリスの連合王国を構成する4カ国のうち3カ国の首長がそろって、連合王国からの離脱を目指すことになって以来、3人が対面で会談するのは初めて。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【解説】 BRICS首脳会議、イラン戦争で関係を再構築　分断も明らかに]]></title>
-        <id>https://www.bbc.com/japanese/articles/cnvl21n27ypo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cnvl21n27ypo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T09:07:49.000Z</updated>
-        <summary type="html"><![CDATA[新興国グループ「BRICS」の首脳会議が先週末、インドの首都デリーで開かれた。加盟国は新たな世界秩序の必要性については同意しているものの、それに代わるものが何であるべきか、そしてどのようにしてそれを実現するのかという問いに答えるのは容易ではない。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【3周年記念】数字で振り返るモンハンNow]]></title>
         <id>https://www.youtube.com/watch?v=VuJAi0pdpR0</id>
         <link href="https://www.youtube.com/watch?v=VuJAi0pdpR0"/>
         <updated>2026-09-14T09:00:09.000Z</updated>
         <author>
             <name>モンスターハンターNow 公式</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神山健治×円城塔「機動戦士ガンダムRG XARX-ZERO」はTVアニメ、27年4月放送開始　関連ゲームの発売日も発表]]></title>
-        <id>https://anime.eiga.com/news/127441/</id>
-        <link href="https://anime.eiga.com/news/127441/"/>
-        <updated>2026-09-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「ガンダム」シリーズの最新作「機動戦士ガンダムRG XARX-ZERO（アレックスゼロ）」が、テレビアニメとして2027年4月から放送されることが分かった。 また、同作と世界観を共有するアクショ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
