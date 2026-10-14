@@ -2,10 +2,285 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T00:12:40.083Z</updated>
+    <updated>2026-10-14T04:53:44.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「アルカディア」に不正アクセス　３２０件余りの個人情報漏えいの可能性　システム使用自治体の状況は(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0c8dc0a2490e6b8cb447cbc660ff0fdad4bbc768?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0c8dc0a2490e6b8cb447cbc660ff0fdad4bbc768?source=rss"/>
+        <updated>2026-10-14T04:52:30.000Z</updated>
+        <summary type="html"><![CDATA[自治体向けに防災メールなどを提供する大阪府箕面市の会社「アルカディア」で、第三者の不正アクセスにより、メールアドレスなど約３２０万件余りの個人情報が漏えいした可能性が明らかになりました。全国の自治体に]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロボットが少女にわいせつ行為……少年2人に操作した疑い、ロボットは押収　ドイツ]]></title>
+        <id>https://www.bbc.com/japanese/articles/crpdgz7d6dd1o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/crpdgz7d6dd1o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T04:50:02.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ警察は、16歳の少女にわいせつ行為を行ったとされるロボットを操作した疑いで、10代の少年2人に対する捜査を開始した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米司法省、オープンAIのサウジアラビア人技師を起訴、オフィスに「高度」な録音装置を仕掛けた疑い]]></title>
+        <id>https://www.bbc.com/japanese/articles/c6m2d4gwdjwzo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c6m2d4gwdjwzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T04:02:23.000Z</updated>
+        <summary type="html"><![CDATA[司法省によると、トイレットペーパーに包まれた録音装置が、役員会議室のテレビ背面にあるUSBポートに差し込まれた状態で発見されたという。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『転生したら剣でしたII』第2話「ジャン・ドゥービーは優秀でした」のあらすじ＆先行カット解禁]]></title>
+        <id>https://ln-news.com/articles/126940</id>
+        <link href="https://ln-news.com/articles/126940"/>
+        <updated>2026-10-14T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GCノベルズ発のアニメ『転生したら剣でしたII』第2話「ジャン・ドゥービーは...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「出すと言ったものは出して」　森友学園問題めぐり「担当職員のノート」など開示を請求　死亡した元職員の妻が提訴　大阪地裁で第１回口頭弁論(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/180c523b604310307808109273e01acf5722aeaf?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/180c523b604310307808109273e01acf5722aeaf?source=rss"/>
+        <updated>2026-10-14T03:59:43.000Z</updated>
+        <summary type="html"><![CDATA[森友学園をめぐる問題で、財務省から公文書の改ざんを強いられるなどして自殺した近畿財務局の元職員の妻が「担当職員のノート」などの開示を国に求めた裁判が１４日、大阪地裁で始まり、妻は法廷で「出すと言ったも]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国の自治体に影響　防災メール扱うＩＴ関連会社「アルカディア」に不正アクセス(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4cf39db306d2c3fc431086ad076e747e8c074f34?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4cf39db306d2c3fc431086ad076e747e8c074f34?source=rss"/>
+        <updated>2026-10-14T03:44:03.000Z</updated>
+        <summary type="html"><![CDATA[自治体向けに防災メールなどを提供する大阪府箕面市のＩＴ関連会社・「アルカディア」への不正アクセスで、全国の自治体にメールサービス停止などの影響が出ています。「アルカディア」に不正アクセス 約３２５万件]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海上保安学校で入学式　１７０人が１年間の訓練に励む　京都・舞鶴市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/afba58ffe30b7c372a1c7465c968c0b06af410de?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/afba58ffe30b7c372a1c7465c968c0b06af410de?source=rss"/>
+        <updated>2026-10-14T03:43:25.000Z</updated>
+        <summary type="html"><![CDATA[京都府舞鶴市の海上保安学校で秋の入学式が開かれ、新入生らは海上保安官への第一歩を踏み出しました。「アルカディア」に不正アクセス 約３２５万件の個人情報漏洩した可能性 自治体向けに防災アプリ提供するシス]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我が家の杉山裕之さん、万引き]]></title>
+        <id>http://www.2nn.jp/dqnplus/1791949034/</id>
+        <link href="http://www.2nn.jp/dqnplus/1791949034/"/>
+        <updated>2026-10-14T03:37:14.000Z</updated>
+        <summary type="html"><![CDATA[【独自】「我が家」杉山裕之さん万引き容疑で書類送検　スーパーでウインナーなど7点　「最近収入が少なくなって不安に」｜FNN　フジテレビ
+2026年10月14日 水曜 午前11:34
+お笑いトリオ「我が家」の杉山裕之さん(49...
+https://egg.5ch.io/test/read.cgi/dqnplus/1791949034/]]></summary>
+        <author>
+            <name>おっさん友の会 ★</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兵庫のおっさん(50)が男児(5)にキス、唾液を流し込み逮捕]]></title>
+        <id>http://www.2nn.jp/dqnplus/1791948811/</id>
+        <link href="http://www.2nn.jp/dqnplus/1791948811/"/>
+        <updated>2026-10-14T03:33:31.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県姫路市で、公園にいた5歳の男児にキスをしたとして、50歳の男が逮捕されました。不同意わいせつの疑いで逮捕されたのは、姫路市の設備業・白濵孝雄容疑者(50)です。警察によりますと、白濵容疑者...
+https://egg.5ch.io/test/read.cgi/dqnplus/1791948811/]]></summary>
+        <author>
+            <name>おっさん友の会 ★</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efinix、FPGA向け64ビットRISC-VソフトSoC]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/14/news006.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/14/news006.html"/>
+        <updated>2026-10-14T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Efinixは、同社の「Trion」および「Titanium」FPGA向けに最適化した構成可能な64ビットRISC-VソフトSoC（System on Chip）「Sapphire RV64」を提供する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海鮮弁当、スイーツ、ビール･･･阪神梅田本店で「秋の北海道市場」　２６日まで開催(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/129902d345f5ba18fe89bf1466c74313e31e763f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/129902d345f5ba18fe89bf1466c74313e31e763f?source=rss"/>
+        <updated>2026-10-14T03:23:41.000Z</updated>
+        <summary type="html"><![CDATA[大阪・梅田で北海道の秋の味覚を楽しめる催しが１４日から始まりました。 阪神梅田本店で１４日から始まった「阪神秋の北海道市場」は、カニやイクラなど北海道の味覚いっぱいの海鮮弁当に、秋の恵みを感じるスイー]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギャル幽霊の熱烈なアピールから逃れる青春恋愛ハートフルホラー「Seven Nights Ghost 2」，体験版をSteamで公開。発売は12月中を予定]]></title>
+        <id>https://www.4gamer.net/games/986/G098637/20261014003/</id>
+        <link href="https://www.4gamer.net/games/986/G098637/20261014003/"/>
+        <updated>2026-10-14T03:12:43.000Z</updated>
+        <summary type="html"><![CDATA[TozukuGamesは本日，ホラーゲーム「SevenNightsGhost2」の体験版をSteamで公開した。本作は，ギャル幽霊と7日間の同棲生活を送りつつ，熱烈ラブアタックを回避していく青春恋愛ハートフルホラーゲームだ。発売は12月中を予定している。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAIの幹部用会議室から盗聴器みつかる。サウジ出身の従業員が逮捕、訴追]]></title>
+        <id>https://gadget.phileweb.com/?p=134973</id>
+        <link href="https://gadget.phileweb.com/post-134973/"/>
+        <updated>2026-10-14T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[米国の連邦検察当局は、現地時間10月13日OpenAIの役員会議室内音声を無線送信する装置を設置、またその音声を傍受・録音する機材を所持していたとして、同社従業員を逮捕・訴追したと発表した。 検察当局によるとサウジアラビア国籍のアブドゥルラフマン・アルフォザン容疑者は、昨年7月からエンジニアとしてO […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フィーチャーフォン向けRPG「ロストセイヴァー」がG-MODEアーカイブス+で復刻。Switch版を10月15日，Steam版を10月28日に配信]]></title>
+        <id>https://www.4gamer.net/games/049/G104983/20261013047/</id>
+        <link href="https://www.4gamer.net/games/049/G104983/20261013047/"/>
+        <updated>2026-10-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ジー・モードは本日，「G-MODEアーカイブス+ロストセイヴァー」のSwitch版を2026年10月15日に，PC（Steam）版を10月28日に配信すると発表した。本作は，2010年に配信されたフィーチャーフォン向けRPG「ロストセイヴァー」の復刻版で，19種類のジョブや約300種類のアイテム合成，200種類以上のモンスターなどを収録する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ルンバの頂点”ロボット掃除機「Monster」誕生。スティック掃除機級の吸引力、水拭き強化]]></title>
+        <id>https://gadget.phileweb.com/?p=134974</id>
+        <link href="https://gadget.phileweb.com/post-134974/"/>
+        <updated>2026-10-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アイロボットジャパンは、最上位ロボット掃除機「Roomba Monster」（Roomba Max 875 Combo ロボット + AutoWash 充電ステーション）を10月21日に発売する。公式オンラインストアにおける販売価格は249,800円（税込）。カラーはブラックのみとなる。 同社フラグ […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開　小野賢章が頭領・水蛇役]]></title>
+        <id>https://anime.eiga.com/news/127648/</id>
+        <link href="https://anime.eiga.com/news/127648/"/>
+        <updated>2026-10-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「劇場版 薬屋のひとりごと 亡妃の秘宝」のキャラクターPV「化蛇団」編（https://youtu.be/VXl2OgfOdgk）が、このほど公開された。あわせて、化蛇団の声優キャストが発表され...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ケンタッキー】オリジナルチキンバーガー（鶏もも肉）【新定番メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=320025</id>
+        <link href="https://foodfighter.jp/kfc-original-chicken-burger"/>
+        <updated>2026-10-14T02:59:08.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「オリジナルチキンバーガー」を世界一詳しく調査しました。 &nbsp […]
+投稿 【ケンタッキー】オリジナルチキンバーガー（鶏もも肉）【新定番メニュー】 は 進撃のグルメ に最初に表示されました。]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型Apple TV 4K発表。HomePod 4台でサラウンド、リモコンの「探す」にも対応]]></title>
+        <id>https://gadget.phileweb.com/?p=134969</id>
+        <link href="https://gadget.phileweb.com/post-134969/"/>
+        <updated>2026-10-14T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは10月13日、セットトップボックスの最新モデルApple TV 4K（第4世代）を発表した。日本価格は49,800円（税込）で、予約受付中、11月13日に発売する。 本製品はA19チップを搭載し、前世代比でCPU性能は最大50％、GPU性能は最大2倍高速化。AV1専用デコーダも備え、より少 […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC版『GTA 6』は2027年1～3月期に発売？海外メディアが報道、ただし公式発表はなし]]></title>
+        <id>https://gadget.phileweb.com/?p=134955</id>
+        <link href="https://gadget.phileweb.com/post-134955/"/>
+        <updated>2026-10-14T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Rockstar Gamesの人気ゲームシリーズ最新作『Grand Theft Auto VI（GTA 6）』は、PlayStation 5版およびXbox Series X|S版の発売まであと5週間に迫っている。しかし、さらに2～4か月ほど待てばPC版が発売される可能性が新たに報じられた。 ゲーム […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロセスエンジニアは地震発生時にどう動くのか――トラブル時の連携力と非常時対応]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/15/news010.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/15/news010.html"/>
+        <updated>2026-10-14T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[地震や停電などの災害を含め、トラブルや非常事態が発生した際に、どう動くかはプロセスエンジニアにとって極めて重要な仕事です。今回は、トラブルが発生した際、誰と連携し、どのように対応しているかを具体的に見ていきます。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『春夏秋冬代行者 春の舞』POP UP SHOPがAMNIBUS STORE -white-にて開催決定]]></title>
+        <id>https://ln-news.com/articles/126882</id>
+        <link href="https://ln-news.com/articles/126882"/>
+        <updated>2026-10-14T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電撃文庫発のアニメ『春夏秋冬代行者 春の舞』のイベント「テレビアニメ『春夏秋...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローマ教皇、肺腺がんと診断　右肺下葉の切除手術は成功と教皇庁]]></title>
+        <id>https://www.bbc.com/japanese/articles/cwly4q74dvdeo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cwly4q74dvdeo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T01:56:15.000Z</updated>
+        <summary type="html"><![CDATA[キリスト教カトリック教会のローマ教皇庁（ヴァチカン）は13日、ローマ教皇レオ14世が肺腺がんと診断されたと発表した。同日行われた右肺の下葉を切除する手術は無事成功したという。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアがキーウの主要発電所を攻撃とゼレンスキー氏　同盟国からの警告なかったと]]></title>
+        <id>https://www.bbc.com/japanese/articles/cv4g18yw0222o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cv4g18yw0222o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T01:50:09.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナのウォロディミル・ゼレンスキー大統領は13日、首都キーウに暖房と電力を供給する主要なエネルギー施設が、ロシアの弾道ミサイル攻撃を受けたと発表した。大統領は、「またしても、パートナー諸国からの早期警戒情報は一切なかった」とソーシャルメディアに書いた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開店】厚木一番街に新しいカフェ誕生！「a.s.coffee（アズ コーヒー）」10月18日オープン予定♪［厚木市中町］]]></title>
+        <id>https://atsugi-lab.com/?p=62454</id>
+        <link href="https://atsugi-lab.com/open-as-coffee-atsugi-20261018/"/>
+        <updated>2026-10-14T01:40:12.000Z</updated>
+        <summary type="html"><![CDATA[朝活をしたり、仕事をしたり、まったりしたり…♪生活の中で、カフェは欠かせない存在のふみえ＠あつらぼです！ 今回は、厚木一番街に新しくカフェがオープンするニュースをお届けー☆ 早速場所からどうぞ！ 「a.s.coffee（アズ コーヒー）」場…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBCのFMラジオ放送、アフガニスタンで停止される]]></title>
+        <id>https://www.bbc.com/japanese/articles/cx62ygd5p318o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cx62ygd5p318o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T00:31:08.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタンのタリバン政権は今週、国内各地のFMラジオ局を通じたBBCのラジオ放送を停止した。タリバン政権の報道官は、BBCが「度重なる違反」を行ったためだと説明している。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガガガ文庫＆ブックス2026年10月刊行のラインナップをご紹介。『弱キャラ友崎くんLv.12』『塩対応の佐藤さんが俺にだけ甘い13』など5冊]]></title>
+        <id>https://ln-news.com/articles/126939</id>
+        <link href="https://ln-news.com/articles/126939"/>
+        <updated>2026-10-14T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月16日に発売されるガガガ文庫＆ガガガブックス10月刊行のライ...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[低誘電と柔軟性を両立 先端半導体パッケージ基板向け樹脂]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/14/news028.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/14/news028.html"/>
+        <updated>2026-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ユニチカは、先端半導体パッケージ基板用材料として適用可能な低誘電ビスマレイミド樹脂「UMI-0」を開発した。独自の高純度化技術により酸成分を極限まで低減し、優れた低誘電正接と柔軟性、接着性を両立する。すでに量産化体制を確立している。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【コメダ珈琲店】お好み焼きバーガー【数量限定・期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=319979</id>
@@ -18853,60 +19128,6 @@ Yahoo Finance: https://finance.yahoo.com/technology/ai/articles/openai-acquires-
         <summary type="html"><![CDATA[2023年の通信品質低下が現在も尾を引き、顧客からの信頼が高まらないNTTドコモ。それだけに、同社も通信品質向上に向けては積極的な取り組みを続けている。中でも同社が2026年度に力を入れて改善を進めているのが大都市部、とりわけ通信トラフィックが多い南関東4都県と大阪府、愛知県だ。 これらを同社では「 […]]]></summary>
         <author>
             <name>佐野正弘</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ザ・ファブル」第2期は27年1月から放送開始　策略と陰謀うごめくティザーPV公開]]></title>
-        <id>https://anime.eiga.com/news/127438/</id>
-        <link href="https://anime.eiga.com/news/127438/"/>
-        <updated>2026-09-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「ザ・ファブル」の第2期が2027年1月から放送されることが決まり、ティザーPV（https://youtu.be/VoZ43A3XE-Q）が公開された。 南勝久氏による原作漫画「ザ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クレジットカードの勧誘ポスティング]]></title>
-        <id>https://logipara.com/?p=13494</id>
-        <link href="https://logipara.com/diary-text/2026-09-15/"/>
-        <updated>2026-09-14T13:50:49.000Z</updated>
-        <summary type="html"><![CDATA[ちょうどいい金利って、何？]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると]]></title>
-        <id>https://www.bbc.com/japanese/articles/ck305jvy987go#0</id>
-        <link href="https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T13:19:27.000Z</updated>
-        <summary type="html"><![CDATA[イギリスのウェールズ、スコットランド、北アイルランド各自治政府の第一大臣（自治政府首相）は14日、ウェールズ・カーディフで初めて一堂に会し、「（イギリス政界の中心地、イングランド・ロンドンの）ウェストミンスターの時代は終わりを迎えつつある」と宣言した。イギリス連合王国を構成する四つの国のうち、イングランドを除く三つの国の自治政府首相たちは、イギリス政府は憲政上の変化に向けて「準備」すべきだと述べた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】「いってきます」から半年…沖縄・辺野古沖転覆事故　女子生徒の遺族が語るいま【岩本計介ニュースの現場から】(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/db300cb7f14f4cbe89fa09bcd528790dbe5ca91c?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/db300cb7f14f4cbe89fa09bcd528790dbe5ca91c?source=rss"/>
-        <updated>2026-09-14T13:14:45.000Z</updated>
-        <summary type="html"><![CDATA[「いってきます」と言って家を出た娘が、「ただいま」と帰ってくることはありませんでした。
-
-　今年3月、沖縄・辺野古沖で起こった転覆事故から、まもなく半年が経ちます。
-
-　事故で犠牲となった女子生徒の]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「恋せよまやかし天使ども」桂おとぎ役に小鹿なお、一刻役に坂泰斗　おとぎと刻のギャップを描いたPVも公開]]></title>
-        <id>https://anime.eiga.com/news/127435/</id>
-        <link href="https://anime.eiga.com/news/127435/"/>
-        <updated>2026-09-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「恋せよまやかし天使ども」のメインキャストが発表され、主人公・桂おとぎを小鹿なお、同じクラスの美男子・一刻（にのまえ・とき）を坂泰斗が演じることがわかった。キャスト解禁PV（http...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
     <entry>
