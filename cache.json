@@ -7911,16 +7911,6 @@
           "wordCount": 1632,
           "title": "神戸・灘区で市バスにトラックが衝突　乗客・運転手にけがなし　トラック運転手は搬送も命に別状なし(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-00082569-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a4dea721daca3df07dd535537e0013fbdf9b9e69?source=rss",
-          "author": null,
-          "description": "大手電機メーカーのシャープが新たにＡＩサーバー事業に参入すると発表しました。\n　ＡＩサーバーは来年度から販売するということです。\n\n　大阪市に本社を置くシャープは１５日、生成ＡＩの普及で市場拡大が見",
-          "link": "https://news.yahoo.co.jp/articles/a4dea721daca3df07dd535537e0013fbdf9b9e69?source=rss",
-          "publishedOn": "2026-09-15T10:20:24.000Z",
-          "wordCount": 1673,
-          "title": "シャープが新たにＡＩサーバー事業に参入へ　台湾・鴻海精密工業が製造＆国内企業と連携し自社ブランドとして販売へ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260915-00082568-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9767,6 +9757,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/15/news040.html",
+          "author": null,
+          "description": "リテルヒューズは、独自のFlatSuppressX技術を採用したアキシャルリード付きTVSダイオード「AK-FLシリーズ」を発表した。270～800V DCの高電圧航空機電源システムに対応し、安定した低クランプ電圧で半導体デバイスを保護する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/15/news040.html",
+          "publishedOn": "2026-10-15T00:00:00.000Z",
+          "wordCount": 2650,
+          "title": "独自技術でラッチアップ防止 航空機向けTVSダイオード",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/15/cover_news040.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/14/news006.html",
           "author": null,
           "description": "Efinixは、同社の「Trion」および「Titanium」FPGA向けに最適化した構成可能な64ビットRISC-VソフトSoC（System on Chip）「Sapphire RV64」を提供する。",
@@ -11521,6 +11521,26 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1792019919/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "【日本ハム】カストロが母国での「逮捕状」をSNSで報告　CS初戦は不在\n日本ハムのロドルフォ・カストロ内野手(27)が14日、自身のインスタグラムに動画を投稿し、母国ドミニカ共和国で自身に対する逮捕状が出ていると...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792019919/",
+          "link": "http://www.2nn.jp/dqnplus/1792019919/",
+          "publishedOn": "2026-10-14T23:18:39.000Z",
+          "wordCount": 1664,
+          "title": "【日本ハム】カストロが母国での「逮捕状」をSNSで報告 CS初戦は不在",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792019919.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1792016290/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "佐賀・山口祥義知事が、はなわ「SAGA!さが」に禁止令を出していた!《女性の胸に悪質タッチ、隠し部屋だけじゃない》「週刊文春」編集部\n2026/10/14\nNEW\n「SAGA　さが　SAGA　さが　松雪泰子もさが　公表して...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792016290/",
+          "link": "http://www.2nn.jp/dqnplus/1792016290/",
+          "publishedOn": "2026-10-14T22:18:10.000Z",
+          "wordCount": 1605,
+          "title": "佐賀の山口知事が、はなわ「SAGA!さか&#12441;」に禁止令を出していた!《女性の胸に悪質タッチ、隠し部屋だけじゃない》",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792016290.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1791971665/",
           "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
           "description": "簗農水大臣が辞任　予算カット発言等めぐり引責\nフジテレビ\n2026年10月14日 水曜 午後6:45\n政治\n簗和生農水大臣は14日夜、総理官邸で高市総理大臣と面会後、記者団に対して、農水大臣を辞任する意向を表明した。...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791971665/",
@@ -11897,6 +11917,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=62526",
+          "author": "田原",
+          "description": "こんにちは、タハラ＠あつらぼです。 いよいよ10月29日（木）に本厚木ミロードイーストにオープンする「スガキヤ」から、またまた気になるニュースが発表されましたー！ 人気の「スガジロー」が復活し、本厚木ミロードイースト店では11月5日（木）か…",
+          "link": "https://atsugi-lab.com/news-sugajiro-sugakiya-202611/",
+          "publishedOn": "2026-10-14T23:00:46.000Z",
+          "wordCount": 846,
+          "title": "【話題】スガキヤの二郎系ラーメンがパワーアップして復活♪新作油そばも登場！本厚木ミロードイースト店では11月5日から販売スタート。",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/sugakiya-jiro2026.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=62476",
           "author": "fumie",
@@ -12331,6 +12361,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=320097",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「骨なしオリジナルチキン」を世界一詳しく調査しました。   […]\n投稿 【ケンタッキー】骨なしオリジナルチキン【新定番メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/kfc-original-chicken-nonenashi",
+          "publishedOn": "2026-10-15T00:24:16.000Z",
+          "wordCount": 1923,
+          "title": "【ケンタッキー】骨なしオリジナルチキン【新定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/34ece17dad8ca973dccb88de7996dd1f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=320069",
           "author": "foodfighter",
@@ -15970,6 +16010,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126920",
+          "author": null,
+          "description": "講談社BOX発のアニメ『＜物語＞シリーズ』のPOPUP STOREが、紀伊國...",
+          "link": "https://ln-news.com/articles/126920",
+          "publishedOn": "2026-10-15T00:30:00.000Z",
+          "wordCount": 281,
+          "title": "アニメ『＜物語＞シリーズ』POPUP STOREが紀伊國屋書店 天王寺ミオ店にて開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/22a4b334300d47cb8aa92a6507a1808a.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126872",
+          "author": null,
+          "description": "MF文庫J刊『ゼロの使い魔』より、ラ・ヴァリエール公爵家の三女であるルイズの...",
+          "link": "https://ln-news.com/articles/126872",
+          "publishedOn": "2026-10-14T23:00:00.000Z",
+          "wordCount": 249,
+          "title": "『ゼロの使い魔』ラ・ヴァリエール公爵家の三女であるルイズのノンスケールフィギュアが2027年5月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/bcf99739ab154d8d883c729fcbf06bde.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126911",
           "author": null,
