@@ -2983,6 +2983,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9a443fa4bd8b305520241b07e66ef35cbf97351d?source=rss",
+          "author": null,
+          "description": "京都駅ビルで伝統文化と現代アート、そしてエンターテインメントが融合したイベントが開かれています。約５００万本のコスモス見頃 秋風に揺れる姿に「心もほっこり」 兵庫・丹波市 「京都駅ビル芸術祭」は、京都",
+          "link": "https://news.yahoo.co.jp/articles/9a443fa4bd8b305520241b07e66ef35cbf97351d?source=rss",
+          "publishedOn": "2026-10-17T10:06:22.000Z",
+          "wordCount": 1631,
+          "title": "伝統文化と現代アートが融合　「京都駅ビル芸術祭」１１月３日まで(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00083104-asahibcv-000-2-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4e4c0c3500e77ab36c207e696d9aa6a40adad7e1?source=rss",
+          "author": null,
+          "description": "１７日午前、奈良県下北山村で男性がクマに襲われ、顔や腕などをかまれたり引っかかれたりして救急搬送されました。荷物用エレベーターに挟まれる 修理をしていた６７歳男性死亡 奈良・天理市 午前１１時半ごろ、",
+          "link": "https://news.yahoo.co.jp/articles/4e4c0c3500e77ab36c207e696d9aa6a40adad7e1?source=rss",
+          "publishedOn": "2026-10-17T10:06:07.000Z",
+          "wordCount": 1668,
+          "title": "山林で作業中の６０代男性がクマに襲われ負傷　周辺住民に注意呼びかけ　奈良・下北山村(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00083105-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d91c5872b920ae01dab28b8a5210eebd8f89ec52?source=rss",
           "author": null,
           "description": "ＪＲ西日本によりますと、１７日午後２時ごろ、阪和線の堺市駅～三国ヶ丘駅の間にある踏切で、下り特急電車の「はるか２９号」が、踏切内に立ち入った人と接触しました。荷物用エレベーターに挟まれる 修理をしてい",
@@ -10085,16 +10105,6 @@
           "wordCount": 2656,
           "title": "Dragonwing IQ-2390搭載の産業用小型HMIパネルとSBC",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/18/l_edn20260915edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2609/18/news046.html",
-          "author": null,
-          "description": "マイクロチップ・テクノロジーとマレリは、SDV向けディスプレイ接続ソリューションを発表した。生成した映像コンテンツを、オープン規格のASA-MLを介してディスプレイへ送信できる。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2609/18/news046.html",
-          "publishedOn": "2026-09-18T00:00:00.000Z",
-          "wordCount": 2635,
-          "title": "オープン規格のSDV向けディスプレイ接続ソリューション",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/18/cover_news046.jpg"
         }
       ]
     },
@@ -11292,16 +11302,6 @@
           "wordCount": 704,
           "title": "EU、13歳未満のSNSアカウントを禁止する「EU KIDS Act」を提案。依存促す機能にも規制",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/2d982a210507182d9ff0ae626f9266d7.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=133495",
-          "author": "Munenori Taniguchi",
-          "description": "マイクロソフトのAI責任者ムスタファ・スレイマン氏は、Anthropicが同社のAIモデル「Claude」にアイデンティティ、すなわち自我があるかのように学習させ、将来的に権利や道徳的配慮の対象となり得る存在であるかのように扱っていると、9月16日付けの自身のエッセイの中で述べた。 スレイマン氏はA […]",
-          "link": "https://gadget.phileweb.com/post-133495/",
-          "publishedOn": "2026-09-17T21:45:00.000Z",
-          "wordCount": 703,
-          "title": "AnthropicがAIに「自我があるかのように」学習させているとマイクロソフトのAI責任者が批判",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/1346229919b580094a8cc0a7541f367e.jpg"
         }
       ]
     },
@@ -12232,6 +12232,16 @@
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=320271",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]\n投稿 【松屋】バッファローチキン・ライスセット【店舗限定メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/matsuya-buffalo-chicken",
+          "publishedOn": "2026-10-17T11:19:31.000Z",
+          "wordCount": 1928,
+          "title": "【松屋】バッファローチキン・ライスセット【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/0e4d7b43365d7ed3bf3e6e53293ec87a.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=320249",
           "author": "foodfighter",
           "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「ソフトクリーム ミルク」を世界一詳しく調査しました。   […]\n投稿 【ケンタッキー】ソフトクリーム ミルク（クリスピーメープルコーン）【店舗限定メニュー】 は 進撃のグルメ に最初に表示されました。",
@@ -12888,6 +12898,66 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127584/",
+          "author": null,
+          "description": "漫画家・新井英樹氏と伝説のSMサロン「ユリイカ」オーナー・鏡ゆみこによるコミック「SPUNK スパンク！」が、𠮷田恵輔監督のメガホンで映画化されることが発表された。 2018年、1995年の原作...",
+          "link": "https://anime.eiga.com/news/127584/",
+          "publishedOn": "2026-10-17T13:00:00.000Z",
+          "wordCount": 729,
+          "title": "新井英樹×鏡ゆみこ「SPUNK スパンク！」実写映画化　監督は「映画化するなら私が！」と名乗りを上げていた𠮷田恵輔",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127641/",
+          "author": null,
+          "description": "「週刊ヤングジャンプ」（集英社刊）で連載中の漫画をテレビアニメ化する「のあ先輩はともだち。」が2027年に放送されることが決まり、第1弾キービジュアルが公開された。あわせてメインキャストも発表さ...",
+          "link": "https://anime.eiga.com/news/127641/",
+          "publishedOn": "2026-10-17T12:00:00.000Z",
+          "wordCount": 774,
+          "title": "「のあ先輩はともだち。」27年に放送決定　のあ先輩役は川口莉奈、理人役は井藤智哉",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127676/",
+          "author": null,
+          "description": "テレビアニメ「ワンパンマン」第3期の第2クールが2027年1月から放送されることが決まり、キービジュアルとPV第1弾（https://youtu.be/VR9MRmP2GF8）が公開された。 オ...",
+          "link": "https://anime.eiga.com/news/127676/",
+          "publishedOn": "2026-10-17T11:00:00.000Z",
+          "wordCount": 757,
+          "title": "「ワンパンマン」第3期・第2クール、27年1月放送開始　JAM ProjectがOP主題歌続投",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127674/",
+          "author": null,
+          "description": "人気キャラクター「ちいかわ」とANAがコラボレーションしたオリジナルグッズの第1弾が10月23日より順次発売される。 コラボグッズは、特別デザイン機「ちいかわジェット」の就航を記念して発売され、...",
+          "link": "https://anime.eiga.com/news/127674/",
+          "publishedOn": "2026-10-17T10:00:00.000Z",
+          "wordCount": 772,
+          "title": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売　制服姿のちいかわたちをデザイン",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127671/",
           "author": null,
@@ -15891,6 +15961,16 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126977",
+          "author": null,
+          "description": "ビーズログ文庫発のアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってし...",
+          "link": "https://ln-news.com/articles/126977",
+          "publishedOn": "2026-10-17T10:00:00.000Z",
+          "wordCount": 235,
+          "title": "アニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』第3話「乙女ゲーの舞台に入学!?」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/d518ceef8ed742d8aee59815244887df.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126931",
           "author": null,
           "description": "HJ文庫刊『でっかいギャルとちっちゃいギャルが失恋した俺の新居に入り浸ってい...",
@@ -18689,26 +18769,6 @@
           "wordCount": 272,
           "title": "HJノベルス2026年9月刊行のラインナップをご紹介。『ウォルテニア戦記33』『神達に拾われた男19』など7冊",
           "imageUrl": "https://assets.ln-news.com/images/medias/06c9b65945204e8ea20e94978d84882a.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126670",
-          "author": null,
-          "description": "カドカワBOOKS刊『日本国召喚』最新7巻が、「BOOK☆WALKER」にて...",
-          "link": "https://ln-news.com/articles/126670",
-          "publishedOn": "2026-09-18T00:30:00.000Z",
-          "wordCount": 239,
-          "title": "『日本国召喚』最新7巻がBOOK☆WALKERにて先行配信開始　電子書籍の割引セールも開催中",
-          "imageUrl": "https://assets.ln-news.com/images/medias/f2b3d0e541cb4397911441b5853cb3a9.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126688",
-          "author": null,
-          "description": "カドカワBOOKS発のアニメ『目覚めたら最強装備と宇宙船持ちだったので、一戸...",
-          "link": "https://ln-news.com/articles/126688",
-          "publishedOn": "2026-09-17T23:00:00.000Z",
-          "wordCount": 290,
-          "title": "アニメ『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』は2026年10月4日（日）より放送開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/2b7e894975f34f30b6f0bb79aea5dbdb.jpg"
         }
       ]
     },
@@ -18757,6 +18817,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UtvKDeB5Ggw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UtvKDeB5Ggw",
+          "publishedOn": "2026-10-17T12:54:10.000Z",
+          "wordCount": null,
+          "title": "ジェラードン「マジックバー」【キングオブコント決勝披露ネタ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vvIuQD2Rs3c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vvIuQD2Rs3c",
+          "publishedOn": "2026-10-17T12:53:34.000Z",
+          "wordCount": null,
+          "title": "ジェラードン「酔っ払い」【キングオブコント披露ネタ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=yvKtmyjSTmk",
           "author": null,
@@ -18928,6 +19008,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RasqzZSSfws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RasqzZSSfws",
+          "publishedOn": "2026-10-17T11:01:00.000Z",
+          "wordCount": null,
+          "title": "遊びに来た友達と仲良くお散歩してる猫が可愛すぎました笑",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XrNjkBUDE-U",
           "author": null,
@@ -19514,16 +19604,6 @@
           "wordCount": 2749,
           "title": "私はいつからお笑い芸人になったんだろう",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-31.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13516",
-          "author": "watanabe@logipara.com",
-          "description": "昨晩は飲みにいったのですが、いちばんメニュー数の少ない「お手軽コース」にしてなお量が多く、最後の土鍋ご飯の大半をおにぎりにしてもらったのに、そのあまりのご飯にも箸がのびず、このまま霞を食べて生きる仙人になれるんじゃないか […]",
-          "link": "https://logipara.com/diary-text/2026-09-18/",
-          "publishedOn": "2026-09-18T00:08:55.000Z",
-          "wordCount": 2732,
-          "title": "食欲",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
