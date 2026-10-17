@@ -2983,6 +2983,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d91c5872b920ae01dab28b8a5210eebd8f89ec52?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、１７日午後２時ごろ、阪和線の堺市駅～三国ヶ丘駅の間にある踏切で、下り特急電車の「はるか２９号」が、踏切内に立ち入った人と接触しました。荷物用エレベーターに挟まれる 修理をしてい",
+          "link": "https://news.yahoo.co.jp/articles/d91c5872b920ae01dab28b8a5210eebd8f89ec52?source=rss",
+          "publishedOn": "2026-10-17T05:51:12.000Z",
+          "wordCount": 1650,
+          "title": "【速報】ＪＲ阪和線の天王寺駅ー熊取駅で運転見合わせ　踏切で人身事故(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00083103-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/737a68ba49260e4e17906b1e8a77bbd386e49fe4?source=rss",
           "author": null,
           "description": "「厄よけの寺」として知られる徳島県美波町の薬王寺で、来年の初詣向けのお札作りが本格化しています。明治から続く老舗「奈良ホテル」が国の重要文化財に 上皇ご夫妻やアインシュタインなど数多くの皇族や賓客迎え",
@@ -7760,6 +7770,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cqe8l3z8jxrro#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領は16日、ウクライナが利用している米スペースXの衛星通信サービス「スターリンク」の軍用版「スターシールド」について、アクセスを制限していないと述べた。スターシールドは、接続維持が可能なドローンの速度を制限し、ロシアの攻撃に対するウクライナの防衛能力を損ねたとされている。",
+          "link": "https://www.bbc.com/japanese/articles/cqe8l3z8jxrro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-17T05:35:27.000Z",
+          "wordCount": 1816,
+          "title": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cx240v6dzggyo#0",
           "author": null,
           "description": "中国外務省は16日、王外相がイスラエルに対し、パレスチナ・ヨルダン川西岸地区における入植地の「強制的な建設」を中止し、その行動を撤回するよう求めたと発表した。王氏は15日、アゼルバイジャンで開催された会議の傍らで行われたイスラエルのヘルツォグ大統領との会談で、「パレスチナ問題は今世紀最大の歴史的不正義だ」と述べた。",
@@ -11788,6 +11808,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=62570",
+          "author": "shino",
+          "description": "こんにちは、しの＠あつらぼです。 10月も後半に入り、厚木市内では楽しいイベントが続々と開催されますよ～！ 家族で楽しめるイベントから、グルメ好きにはたまらないイベントまで盛りだくさん！ 早速ご紹介します♪ 【厚木ガス ガス展2026】10…",
+          "link": "https://atsugi-lab.com/topic-atsugi-autumn-event-202610/",
+          "publishedOn": "2026-10-17T09:29:20.000Z",
+          "wordCount": 872,
+          "title": "【イベント】10月23日～25日は秋のお出かけにぴったりなイベントが盛りだくさん♪厚木イベント情報まとめ。",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/ae202610-2.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=61901",
           "author": "fumie",
           "description": "美味しいお酒とおつまみが楽しめるお店、大好きー♡呑兵衛集団・厚木らぼ編集部のふみえ＠あつらぼです。 今回は、ランチが大人気の「BOON（ブーン）」さんが、 夜はメニューもガラッと変わり、また違う雰囲気ですよー♡との情報を頂き、気になってディ…",
@@ -12858,6 +12888,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127671/",
+          "author": null,
+          "description": "山崎貴が「ゴジラ－1.0」に続き監督・脚本・VFXを務める最新作「ゴジラ－0.0」のポップコーンバケツを見た山崎監督のリアクションが、GODZILLA公式Xに投稿された。 巨大なゴジラのポップコ...",
+          "link": "https://anime.eiga.com/news/127671/",
+          "publishedOn": "2026-10-17T09:00:00.000Z",
+          "wordCount": 690,
+          "title": "「ゴジラ-0.0」のポップコーンバケツを見た山崎貴監督が「やってる人が頭おかしい」と大興奮　日本でも発売予定",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127665/",
           "author": null,
@@ -15846,6 +15891,26 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126931",
+          "author": null,
+          "description": "HJ文庫刊『でっかいギャルとちっちゃいギャルが失恋した俺の新居に入り浸ってい...",
+          "link": "https://ln-news.com/articles/126931",
+          "publishedOn": "2026-10-17T08:30:00.000Z",
+          "wordCount": 232,
+          "title": "『でっかいギャルとちっちゃいギャルが失恋した俺の新居に入り浸っている』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/c548443d199a449dbeeb98ce92759cec.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126902",
+          "author": null,
+          "description": "KAエスマ文庫発のアニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』のイベント...",
+          "link": "https://ln-news.com/articles/126902",
+          "publishedOn": "2026-10-17T07:00:00.000Z",
+          "wordCount": 227,
+          "title": "アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』× 東京タワーのコラボイベントが開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/ae883145fdd94d0091d7acb7c6e3000d.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126964",
           "author": null,
           "description": "GAノベル発のアニメ『冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができ...",
@@ -18644,16 +18709,6 @@
           "wordCount": 290,
           "title": "アニメ『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』は2026年10月4日（日）より放送開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/2b7e894975f34f30b6f0bb79aea5dbdb.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126652",
-          "author": null,
-          "description": "DREノベルス刊『魔物使いの娘』のコミカライズ連載が、「ドリコミ＋」にて開始...",
-          "link": "https://ln-news.com/articles/126652",
-          "publishedOn": "2026-09-17T21:00:00.000Z",
-          "wordCount": 233,
-          "title": "『魔物使いの娘』のコミカライズ連載が開始　伝説の魔女の末裔と歩む面倒で素敵な旅路",
-          "imageUrl": "https://assets.ln-news.com/images/medias/1303b15dcce647dfb73da9161dc6ebe7.jpg"
         }
       ]
     },
@@ -18678,28 +18733,7 @@
       "title": "GRe4N BOYZ",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5jLCyltbnart3k4iLFQvZg",
       "siteUrl": "https://www.youtube.com/channel/UC5jLCyltbnart3k4iLFQvZg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Z-R-cDwceGc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Z-R-cDwceGc",
-          "publishedOn": "2026-09-17T15:00:26.000Z",
-          "wordCount": null,
-          "title": "GRe4N BOYZ「ウタウタイタイ」Album Sampler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/yJ3c_pgjCHw",
-          "author": null,
-          "description": "様々なアーティストなどへ楽曲提供をしてきた曲をGRe4N BOYZ自身が歌唱する9/18（金）配信リリースセルフカバーアルバム『#ウタウタイタイ』🎤収録曲の中からMIGOPPER!さんへの楽曲提供曲「ウタウタイ」を少しだけお届け🎼配信予約はこちら⬇️https://gre4nboyz.lnk.to/UTAU-...",
-          "link": "https://www.youtube.com/shorts/yJ3c_pgjCHw",
-          "publishedOn": "2026-09-17T11:40:10.000Z",
-          "wordCount": 3268,
-          "title": "【ウタウタイ】9/18（金）配信リリースセルフカバーアルバム『#ウタウタイタイ』🎤　収録曲の中からMIGOPPER!さんへの楽曲提供曲「ウタウタイ」を少しだけお届け🎼",
-          "imageUrl": "https://i.ytimg.com/vi/yJ3c_pgjCHw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCns0HPy-PrMU-bU4PhY627k7WGpw&usqp=CCk"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Kenshi Yonezu  米津玄師",
@@ -18780,6 +18814,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzwmnBXo5oIW4PI7vo8KDw",
       "siteUrl": "https://www.youtube.com/channel/UCYzwmnBXo5oIW4PI7vo8KDw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=NIEFc4UR504",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NIEFc4UR504",
+          "publishedOn": "2026-10-17T09:00:38.000Z",
+          "wordCount": null,
+          "title": "自宅の物置を大改造してサウナを設置するゴイゴイスー！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XHm4tyZaOlM",
           "author": null,
@@ -18875,16 +18919,6 @@
           "publishedOn": "2026-09-24T11:00:07.000Z",
           "wordCount": null,
           "title": "【異常行動】600kmの大移動…その先に待っていたのは柴犬の異常な程の癖でした",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SlyICQJH9Js",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SlyICQJH9Js",
-          "publishedOn": "2026-09-17T11:00:11.000Z",
-          "wordCount": null,
-          "title": "【許しません】連日豪雨の中、柴犬の一撃で冷たい水に突き落とされた結果…",
           "imageUrl": null
         }
       ]
@@ -19182,16 +19216,6 @@
           "publishedOn": "2026-09-18T11:01:15.000Z",
           "wordCount": null,
           "title": "朝から毛繕いされてありがた迷惑なはなちゃんw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ev3zD_TIvlw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ev3zD_TIvlw",
-          "publishedOn": "2026-09-17T11:01:09.000Z",
-          "wordCount": null,
-          "title": "変なダンスを踊らされて不服な猫が可愛すぎましたwww",
           "imageUrl": null
         }
       ]
