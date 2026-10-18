@@ -2704,16 +2704,6 @@
           "wordCount": 8646,
           "title": "「Fate/EXTRA Record」，ワダアルコ氏が描き下ろした店舗特典イラストを公開。特典デザインもお披露目",
           "imageUrl": "https://www.4gamer.net/games/520/G052062/20260919014/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/520/G052062/20260918028/",
-          "author": null,
-          "description": "千葉県の幕張メッセで現在開催されている東京ゲームショウ2026のアニプレックスブースでは，2027年1月28日に発売予定のRPG「Fate/EXTRARecord」の試遊台が設置されている。本稿では，この出展に合わせて開催されたメディアブリーフィングの模様をお伝えする。",
-          "link": "https://www.4gamer.net/games/520/G052062/20260918028/",
-          "publishedOn": "2026-09-19T00:00:00.000Z",
-          "wordCount": 8833,
-          "title": "システムを一新し，モダンなRPGとして新生する「Fate/EXTRA Record」。メディアブリーフィングで明らかとなった情報をまとめて紹介［TGS2026］",
-          "imageUrl": "https://www.4gamer.net/games/520/G052062/20260918028/SS/012.webp"
         }
       ]
     },
@@ -2722,6 +2712,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/0e7c303de5d1f1bd946154d68d53468ce5c7a2c0?source=rss",
+          "author": null,
+          "description": "沖縄県名護市の辺野古沖で船が転覆し、同志社国際高校の女子生徒ら２人が死亡した事故で、女子生徒の遺族が現場近くで花を手向けました。沖縄・辺野古沖船転覆事故 亡くなった女子生徒の遺族が沖縄県知事と事故以来",
+          "link": "https://news.yahoo.co.jp/articles/0e7c303de5d1f1bd946154d68d53468ce5c7a2c0?source=rss",
+          "publishedOn": "2026-10-18T09:37:57.000Z",
+          "wordCount": 1633,
+          "title": "辺野古沖船転覆事故　女子生徒の遺族が現場近くの浜辺で献花(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00083113-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/260860b6335b87e1793815f11fc23ee2d55bd4a8?source=rss",
+          "author": null,
+          "description": "秋篠宮家の次女・佳子さまが、京都で開かれた聴覚障害がある人たちの交流会に出席されました。大阪城の天守閣を重要文化財に指定へ 「再建手法の先がけとして価値が高い」 京都・建仁寺の法堂も 佳子さまは、難聴",
+          "link": "https://news.yahoo.co.jp/articles/260860b6335b87e1793815f11fc23ee2d55bd4a8?source=rss",
+          "publishedOn": "2026-10-18T09:37:57.000Z",
+          "wordCount": 1645,
+          "title": "佳子さま　聴覚障害ある人たちとの交流会にご出席　京都(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00083112-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9ee12314f4d80b11c9b2746e2a3cffd251fd1346?source=rss",
           "author": null,
@@ -9178,16 +9188,6 @@
           "wordCount": 1967,
           "title": "トランプ氏、CNNなど3社をホワイトハウスから「締め出す」と",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cqkgxe9xpx23o#0",
-          "author": null,
-          "description": "アメリカとデンマークは18日、北極圏にあるデンマーク自治領グリーンランドの安全保障をめぐり合意した。グリーンランドをめぐっては、ドナルド・トランプ米大統領が武力で併合するなどと脅して外交的対立に発展していたが、これが収束することになった。正式な合意内容が公表されていないため、今回の合意がアメリカとデンマークの間に既に結ばれていた協定とどう違うのかは不明だ。",
-          "link": "https://www.bbc.com/japanese/articles/cqkgxe9xpx23o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-19T01:33:03.000Z",
-          "wordCount": 1900,
-          "title": "アメリカとデンマーク、グリーンランドの安全保障めぐり合意　トランプ氏が武力併合を脅した末",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg"
         }
       ]
     },
@@ -10752,16 +10752,6 @@
           "wordCount": 748,
           "title": "Rokidから新AIグラス登場、画面を省いて軽くなった「Style」。実機ハンズオン",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/bc1fc12187b7d20d8d86a37961bb7aaa.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=133606",
-          "author": "佐野正弘",
-          "description": "2026年9月10日、米アップルが同社初の折りたたみスマートフォン「iPhone Duo」を発表したことが大きな話題となった。詳細は既に本誌でも多く取り上げられているので割愛するが、もう1つ大きな関心を呼んだのはやはり価格だろう。 こちらも既に多く取り上げられている通り、iPhone DuoはApp […]",
-          "link": "https://gadget.phileweb.com/post-133606/",
-          "publishedOn": "2026-09-18T22:00:00.000Z",
-          "wordCount": 767,
-          "title": "高すぎるハイエンドと進化しないミドル、メモリ高騰で厳しさ増すスマホメーカーの秋",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/db414cdfcb53e71e4b1f7806e0510290.jpg"
         }
       ]
     },
@@ -10770,6 +10760,16 @@
       "feedUrl": "https://www.2nn.jp/rss/dqnplus.rdf",
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
+        {
+          "id": "http://www.2nn.jp/dqnplus/1792323121/",
+          "author": "朝一から閉店までφ ★",
+          "description": "(埼玉)越谷市蒲生東町で下半身露出　10月15日\n2026/10/16\n埼玉県警によると、10月15日午後5時55分頃、越谷市蒲生東町の路上で、下半身露出が発生しました。(実行者の特徴:男性、20～30歳)■発生時の状況\n・上...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792323121/",
+          "link": "http://www.2nn.jp/dqnplus/1792323121/",
+          "publishedOn": "2026-10-18T11:32:01.000Z",
+          "wordCount": 1574,
+          "title": "上半身裸で、下半身を出しているのが目撃された。",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792323121.jpg"
+        },
         {
           "id": "http://www.2nn.jp/dqnplus/1792290858/",
           "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
@@ -11702,6 +11702,16 @@
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=320295",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「ソフトクリーム ショコラ（チョコ）」を世界一詳しく調査しました。  […]\n投稿 【ケンタッキー】ソフトクリーム ショコラ（チョコ）【店舗限定メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/kfc-soft-cream-chocolate",
+          "publishedOn": "2026-10-18T09:50:31.000Z",
+          "wordCount": 1914,
+          "title": "【ケンタッキー】ソフトクリーム ショコラ（チョコ）【店舗限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/a429d43f1e8fac3c7203c0f27ffe1a2f.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=320271",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]\n投稿 【松屋】バッファローチキン・ライスセット【店舗限定メニュー】 は 進撃のグルメ に最初に表示されました。",
@@ -12330,16 +12340,6 @@
           "wordCount": 1921,
           "title": "【松屋】てりたまハンバーグ・ライスセット【店舗限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/23f0b2aa9ab79d9e988a69dba0795ab0.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318598",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しまし […]",
-          "link": "https://foodfighter.jp/matsunoya-aji",
-          "publishedOn": "2026-09-18T22:34:44.000Z",
-          "wordCount": 1933,
-          "title": "【松のや】アジフライ定食【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/67f1993d06a79e348ee892a803d5578c.jpg"
         }
       ]
     },
@@ -12348,6 +12348,51 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127624/",
+          "author": null,
+          "description": "25年にわたり根強い支持を集めてきた特撮SFアクション「時空警察ヴェッカー」シリーズの映画製作（2027年公開予定）と、映画の続編として舞台公演が行われることがわかった。 2001年の誕生以来、...",
+          "link": "https://anime.eiga.com/news/127624/",
+          "publishedOn": "2026-10-18T13:00:00.000Z",
+          "wordCount": 682,
+          "title": "25周年プロジェクト発進　「時空警察ヴェッカー」映画制作＆舞台公演が決定",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127658/",
+          "author": null,
+          "description": "アニメ「メイドインアビス」の劇場版シリーズの第1部「メイドインアビス 目覚める神秘」の1週目入場特典として、10月23～29日に「つくしあきひと先生描きおろしミニ色紙」が配布される（全2種からラ...",
+          "link": "https://anime.eiga.com/news/127658/",
+          "publishedOn": "2026-10-18T11:00:00.000Z",
+          "wordCount": 776,
+          "title": "「メイドインアビス　目覚める神秘」入場特典はミニ色紙　“観る入場特典”として「ひめさま日記」がミニアニメ化",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127661/",
+          "author": null,
+          "description": "2027年1～2月に東京・京都で上演される「『HUNTER×HUNTER』THE STAGE 4」の、出演者を含む全情報が明らかになった。公演PV（https://youtu.be/lVK9K_...",
+          "link": "https://anime.eiga.com/news/127661/",
+          "publishedOn": "2026-10-18T10:00:00.000Z",
+          "wordCount": 876,
+          "title": "「HUNTER×HUNTER」新作舞台、メルエム役は佐藤流司　キメラアント陣営は若月佑美、真田理希らも出演【全情報発表】",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127672/",
           "author": null,
@@ -15351,6 +15396,16 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126968",
+          "author": null,
+          "description": "Mノベルスf発のアニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』第3...",
+          "link": "https://ln-news.com/articles/126968",
+          "publishedOn": "2026-10-18T10:00:00.000Z",
+          "wordCount": 220,
+          "title": "アニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』第3話「紅茶の香る魔女の歌」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/c4470060e9764829ad4ccf0e4a6b2cbb.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126945",
           "author": null,
           "description": "ツギクルブックス刊『私のことはどうぞお気遣いなく、これまで通りにお過ごしくだ...",
@@ -18139,26 +18194,6 @@
           "wordCount": 224,
           "title": "第9回ビーズログ小説大賞の三次選考通過作品が発表",
           "imageUrl": "https://assets.ln-news.com/images/medias/f88975bd0e454500a093310bf5bffd58.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126691",
-          "author": null,
-          "description": "2026年9月17日に発売されたnovel スピラ9月刊行のラインナップ1冊...",
-          "link": "https://ln-news.com/articles/126691",
-          "publishedOn": "2026-09-19T00:30:00.000Z",
-          "wordCount": 217,
-          "title": "novel スピラ2026年9月刊行のラインナップをご紹介。『さようなら、レオン様！ ～婚約破棄を告げたら、元婚約者が必死によりを戻そうとしてきます～』の1冊",
-          "imageUrl": "https://assets.ln-news.com/images/medias/449a145fd9c54c2b8345a03474c45602.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126541",
-          "author": null,
-          "description": "エンターブレイン単行本『オーバーロード』より、バニー姿のユリ・アルファの1／...",
-          "link": "https://ln-news.com/articles/126541",
-          "publishedOn": "2026-09-18T23:00:00.000Z",
-          "wordCount": 229,
-          "title": "『オーバーロード』バニー姿のユリ・アルファ1／4スケールフィギュアが2027年3月発売",
-          "imageUrl": "https://assets.ln-news.com/images/medias/9c1efb04536f47268c309e12f3e5004d.jpg"
         }
       ]
     },
@@ -18377,6 +18412,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yNJlAcbdArk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yNJlAcbdArk",
+          "publishedOn": "2026-10-18T11:01:37.000Z",
+          "wordCount": null,
+          "title": "大好きな友達が帰ろうとしたら猫がこうなっちゃいました…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RasqzZSSfws",
           "author": null,
@@ -18675,6 +18720,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=13628",
+          "author": "watanabe@logipara.com",
+          "description": "昨日は、知人が会員制の飲食店を貸し切ったとのことで、誘われて行ってきました。 「会員制」「貸し切り」だけでもう、私には敷居 is highな雰囲気をビンビンに感じます。 隅っこで息をひそめ、ついばむようにビールを飲んでき […]",
+          "link": "https://logipara.com/diary-text/2026-10-19/",
+          "publishedOn": "2026-10-18T12:36:09.000Z",
+          "wordCount": 2751,
+          "title": "オシャレ飲食店はとことんオシャレ",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image-18.png"
+        },
+        {
           "id": "https://logipara.com/?p=13626",
           "author": "watanabe@logipara.com",
           "description": "昨晩は飲み会にお呼ばれしまして、センスのいいお料理をしこたま食べてきました。 店内貸し切りで、家族連れで参加した方がいたのですが、 「〇〇くんはキャビアが好き」 みたいな会話を5歳児としていて、5歳で……キャビア……と5 […]",
@@ -18963,16 +19018,6 @@
           "wordCount": 2742,
           "title": "患部の写真",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13518",
-          "author": "watanabe@logipara.com",
-          "description": "なぜ？？？",
-          "link": "https://logipara.com/diary-text/2026-09-19/",
-          "publishedOn": "2026-09-19T01:16:23.000Z",
-          "wordCount": 2749,
-          "title": "私はいつからお笑い芸人になったんだろう",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/09/image-31.png"
         }
       ]
     },
