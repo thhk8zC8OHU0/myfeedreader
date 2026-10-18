@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/601/G060128/20261016073/",
+          "author": null,
+          "description": "フリューは本日（2026年10月18日），アクションRPG「CRYSTAR-クライスタ-」の発売8周年記念セールとプレゼントキャンペーンの開催を発表した。期間中はNintendoSwitch版が過去最安値の288円（95％オフ）となり，デジタルアートブック付き版も500円で購入できる。",
+          "link": "https://www.4gamer.net/games/601/G060128/20261016073/",
+          "publishedOn": "2026-10-18T09:00:00.000Z",
+          "wordCount": 8318,
+          "title": "Switch版「CRYSTAR -クライスタ-」が95％オフの288円！ 発売8周年記念セールを開催。アートブック付き版も500円で買える",
+          "imageUrl": "https://www.4gamer.net/games/601/G060128/20261016073/SS/003.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/811/G081131/20261017003/",
           "author": null,
           "description": "スクウェア・エニックスは2026年10月16日，山手線を巡る周遊型リアル謎解きゲーム「ロマンシングサガ2リベンジオブザセブン円環のにゃにゃ英雄poweredbyCatrip山手線」を発売した。プレイヤーは皇帝となり，新宿駅を起点に山手線沿線の各駅を巡りながら，七英雄にまつわる謎解きに挑戦する。",
@@ -11683,16 +11693,6 @@
           "wordCount": 4577,
           "title": "DPReview article on LOFIC",
           "imageUrl": null
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/09/isscc-2027-late-breaking-industry-news.html",
-          "author": null,
-          "description": "ISSCC 2027 is introducing a new Late Breaking News session to provide an opportunity for companies to showcase significant product announcements that missed the regular ISSCC submission deadline. This new session will feature four industry papers describing production-grade chips or IP blocks incorporated into products launching in 2027.\nPlease register your intention to submit by uploading a paper title and a short abstract by October 7, 2026 using the submission site below. The final manuscript is due by December 1, 2026, after which papers will undergo an expedited review process, with acceptance notifications issued on December 9, 2026. This track is limited to four accepted papers and is reserved exclusively for production-grade industry submissions covering products launching in 2027.\nThe submission site and key dates are summarized below.\nSubmission Site\nhttps://submissions.mirasmart.com/ISSCC2027\n\nKey Dates\n    October 7, 2026 — Intent-to-submit deadline\n    December 1, 2026 — Paper submission deadline (camera-ready format)\n    December 9, 2026 — Industry committee review and selection; notifications sent for the four accepted papers\n    December 14, 2026 — Final accepted papers approved by the ISSCC Editorial Team\n    December 14, 2026 — Session summary due for the Advanced Program",
-          "link": "https://image-sensors-world.blogspot.com/2026/09/isscc-2027-late-breaking-industry-news.html",
-          "publishedOn": "2026-09-18T17:32:17.086Z",
-          "wordCount": 3956,
-          "title": "ISSCC 2027 Late Breaking Industry News",
-          "imageUrl": null
         }
       ]
     },
@@ -12348,6 +12348,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127672/",
+          "author": null,
+          "description": "劇場アニメ「機動戦士ガンダム 閃光のハサウェイ キルケーの魔女」が、12月11日から全国の劇場で再上映されることが分かった（2週間限定）。再上映では、配信およびブルーレイ収録版の本編映像が劇場用...",
+          "link": "https://anime.eiga.com/news/127672/",
+          "publishedOn": "2026-10-18T09:00:00.000Z",
+          "wordCount": 777,
+          "title": "「機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女」12月11日から再上映　上映劇場でブルーレイを先行販売",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127556/",
           "author": null,
@@ -15336,6 +15351,36 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/126945",
+          "author": null,
+          "description": "ツギクルブックス刊『私のことはどうぞお気遣いなく、これまで通りにお過ごしくだ...",
+          "link": "https://ln-news.com/articles/126945",
+          "publishedOn": "2026-10-18T08:30:00.000Z",
+          "wordCount": 215,
+          "title": "『私のことはどうぞお気遣いなく、これまで通りにお過ごしください。』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/5081ef5b0ea242a3870fc6921d719f87.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126667",
+          "author": null,
+          "description": "電撃文庫発のアニメ『レプリカだって、恋をする。』より、香水の輸入販売を手がけ...",
+          "link": "https://ln-news.com/articles/126667",
+          "publishedOn": "2026-10-18T07:00:00.000Z",
+          "wordCount": 242,
+          "title": "『レプリカだって、恋をする。』ナオと愛川素直をイメージした香水が登場",
+          "imageUrl": "https://assets.ln-news.com/images/medias/99d0884b991f40279ada3694c627704d.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126970",
+          "author": null,
+          "description": "ビーズログ文庫発のアニメ『茉莉花官吏伝』より、暁月＆蕗莉杏のキャラクター解禁...",
+          "link": "https://ln-news.com/articles/126970",
+          "publishedOn": "2026-10-18T05:30:00.000Z",
+          "wordCount": 272,
+          "title": "アニメ『茉莉花官吏伝』暁月＆蕗莉杏のキャラクター解禁ビジュアルが公開　追加キャストに佐藤拓也さん、河野ひよりさん",
+          "imageUrl": "https://assets.ln-news.com/images/medias/1df3175e155a4a3b98190029bee6ae18.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126982",
           "author": null,
           "description": "先週（2026年10月11日～2026年10月17日）にオフィシャル告知のあ...",
@@ -18114,16 +18159,6 @@
           "wordCount": 229,
           "title": "『オーバーロード』バニー姿のユリ・アルファ1／4スケールフィギュアが2027年3月発売",
           "imageUrl": "https://assets.ln-news.com/images/medias/9c1efb04536f47268c309e12f3e5004d.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126625",
-          "author": null,
-          "description": "電撃の新文芸刊『大迷宮のあとしまつ ～ダンジョン清掃員のおじさん、強すぎて知...",
-          "link": "https://ln-news.com/articles/126625",
-          "publishedOn": "2026-09-18T21:00:00.000Z",
-          "wordCount": 226,
-          "title": "『大迷宮のあとしまつ ～ダンジョン清掃員のおじさん、強すぎて知らないうちにバズってしまう～』のコミカライズ連載がcomicグラスト128号にて開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/583752bcc99c41808bb6f749b6c4e99a.jpg"
         }
       ]
     },
@@ -18220,16 +18255,6 @@
           "wordCount": 2992,
           "title": "強制的に魔法少女に変身させられるおっさん【ジェラードン】",
           "imageUrl": "https://i.ytimg.com/vi/Zm6-vAP_6Ls/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCuTSieK_t5mU8p0inP3oKE-Pk6RQ&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VaFkozdb-Z4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VaFkozdb-Z4",
-          "publishedOn": "2026-09-18T14:43:41.000Z",
-          "wordCount": null,
-          "title": "【作業用】恋愛ゲームシリーズ",
-          "imageUrl": null
         }
       ]
     },
@@ -18640,16 +18665,6 @@
           "publishedOn": "2026-09-19T11:01:12.000Z",
           "wordCount": null,
           "title": "大好きなぬいぐるみを抱っこして離さない猫が可愛すぎましたw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AyWI-EJIHUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AyWI-EJIHUg",
-          "publishedOn": "2026-09-18T11:01:15.000Z",
-          "wordCount": null,
-          "title": "朝から毛繕いされてありがた迷惑なはなちゃんw",
           "imageUrl": null
         }
       ]
