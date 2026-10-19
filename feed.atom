@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T14:16:40.906Z</updated>
+    <updated>2026-10-19T20:02:58.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近鉄橿原線　運転再開(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6338b2350f1479f1e41cab9e516a19443c5e2a61?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6338b2350f1479f1e41cab9e516a19443c5e2a61?source=rss"/>
+        <updated>2026-10-19T15:48:20.000Z</updated>
+        <summary type="html"><![CDATA[近畿日本鉄道によりますと、１９日午後１０時半ごろに起きた人身事故の影響で、橿原線の大和西大寺駅と平端駅の間で列車の運転を一時見合わせていましたが、１９日午後１１時５９分に運転を再開したということです。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・十三の１１階建てマンションで火災　９１歳の男性が重傷「魚を焼いている最中に寝落ち」(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/9b79ac7f66ce51c462ac1a0afe17752cd1c7db24?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/9b79ac7f66ce51c462ac1a0afe17752cd1c7db24?source=rss"/>
+        <updated>2026-10-19T14:48:32.000Z</updated>
+        <summary type="html"><![CDATA[１９日午後７時ごろ、大阪市淀川区の集合住宅で火事があり、９１歳の男性が病院に搬送されました。男性は全身にやけどを負う重傷です。 警察と消防によりますと、１９日午後７時ごろ、大阪市淀川区の集合住宅の一室]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近鉄橿原線で運転見合わせ　再開は午前０時頃の見込み(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e48912efd11eb31a4d20b5d900eeede631009018?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e48912efd11eb31a4d20b5d900eeede631009018?source=rss"/>
+        <updated>2026-10-19T14:32:05.000Z</updated>
+        <summary type="html"><![CDATA[近畿日本鉄道によりますと、１９日午後１０時半ごろに起きた人身事故の影響で、橿原線の大和西大寺駅から平端駅の間の上下線で、運転見合わせとなっています。運転再開は午前０時ごろの見込みです]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おにぎりの包装フィルム「他人の家屋の駐車場に捨てた」 容疑で57歳の男逮捕 神戸]]></title>
         <id>http://www.2nn.jp/dqnplus/1792415557/</id>
@@ -18371,162 +18401,6 @@ LOFIC stands for Lateral OverFlow Integration Capacitor and is a different way o
         <summary type="html"><![CDATA[コンピュータエンターテインメント協会（CESA）は2026年9月20日，「日本ゲーム大賞2026」フューチャー部門の受賞10作品を発表した。「ファイナルファンタジーVIIリベレーション」や「ペルソナ4リバイバル」などが名を連ねている。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「転生エルフ」27年1月放送開始　寿命1000年のエルフが生きた証を残すことを決意する第1話冒頭映像を公開]]></title>
-        <id>https://anime.eiga.com/news/127494/</id>
-        <link href="https://anime.eiga.com/news/127494/"/>
-        <updated>2026-09-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる」（略称「転生エルフ」）が、2027年1月からスタートすることが分かった。 同作は、榎原モンショー氏によるライトノベ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『猫と竜』第2期制作決定　2027年放送開始＆特報PVも公開]]></title>
-        <id>https://ln-news.com/articles/126726</id>
-        <link href="https://ln-news.com/articles/126726"/>
-        <updated>2026-09-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[宝島社発のアニメ『猫と竜』の第2期制作が決定した。本作は猫に育てられた竜、猫...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Castlevania: Belmont's Curse」体験版，10月1日から順次配信。セーブデータは製品版に引き継ぎ可能［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/983/G098352/20260920028/</id>
-        <link href="https://www.4gamer.net/games/983/G098352/20260920028/"/>
-        <updated>2026-09-20T06:58:48.000Z</updated>
-        <summary type="html"><![CDATA[KONAMIは，「Castlevania:Belmont'sCurse」の体験版を10月1日から順次配信すると発表した。セーブデータは製品版に引き継ぎ可能で，プレイ動画やスクリーンショットの投稿に関するガイドラインも公開されている。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch2「Stellar Blade コンプリートエディション」の体験版が，本日配信開始［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/035/G103535/20260920026/</id>
-        <link href="https://www.4gamer.net/games/035/G103535/20260920026/"/>
-        <updated>2026-09-20T06:29:02.000Z</updated>
-        <summary type="html"><![CDATA[2026年11月6日に発売予定のSwitch2用ソフト「StellarBladeコンプリートエディション」の体験版配信が，ニンテンドーeショップにて本日（2026年9月20日）スタートした。またTGS2026のセガブースでは，本作の生みの親であるキム・ヒョンテ氏をゲストに迎えたステージイベントも行われている。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Stellar Blade」はコンプリートしたあともまだ続く！？　Switch2版出展で来日したキム・ヒョンテ氏にインタビュー［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/035/G103535/20260919019/</id>
-        <link href="https://www.4gamer.net/games/035/G103535/20260919019/"/>
-        <updated>2026-09-20T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[現在開催中の東京ゲームショウ2026に，Switch2「StellarBladeコンプリートエディション」が出展されている。本作について，開発元SHIFTUPでCEOを務めるキム・ヒョンテ氏にインタビューを行う機会を得たので，改めて主人公イヴのデザインなどを振り返ってもらった。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1冊からでも回答募集！ ラノベニュースオンラインアワード2026年8月刊のアンケート投票受付中]]></title>
-        <id>https://ln-news.com/articles/126721</id>
-        <link href="https://ln-news.com/articles/126721"/>
-        <updated>2026-09-20T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月刊として発売されたライトノベルを対象にした投票アンケートとなり...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ストリートファイター6」×「名探偵プリキュア！」コラボを発表。キュアアンサーたちがバトルハブの事件を調査［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/635/G063504/20260920023/</id>
-        <link href="https://www.4gamer.net/games/635/G063504/20260920023/"/>
-        <updated>2026-09-20T05:23:27.000Z</updated>
-        <summary type="html"><![CDATA[カプコンは本日，東京ゲームショウ2026の「カプコンステージライブ＜DAY-2＞」で，対戦格闘ゲーム「ストリートファイター6」とアニメ「名探偵プリキュア！」のコラボを発表した。全4話のコラボストーリーで，キュアアンサーたちがバトルハブで起きた事件を調査する。※17：20追記。プレスリリースを追加しました。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「センチメンタルグラフティリメイク」，ヒロイン声優6名が決定。主題歌はSHAZNA「Melty Love」30周年版を採用［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/021/G102118/20260918084/</id>
-        <link href="https://www.4gamer.net/games/021/G102118/20260918084/"/>
-        <updated>2026-09-20T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[エンターグラムは本日，「センチメンタルグラフティリメイク」の最新情報を東京ゲームショウ2026で発表した。一般公募1864件から選ばれたヒロイン6名の担当声優や，SHAZNA「MeltyLove」30周年版の主題歌採用などが明らかになった。また，関連グッズを2027年1月に発売する。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「魔法騎士レイアース」主題歌が発表　敵役に能登麻美子、村瀬歩、上田瞳、安元洋貴]]></title>
-        <id>https://anime.eiga.com/news/127485/</id>
-        <link href="https://anime.eiga.com/news/127485/"/>
-        <updated>2026-09-20T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「魔法騎士（マジックナイト）レイアース」が、10月7日から連続2クールで放送されることが決定し、能登麻美子、村瀬歩、上田瞳、安元洋貴の出演が明らかになった。主題歌（オープニング＆エン...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【先週の重版：9月13日～9月19日】『転生程度で胸の穴は埋まらない』第4巻、『めめんともりと奇妙なゲーム』第1巻など]]></title>
-        <id>https://ln-news.com/articles/126720</id>
-        <link href="https://ln-news.com/articles/126720"/>
-        <updated>2026-09-20T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先週（2026年9月13日～2026年9月19日）にオフィシャル告知のあった...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「遊戯王 TAG FORCE GX」の新情報が公開。Steam版購入特典「デュエリストプロフィールブック」の一部を紹介，樋口 桜と藤原雪乃のプロフィールも［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/041/G104132/20260920017/</id>
-        <link href="https://www.4gamer.net/games/041/G104132/20260920017/"/>
-        <updated>2026-09-20T03:42:52.000Z</updated>
-        <summary type="html"><![CDATA[KONAMIは本日9月20日，2027年2月16日に発売予定の「遊戯王TAGFORCEGX」の特別番組を生配信した。番組では，ゲーム内ショップで購入できるカードパックの詳細や，樋口桜と藤原雪乃のプロフィールページ，予約・購入特典などが紹介された。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白くかれんなソバの花が見頃　「かやぶきの里」の風景彩る　京都・南丹市美山町(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/b798963886ca6b1313f02d105e4cb8e89dc55548?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/b798963886ca6b1313f02d105e4cb8e89dc55548?source=rss"/>
-        <updated>2026-09-20T03:40:24.000Z</updated>
-        <summary type="html"><![CDATA[京都府南丹市美山町の「かやぶきの里」で、かれんなソバの花が見頃を迎え、山あいの町の風景を彩っています。
-
-　「かやぶきの里」で白く素朴なソバの花が、畑いっぱいに咲き誇っています。
-
-　地元の住民たち]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「京都国際マンガ・アニメフェア」開催　人気キャラとの写真撮影や声優のステージイベントも(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/486eeb41f34c24e9432fdfbf5e7e5b2a444a81d4?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/486eeb41f34c24e9432fdfbf5e7e5b2a444a81d4?source=rss"/>
-        <updated>2026-09-20T03:40:03.000Z</updated>
-        <summary type="html"><![CDATA[人気のアニメや声優が集結する西日本最大級の漫画やアニメのイベントが、京都市左京区で開催されています。
-
-　「京都国際マンガ・アニメフェア」は左京区の「みやこめっせ」などで開催され、６０以上の企業・団]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【高坂知也さんの推し語り TGS出張版】で「ときメモGS4」の風真玲太くんについて，生でとことん語ってもらっちゃった［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/457/G045716/20260919043/</id>
-        <link href="https://www.4gamer.net/games/457/G045716/20260919043/"/>
-        <updated>2026-09-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東京ゲームショウ2026の4Gamerブースで，声優の高坂知也さんのステージ「高坂知也さんの推し語りTGS出張版」を開催した。壇上では「ときめきメモリアルGirl'sSide」を主題に，高坂さんが愛をとことん語りまくっていた。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常設飲食店舗「名探偵コナンダイナー」今冬にグランドオープン　探偵風の制服を着たキャラクターがお出迎え]]></title>
-        <id>https://anime.eiga.com/news/127466/</id>
-        <link href="https://anime.eiga.com/news/127466/"/>
-        <updated>2026-09-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「名探偵コナン」の常設飲食店舗「名探偵コナンダイナー」が、今冬に東京・渋谷ストリーム4階にグランドオープンする。 同店は、テレビアニメ「名探偵コナン」の放送30周年を記念して開業予定...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
