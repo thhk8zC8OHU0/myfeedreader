@@ -6,6 +6,46 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/041/G104118/20261019010/",
+          "author": null,
+          "description": "集英社ゲームズは本日（2026年10月19日），幕張メッセで12月19日，20日に開催される「ジャンプフェスタ2027」への出展を発表した。同社ブースでは，「封神演義逆命承天」を全世界最速で体験できるほか，「呪術廻戦RUMBLE:SURVIVATON」のプレイテスト版も試遊できる。",
+          "link": "https://www.4gamer.net/games/041/G104118/20261019010/",
+          "publishedOn": "2026-10-19T04:13:32.000Z",
+          "wordCount": 8535,
+          "title": "集英社ゲームズ，「ジャンプフェスタ2027」に出展。「封神演義 逆命承天」「呪術廻戦 RUMBLE: SURVIVATON」を楽しめる",
+          "imageUrl": "https://www.4gamer.net/games/041/G104118/20261019010/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/010/G101061/20261019009/",
+          "author": null,
+          "description": "NewBloodInteractiveは，SaibotStudiosおよびアンドレス・ボルギ氏が開発を手掛ける新作サバイバルホラーADV「TenebrisSomnia」をリリースした。本作は，レトロな2Dピクセルグラフィックスと，アルゼンチンの映画クルーによって本格的に撮影された実写映像を融合させた，異色のホラーADVだ。",
+          "link": "https://www.4gamer.net/games/010/G101061/20261019009/",
+          "publishedOn": "2026-10-19T03:58:18.000Z",
+          "wordCount": 8569,
+          "title": "アルゼンチンの映像作家が手掛ける「Tenebris Somnia」がリリース。レトロ調の2Dピクセルアートと本格実写映像を組み合わせたサバイバルホラーADV",
+          "imageUrl": "https://www.4gamer.net/games/010/G101061/20261019009/SS/009.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/949/G094998/20261016042/",
+          "author": null,
+          "description": "エディアは本日，Switch用ソフト「アストライアの罪咎」を2027年3月25日に発売すると発表した。本作は，女性向けゲームブランド「MintLip+」の完全新規タイトル第1弾で，2025年10月にプロジェクト「Astraea」として発表されていた作品だ。",
+          "link": "https://www.4gamer.net/games/949/G094998/20261016042/",
+          "publishedOn": "2026-10-19T03:00:00.000Z",
+          "wordCount": 1042,
+          "title": "癖のある仲間たちとともに，犯罪がはびこる最前線へ身を投じる。本格クライムサスペンス恋愛ADV「アストライアの罪咎」，2027年3月25日に発売決定",
+          "imageUrl": "https://www.4gamer.net/games/949/G094998/20261016042/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/954/G095479/20261018001/",
+          "author": null,
+          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，シリーズ初のHD-2D作品となる「ファイナルファンタジーレゾナンス」や，北朝鮮をテーマとして扱う「CallofDuty:ModernWarfare4」が発売される。",
+          "link": "https://www.4gamer.net/games/954/G095479/20261018001/",
+          "publishedOn": "2026-10-19T02:30:00.000Z",
+          "wordCount": 8786,
+          "title": "【今週のモチベ】「ファイナルファンタジー レゾナンス」や「Call of Duty: Modern Warfare 4」が発売される 2026年10月19日〜10月25日",
+          "imageUrl": "https://www.4gamer.net/games/954/G095479/20261018001/SS/014.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/040/G004099/20261018002/",
           "author": null,
           "description": "2026年10月12日〜10月18日，4Gamerに掲載された記事は277本でした。「BrasilGameShow2026」や「SAGABarcelonaGameFest2026」の記事を引き続き多数掲載したり，注目タイトルを紹介したりした4Gamerと世界のゲーム業界の1週間を振り返ってみましょう。",
@@ -2572,6 +2612,96 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/709077bcf0ceffa1b97401ea41e9066944b1b646?source=rss",
+          "author": null,
+          "description": "エイチ・ツー・オーリテイリングは１９日、阪急阪神百貨店の予約サイトなどに不正アクセスがあり、顧客の個人情報約１２６万件が漏えいしたと発表しました。日本がサイバー攻撃の標的に？ 国内で相次ぐ被害 運転免",
+          "link": "https://news.yahoo.co.jp/articles/709077bcf0ceffa1b97401ea41e9066944b1b646?source=rss",
+          "publishedOn": "2026-10-19T05:33:01.000Z",
+          "wordCount": 1710,
+          "title": "【速報】阪急・阪神百貨店の予約サイトに不正アクセス　約１２６万件の個人情報漏洩の可能性も現時点で不正利用や二次被害の発生は確認されず(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083123-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9fd5ff17b3e1c40364323081c7afbf5e565fb0eb?source=rss",
+          "author": null,
+          "description": "大阪市水道局は１９日、去年１１月に匿名の人物から寄付された、重さ計２１ｋｇの金の延べ棒について、１６日に約４億９９６２万円で売却したと発表しました。 水道管の老朽化対策などに活用するということです。プ",
+          "link": "https://news.yahoo.co.jp/articles/9fd5ff17b3e1c40364323081c7afbf5e565fb0eb?source=rss",
+          "publishedOn": "2026-10-19T05:31:37.000Z",
+          "wordCount": 1704,
+          "title": "大阪市水道局に寄付された金の延べ棒２１kｇが売却される　４億９９６２万６５３８円で売却　水道管の老朽化など水道事業で活用へ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083124-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d10ab137a541b7b222d1342370cb8a7933186a76?source=rss",
+          "author": null,
+          "description": "大阪管区気象台は１９日、近畿地方では１９日午後から２０日夕方にかけて、落雷や竜巻などの突風の他、急な強い雨が発生する可能性があるとして警戒を呼びかけました。神戸・北区で追突事故 ２０代女性が意識不明の",
+          "link": "https://news.yahoo.co.jp/articles/d10ab137a541b7b222d1342370cb8a7933186a76?source=rss",
+          "publishedOn": "2026-10-19T04:52:39.000Z",
+          "wordCount": 1693,
+          "title": "【注意】１９日午後から２０日夕方にかけて大阪・兵庫南部・和歌山で警報級大雨の可能性　気象台が警戒呼びかけ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083122-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f53c20a33c89a45f6358eafb23a5a63e82403682?source=rss",
+          "author": null,
+          "description": "大阪地検特捜部に所属していた検事が「検察なめんなよ」などと長時間叱責し、罵倒した罪に問われている裁判で、被告の検事は起訴内容について「到底受け入れることはできません」と話しました。「検察なめんなよ」な",
+          "link": "https://news.yahoo.co.jp/articles/f53c20a33c89a45f6358eafb23a5a63e82403682?source=rss",
+          "publishedOn": "2026-10-19T03:41:00.000Z",
+          "wordCount": 1696,
+          "title": "「検察なめんなよ」など長時間叱責・罵倒した罪問われた被告の検事　罪問われていることは「到底受け入れることはできない」　一方で「もっと違う言い方があったと思います」などと述べる場面も　被告人質問で　大阪地裁(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083121-asahibcv-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ceb25f83a0f60613ec4e1d9f21f83c03b2b82299?source=rss",
+          "author": null,
+          "description": "神戸市で１８日、信号待ちの車に後続車が追突し、２０代の女性が意識不明の重体です。“実行犯”が乗ったバイクか…犯行直前の現場周辺の防カメ画像を独自入手 「餃子の王将」社長射殺事件の真相は？ 警察によりま",
+          "link": "https://news.yahoo.co.jp/articles/ceb25f83a0f60613ec4e1d9f21f83c03b2b82299?source=rss",
+          "publishedOn": "2026-10-19T03:32:04.000Z",
+          "wordCount": 1655,
+          "title": "信号待ちの車に後続車が追突・２０代女性が意識不明の重体　逮捕の７２歳男は「事故を起こした時の状況を一切覚えていない」述べる　　神戸・北区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083119-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/82099d19dff72273974790592dbd39b8be0599b1?source=rss",
+          "author": null,
+          "description": "陸上競技関連団体が大会の参加費などとして預かっていた現金約５８万円を横領したとして、奈良県の公立学校教師の男が逮捕されました。ニデック不正会計など巡る問題 創業者・永守重信氏らに「損害賠償責任がある」",
+          "link": "https://news.yahoo.co.jp/articles/82099d19dff72273974790592dbd39b8be0599b1?source=rss",
+          "publishedOn": "2026-10-19T03:20:18.000Z",
+          "wordCount": 1655,
+          "title": "陸上競技関連団体の会計担当役員務める学校教師を業務上横領の疑いで逮捕　参加費の一部約58万円を横領か　「借金返済とギャンブルに･･･」容疑認める(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083120-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/64cda43cb23b47346733700ff15d1e0ac3fe2121?source=rss",
+          "author": null,
+          "description": "１００年以上の歴史を持ち、国の重要文化財に指定されることが決まった「奈良ホテル・本館」の内部が、公開されました。大阪城の天守閣を重要文化財に指定へ 「再建手法の先がけとして価値が高い」 京都・建仁寺の",
+          "link": "https://news.yahoo.co.jp/articles/64cda43cb23b47346733700ff15d1e0ac3fe2121?source=rss",
+          "publishedOn": "2026-10-19T03:15:57.000Z",
+          "wordCount": 1654,
+          "title": "国の重要文化財・指定内定の「奈良ホテル」本館内部が公開される　アインシュタインやヘレン・ケラーも宿泊した歴史あるホテル(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083118-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b98cc2fd7a658571feb02c64687031bb1ec123d4?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、１９日午前１１時４０分ごろ、神戸線の尼崎ー立花駅間で列車と人が接触したということです。神戸・北区で追突事故 ２０代女性が意識不明の重体 ７２歳のアルバイトの男を現行犯逮捕 この",
+          "link": "https://news.yahoo.co.jp/articles/b98cc2fd7a658571feb02c64687031bb1ec123d4?source=rss",
+          "publishedOn": "2026-10-19T02:53:32.000Z",
+          "wordCount": 1671,
+          "title": "【速報】ＪＲ神戸線運転再開　尼崎ー立花駅間で列車と人が接触した影響で一時運転見合わせも　遅れが広いエリアで発生(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083117-asahibcv-000-4-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ede13773c00ef6fd2461cb9caa67a7d54598d1ae?source=rss",
+          "author": null,
+          "description": "１３年前の２０１３年１２月１９日。この日の午前５時半すぎ、王将フードサービスの本社前へと向かう１台のバイク。バイクは本社付近を約４０分にわたり徘徊。検察が控訴しても「無罪がくつがえることは難しい」 王",
+          "link": "https://news.yahoo.co.jp/articles/ede13773c00ef6fd2461cb9caa67a7d54598d1ae?source=rss",
+          "publishedOn": "2026-10-19T02:30:00.000Z",
+          "wordCount": 1794,
+          "title": "“実行犯”が乗ったバイクか…犯行直前の現場周辺の防カメ画像を独自入手　「餃子の王将」社長射殺事件の真相は？(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083116-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6d440c361788ee0879c270adeef4fad17a47d089?source=rss",
           "author": null,
@@ -7181,16 +7311,6 @@
           "wordCount": 1646,
           "title": "「京都国際マンガ・アニメフェア」開催　人気キャラとの写真撮影や声優のステージイベントも(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00082639-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e747357d64e3a929e462def64307ba6e40bb7620?source=rss",
-          "author": null,
-          "description": "９月は世界的な小児がんの啓発月間です。\n　\n　大学アメリカンフットボールの試合会場となった、大阪府吹田市のＭＫタクシーフィールドエキスポでは１９日、学生らが中心となって、小児がんへの理解・支援を呼び",
-          "link": "https://news.yahoo.co.jp/articles/e747357d64e3a929e462def64307ba6e40bb7620?source=rss",
-          "publishedOn": "2026-09-19T14:52:00.000Z",
-          "wordCount": 1675,
-          "title": "９月は小児がん啓発月間「ゴールドセプテンバー」　関西学生アメフト連盟がイベント　リハビリを続ける中学生が参加　小児がんへの理解・支援呼びかけ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00082638-asahibcv-000-2-view.jpg?exp=10800"
         }
       ]
     },
@@ -7199,6 +7319,76 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqlyd6xjnw25o#0",
+          "author": null,
+          "description": "イスラエル発オーストリア行きのオーストリア航空の旅客機が18日、爆破予告とされるものを受け、ブルガリアに緊急着陸した。",
+          "link": "https://www.bbc.com/japanese/articles/cqlyd6xjnw25o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T06:43:07.000Z",
+          "wordCount": 1846,
+          "title": "イスラエル便、爆破予告で緊急着陸　ウィーン行きオーストリア航空機",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f91d/live/31ebfb00-cb5a-11f1-97b1-010e9e08360f.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5n493p0zpmko#0",
+          "author": null,
+          "description": "イスラエルが占領を続けるパレスチナ・ヨルダン川西岸地区で17日、欧州外交官らの一団が、覆面をしたイスラエル人入植者らに襲撃された。関係国は襲撃を強く非難し、関与した人物を裁くようイスラエルに求めている。一方、イスラエル首相府は「イスラエルを中傷するための、調整されたキャンペーン」だとしている。",
+          "link": "https://www.bbc.com/japanese/articles/c5n493p0zpmko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T05:56:07.000Z",
+          "wordCount": 1863,
+          "title": "イスラエル人入植者、現地調査の欧州外交官らを襲撃　ヨルダン川西岸",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjr4ye7d1wwro#0",
+          "author": null,
+          "description": "ロシア北西部サンクトペテルブルクの当局は18日、前夜からこの日朝にかけて市内で攻撃があり、石油施設2カ所などが標的にされ、少なくとも1人が死亡したと明らかにした。",
+          "link": "https://www.bbc.com/japanese/articles/cjr4ye7d1wwro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T05:48:01.000Z",
+          "wordCount": 1850,
+          "title": "ロシア・サンクトペテルブルクが夜間攻撃受ける　石油施設が標的に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqly0vee2zm4o#0",
+          "author": null,
+          "description": "中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。輸出は国内消費の低迷をある程度、相殺するのに役立っているものの、世界的な貿易摩擦やAI投資をめぐる不確実性が、その見通しを曇らせている。",
+          "link": "https://www.bbc.com/japanese/articles/cqly0vee2zm4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T05:42:28.000Z",
+          "wordCount": 1816,
+          "title": "中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c94g1z72pje0o#0",
+          "author": null,
+          "description": "トランプ米大統領は18日、ロシアに対する複数の制裁措置を停止するという自分の決定は、ロシア政府を交渉に引き留めておくためのものだと述べた。トランプ氏は16日、対ロ制裁の発効を目前にこれを停止する大統領令に署名している。一連の対ロ制裁は9月に連邦議会が可決し、トランプ氏が大統領として署名したもので、この停止にはアメリカの与野党から批判が出ている。",
+          "link": "https://www.bbc.com/japanese/articles/c94g1z72pje0o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T04:25:16.000Z",
+          "wordCount": 1902,
+          "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o#0",
+          "author": null,
+          "description": "キリスト教カトリック教会のローマ教皇レオ14世は18日、肺腺がんの手術後初めて公の場に姿を現した。",
+          "link": "https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T04:09:25.000Z",
+          "wordCount": 1260,
+          "title": "ローマ教皇が感謝の言葉、肺腺がん手術から初の公務",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o#0",
+          "author": null,
+          "description": "カナダ西部アルバータ州にある軍基地で17日午後、大規模な火災があり、軍関係者4人が死亡、数十人が負傷した。カーニー首相は18日、首都オタワで国民に向けて演説し、「平時におけるカナダ軍にとって最悪の悲劇の一つ」だと述べた。",
+          "link": "https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-19T02:27:12.000Z",
+          "wordCount": 1799,
+          "title": "カナダ軍基地で大規模火災　4人死亡、数十人が負傷",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cke8r3n89y8mo#0",
           "author": null,
@@ -8977,6 +9167,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/19/news010.html",
+          "author": null,
+          "description": "Qorvoは、Xバンドのフェーズドアレイレーダー向けに、4チャンネルのビームフォーマーIC「QPX0252」を開発した。7.9～12GHzで動作し、部品点数の削減と高い送信出力を実現する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/19/news010.html",
+          "publishedOn": "2026-10-19T03:30:00.000Z",
+          "wordCount": 2643,
+          "title": "QorvoのXバンドレーダー向け4チンャネルIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/19/l_edn20261014edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/19/news035.html",
           "author": null,
           "description": "マクセルは、セラミックパッケージ型全固体電池「PSB401010H」を搭載した全固体電池バックアップモジュールの量産を開始し、産業機器向けに国内販売する。生産現場における一次電池の交換工数削減やメンテナンス性向上に貢献する。",
@@ -9413,6 +9613,56 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=135323",
+          "author": "多根清史",
+          "description": "マイクロソフトは、Windows 11 26H2のビルド26300.9550 で、システムの応答性を最大20％向上させ、メモリ容量が8GB以下のPCでも効率的に動作するよう、メモリ管理を最適化したと発表した。 Windowsエクスペリエンス部門のコーポレートバイスプレジデント、ナヴジョット・ヴァーク […]",
+          "link": "https://gadget.phileweb.com/post-135323/",
+          "publishedOn": "2026-10-19T05:59:50.000Z",
+          "wordCount": 718,
+          "title": "メモリ8GBでもまだ使えるかも。マイクロソフト、新しいアップデートでWindows 11の応答性が最大20％向上すると述べる",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/a860e60d35e138a0f4f7a41b53fee82c.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135311",
+          "author": "多根清史",
+          "description": "アップルは先日、長らく噂されていた画面付きスマートホームハブ「HomeView」を発表したばかりだ。その上位モデルが2027年または2028年に投入される可能性があると、米Bloombergが報じている。 同社の未発表製品に詳しいマーク・ガーマン記者は、現行のHomeViewにはディスプレイが話者に […]",
+          "link": "https://gadget.phileweb.com/post-135311/",
+          "publishedOn": "2026-10-19T05:30:00.000Z",
+          "wordCount": 698,
+          "title": "HomeView、早くも上位モデルの噂が浮上。ロボットアームで画面が360度回転、2027年にも登場か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/391404569d40d6d02beeb3c9a6d276cb.-3-0-screenshot.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135284",
+          "author": "多根清史",
+          "description": "アップル初の折りたたみ式iPhone「iPhone Duo」は、10月16日午後9時から予約注文の受付を開始した。しかし、記事執筆時点（19日午前10時）の日本向け公式オンラインストアでは、ほぼすべての構成で、出荷予定日が2027年1月22日と表示されている。本来の発売日から約3か月後の出荷予定とな […]",
+          "link": "https://gadget.phileweb.com/post-135284/",
+          "publishedOn": "2026-10-19T03:02:35.000Z",
+          "wordCount": 711,
+          "title": "iPhone Duo、出荷予定が2027年1月下旬に。発売前から約3か月待ち、「アップルの判断ミス」との批判も",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/f396caa9afdbe3273b3b78499d3128be.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135285",
+          "author": "Munenori Taniguchi",
+          "description": "人気SFアクションRPG『Cyberpunk 2077』のMOD開発者ら有志が、ファンプロジェクト『NightCoop』を開発中であることを発表した。ウェブサイトもすでに公開されているこのプロジェクトは、最大8人まで参加できる協力プレイ用MODで、10月23日午後3時（UTC／協定世界時。日本時間で […]",
+          "link": "https://gadget.phileweb.com/post-135285/",
+          "publishedOn": "2026-10-19T02:38:15.000Z",
+          "wordCount": 717,
+          "title": "PC版『Cyberpunk 2077』、有志が非公式協力プレイモード「NightCoop」を開発中",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/d21f6637aa603046d1ec7dc6e84886e1.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135264",
+          "author": "編集部：平山洸太",
+          "description": "Dynabookは、新たな法人向けノートPCのエントリーモデルを発表。14.0型の「M64/RA」「MA64/VA」、16.0型の「B56/RA」「BA56/VA」を投入する。開始価格（税込）は、M64/RAが807,950円、MA64/VAが701,140円、B56/RAが767,250円、BA5 […]",
+          "link": "https://gadget.phileweb.com/post-135264/",
+          "publishedOn": "2026-10-19T02:00:00.000Z",
+          "wordCount": 712,
+          "title": "Dynabook初の4色展開、法人向け新14型ノート「M64/RA」など発表",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/e18b6ff55ad29305ff2fd1d4ec3fce2e.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=135249",
           "author": "Munenori Taniguchi",
@@ -12138,6 +12388,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127616/",
+          "author": null,
+          "description": "山崎貴監督が手がけ、第96回アカデミー賞で日本映画初となる視覚効果賞を受賞する快挙を成し遂げた「ゴジラ-1.0」の続編となる「ゴジラ-0.0」が、公開日となる11月13日からDolbｙCINEM...",
+          "link": "https://anime.eiga.com/news/127616/",
+          "publishedOn": "2026-10-19T03:00:00.000Z",
+          "wordCount": 732,
+          "title": "「ゴジラ－0.0」ラージフォーマット上映が決定　プレミアムラージフォーマットビジュアルが完成",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127624/",
           "author": null,
@@ -15080,6 +15345,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126985",
+          "author": null,
+          "description": "スニーカー文庫発のアニメ『この素晴らしい世界に祝福を！』の10周年記念企画と...",
+          "link": "https://ln-news.com/articles/126985",
+          "publishedOn": "2026-10-19T05:30:00.000Z",
+          "wordCount": 230,
+          "title": "アニメ『この素晴らしい世界に祝福を！』10周年記念企画オーディオドラマ「ダークネス・ハッピーハロウィン～秋刀魚の季節～」が公開",
+          "imageUrl": "https://assets.ln-news.com/images/medias/4435c15b731e47c2b9e6fe38d1d424c1.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126983",
+          "author": null,
+          "description": "ガガガ文庫発のアニメ『千歳くんはラムネ瓶のなか 第2クール』第15話「いつか...",
+          "link": "https://ln-news.com/articles/126983",
+          "publishedOn": "2026-10-19T04:00:00.000Z",
+          "wordCount": 233,
+          "title": "アニメ『千歳くんはラムネ瓶のなか 第2クール』第15話「いつか思いだす遠くの空の青い夜」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/d461b6e1b0154149b67449254b21ae9d.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126840",
+          "author": null,
+          "description": "電撃文庫刊『狼と香辛料』より、オリジナルグッズが手に入る「【再販】『狼と香辛...",
+          "link": "https://ln-news.com/articles/126840",
+          "publishedOn": "2026-10-19T02:00:00.000Z",
+          "wordCount": 254,
+          "title": "『狼と香辛料』のオンラインくじが再登場　2022年に発売されたオンラインくじが再販に",
+          "imageUrl": "https://assets.ln-news.com/images/medias/fd13584f010c4e628680adfc86f23dc0.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126961",
           "author": null,

@@ -2,10 +2,310 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T01:42:40.342Z</updated>
+    <updated>2026-10-19T06:52:55.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イスラエル便、爆破予告で緊急着陸　ウィーン行きオーストリア航空機]]></title>
+        <id>https://www.bbc.com/japanese/articles/cqlyd6xjnw25o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cqlyd6xjnw25o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T06:43:07.000Z</updated>
+        <summary type="html"><![CDATA[イスラエル発オーストリア行きのオーストリア航空の旅客機が18日、爆破予告とされるものを受け、ブルガリアに緊急着陸した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メモリ8GBでもまだ使えるかも。マイクロソフト、新しいアップデートでWindows 11の応答性が最大20％向上すると述べる]]></title>
+        <id>https://gadget.phileweb.com/?p=135323</id>
+        <link href="https://gadget.phileweb.com/post-135323/"/>
+        <updated>2026-10-19T05:59:50.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、Windows 11 26H2のビルド26300.9550 で、システムの応答性を最大20％向上させ、メモリ容量が8GB以下のPCでも効率的に動作するよう、メモリ管理を最適化したと発表した。 Windowsエクスペリエンス部門のコーポレートバイスプレジデント、ナヴジョット・ヴァーク […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イスラエル人入植者、現地調査の欧州外交官らを襲撃　ヨルダン川西岸]]></title>
+        <id>https://www.bbc.com/japanese/articles/c5n493p0zpmko#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c5n493p0zpmko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T05:56:07.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルが占領を続けるパレスチナ・ヨルダン川西岸地区で17日、欧州外交官らの一団が、覆面をしたイスラエル人入植者らに襲撃された。関係国は襲撃を強く非難し、関与した人物を裁くようイスラエルに求めている。一方、イスラエル首相府は「イスラエルを中傷するための、調整されたキャンペーン」だとしている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア・サンクトペテルブルクが夜間攻撃受ける　石油施設が標的に]]></title>
+        <id>https://www.bbc.com/japanese/articles/cjr4ye7d1wwro#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cjr4ye7d1wwro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T05:48:01.000Z</updated>
+        <summary type="html"><![CDATA[ロシア北西部サンクトペテルブルクの当局は18日、前夜からこの日朝にかけて市内で攻撃があり、石油施設2カ所などが標的にされ、少なくとも1人が死亡したと明らかにした。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る]]></title>
+        <id>https://www.bbc.com/japanese/articles/cqly0vee2zm4o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cqly0vee2zm4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T05:42:28.000Z</updated>
+        <summary type="html"><![CDATA[中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。輸出は国内消費の低迷をある程度、相殺するのに役立っているものの、世界的な貿易摩擦やAI投資をめぐる不確実性が、その見通しを曇らせている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】阪急・阪神百貨店の予約サイトに不正アクセス　約１２６万件の個人情報漏洩の可能性も現時点で不正利用や二次被害の発生は確認されず(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/709077bcf0ceffa1b97401ea41e9066944b1b646?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/709077bcf0ceffa1b97401ea41e9066944b1b646?source=rss"/>
+        <updated>2026-10-19T05:33:01.000Z</updated>
+        <summary type="html"><![CDATA[エイチ・ツー・オーリテイリングは１９日、阪急阪神百貨店の予約サイトなどに不正アクセスがあり、顧客の個人情報約１２６万件が漏えいしたと発表しました。日本がサイバー攻撃の標的に？ 国内で相次ぐ被害 運転免]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪市水道局に寄付された金の延べ棒２１kｇが売却される　４億９９６２万６５３８円で売却　水道管の老朽化など水道事業で活用へ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/9fd5ff17b3e1c40364323081c7afbf5e565fb0eb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/9fd5ff17b3e1c40364323081c7afbf5e565fb0eb?source=rss"/>
+        <updated>2026-10-19T05:31:37.000Z</updated>
+        <summary type="html"><![CDATA[大阪市水道局は１９日、去年１１月に匿名の人物から寄付された、重さ計２１ｋｇの金の延べ棒について、１６日に約４億９９６２万円で売却したと発表しました。 水道管の老朽化対策などに活用するということです。プ]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomeView、早くも上位モデルの噂が浮上。ロボットアームで画面が360度回転、2027年にも登場か]]></title>
+        <id>https://gadget.phileweb.com/?p=135311</id>
+        <link href="https://gadget.phileweb.com/post-135311/"/>
+        <updated>2026-10-19T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは先日、長らく噂されていた画面付きスマートホームハブ「HomeView」を発表したばかりだ。その上位モデルが2027年または2028年に投入される可能性があると、米Bloombergが報じている。 同社の未発表製品に詳しいマーク・ガーマン記者は、現行のHomeViewにはディスプレイが話者に […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『この素晴らしい世界に祝福を！』10周年記念企画オーディオドラマ「ダークネス・ハッピーハロウィン～秋刀魚の季節～」が公開]]></title>
+        <id>https://ln-news.com/articles/126985</id>
+        <link href="https://ln-news.com/articles/126985"/>
+        <updated>2026-10-19T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[スニーカー文庫発のアニメ『この素晴らしい世界に祝福を！』の10周年記念企画と...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【注意】１９日午後から２０日夕方にかけて大阪・兵庫南部・和歌山で警報級大雨の可能性　気象台が警戒呼びかけ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d10ab137a541b7b222d1342370cb8a7933186a76?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d10ab137a541b7b222d1342370cb8a7933186a76?source=rss"/>
+        <updated>2026-10-19T04:52:39.000Z</updated>
+        <summary type="html"><![CDATA[大阪管区気象台は１９日、近畿地方では１９日午後から２０日夕方にかけて、落雷や竜巻などの突風の他、急な強い雨が発生する可能性があるとして警戒を呼びかけました。神戸・北区で追突事故 ２０代女性が意識不明の]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も]]></title>
+        <id>https://www.bbc.com/japanese/articles/c94g1z72pje0o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c94g1z72pje0o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T04:25:16.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領は18日、ロシアに対する複数の制裁措置を停止するという自分の決定は、ロシア政府を交渉に引き留めておくためのものだと述べた。トランプ氏は16日、対ロ制裁の発効を目前にこれを停止する大統領令に署名している。一連の対ロ制裁は9月に連邦議会が可決し、トランプ氏が大統領として署名したもので、この停止にはアメリカの与野党から批判が出ている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集英社ゲームズ，「ジャンプフェスタ2027」に出展。「封神演義 逆命承天」「呪術廻戦 RUMBLE: SURVIVATON」を楽しめる]]></title>
+        <id>https://www.4gamer.net/games/041/G104118/20261019010/</id>
+        <link href="https://www.4gamer.net/games/041/G104118/20261019010/"/>
+        <updated>2026-10-19T04:13:32.000Z</updated>
+        <summary type="html"><![CDATA[集英社ゲームズは本日（2026年10月19日），幕張メッセで12月19日，20日に開催される「ジャンプフェスタ2027」への出展を発表した。同社ブースでは，「封神演義逆命承天」を全世界最速で体験できるほか，「呪術廻戦RUMBLE:SURVIVATON」のプレイテスト版も試遊できる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローマ教皇が感謝の言葉、肺腺がん手術から初の公務]]></title>
+        <id>https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o#0</id>
+        <link href="https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T04:09:25.000Z</updated>
+        <summary type="html"><![CDATA[キリスト教カトリック教会のローマ教皇レオ14世は18日、肺腺がんの手術後初めて公の場に姿を現した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『千歳くんはラムネ瓶のなか 第2クール』第15話「いつか思いだす遠くの空の青い夜」のあらすじ＆先行カット解禁]]></title>
+        <id>https://ln-news.com/articles/126983</id>
+        <link href="https://ln-news.com/articles/126983"/>
+        <updated>2026-10-19T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ガガガ文庫発のアニメ『千歳くんはラムネ瓶のなか 第2クール』第15話「いつか...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチンの映像作家が手掛ける「Tenebris Somnia」がリリース。レトロ調の2Dピクセルアートと本格実写映像を組み合わせたサバイバルホラーADV]]></title>
+        <id>https://www.4gamer.net/games/010/G101061/20261019009/</id>
+        <link href="https://www.4gamer.net/games/010/G101061/20261019009/"/>
+        <updated>2026-10-19T03:58:18.000Z</updated>
+        <summary type="html"><![CDATA[NewBloodInteractiveは，SaibotStudiosおよびアンドレス・ボルギ氏が開発を手掛ける新作サバイバルホラーADV「TenebrisSomnia」をリリースした。本作は，レトロな2Dピクセルグラフィックスと，アルゼンチンの映画クルーによって本格的に撮影された実写映像を融合させた，異色のホラーADVだ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「検察なめんなよ」など長時間叱責・罵倒した罪問われた被告の検事　罪問われていることは「到底受け入れることはできない」　一方で「もっと違う言い方があったと思います」などと述べる場面も　被告人質問で　大阪地裁(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f53c20a33c89a45f6358eafb23a5a63e82403682?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f53c20a33c89a45f6358eafb23a5a63e82403682?source=rss"/>
+        <updated>2026-10-19T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[大阪地検特捜部に所属していた検事が「検察なめんなよ」などと長時間叱責し、罵倒した罪に問われている裁判で、被告の検事は起訴内容について「到底受け入れることはできません」と話しました。「検察なめんなよ」な]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信号待ちの車に後続車が追突・２０代女性が意識不明の重体　逮捕の７２歳男は「事故を起こした時の状況を一切覚えていない」述べる　　神戸・北区(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ceb25f83a0f60613ec4e1d9f21f83c03b2b82299?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ceb25f83a0f60613ec4e1d9f21f83c03b2b82299?source=rss"/>
+        <updated>2026-10-19T03:32:04.000Z</updated>
+        <summary type="html"><![CDATA[神戸市で１８日、信号待ちの車に後続車が追突し、２０代の女性が意識不明の重体です。“実行犯”が乗ったバイクか…犯行直前の現場周辺の防カメ画像を独自入手 「餃子の王将」社長射殺事件の真相は？ 警察によりま]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QorvoのXバンドレーダー向け4チンャネルIC]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/19/news010.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/19/news010.html"/>
+        <updated>2026-10-19T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Qorvoは、Xバンドのフェーズドアレイレーダー向けに、4チャンネルのビームフォーマーIC「QPX0252」を開発した。7.9～12GHzで動作し、部品点数の削減と高い送信出力を実現する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陸上競技関連団体の会計担当役員務める学校教師を業務上横領の疑いで逮捕　参加費の一部約58万円を横領か　「借金返済とギャンブルに･･･」容疑認める(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/82099d19dff72273974790592dbd39b8be0599b1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/82099d19dff72273974790592dbd39b8be0599b1?source=rss"/>
+        <updated>2026-10-19T03:20:18.000Z</updated>
+        <summary type="html"><![CDATA[陸上競技関連団体が大会の参加費などとして預かっていた現金約５８万円を横領したとして、奈良県の公立学校教師の男が逮捕されました。ニデック不正会計など巡る問題 創業者・永守重信氏らに「損害賠償責任がある」]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国の重要文化財・指定内定の「奈良ホテル」本館内部が公開される　アインシュタインやヘレン・ケラーも宿泊した歴史あるホテル(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/64cda43cb23b47346733700ff15d1e0ac3fe2121?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/64cda43cb23b47346733700ff15d1e0ac3fe2121?source=rss"/>
+        <updated>2026-10-19T03:15:57.000Z</updated>
+        <summary type="html"><![CDATA[１００年以上の歴史を持ち、国の重要文化財に指定されることが決まった「奈良ホテル・本館」の内部が、公開されました。大阪城の天守閣を重要文化財に指定へ 「再建手法の先がけとして価値が高い」 京都・建仁寺の]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone Duo、出荷予定が2027年1月下旬に。発売前から約3か月待ち、「アップルの判断ミス」との批判も]]></title>
+        <id>https://gadget.phileweb.com/?p=135284</id>
+        <link href="https://gadget.phileweb.com/post-135284/"/>
+        <updated>2026-10-19T03:02:35.000Z</updated>
+        <summary type="html"><![CDATA[アップル初の折りたたみ式iPhone「iPhone Duo」は、10月16日午後9時から予約注文の受付を開始した。しかし、記事執筆時点（19日午前10時）の日本向け公式オンラインストアでは、ほぼすべての構成で、出荷予定日が2027年1月22日と表示されている。本来の発売日から約3か月後の出荷予定とな […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[癖のある仲間たちとともに，犯罪がはびこる最前線へ身を投じる。本格クライムサスペンス恋愛ADV「アストライアの罪咎」，2027年3月25日に発売決定]]></title>
+        <id>https://www.4gamer.net/games/949/G094998/20261016042/</id>
+        <link href="https://www.4gamer.net/games/949/G094998/20261016042/"/>
+        <updated>2026-10-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エディアは本日，Switch用ソフト「アストライアの罪咎」を2027年3月25日に発売すると発表した。本作は，女性向けゲームブランド「MintLip+」の完全新規タイトル第1弾で，2025年10月にプロジェクト「Astraea」として発表されていた作品だ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ゴジラ－0.0」ラージフォーマット上映が決定　プレミアムラージフォーマットビジュアルが完成]]></title>
+        <id>https://anime.eiga.com/news/127616/</id>
+        <link href="https://anime.eiga.com/news/127616/"/>
+        <updated>2026-10-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[山崎貴監督が手がけ、第96回アカデミー賞で日本映画初となる視覚効果賞を受賞する快挙を成し遂げた「ゴジラ-1.0」の続編となる「ゴジラ-0.0」が、公開日となる11月13日からDolbｙCINEM...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】ＪＲ神戸線運転再開　尼崎ー立花駅間で列車と人が接触した影響で一時運転見合わせも　遅れが広いエリアで発生(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/b98cc2fd7a658571feb02c64687031bb1ec123d4?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/b98cc2fd7a658571feb02c64687031bb1ec123d4?source=rss"/>
+        <updated>2026-10-19T02:53:32.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、１９日午前１１時４０分ごろ、神戸線の尼崎ー立花駅間で列車と人が接触したということです。神戸・北区で追突事故 ２０代女性が意識不明の重体 ７２歳のアルバイトの男を現行犯逮捕 この]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC版『Cyberpunk 2077』、有志が非公式協力プレイモード「NightCoop」を開発中]]></title>
+        <id>https://gadget.phileweb.com/?p=135285</id>
+        <link href="https://gadget.phileweb.com/post-135285/"/>
+        <updated>2026-10-19T02:38:15.000Z</updated>
+        <summary type="html"><![CDATA[人気SFアクションRPG『Cyberpunk 2077』のMOD開発者ら有志が、ファンプロジェクト『NightCoop』を開発中であることを発表した。ウェブサイトもすでに公開されているこのプロジェクトは、最大8人まで参加できる協力プレイ用MODで、10月23日午後3時（UTC／協定世界時。日本時間で […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今週のモチベ】「ファイナルファンタジー レゾナンス」や「Call of Duty: Modern Warfare 4」が発売される 2026年10月19日〜10月25日]]></title>
+        <id>https://www.4gamer.net/games/954/G095479/20261018001/</id>
+        <link href="https://www.4gamer.net/games/954/G095479/20261018001/"/>
+        <updated>2026-10-19T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，シリーズ初のHD-2D作品となる「ファイナルファンタジーレゾナンス」や，北朝鮮をテーマとして扱う「CallofDuty:ModernWarfare4」が発売される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“実行犯”が乗ったバイクか…犯行直前の現場周辺の防カメ画像を独自入手　「餃子の王将」社長射殺事件の真相は？(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ede13773c00ef6fd2461cb9caa67a7d54598d1ae?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ede13773c00ef6fd2461cb9caa67a7d54598d1ae?source=rss"/>
+        <updated>2026-10-19T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[１３年前の２０１３年１２月１９日。この日の午前５時半すぎ、王将フードサービスの本社前へと向かう１台のバイク。バイクは本社付近を約４０分にわたり徘徊。検察が控訴しても「無罪がくつがえることは難しい」 王]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カナダ軍基地で大規模火災　4人死亡、数十人が負傷]]></title>
+        <id>https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T02:27:12.000Z</updated>
+        <summary type="html"><![CDATA[カナダ西部アルバータ州にある軍基地で17日午後、大規模な火災があり、軍関係者4人が死亡、数十人が負傷した。カーニー首相は18日、首都オタワで国民に向けて演説し、「平時におけるカナダ軍にとって最悪の悲劇の一つ」だと述べた。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynabook初の4色展開、法人向け新14型ノート「M64/RA」など発表]]></title>
+        <id>https://gadget.phileweb.com/?p=135264</id>
+        <link href="https://gadget.phileweb.com/post-135264/"/>
+        <updated>2026-10-19T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynabookは、新たな法人向けノートPCのエントリーモデルを発表。14.0型の「M64/RA」「MA64/VA」、16.0型の「B56/RA」「BA56/VA」を投入する。開始価格（税込）は、M64/RAが807,950円、MA64/VAが701,140円、B56/RAが767,250円、BA5 […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『狼と香辛料』のオンラインくじが再登場　2022年に発売されたオンラインくじが再販に]]></title>
+        <id>https://ln-news.com/articles/126840</id>
+        <link href="https://ln-news.com/articles/126840"/>
+        <updated>2026-10-19T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電撃文庫刊『狼と香辛料』より、オリジナルグッズが手に入る「【再販】『狼と香辛...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】奈良県内の陸上競技団体の会計役員で地方公務員の男が業務上横領疑いで逮捕される　大会参加費の一部を横領か(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/6d440c361788ee0879c270adeef4fad17a47d089?source=rss</id>
@@ -18031,18 +18331,6 @@ LOFIC stands for Lateral OverFlow Integration Capacitor and is a different way o
         <summary type="html"><![CDATA[Mノベルスf刊『転生幼女の華麗すぎる推し活ライフ 〜推しカプ（両親）離婚のバ...]]></summary>
         <author>
             <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[９月は小児がん啓発月間「ゴールドセプテンバー」　関西学生アメフト連盟がイベント　リハビリを続ける中学生が参加　小児がんへの理解・支援呼びかけ(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/e747357d64e3a929e462def64307ba6e40bb7620?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/e747357d64e3a929e462def64307ba6e40bb7620?source=rss"/>
-        <updated>2026-09-19T14:52:00.000Z</updated>
-        <summary type="html"><![CDATA[９月は世界的な小児がんの啓発月間です。
-　
-　大学アメリカンフットボールの試合会場となった、大阪府吹田市のＭＫタクシーフィールドエキスポでは１９日、学生らが中心となって、小児がんへの理解・支援を呼び]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
         </author>
     </entry>
 </feed>
