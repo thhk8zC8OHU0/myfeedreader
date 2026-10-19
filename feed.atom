@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-18T23:39:38.012Z</updated>
+    <updated>2026-10-19T01:42:40.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】奈良県内の陸上競技団体の会計役員で地方公務員の男が業務上横領疑いで逮捕される　大会参加費の一部を横領か(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6d440c361788ee0879c270adeef4fad17a47d089?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6d440c361788ee0879c270adeef4fad17a47d089?source=rss"/>
+        <updated>2026-10-19T01:41:19.000Z</updated>
+        <summary type="html"><![CDATA[奈良県警は１９日、陸上競技関連団体の会計役員の男で地方公務員の男が、大会の参加費などとして預かった金の一部、約５８万円を横領したとして逮捕しました。「相手は転んでいませんし、けがをしていないと思ってい]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランス各地で物価高などに抗議のデモ、マクロン大統領は「冷静と秩序」呼びかけ]]></title>
+        <id>https://www.bbc.com/japanese/articles/cke8r3n89y8mo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cke8r3n89y8mo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-19T01:22:44.000Z</updated>
+        <summary type="html"><![CDATA[フランス各地で17日から18日にかけて、物価高や学校など公共サービスの悪化に抗議するデモが多発する中、エマニュエル・マクロン大統領は19日、「冷静と秩序」を呼びかけた。数55万人が参加した抗議行動はおおむね平和的だったが、一部で暴動や略奪があり、パリでは18日にも混乱が続いた。フランス内務省によると、警察は約2400人を逮捕した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【農大名物・野菜配布も！】体験企画も盛りだくさんの「東京農業大学厚木キャンパス 第27回収穫祭」10月31日・11月1日開催！]]></title>
+        <id>https://atsugi-lab.com/?p=62333</id>
+        <link href="https://atsugi-lab.com/event-noudai-atsugifes2026/"/>
+        <updated>2026-10-19T00:30:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 色んな作物が美味しい、収穫の秋♪ 収穫といえば…！今年も、気が付いたらあの大人気イベントの季節がやってまいりましたー☆ 「東京農業大学厚木キャンパス 第27回収穫祭」今年は10月31日（土）・11月1日（…]]></summary>
+        <author>
+            <name>fumie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第25回角川ビーンズ小説大賞の受賞結果が発表　「優秀賞（一般部門）＆角川ビーンズ文庫×FLOS COMIC賞」に1作品など5作品が選出へ]]></title>
+        <id>https://ln-news.com/articles/126961</id>
+        <link href="https://ln-news.com/articles/126961"/>
+        <updated>2026-10-19T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[第25回角川ビーンズ小説大賞の受賞作品の発表が行われた。三次選考を通過した9...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マクセルが全固体電池モジュール量産 電池交換の工数削減]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/19/news035.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/19/news035.html"/>
+        <updated>2026-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マクセルは、セラミックパッケージ型全固体電池「PSB401010H」を搭載した全固体電池バックアップモジュールの量産を開始し、産業機器向けに国内販売する。生産現場における一次電池の交換工数削減やメンテナンス性向上に貢献する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週の新刊情報：ファンタジア文庫、オーバーラップ文庫、ダッシュエックス文庫、MF文庫Jなど]]></title>
         <id>https://ln-news.com/articles/126984</id>
@@ -17993,48 +18043,6 @@ LOFIC stands for Lateral OverFlow Integration Capacitor and is a different way o
 　大学アメリカンフットボールの試合会場となった、大阪府吹田市のＭＫタクシーフィールドエキスポでは１９日、学生らが中心となって、小児がんへの理解・支援を呼び]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手塚治虫さんの作品から未来を考える「手塚治虫みらい会議」　大阪・中之島で開催(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/37177bd096a4b7a2a2057ecf799ba536ed97eb89?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/37177bd096a4b7a2a2057ecf799ba536ed97eb89?source=rss"/>
-        <updated>2026-09-19T13:10:08.000Z</updated>
-        <summary type="html"><![CDATA[漫画家・手塚治虫さんの作品を通して社会や人間のあり方を考える市民フォーラムが大阪・中之島で１９日、行われました。
-
-　会場は手塚さんの母校である大阪大学医学部の跡地に設立された「中之島クロス」で、お]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[患部の写真]]></title>
-        <id>https://logipara.com/?p=13521</id>
-        <link href="https://logipara.com/health/2026-09-20/"/>
-        <updated>2026-09-19T13:02:08.000Z</updated>
-        <summary type="html"><![CDATA[前立腺肥大症であるため、お薬を飲んでいます。 いままでは泌尿器科に通っていたのですが、引っ越ししたため医院が遠くなり、近場で新たな泌尿器科を探さないとな……と思っていたところ、ネットで遠隔診察してくれるお医者さんを見つけ […]]]></summary>
-        <author>
-            <name>watanabe@logipara.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長澤まさみがゴジラに挑む　山崎貴監督「ゴジラ-0.0」最新予告公開　新キャストに國村隼、前原滉、奥野瑛太、井之脇海ら出演]]></title>
-        <id>https://anime.eiga.com/news/127409/</id>
-        <link href="https://anime.eiga.com/news/127409/"/>
-        <updated>2026-09-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[山崎貴監督が手がけ、第96回アカデミー賞で日本映画初となる視覚効果賞を受賞する快挙を成し遂げた「ゴジラ-1.0」。その続編となる「ゴジラ-0.0」の最新予告映像がお披露目され、あわせて新キャスト...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“三國志15は必ず作る”とシブサワ・コウ氏が明言。シリーズ歴代開発陣が「三國志」シリーズ40年の歩みと制作の裏側を語ったスペシャルステージをレポート［TGS2026］]]></title>
-        <id>https://www.4gamer.net/games/018/G101808/20260919067/</id>
-        <link href="https://www.4gamer.net/games/018/G101808/20260919067/"/>
-        <updated>2026-09-19T11:45:09.000Z</updated>
-        <summary type="html"><![CDATA[コーエーテクモゲームスは本日（9月19日），幕張メッセで開催中の「東京ゲームショウ2026」における同社ステージにて，歴史シミュレーションゲーム「三國志」シリーズの40周年を記念するスペシャルステージを実施し，これまでの歩みを振り返った。登壇したシブサワ・コウ氏からは，シリーズ最新作の決意表明も。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
         </author>
     </entry>
 </feed>
