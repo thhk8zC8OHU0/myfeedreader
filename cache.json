@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/014/G101402/20261020001/",
+          "author": null,
+          "description": "カプコンは本日，Switch2版「モンスターハンターワイルズ」序盤体験版の配信を開始した。序盤体験版では，キャラクター作成からChapter1-3「森へ」までを製品版と同じ内容で遊べる。最大4人のローカル通信にも対応し，セーブデータは2026年12月4日発売予定の製品版へ引き継げる。",
+          "link": "https://www.4gamer.net/games/014/G101402/20261020001/",
+          "publishedOn": "2026-10-20T01:52:58.000Z",
+          "wordCount": 8299,
+          "title": "Switch2版「モンスターハンターワイルズ」序盤体験版を本日配信。Chapter1-3まで遊べる。最大4人のローカル通信にも対応",
+          "imageUrl": "https://www.4gamer.net/games/014/G101402/20261020001/SS/005.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/828/G082821/20261019029/",
           "author": null,
           "description": "ツーポイントミュージアム ツーポイントミュージアム ツーポイントミュージアム ツーポイントミュージアム   配信元 セガ 配信日 2026/10/19     ヘンテコ博物館経営シミュレーション 『ツ…",
@@ -2494,16 +2504,6 @@
           "wordCount": 9687,
           "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年9月14日〜9月20日",
           "imageUrl": "https://www.4gamer.net/games/040/G004099/20260920025/SS/033.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/918/G091829/20260920053/",
-          "author": null,
-          "description": "アトラスは本日（2026年9月20日），同社公式YouTubeチャンネルで「ペルソナ30周年」スペシャル生放送を配信した。今回は，ゲーム内外の情報が発表されたほか，ライブも実施された。",
-          "link": "https://www.4gamer.net/games/918/G091829/20260920053/",
-          "publishedOn": "2026-09-20T13:47:21.000Z",
-          "wordCount": 9142,
-          "title": "「女神異聞録ペルソナ」のサントラ配信やアパレルブランドとのコラボなど，最新情報が「ペルソナ30周年」スペシャル生放送で一挙公開に",
-          "imageUrl": "https://www.4gamer.net/games/918/G091829/20260920053/SS/014.jpg"
         }
       ]
     },
@@ -2512,6 +2512,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f108b29a37d706f00c13d643ce15b6645ac4a11c?source=rss",
+          "author": null,
+          "description": "20日午前10時ごろ、大阪市北区の大阪地方裁判所の近くで男性が何者かに刃物で首を刺されました。警察が容疑者の身柄を既に確保しているということです。取り調べで「検察なめんなよ」「大罪人」など長時間叱責・",
+          "link": "https://news.yahoo.co.jp/articles/f108b29a37d706f00c13d643ce15b6645ac4a11c?source=rss",
+          "publishedOn": "2026-10-20T01:35:40.000Z",
+          "wordCount": 1655,
+          "title": "【速報】大阪地裁近くで男性が首を刺され重傷　警察が容疑者の身柄確保(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00083136-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6338b2350f1479f1e41cab9e516a19443c5e2a61?source=rss",
           "author": null,
@@ -9107,6 +9117,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/20/news043.html",
+          "author": null,
+          "description": "キオクシアは、E1.Lフォームファクターを採用した第8世代「BiCS FLASH」QLC（Quad Level Cell）フラッシュメモリ搭載SSD「KIOXIA LD4シリーズ」を開発した。同社の第8世代BiCS FLASH QLCフラッシュメモリ搭載SSDとして初めて、E1.Lフォームファクターを採用した製品になる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/20/news043.html",
+          "publishedOn": "2026-10-20T00:00:00.000Z",
+          "wordCount": 2682,
+          "title": "1Uサーバ向けのQLCフラッシュメモリ搭載SSD、キオクシア",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/20/cover_news043.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/19/news010.html",
           "author": null,
           "description": "Qorvoは、Xバンドのフェーズドアレイレーダー向けに、4チャンネルのビームフォーマーIC「QPX0252」を開発した。7.9～12GHzで動作し、部品点数の削減と高い送信出力を実現する。",
@@ -9553,6 +9573,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=135376",
+          "author": "編集部：平山洸太",
+          "description": "Nothing Technology Japanは、スマートフォン「Phone (4b)」を10月27日に発売する。公式オンラインストアにおける販売価格は59,800円（税込）。カラーはホワイトとブラックの2色だが、ブルーを楽天モバイル限定色として用意する。　 今年4月に発売した「Phone (4a […]",
+          "link": "https://gadget.phileweb.com/post-135376/",
+          "publishedOn": "2026-10-20T02:00:00.000Z",
+          "wordCount": 733,
+          "title": "Nothing、約6万円の新スマホ「Phone (4b)」。カメラ周辺がシースルー、光で通知する「Glyphバー」搭載",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/1e2ca54d62d540c002a38131f3ae4039.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=134320",
           "author": "山本竜也",
@@ -11328,6 +11358,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=62683",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 みなさん、食欲の秋は満喫されていますかー？ 今回は、たくさん食べたい方にも、飲み会メインでワイワイ楽しみたい方にも嬉しい、 とってもお得な期間限定セールの情報を発見いたしました！ 「山内農場 本厚木南口駅…",
+          "link": "https://atsugi-lab.com/sale-yamauchi-atsugi202610/",
+          "publishedOn": "2026-10-20T01:31:48.000Z",
+          "wordCount": 819,
+          "title": "【4日間限定★】10月20日～23日は「山内農場 本厚木南口駅前店」がアツい！店内飲食限定で”半額セール”実施だってー♪［厚木市旭町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/yamauchin-202610.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=62333",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです。 色んな作物が美味しい、収穫の秋♪ 収穫といえば…！今年も、気が付いたらあの大人気イベントの季節がやってまいりましたー☆ 「東京農業大学厚木キャンパス 第27回収穫祭」今年は10月31日（土）・11月1日（…",
@@ -12370,16 +12410,6 @@
           "wordCount": 1905,
           "title": "【セブンイレブン】セブンプレミアム 生チョコアイス【2026年・新作コンビニアイス】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/f127ec654b283c7b3d6fbb488fb30a8e.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318701",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、森永製菓の新商品「白い板チョコアイス」を世界一詳しく調査しました。   森永製菓 白い板チョコアイス【2026年・新 […]",
-          "link": "https://foodfighter.jp/morinaga-white-choco-ice-2026",
-          "publishedOn": "2026-09-20T11:57:45.000Z",
-          "wordCount": 1901,
-          "title": "森永製菓 白い板チョコアイス【2026年・新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/a5c5e4cb19fd3e91f169523f859f211a.jpg"
         }
       ]
     },
@@ -15307,21 +15337,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127398/",
-          "author": null,
-          "description": "リブート版「バイオハザード」が10月9日より全国公開される。このほど、⽇本語吹き替え版の上映が決定。主⼈公である配達⼈ブライアン役を下野紘、ブライアンの恋⼈ミシェル役を早見沙織が務める。あわせて...",
-          "link": "https://anime.eiga.com/news/127398/",
-          "publishedOn": "2026-09-20T12:00:00.000Z",
-          "wordCount": 727,
-          "title": "「バイオハザード」最恐の日本語吹き替え版公開決定　主人公役に下野紘、恋人役に早⾒沙織",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15330,6 +15345,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126401",
+          "author": null,
+          "description": "電撃文庫発のアニメ『ソードアート・オンライン』のイベント「アニメ『ソードアー...",
+          "link": "https://ln-news.com/articles/126401",
+          "publishedOn": "2026-10-20T02:00:00.000Z",
+          "wordCount": 286,
+          "title": "アニメ『ソードアート・オンライン』POP UP STOREが新宿マルイ アネックスにて開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/ecca76835a114382be02321319a8734e.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126978",
+          "author": null,
+          "description": "第23回講談社ラノベ文庫新人賞の受賞結果の発表が行われた。応募総数348作品...",
+          "link": "https://ln-news.com/articles/126978",
+          "publishedOn": "2026-10-20T00:30:00.000Z",
+          "wordCount": 228,
+          "title": "第23回講談社ラノベ文庫新人賞の受賞結果が発表　「佳作」に2作品が選出",
+          "imageUrl": "https://assets.ln-news.com/images/medias/3a489200beef4826b67b30a1fbf5cb79.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126979",
           "author": null,
