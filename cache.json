@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/986/G098670/20261021001/",
+          "author": null,
+          "description": "BlissBrainは本日，「70年代風ロボットアニメゲッP-X」のダウンロード版を30％オフで販売する初セールを開始した。対象はPC（Steam）/PS5/Switch/PS4版で，期間は2026年11月4日まで。パッケージ版とXBOXSeriesX|S/PC（MicrosoftStore）版は対象外となる。",
+          "link": "https://www.4gamer.net/games/986/G098670/20261021001/",
+          "publishedOn": "2026-10-21T01:52:07.000Z",
+          "wordCount": 8354,
+          "title": "「70年代風ロボットアニメ ゲッP-X」，Steam/PS5/Switch/PS4向けダウンロード版初セールで30％オフ。11月4日まで",
+          "imageUrl": "https://www.4gamer.net/games/986/G098670/20261021001/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/010/G101093/20261015041/",
           "author": null,
           "description": "スクウェア・エニックスが2026年10月22日にリリースする新作RPG「ファイナルファンタジーレゾナンス」の製品版をプレイする機会を得たので，インプレッションをお届けする。シリーズで初めてHD-2Dを採用した本作だが，HD-2D演出だけにとどまらないバトルやビルドの魅力を中心にお伝えしよう。",
@@ -2412,6 +2422,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5ca0ad461b613cd4889dd7c3938286d65fd2f427?source=rss",
+          "author": null,
+          "description": "先月、大阪市北区の路上で男性が現金約１００万円などを奪われた事件で、大阪府警は２０日、２０代の男２人を逮捕しました。大阪地裁前で男性刺される 約3000万円をめぐる金銭トラブルがあったか 強盗致傷の疑",
+          "link": "https://news.yahoo.co.jp/articles/5ca0ad461b613cd4889dd7c3938286d65fd2f427?source=rss",
+          "publishedOn": "2026-10-21T01:32:12.000Z",
+          "wordCount": 1649,
+          "title": "大阪市北区で男性が現金約100万円など奪われた強盗致傷事件で20代の男2人を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083159-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/efd0cda7e53dae284341353e959aa947f7c38300?source=rss",
+          "author": null,
+          "description": "２０日、大阪地方裁判所の近くで男性が刃物で刺された事件で、男性は裁判の当事者として裁判所に来たところ、刺されたとみられることが分かりました。【速報】JR京都線が京都－高槻間で運転見合わせ 人身事故の影",
+          "link": "https://news.yahoo.co.jp/articles/efd0cda7e53dae284341353e959aa947f7c38300?source=rss",
+          "publishedOn": "2026-10-21T01:28:59.000Z",
+          "wordCount": 1655,
+          "title": "大阪地裁前で男性刺される　約3000万円をめぐる金銭トラブルがあったか(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083158-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/556d8e59a2c44e77894b3ed24b04c104e2245b37?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと２１日午前９時５８分ごろ、京都線の山崎－島本間で列車と人が接触し、京都－高槻間で一時運転を見合わせていましたが、午前１１時３１分に運転を再開しました。【速報】大阪で午前9時46分",
+          "link": "https://news.yahoo.co.jp/articles/556d8e59a2c44e77894b3ed24b04c104e2245b37?source=rss",
+          "publishedOn": "2026-10-21T01:16:32.000Z",
+          "wordCount": 1637,
+          "title": "【運転再開】JR京都線の京都－高槻間　午前１１時３１分に(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083161-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/da1e10c8e8ff83e4589a47aee4876012ccee3bde?source=rss",
+          "author": null,
+          "description": "速報です。気象庁によりますと、大阪市では午前９時４６分に気温３０．０度を観測しました。観測史上、「最も遅い真夏日」となります。ＡＢＣテレビ・津田理帆アナウンサーが一日警察署長に 特殊詐欺被害の防止呼び",
+          "link": "https://news.yahoo.co.jp/articles/da1e10c8e8ff83e4589a47aee4876012ccee3bde?source=rss",
+          "publishedOn": "2026-10-21T01:05:42.000Z",
+          "wordCount": 1621,
+          "title": "【速報】大阪で午前9時46分に気温30.0度を観測　史上最も遅い「真夏日」に(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083160-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/196a928a10915af9ac8b3db41e6a3ede711f7109?source=rss",
           "author": null,
@@ -7201,16 +7251,6 @@
           "wordCount": 1653,
           "title": "琵琶湖で水上バイクの３人が一時行方不明に　その後３人の無事確認も、探しに行った別の40代男性が行方不明に　警察などが２２日の早朝から捜索再開(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082662-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/dbcb3b816a6e40281072d69e0943e3674b644f46?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本によりますと、強風が見込まれるため湖西線で２２日始発から午前８時ごろまで、和邇駅から近江今津駅の間で列車の運転を取りやめます。\n\n　天候の状況に応じて午前８時以降についても運転を取りやめる",
-          "link": "https://news.yahoo.co.jp/articles/dbcb3b816a6e40281072d69e0943e3674b644f46?source=rss",
-          "publishedOn": "2026-09-21T12:49:32.000Z",
-          "wordCount": 1655,
-          "title": "ＪＲ湖西線　２２日始発から一部運転取り止め　和邇駅ー近江今津駅間で８時ごろまで(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00082661-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -7219,6 +7259,26 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/ck78p4053y8lo#0",
+          "author": null,
+          "description": "ウクライナのゼレンスキー大統領は20日、アメリカのトランプ大統領の特使、ウィトコフ氏と会談した。ゼレンスキー氏は終了後、ロシアのミサイル攻撃に関するアメリカの情報提供について「今は機能している」と述べた。",
+          "link": "https://www.bbc.com/japanese/articles/ck78p4053y8lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T02:56:07.000Z",
+          "wordCount": 1865,
+          "title": "ゼレンスキー氏、アメリカの情報提供は「機能している」　トランプ氏の特使と会談後",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/c49a/live/3ca9cb60-ccba-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cwr5yq07pej8o#0",
+          "author": null,
+          "description": "カナダ西部アルバータ州で19日、カナダからの分離独立へ向けて法的手続きを開始するかどうかを問う住民投票が行われた。アルバータ州の選挙管理委員会によると、20日夜時点の開票結果では、投票した約75％の人が、アルバータ州はカナダにとどまるべきだと選んだ。これについてカーニー首相は同日、カナダにとって「素晴らしい結果」だと歓迎した。",
+          "link": "https://www.bbc.com/japanese/articles/cwr5yq07pej8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T02:47:52.000Z",
+          "wordCount": 1762,
+          "title": "カナダ・アルバータ州で住民投票、分離独立を否決　「カナダにとって素晴らしい結果」とカーニー首相",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cmlyd72gk6exo#0",
           "author": null,
@@ -9087,6 +9147,26 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/22/news011.html",
+          "author": null,
+          "description": "2026年8月に開催された「Hot Chips 2026」から、Samsung Electronicsおよび、SamsungとXCENAの講演を紹介したい。いずれも、AIプロセッサのボトルネックである消費電力を下げる方法として、NMC（Near-Memory Compute）というアプローチを提案。2つの講演内容を解説し、AIプロセッサを含むシステムアーキテクチャの将来像を見てみたい。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/22/news011.html",
+          "publishedOn": "2026-10-21T02:00:00.000Z",
+          "wordCount": 2713,
+          "title": "AIプロセッサの省エネ化をどう実現？ Samsungの解「PIM」を解説",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/22/cover_news011.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/21/news038.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、高度と水深を単一パッケージで測定できるMEMSセンサー「LPS27DEWO」を発表した。ウェアラブル機器や屋外用機器の小型化や回路設計の簡略化に貢献する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/21/news038.html",
+          "publishedOn": "2026-10-21T00:00:00.000Z",
+          "wordCount": 2640,
+          "title": "高度／水深測定を1パッケージに統合したMEMSセンサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/21/cover_news038.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/20/news056.html",
           "author": null,
           "description": "今回こそAnalog Devices（ADI）「Blackfin」の話。Intelとの共同開発で生まれたこのプロセッサは、ADIにおいて順調に製品群が拡充されたものの、ある時期を境に新製品の投入が（筆者の知る限り）止まっている。",
@@ -9563,6 +9643,46 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=135526",
+          "author": "多根清史",
+          "description": "アップル初の折りたたみ式iPhone「iPhone Duo」の発売が数日後に迫るなか、アップル純正アプリがどのように最適化されているかを示す画面イメージがApp Storeに掲載されている。 全般的に、多くのアプリは横向き画面で表示されており、iPadに近いサイドバー型UIを採用しているようだ。一方 […]",
+          "link": "https://gadget.phileweb.com/post-135526/",
+          "publishedOn": "2026-10-21T02:47:59.000Z",
+          "wordCount": 710,
+          "title": "iPhone Duoの純正アプリ画面が公開。左右分割や縦型Dockなど新UIが明らかに",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/a4884588d3b86d443c8fcf4d11aa220e.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135503",
+          "author": "編集部：平山洸太",
+          "description": "Memoket（メモケット）は、AIボイスレコーダー「Memoket Gem」を発売した。価格は31,980円（税込）。 質量約11gのAIボイスレコーダーで、スマートウォッチと併用（専用バンドに固定）できることが大きな特徴。アクセリーにより、リストバンド、ペンダント、クリップといった固定方法にも対 […]",
+          "link": "https://gadget.phileweb.com/post-135503/",
+          "publishedOn": "2026-10-21T02:10:00.000Z",
+          "wordCount": 708,
+          "title": "時計のバンドに装着できるAIレコーダー「Memoket Gem」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/3387f16112324ff900dd272e3eb1e9a2.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135442",
+          "author": "編集部：平山洸太",
+          "description": "dynabookは、コンバーチブルの13.3型法人向けノートPC「V83/PA」を投入する。価格は1,057,320円（税込）から。 パネルが回転してタブレットとしても使える “妥協しないコンバーチブル” として、6年ぶりに生まれ変わった新製品。ディスプレイは13.3インチ（16:10／WUXGA） […]",
+          "link": "https://gadget.phileweb.com/post-135442/",
+          "publishedOn": "2026-10-21T01:00:00.000Z",
+          "wordCount": 705,
+          "title": "Dynabook、薄型軽量の“妥協しない”法人向け2in1ノート「V83/PA」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/52a4f111f30f8eb39228f434b384b6a3.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135444",
+          "author": "編集部：平山洸太",
+          "description": "dynabookは、13.3型の法人向けノートPC「G83R/RA」を投入する。価格は854,700円（税込）から。 法人に最も多く導入されているという、主力シリーズ「G83」を継承した新モデルが登場。これまでの使い勝手を変えずにリプレースできることも特徴だとしている。カラーは、セレストブルーとネビ […]",
+          "link": "https://gadget.phileweb.com/post-135444/",
+          "publishedOn": "2026-10-21T01:00:00.000Z",
+          "wordCount": 697,
+          "title": "Dynabook、法人向け“主力シリーズ”の新13.3型ノート「G83R/RA」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/ca202f47711277c24a6cc9144472cd69.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=135436",
           "author": "編集部：平山洸太",
@@ -10821,6 +10941,16 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1792544878/",
+          "author": "朝一から閉店までφ ★",
+          "description": "記事入力 : 2026/10/21 08:00\nエクアドル・グアヤキルにある大聖堂で、ミサを執り行っていた神父が後方の壁に掛けられていた大型の十字架の下敷きになって死亡する事故が発生した。アルゼンチンの日刊紙「クラリン」...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792544878/",
+          "link": "http://www.2nn.jp/dqnplus/1792544878/",
+          "publishedOn": "2026-10-21T01:07:58.000Z",
+          "wordCount": 1573,
+          "title": "「いつかは死ぬ」 神父が説教を終えるや十字架落下…ミサ生中継中の惨事 /エクアドル",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792544878.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1792497826/",
           "author": "朝一から閉店までφ ★",
           "description": "2026.10.20\nプロレスラーの“インドの狂虎”タイガー・ジェット・シン(82)が19日、成田空港からカナダへの帰国便に搭乗して離日した。工藤めぐみがGMを務めるZERO1が報告した。滞在最終日には外務省を訪れ、自身が関...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792497826/",
@@ -11417,6 +11547,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=62651",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです♪ 先日、厚木一番街を歩いていたら…おおっ？？ 遠くからでもすぐわかる、今までなかったでーーーっかい掲示が出現しているっ…！！ 早速その内容をチェックしてきました☆ 「月島もんじゃ くうや」オープン告知が出現…",
+          "link": "https://atsugi-lab.com/open-kuya-atsugi-20261204/",
+          "publishedOn": "2026-10-21T01:55:25.000Z",
+          "wordCount": 806,
+          "title": "【開店】どどーーんと大きな掲示が出現！「月島もんじゃ くうや」は12月4日19時オープンとなったみたい★［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/kuuya202612.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=62644",
           "author": "fumie",
@@ -12510,16 +12650,6 @@
           "wordCount": 1907,
           "title": "【ローソン】一点突破すぎ！ごはんがすすむ ぼだっこ 鮭【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/efc09c8194a5a249d58da4520be47736.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318743",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 生チョコアイス」を世界一詳しく調査しました。   【セブンイレブン】セブン […]",
-          "link": "https://foodfighter.jp/711sej-namachoco-ice-2026",
-          "publishedOn": "2026-09-21T14:07:39.000Z",
-          "wordCount": 1905,
-          "title": "【セブンイレブン】セブンプレミアム 生チョコアイス【2026年・新作コンビニアイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/f127ec654b283c7b3d6fbb488fb30a8e.jpg"
         }
       ]
     },
@@ -15462,21 +15592,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127445/",
-          "author": null,
-          "description": "テレビアニメ「#ゾンビさがしてます」の放送が10月3日からスタートすることが決定し、日笠陽子、小市眞琴、高柳知葉、島田愛野、鳥海浩輔の出演と主題歌の詳細が発表された。メインPV（https://...",
-          "link": "https://anime.eiga.com/news/127445/",
-          "publishedOn": "2026-09-21T12:00:00.000Z",
-          "wordCount": 743,
-          "title": "「#ゾンビさがしてます」に日笠陽子、小市眞琴、高柳知葉、島田愛野、鳥海浩輔が出演　主題歌はすりぃ、cadodeが担当",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15485,6 +15600,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126996",
+          "author": null,
+          "description": "アース・スターノベル刊『転生した大聖女は、聖女であることをひた隠す』の新刊発...",
+          "link": "https://ln-news.com/articles/126996",
+          "publishedOn": "2026-10-21T02:00:00.000Z",
+          "wordCount": 247,
+          "title": "『転生した大聖女は、聖女であることをひた隠す』新刊発売とアニメ放送開始を記念した特別展示がアニメイト池袋本店・梅田店にて開催中",
+          "imageUrl": "https://assets.ln-news.com/images/medias/fb09bdaa60fe4b66befd88442cc8bddf.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126993",
+          "author": null,
+          "description": "2026年10月19日（一部10月15日）に発売されたnovel スピラ10...",
+          "link": "https://ln-news.com/articles/126993",
+          "publishedOn": "2026-10-21T00:30:00.000Z",
+          "wordCount": 237,
+          "title": "novel スピラ2026年10月刊行のラインナップをご紹介。『追放されたおっさん、暇つぶしに神々を超える2』『大魔術師様に嫁ぎまして3』など2冊",
+          "imageUrl": "https://assets.ln-news.com/images/medias/0ce67c813cdc4a34875dd530005ec352.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126988",
           "author": null,
