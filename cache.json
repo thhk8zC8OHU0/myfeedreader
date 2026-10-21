@@ -6,6 +6,56 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/052/G105204/20261021020/",
+          "author": null,
+          "description": "ハムスターは本日，「アーケードアーカイブス2エースドライバー・ビクトリーラップ」と「アーケードアーカイブスエースドライバー・ビクトリーラップ」を2026年10月22日に配信すると発表した。本作は，1996年にナムコから発売されたレースゲームで，前作からコースが増設され，マシングラフィックスも一新されている。",
+          "link": "https://www.4gamer.net/games/052/G105204/20261021020/",
+          "publishedOn": "2026-10-21T08:00:00.000Z",
+          "wordCount": 8780,
+          "title": "アケアカ「エースドライバー・ビクトリーラップ」，10月22日配信。コースを増設し，マシングラフィックスも一新した1996年のレースゲーム",
+          "imageUrl": "https://www.4gamer.net/games/052/G105204/20261021020/SS/006.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/052/G105202/20261021011/",
+          "author": null,
+          "description": "CRITICALREFLEXは本日（2026年10月21日），ID@XBOXショーケースと第2回「CRITICALREFLEXTIME」で，新作やパブリッシングタイトルの新情報を発表した。「Mouthwashing」をはじめとするタイトルのコンソール向け展開や，「CucinaStellata」の無料配信などさまざまな情報が明かされた。",
+          "link": "https://www.4gamer.net/games/052/G105202/20261021011/",
+          "publishedOn": "2026-10-21T07:14:27.000Z",
+          "wordCount": 8989,
+          "title": "「Mouthwashing」など4タイトルがコンソール向けに展開。料理サイコロジカルホラー「Cucina Stellata」，無料配信開始",
+          "imageUrl": "https://www.4gamer.net/games/052/G105202/20261021011/SS/002.png"
+        },
+        {
+          "id": "https://www.4gamer.net/games/051/G105105/20261017006/",
+          "author": null,
+          "description": "「M2ShotTriggers」シリーズ10周年を記念したオフラインファンミーティング「エムツーショットトリガーズ10周年弩感謝祭〜Let’sJailbreakTogether!!〜」が2026年10月10日，東京都・台東区のesportsStyleUENOで開催された。「アームドポリスバトライダー（仮）」「戦刃アレスタ」の先行試遊も行われたイベントの模様をレポートする。",
+          "link": "https://www.4gamer.net/games/051/G105105/20261017006/",
+          "publishedOn": "2026-10-21T07:00:00.000Z",
+          "wordCount": 9399,
+          "title": "新タイトルが続々発表された「エムツーショットトリガーズ 10周年弩感謝祭」レポート。「アームドポリス バトライダー（仮）」「戦刃アレスタ」の試遊も",
+          "imageUrl": "https://www.4gamer.net/games/051/G105105/20261017006/SS/001.webp"
+        },
+        {
+          "id": "https://www.4gamer.net/games/046/G104608/20261021004/",
+          "author": null,
+          "description": "松竹ゲームズは本日，協力型穴掘りアドベンチャー「AGameAboutDiggingAHoleTogether」を2026年12月4日に発売すると発表した。本作は，穴を掘り，手に入れたものを売って装備を強化し，さらに地底深くへと進んでいく。最大4人でクロスプラットフォームのオンライン協力プレイを楽しめる。",
+          "link": "https://www.4gamer.net/games/046/G104608/20261021004/",
+          "publishedOn": "2026-10-21T04:00:00.000Z",
+          "wordCount": 8961,
+          "title": "最大4人で地底を掘り進める「A Game About Digging A Hole Together」，12月4日発売。クロスプラットフォームにも対応",
+          "imageUrl": "https://www.4gamer.net/games/046/G104608/20261021004/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/304/G030407/20261021007/",
+          "author": null,
+          "description": "「FalloutDayCelebrations2026」の2日目に，「FalloutShelter」と「Fallout4」に関する新情報が発表された。「FalloutShelter」には赤ちゃんデスクローが新たな仲間として登場予定で，「Fallout4」では3つの新Creationsが発表されている。",
+          "link": "https://www.4gamer.net/games/304/G030407/20261021007/",
+          "publishedOn": "2026-10-21T03:14:41.000Z",
+          "wordCount": 9268,
+          "title": "「Fallout Shelter」に赤ちゃんデスクローが登場。「Fallout 4」は脱出ゲーム風ダンジョンや海底コズミックホラーなど3つの新Creationsを発表",
+          "imageUrl": "https://www.4gamer.net/games/304/G030407/20261021007/SS/008.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/986/G098670/20261021001/",
           "author": null,
           "description": "BlissBrainは本日，「70年代風ロボットアニメゲッP-X」のダウンロード版を30％オフで販売する初セールを開始した。対象はPC（Steam）/PS5/Switch/PS4版で，期間は2026年11月4日まで。パッケージ版とXBOXSeriesX|S/PC（MicrosoftStore）版は対象外となる。",
@@ -2422,6 +2472,76 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/1574b8a62460ee782c33899b703f3fc76ef37dea?source=rss",
+          "author": null,
+          "description": "格安航空会社のＰｅａｃｈは、台風３０号の接近に伴い沖縄方面へ発着する便の欠航を発表しました。大阪で気温30.0度を観測 史上最も遅い「真夏日」に Ｐｅａｃｈは、台風３０号の接近に伴い、２２日と２３日に",
+          "link": "https://news.yahoo.co.jp/articles/1574b8a62460ee782c33899b703f3fc76ef37dea?source=rss",
+          "publishedOn": "2026-10-21T08:19:43.000Z",
+          "wordCount": 1653,
+          "title": "ＬＣＣピーチ、２２・２３日に沖縄方面発着の１６便を欠航　台風３０号接近に伴い(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083169-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b8cfc2f6bed2b068c16e517117f2683986aa14f7?source=rss",
+          "author": null,
+          "description": "「ショウリンジじゃ！」などと叫ぶ１１０番通報や、交番への迷惑行為をしたとして、兵庫県警は２０日までに小学校低学年から高校生までの少年少女２５人を検挙・補導しました。６０代女性から５０万円詐取か ベトナ",
+          "link": "https://news.yahoo.co.jp/articles/b8cfc2f6bed2b068c16e517117f2683986aa14f7?source=rss",
+          "publishedOn": "2026-10-21T07:51:34.000Z",
+          "wordCount": 1660,
+          "title": "１１０番通報で「ショウリンジじゃ！」や交番内にジュースまき散らすなどの迷惑行為か　小学校低学年から高校生までの少年少女２５人を検挙・補導　兵庫県警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083168-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/46a56b7eb7cc6bc4062c2367a320f346e9d4bcc3?source=rss",
+          "author": null,
+          "description": "６０代の女性から現金５０万円をだまし取ったとして、徳島県警は２１日、ベトナムを拠点にした特殊詐欺グループの主要メンバーら４人を逮捕しました。被害総額は数千万円にのぼるとみられています。大阪都構想に暗雲",
+          "link": "https://news.yahoo.co.jp/articles/46a56b7eb7cc6bc4062c2367a320f346e9d4bcc3?source=rss",
+          "publishedOn": "2026-10-21T05:59:01.000Z",
+          "wordCount": 1659,
+          "title": "６０代女性から５０万円詐取か　ベトナム拠点の特殊詐欺グループ主要メンバーら４人逮捕　被害総額は数千万円にも(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083166-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/27b8630914c9d18252ddb689165d08b73132924d?source=rss",
+          "author": null,
+          "description": "ｉＰＳ細胞を使った移植手術を成功させた大阪の病院で、患者の女性が「先生方には感謝しかない」と喜びを語りました。【岩本計介ニュースの現場から】SNSで見つけた“探偵” 独身偽装の調査で計91万円支払うも",
+          "link": "https://news.yahoo.co.jp/articles/27b8630914c9d18252ddb689165d08b73132924d?source=rss",
+          "publishedOn": "2026-10-21T04:18:41.000Z",
+          "wordCount": 1690,
+          "title": "iPS細胞使った移植手術成功　「感謝しかない」重い心不全患者が喜びの声　保険適用後の治療への使用は世界初(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083165-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e278a86cde19b2df7c683d4f80fbe2f2aa778d4a?source=rss",
+          "author": null,
+          "description": "兵庫県で１６歳の少女が違法な逮捕や勾留により死亡したとして、母親が国と県に損害賠償を求めた裁判が始まり、母親は「娘を拘束した判断の根拠を求める」と訴えました。大阪都構想に暗雲 特別区移行の「初期コスト",
+          "link": "https://news.yahoo.co.jp/articles/e278a86cde19b2df7c683d4f80fbe2f2aa778d4a?source=rss",
+          "publishedOn": "2026-10-21T03:29:55.000Z",
+          "wordCount": 1682,
+          "title": "「娘を拘束した判断の根拠を」　死亡した１６歳少女の母親が国と県相手に訴え　違法な逮捕・勾留と主張(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083163-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/984c596867a8973f8bf750709a47d66fb1286d57?source=rss",
+          "author": null,
+          "description": "先月、神戸市で起きた連続発砲事件で、殺人未遂の疑いで逮捕されている元・暴力団関係者の男が、「不動産取引をめぐるトラブルがあった」という趣旨の供述をしていることがわかりました。大阪都構想に暗雲 特別区移",
+          "link": "https://news.yahoo.co.jp/articles/984c596867a8973f8bf750709a47d66fb1286d57?source=rss",
+          "publishedOn": "2026-10-21T03:28:24.000Z",
+          "wordCount": 1657,
+          "title": "神戸・連続発砲で逮捕の元暴力団関係者　「不動産取引をめぐるトラブルがあった」　殺人容疑で再逮捕へ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083164-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/23e70d93c7257c94ea1ad1c753737919281f65e2?source=rss",
+          "author": null,
+          "description": "大阪市を廃止し、4つの特別区に再編する「大阪都構想」。その実現にかかる初期費用について、2020年の住民投票時の約241億円から約624億円へと、試算が2.6倍に膨らんでいることがわかりました。大阪都",
+          "link": "https://news.yahoo.co.jp/articles/23e70d93c7257c94ea1ad1c753737919281f65e2?source=rss",
+          "publishedOn": "2026-10-21T03:00:00.000Z",
+          "wordCount": 1718,
+          "title": "大阪都構想に暗雲　特別区移行の「初期コスト」試算が2.6倍に　一方で“効果”の数字は示されず…住民投票までに必要なことは？(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083162-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/5ca0ad461b613cd4889dd7c3938286d65fd2f427?source=rss",
           "author": null,
@@ -7231,26 +7351,6 @@
           "wordCount": 1652,
           "title": "報道で事件知った父親が息子の様子を不審に思い交番に・・・高齢女性死亡の自転車ひき逃げ　５１歳の漁師の男逮捕「よそ見をしていた。怒られるのが嫌で逃げた」　兵庫・明石市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082664-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ce53c24c7e83db9421a7e3c187231f854c7522ca?source=rss",
-          "author": null,
-          "description": "滋賀県東近江市で、交通違反の取り締まり中だった警察官を車ではね殺害しようとしそのまま逃げた疑いで、会社員の岡田健悟容疑者（２９）が逮捕されました。\n\n　警察によりますと、２１日午前１０時ごろ、男性巡",
-          "link": "https://news.yahoo.co.jp/articles/ce53c24c7e83db9421a7e3c187231f854c7522ca?source=rss",
-          "publishedOn": "2026-09-21T19:16:52.000Z",
-          "wordCount": 1645,
-          "title": "交通取り締まり中の警察官を車ではね逃走した疑い　２９歳の会社員の男逮捕　容疑を否認「警備員の旗に当たったと思った」(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082663-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f8ae7b2f115d0948fb8d341e5bf46951e476ed9e?source=rss",
-          "author": null,
-          "description": "滋賀県の琵琶湖で２１日、水上バイクに乗った男性３人の行方が一時分からなくなりました。その後、無事が確認されましたが、この３人を探しに行った別の男性１人が行方不明となっています。\n\n　２１日午前１１時",
-          "link": "https://news.yahoo.co.jp/articles/f8ae7b2f115d0948fb8d341e5bf46951e476ed9e?source=rss",
-          "publishedOn": "2026-09-21T16:21:36.000Z",
-          "wordCount": 1653,
-          "title": "琵琶湖で水上バイクの３人が一時行方不明に　その後３人の無事確認も、探しに行った別の40代男性が行方不明に　警察などが２２日の早朝から捜索再開(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082662-asahibcv-000-2-view.jpg?exp=10800"
         }
       ]
     },
@@ -7259,6 +7359,86 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/watch/cq78pn85n08yo#0",
+          "author": null,
+          "description": "ウクライナの情報機関のために秘密裏に活動していたロシア人男性が、ロシア国内で行ったという偵察活動の映像を、BBCに提供した。私たちが「イワン」と呼ぶ男性は、ウクライナがロシアの戦略爆撃機や兵器工場に対して行ったドローン攻撃に、ロシア国内から関与したと話している。",
+          "link": "https://www.bbc.com/japanese/watch/cq78pn85n08yo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T08:09:50.000Z",
+          "wordCount": 1315,
+          "title": "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBCに提供",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4d9e/live/da9a2570-c983-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cmgqw4weqxveo#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領の特使のウィトコフ氏が、オスロで20日午後、ウクライナのゼレンスキー大統領と、会談を前に抱擁を交わした。だが、戦争で荒廃した自国に対するアメリカの現在の政策の方向性について、ゼレンスキー氏が抱いている懸念が払拭された可能性は低い。",
+          "link": "https://www.bbc.com/japanese/articles/cmgqw4weqxveo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T07:27:31.000Z",
+          "wordCount": 1898,
+          "title": "【解説】 トランプ氏とゼレンスキー氏、依然対立か　オスロ会談後に楽観論も流れるが",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ca83/live/3f595b00-ccba-11f1-a64c-550be9e3c66b.png"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqgm0zm2ewv8o#0",
+          "author": null,
+          "description": "イギリス内務省は16日、スターマー前首相に関連する住宅や乗用車が放火された3件の事件について、有罪判決を受けて服役していたスタニスラフ・カルプッチ受刑者（28）を、国外追放したと発表した。追放先は明らかにしなかった。",
+          "link": "https://www.bbc.com/japanese/articles/cqgm0zm2ewv8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T07:06:18.000Z",
+          "wordCount": 1864,
+          "title": "スターマー前英首相に関係する家屋などの放火事件、受刑者を国外追放",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1100/live/56bb2cb0-c9ef-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6jrw5e2j298o#0",
+          "author": null,
+          "description": "政府軍と準軍事組織「迅速支援部隊（RSF）」の間の紛争が続くスーダンで、スーダン政府軍が複数のドローン攻撃を行い、葬儀に向かっていた数十人を含む300人以上を殺害したとして非難されている。",
+          "link": "https://www.bbc.com/japanese/articles/c6jrw5e2j298o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T06:04:20.000Z",
+          "wordCount": 1933,
+          "title": "スーダン軍が葬儀参列者と燃料市場をドローン攻撃、300人以上死亡と情報筋",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c9rkyjy2z560o#0",
+          "author": null,
+          "description": "北朝鮮のメディアは20日、金正恩総書記の様子を伝えた。脳出血で死亡したとうわさが飛び交った人にしては、驚くほど元気そうに見えた。朝鮮労働党機関紙「労働新聞」が掲載した写真には、42歳の独裁者が娘と一緒に写っていた。",
+          "link": "https://www.bbc.com/japanese/articles/c9rkyjy2z560o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T05:32:19.000Z",
+          "wordCount": 2021,
+          "title": "北朝鮮が金正恩氏の写真公開　死亡説が繰り返し浮上する理由は",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqdr863v05eko#0",
+          "author": null,
+          "description": "パレスチナ・ガザ地区に食料を供給している主要機関の世界食糧計画（WFP）が、資金不足のため、ガザへの「人命救助の支援を大幅に縮小」せざるを得ないとしている。",
+          "link": "https://www.bbc.com/japanese/articles/cqdr863v05eko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T05:28:10.000Z",
+          "wordCount": 1900,
+          "title": "WFP、資金不足でガザ支援縮小　住民の食料確保がいっそう困難に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjzxlpz2vpn6o#1",
+          "author": null,
+          "description": "ウクライナの情報機関のために秘密裏に活動していたロシア人男性2人がこのほど、ロシア国内の軍事施設や人員を標的とした作戦に関与したと主張し、その作戦について異例の証言を行った。",
+          "link": "https://www.bbc.com/japanese/articles/cjzxlpz2vpn6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T05:11:55.000Z",
+          "wordCount": 2105,
+          "title": "ロシア国内でひそかに行われる反プーチン工作……その内幕を取材",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/c3ewened59yeo#0",
+          "author": null,
+          "description": "ハリー王子は米ニューヨークで雑誌GQのインタビューに応じ、「世界で起こっているあらゆる出来事の中で、何より大事なのは和解することだ」と語った。",
+          "link": "https://www.bbc.com/japanese/watch/c3ewened59yeo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T03:39:05.000Z",
+          "wordCount": 1260,
+          "title": "ハリー英王子、父チャールズ国王と兄ウィリアム皇太子との「和解」望んでいると",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7d47/live/60422740-ccae-11f1-bc2e-018d645d8d21.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/ck78p4053y8lo#0",
           "author": null,
@@ -9147,6 +9327,36 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/21/news061.html",
+          "author": null,
+          "description": "東芝デバイス＆ストレージは、産業用機器向けに2チャンネルスタンダードデジタルアイソレーター「DCL32xx00シリーズ」4品種を製品化し、量産出荷を開始した。1チャンネル当たり0.2mAの低消費電流を実現している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/21/news061.html",
+          "publishedOn": "2026-10-21T06:30:00.000Z",
+          "wordCount": 2642,
+          "title": "産機向けの低消費電力デジタルアイソレーター、最大25Mbpsに対応",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/21/cover_news061.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/21/news051.html",
+          "author": null,
+          "description": "インフィニオン テクノロジーズは、車載インストルメントクラスタやディスプレイ用途向けのマイクロコントローラー「TRAVEO CYT4EN」を発表した。外部LPDDR4メモリの活用を前提に設計され、高度な2.5Dおよび3Dグラフィックス描画やフルHDディスプレイの駆動をサポートする。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/21/news051.html",
+          "publishedOn": "2026-10-21T05:00:00.000Z",
+          "wordCount": 2656,
+          "title": "インフィニオンの車載メーター向け新マイコン、コスト効率追求",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/21/cover_news051.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/13/news008.html",
+          "author": null,
+          "description": "Advanced Energyは、防衛および産業用途の過酷環境向けに、MIL規格に準拠した160W AC-DC電源「DF150」を発表した。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/13/news008.html",
+          "publishedOn": "2026-10-21T03:30:00.000Z",
+          "wordCount": 2662,
+          "title": "防衛、産業用途の過酷環境向け160W AC-DC電源",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/13/l_edn20261005edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/22/news011.html",
           "author": null,
           "description": "2026年8月に開催された「Hot Chips 2026」から、Samsung Electronicsおよび、SamsungとXCENAの講演を紹介したい。いずれも、AIプロセッサのボトルネックである消費電力を下げる方法として、NMC（Near-Memory Compute）というアプローチを提案。2つの講演内容を解説し、AIプロセッサを含むシステムアーキテクチャの将来像を見てみたい。",
@@ -9643,6 +9853,56 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=135597",
+          "author": "Munenori Taniguchi",
+          "description": "以前はダイソンUKに務めていたというインドの航空宇宙エンジニア、ナブジョット・ソウニー氏は、自身が設立した会社The Washing Machine Projectで手回し式洗濯機を開発し、大きな成功をおさめている。 イギリスからインド南部の小さな村に移住したソウニー氏は、近所に住むディヴィヤという […]",
+          "link": "https://gadget.phileweb.com/post-135597/",
+          "publishedOn": "2026-10-21T07:45:00.000Z",
+          "wordCount": 727,
+          "title": "元ダイソンの技術者、電源不要の革新的（？）手回し洗濯機を開発し世界に貢献",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/c0bd24444f5d5bd9000c8faf0aac4801.jpeg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135546",
+          "author": "多根清史",
+          "description": "マイクロソフトは2026年4月、ゲーム定額サービス「Xbox Game Pass」の料金を引き下げる一方、今後発売される『Call of Duty』シリーズの新作について、発売初日からの提供を取りやめた。それに続き、同社がさらに大規模な刷新を検討していると米Fortuneが報じている。 同社の戦略に […]",
+          "link": "https://gadget.phileweb.com/post-135546/",
+          "publishedOn": "2026-10-21T07:30:00.000Z",
+          "wordCount": 717,
+          "title": "Xbox Game Pass、「定額コミコミ」から「ア・ラ・カルト」へ？ 欲しい機能を選んで遊ぶ新構想のうわさ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/917efb550e21fc16555bba59a0f3c39a.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135562",
+          "author": "編集部：平山洸太",
+          "description": "ファーウェイ・ジャパンは、「フラグシップ新製品発表会」を都内で開催。新製品として、スマートウォッチ「HUAWEI WATCH 6」および「HUAWEI WATCH GT 7 Pro／GT 7」、完全ワイヤレスイヤホン「HUAWEI FreeBuds Neo」などを発表した。 同社スマートウォッチの主 […]",
+          "link": "https://gadget.phileweb.com/post-135562/",
+          "publishedOn": "2026-10-21T06:45:00.000Z",
+          "wordCount": 849,
+          "title": "ファーウェイが新スマートウォッチ＆イヤホン一挙発表！「GT7シリーズ」と「WATCH 6」、新シリーズ「FreeBuds Neo」など登場",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/b1eb976f067e1cdcd70a6f3a967270d8.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135541",
+          "author": "Munenori Taniguchi",
+          "description": "SpaceXとテスラの創業者であるイーロン・マスク氏は、SpaceXの決算説明会で両社の経営統合に向けた協議を行う特別委員会を設置したことを明らかにした。 テスラの時価総額は約1兆5000億ドル、SpaceXは約2兆ドルと評価されており、両社が合併すれば、史上最大規模の合併のひとつとなるだろう。 マ […]",
+          "link": "https://gadget.phileweb.com/post-135541/",
+          "publishedOn": "2026-10-21T05:45:00.000Z",
+          "wordCount": 699,
+          "title": "SpaceXとテスラ、経営統合に向けた協議を開始。マスク氏「得られるものは多い」",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2023/02/tesla.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=135540",
+          "author": "多根清史",
+          "description": "アップルは来週10月28日（日本時間29日）にロサンゼルスで開催される特別イベント「Pro and Tell」で、シリーズ初のOLEDディスプレイを搭載する新型iPad mini（第8世代）を発表する見込みだ。このイベントでは、タッチ対応OLEDディスプレイ採用のハイエンドMacBook Proや、 […]",
+          "link": "https://gadget.phileweb.com/post-135540/",
+          "publishedOn": "2026-10-21T05:30:00.000Z",
+          "wordCount": 720,
+          "title": "OLED搭載の新型iPad miniが登場間近か。注目の新機能と価格予想をまとめて紹介",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/a2a29d2b249e574ddc5bf2a56f630161.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=135526",
           "author": "多根清史",
@@ -11973,16 +12233,6 @@
           "wordCount": 3903,
           "title": "Dr. Robert Henderson elected to the Royal Academy of Engineering",
           "imageUrl": null
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/09/dpreview-article-on-lofic.html",
-          "author": null,
-          "description": "https://www.dpreview.com/articles/cmos-inventor-eric-fossum-helps-us-explain-lofic/\nCMOS inventor Eric Fossum helps us explain LOFIC\n We worked with Prof. Eric Fossum to help explain the latest step forward in sensor design\n\nIt’s increasingly likely that you’ll have heard the term LOFIC, and some of the excitement around the capability it brings. We spoke to Professor Eric Fossum, inventor of the modern CMOS image sensor, who turns out to have some involvement in the early development of the concept, to explain how it works and what it could mean for cameras in future.\nLOFIC stands for Lateral OverFlow Integration Capacitor and is a different way of designing pixel circuitry that allows them to capture more light. Conceptually, it stems from a similar idea to the dual conversion gain senso…",
-          "link": "https://image-sensors-world.blogspot.com/2026/09/dpreview-article-on-lofic.html",
-          "publishedOn": "2026-09-21T16:49:00.000Z",
-          "wordCount": 4577,
-          "title": "DPReview article on LOFIC",
-          "imageUrl": null
         }
       ]
     },
@@ -11991,6 +12241,26 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=320478",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &nbsp […]\n投稿 【マクドナルド】スパイシーザクザクジューシーマック【チキンバーガーシリーズ・新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-juicy-mc-spicy",
+          "publishedOn": "2026-10-21T04:54:30.000Z",
+          "wordCount": 1928,
+          "title": "【マクドナルド】スパイシーザクザクジューシーマック【チキンバーガーシリーズ・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/560e112c23595b68a04995cbee7965de.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=320456",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &nbsp […]\n投稿 【マクドナルド】ザクザクジューシーマック【チキンバーガーシリーズ・新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-juicy-mc",
+          "publishedOn": "2026-10-21T03:16:58.000Z",
+          "wordCount": 1929,
+          "title": "【マクドナルド】ザクザクジューシーマック【チキンバーガーシリーズ・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/d6bd996cabe1e7ccf1963eabc5216988.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=320436",
           "author": "foodfighter",
@@ -12640,16 +12910,6 @@
           "wordCount": 1903,
           "title": "【ローソン】一点突破すぎ！敷き詰めごはん てりやきソーセージ【新作コンビニ弁当】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/a20751222f2cb62652d06c2ea88b73ad.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318761",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「一点突破すぎ！ごはんがすすむ ぼだっこ 鮭」を世界一詳しく調査しました。   【ローソン】一点突破 […]",
-          "link": "https://foodfighter.jp/lawson-bodakko",
-          "publishedOn": "2026-09-21T20:17:23.000Z",
-          "wordCount": 1907,
-          "title": "【ローソン】一点突破すぎ！ごはんがすすむ ぼだっこ 鮭【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/efc09c8194a5a249d58da4520be47736.jpg"
         }
       ]
     },
@@ -12658,6 +12918,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127583/",
+          "author": null,
+          "description": "山崎貴監督最新作「ゴジラ－0.0」の11月3日公開を記念して、「金曜ロードショー」で、10月23日、30日の2週に渡って山崎監督の「ALWAYS 三丁目の夕日」（05）「ゴジラ－1.0」（23）...",
+          "link": "https://anime.eiga.com/news/127583/",
+          "publishedOn": "2026-10-21T03:00:00.000Z",
+          "wordCount": 769,
+          "title": "「金曜ロードショー」で10月23日から2週連続で山崎貴監督作品「ALWAYS 三丁目の夕日」「ゴジラ－1.0」を放送",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127693/",
           "author": null,
@@ -15600,6 +15875,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126505",
+          "author": null,
+          "description": "ガガガ文庫発のアニメ『やはり俺の青春ラブコメはまちがっている。完』より、「a...",
+          "link": "https://ln-news.com/articles/126505",
+          "publishedOn": "2026-10-21T07:00:00.000Z",
+          "wordCount": 280,
+          "title": "『やはり俺の青春ラブコメはまちがっている。』×アパレルブランド「arti-mate」のオリジナルアパレルが登場",
+          "imageUrl": "https://assets.ln-news.com/images/medias/3118e0e04f714d4cab2d6f10820980db.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127005",
+          "author": null,
+          "description": "SBクリエイティブ株式会社は、エンタメ文芸レーベル「SB文庫」を2026年1...",
+          "link": "https://ln-news.com/articles/127005",
+          "publishedOn": "2026-10-21T05:30:00.000Z",
+          "wordCount": 256,
+          "title": "SBクリエイティブのエンタメ文芸レーベル「SB文庫」が2026年10月22日創刊へ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/5b63ac1ec58042fdae9dfcd5b1231714.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126997",
+          "author": null,
+          "description": "GCノベルズ発のアニメ『転生したら剣でしたII』第3話「アンデッドはガチガチ...",
+          "link": "https://ln-news.com/articles/126997",
+          "publishedOn": "2026-10-21T04:00:00.000Z",
+          "wordCount": 240,
+          "title": "アニメ『転生したら剣でしたII』第3話「アンデッドはガチガチでした」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/0da324ff7d1b4be1b45e88ec83dfec42.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126996",
           "author": null,
