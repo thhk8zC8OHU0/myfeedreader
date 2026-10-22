@@ -6,6 +6,36 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/172/G017216/20261021057/",
+          "author": null,
+          "description": "DigitalExtremesは日本時間の11月18日まで，基本プレイ無料のオンラインアクションゲーム「Warframe」の大規模イベント「一大作戦：Tauへの道」を開催中だ。“一度限り”という今回の特別なイベントについて，コミュニティディレクターを務めるMeganEverett氏にメールインタビューを行った。",
+          "link": "https://www.4gamer.net/games/172/G017216/20261021057/",
+          "publishedOn": "2026-10-22T00:00:00.000Z",
+          "wordCount": 8691,
+          "title": "「Warframe」は，大規模イベント“一大作戦：Tauへの道”で何を描き，どう変わっていくのか。開発者に見どころと少し先の未来について聞いた［インタビュー］",
+          "imageUrl": "https://www.4gamer.net/games/172/G017216/20261021057/SS/006.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/050/G105042/20261021028/",
+          "author": null,
+          "description": "Q-Gamesは2026年10月22日，NintendoSwitch2用ソフト「BeyondtheDark:ナイトウォッチ」を発売した。本作は，非対称な協力プレイを軸にした2人プレイ専用ホラーゲームだ。価格は2480円（税込）。",
+          "link": "https://www.4gamer.net/games/050/G105042/20261021028/",
+          "publishedOn": "2026-10-22T00:00:00.000Z",
+          "wordCount": 8352,
+          "title": "2人プレイ専用の非対称型協力ホラーゲーム「Beyond the Dark:ナイトウォッチ」，本日発売",
+          "imageUrl": "https://www.4gamer.net/games/050/G105042/20261021028/SS/003.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/015/G101534/20261018004/",
+          "author": null,
+          "description": "任天堂が本日（10月22日）発売した「NintendoSwitchSportsResort」は，Joy-Con2で体感スポーツを楽しめるNintendoSwitch2用ソフトだ。南国の島を巡る探索やランキング対戦なども用意されており，試合以外の遊びも充実した本作で“できること”を紹介しよう。",
+          "link": "https://www.4gamer.net/games/015/G101534/20261018004/",
+          "publishedOn": "2026-10-21T23:00:00.000Z",
+          "wordCount": 8793,
+          "title": "テニスからゆび相撲まで!?　「Nintendo Switch Sports Resort」の，Switch 2 ならではな体感スポーツと多彩な遊びを紹介",
+          "imageUrl": "https://www.4gamer.net/games/015/G101534/20261018004/SS/022.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/002/G100207/20261021043/",
           "author": null,
           "description": "フリューは本日，ローグライクアクション「クライムライト／CRYMELIGHT」の体験版をSwitch2/PS5向けに配信開始した。体験版には本編冒頭から第1章のラストまでが収録されており，ストーリーやバトル，懺悔による強化などを1.5〜3時間以上楽しめる。また，ゲームシステムに焦点を当てた2ndトレイラーも公開された。",
@@ -2502,6 +2532,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/66d397d79b61b7bae76b178690c1b62485bd8455?source=rss",
+          "author": null,
+          "description": "プログラム言語「ＰＨＰ」でセキュリティ上の脆弱性が見つかった影響で、大阪府は２１日深夜からインターネット上のサービスの一部を停止しています。大阪大学で７万７千人超の個人情報が漏えい システム運用委託の",
+          "link": "https://news.yahoo.co.jp/articles/66d397d79b61b7bae76b178690c1b62485bd8455?source=rss",
+          "publishedOn": "2026-10-22T00:03:13.000Z",
+          "wordCount": 1676,
+          "title": "【速報】大阪府がホームページ検索機能を一部停止　ＰＨＰの脆弱性発見の影響で　被害は確認されず(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00083182-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/018f839953f2a3d5a06ba5e0e250b935d6cd66e9?source=rss",
           "author": null,
@@ -7371,56 +7411,6 @@
           "wordCount": 1613,
           "title": "滋賀・琵琶湖　仲間の救助に水上バイクで向かった男性の死亡確認(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082677-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f20bea3e70cea0612444ebb08760475a37346868?source=rss",
-          "author": null,
-          "description": "「殺す気はなかった」と男は容疑を否認しています。\n\n　２２日午前３時すぎ、大阪府貝塚市橋本の府営住宅で「父が母を刺した」と通報がありました。\n\n　警察によりますと、松下清美さん（５５）が府営住宅の一",
-          "link": "https://news.yahoo.co.jp/articles/f20bea3e70cea0612444ebb08760475a37346868?source=rss",
-          "publishedOn": "2026-09-22T10:38:22.000Z",
-          "wordCount": 1655,
-          "title": "女性が刺され死亡　内縁の夫を殺人未遂の疑いで逮捕　「もみくちゃになって･･･」殺意は否認　大阪・貝塚市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082674-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e900ad558d920cd015d35a1b0115ec4661a86e40?source=rss",
-          "author": null,
-          "description": "マンション火災で、住人の３１歳の女性が意識不明の重体です。\n\n　２１日午後９時５０分ごろ、西宮市弓場町で、「隣のマンションの３階から火が出ています」と近くに住む男性から消防に通報がありました。",
-          "link": "https://news.yahoo.co.jp/articles/e900ad558d920cd015d35a1b0115ec4661a86e40?source=rss",
-          "publishedOn": "2026-09-22T10:37:29.000Z",
-          "wordCount": 1636,
-          "title": "マンション火災で住人の３１歳女性が意識不明の重体　兵庫・西宮市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082673-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/17b2e45c6f2d9cd371f3ea90f01ac6c38123a830?source=rss",
-          "author": null,
-          "description": "「怒られるのが嫌で逃げた」などと話しているということです。\n\n　漁師の中谷修容疑者（５１）は２０日午前、兵庫県明石市材木町の路上でしゃがんで犬を触っていた森本章さん（８３）に自転車で衝突し、そのまま",
-          "link": "https://news.yahoo.co.jp/articles/17b2e45c6f2d9cd371f3ea90f01ac6c38123a830?source=rss",
-          "publishedOn": "2026-09-22T10:18:28.000Z",
-          "wordCount": 1655,
-          "title": "「怒られるのが嫌で逃げた」　自転車で８３歳女性をひき逃げか　漁師の男を逮捕　兵庫・明石市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082675-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/dd664f72fa027beef68be5aa21b4a0c76c5a3e42?source=rss",
-          "author": null,
-          "description": "「ミスタータイガース」がヘルメットの着用を呼びかけました。\n\n　大阪府警堺警察署の一日署長を務めたのは、元阪神タイガースの選手で現役時代３度のホームラン王を獲得した掛布雅之さんです。\n\n　大阪府は、",
-          "link": "https://news.yahoo.co.jp/articles/dd664f72fa027beef68be5aa21b4a0c76c5a3e42?source=rss",
-          "publishedOn": "2026-09-22T10:04:13.000Z",
-          "wordCount": 1635,
-          "title": "元阪神・掛布雅之さん「野球でもかぶるわけだから」自転車でのヘルメット着用を呼びかけ　大阪・堺で一日警察署長(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082672-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2f14310726f4586b12ff8a5ac068fab099f7093d?source=rss",
-          "author": null,
-          "description": "救助に向かい行方不明になった男性とみられる遺体が見つかりました。\n\n　２１日午前１１時半ごろ、滋賀県大津市の琵琶湖で「水上バイクに乗った男性３人が戻ってこない」と、警察に届け出がありました。\n\n　警",
-          "link": "https://news.yahoo.co.jp/articles/2f14310726f4586b12ff8a5ac068fab099f7093d?source=rss",
-          "publishedOn": "2026-09-22T10:03:53.000Z",
-          "wordCount": 1653,
-          "title": "琵琶湖で１人の遺体を発見　行方不明者を捜しに出た４０代男性か　警察が身元の特定急ぐ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00082671-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -12949,6 +12939,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127702/",
+          "author": null,
+          "description": "コマ撮りアニメーション「ノーマン・ザ・スノーマン」シリーズが、「映画 ノーマン・ザ・スノーマン こどもたちのひとつ星」のタイトルで映画化されることが決定した。2027年1月1日から全国のイオンシ...",
+          "link": "https://anime.eiga.com/news/127702/",
+          "publishedOn": "2026-10-21T23:00:00.000Z",
+          "wordCount": 743,
+          "title": "コマ撮りアニメ「ノーマン・ザ・スノーマン」映画化、27年1月1日公開　吉野裕行、坂本真綾、梶裕貴ら出演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127653/",
           "author": null,
           "description": "山崎貴監督が手がけ、第96回アカデミー賞で日本映画初となる視覚効果賞を受賞する快挙を成し遂げた「ゴジラ－1.0」の続編となる「ゴジラ－0.0」のファイナル予告映像（https://youtu.b...",
@@ -15882,51 +15887,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127421/",
-          "author": null,
-          "description": "柳楽優弥が主演を務めたNetflixシリーズを実写映画化する「映画 九条の大罪」に、黒木華、鳴海唯、渋川清彦、吉岡睦雄、徳井優、奥野瑛太が新キャストとして出演していることがわかった。併せて特報が...",
-          "link": "https://anime.eiga.com/news/127421/",
-          "publishedOn": "2026-09-22T12:00:00.000Z",
-          "wordCount": 695,
-          "title": "実写映画「九条の大罪」に黒木華、鳴海唯、渋川清彦ら出演　特報映像も披露",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127450/",
-          "author": null,
-          "description": "アニメ「この素晴らしい世界に祝福を！」の10周年記念展「『この素晴らしい世界に祝福を！展』～Cheerful～」の展示内容、エリアマップや展示イメージが発表された。 場内は11のエリアで構成され...",
-          "link": "https://anime.eiga.com/news/127450/",
-          "publishedOn": "2026-09-22T11:00:00.000Z",
-          "wordCount": 683,
-          "title": "「このすば」アニメ10周年記念展の内容が明らかに　作品世界に没入できる展示や「爆裂魔法体感エリア」など",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/127463/",
-          "author": null,
-          "description": "9月25日公開の劇場アニメ「我々は宇宙人」をご存じでしょうか。いち早く試写会で見た識者や映画関係者がSNSで熱い感想を投稿しているのを見かけた方もいるかもしれません。 オリジナル作品である同作は...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/127463/",
-          "publishedOn": "2026-09-22T10:00:00.000Z",
-          "wordCount": 725,
-          "title": "【編集部お勧め】「ルックバック」原作者・藤本タツキも絶賛　ダークフォースのオリジナル劇場アニメ「我々は宇宙人」",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15935,6 +15895,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127002",
+          "author": null,
+          "description": "第40回ファンタジア大賞[前期]の一次選考結果の発表が行われた。[前期]の応...",
+          "link": "https://ln-news.com/articles/127002",
+          "publishedOn": "2026-10-22T00:30:00.000Z",
+          "wordCount": 229,
+          "title": "第40回ファンタジア大賞[前期]の一次選考結果が発表",
+          "imageUrl": "https://assets.ln-news.com/images/medias/d14c8aa12c1f4f649031f9628cb05bd9.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126998",
+          "author": null,
+          "description": "MF文庫J刊『Re：ゼロから始める異世界生活』より、優雅なドレス姿のエミリア...",
+          "link": "https://ln-news.com/articles/126998",
+          "publishedOn": "2026-10-21T23:00:00.000Z",
+          "wordCount": 245,
+          "title": "『Re：ゼロから始める異世界生活』優雅なドレス姿のエミリア1／7スケールフィギュアが2028年5月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/15cbcc17852142d0a8b6ff470153fbfa.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127000",
           "author": null,
@@ -18684,16 +18664,6 @@
           "wordCount": 229,
           "title": "『呼び出された殺戮者』の新コミカライズ連載が開始　勇者として呼び出された最凶男のダークファンタジー",
           "imageUrl": "https://assets.ln-news.com/images/medias/e0e9f68ca73c4af39737fa523669da43.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126728",
-          "author": null,
-          "description": "エンターブレイン単行本発のアニメ『幼女戦記II』第12話「出口」のあらすじ＆...",
-          "link": "https://ln-news.com/articles/126728",
-          "publishedOn": "2026-09-22T10:00:00.000Z",
-          "wordCount": 226,
-          "title": "アニメ『幼女戦記II』第12話「出口」のあらすじ＆先行カット解禁",
-          "imageUrl": "https://assets.ln-news.com/images/medias/1f724cbf80f94370830f11999aa29058.jpeg"
         }
       ]
     },

@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T21:59:10.492Z</updated>
+    <updated>2026-10-22T00:31:22.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第40回ファンタジア大賞[前期]の一次選考結果が発表]]></title>
+        <id>https://ln-news.com/articles/127002</id>
+        <link href="https://ln-news.com/articles/127002"/>
+        <updated>2026-10-22T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[第40回ファンタジア大賞[前期]の一次選考結果の発表が行われた。[前期]の応...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪府がホームページ検索機能を一部停止　ＰＨＰの脆弱性発見の影響で　被害は確認されず(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/66d397d79b61b7bae76b178690c1b62485bd8455?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/66d397d79b61b7bae76b178690c1b62485bd8455?source=rss"/>
+        <updated>2026-10-22T00:03:13.000Z</updated>
+        <summary type="html"><![CDATA[プログラム言語「ＰＨＰ」でセキュリティ上の脆弱性が見つかった影響で、大阪府は２１日深夜からインターネット上のサービスの一部を停止しています。大阪大学で７万７千人超の個人情報が漏えい システム運用委託の]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Warframe」は，大規模イベント“一大作戦：Tauへの道”で何を描き，どう変わっていくのか。開発者に見どころと少し先の未来について聞いた［インタビュー］]]></title>
+        <id>https://www.4gamer.net/games/172/G017216/20261021057/</id>
+        <link href="https://www.4gamer.net/games/172/G017216/20261021057/"/>
+        <updated>2026-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DigitalExtremesは日本時間の11月18日まで，基本プレイ無料のオンラインアクションゲーム「Warframe」の大規模イベント「一大作戦：Tauへの道」を開催中だ。“一度限り”という今回の特別なイベントについて，コミュニティディレクターを務めるMeganEverett氏にメールインタビューを行った。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2人プレイ専用の非対称型協力ホラーゲーム「Beyond the Dark:ナイトウォッチ」，本日発売]]></title>
+        <id>https://www.4gamer.net/games/050/G105042/20261021028/</id>
+        <link href="https://www.4gamer.net/games/050/G105042/20261021028/"/>
+        <updated>2026-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Q-Gamesは2026年10月22日，NintendoSwitch2用ソフト「BeyondtheDark:ナイトウォッチ」を発売した。本作は，非対称な協力プレイを軸にした2人プレイ専用ホラーゲームだ。価格は2480円（税込）。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テニスからゆび相撲まで!?　「Nintendo Switch Sports Resort」の，Switch 2 ならではな体感スポーツと多彩な遊びを紹介]]></title>
+        <id>https://www.4gamer.net/games/015/G101534/20261018004/</id>
+        <link href="https://www.4gamer.net/games/015/G101534/20261018004/"/>
+        <updated>2026-10-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[任天堂が本日（10月22日）発売した「NintendoSwitchSportsResort」は，Joy-Con2で体感スポーツを楽しめるNintendoSwitch2用ソフトだ。南国の島を巡る探索やランキング対戦なども用意されており，試合以外の遊びも充実した本作で“できること”を紹介しよう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コマ撮りアニメ「ノーマン・ザ・スノーマン」映画化、27年1月1日公開　吉野裕行、坂本真綾、梶裕貴ら出演]]></title>
+        <id>https://anime.eiga.com/news/127702/</id>
+        <link href="https://anime.eiga.com/news/127702/"/>
+        <updated>2026-10-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コマ撮りアニメーション「ノーマン・ザ・スノーマン」シリーズが、「映画 ノーマン・ザ・スノーマン こどもたちのひとつ星」のタイトルで映画化されることが決定した。2027年1月1日から全国のイオンシ...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『Re：ゼロから始める異世界生活』優雅なドレス姿のエミリア1／7スケールフィギュアが2028年5月発売]]></title>
+        <id>https://ln-news.com/articles/126998</id>
+        <link href="https://ln-news.com/articles/126998"/>
+        <updated>2026-10-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MF文庫J刊『Re：ゼロから始める異世界生活』より、優雅なドレス姿のエミリア...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CMFも売却、厳しい状況のNothingは日本市場で生き残れるか]]></title>
         <id>https://gadget.phileweb.com/?p=135637</id>
@@ -18716,118 +18786,12 @@ Professor Robert Henderson’s innovations in the design of single photon avalan
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[実写映画「九条の大罪」に黒木華、鳴海唯、渋川清彦ら出演　特報映像も披露]]></title>
-        <id>https://anime.eiga.com/news/127421/</id>
-        <link href="https://anime.eiga.com/news/127421/"/>
-        <updated>2026-09-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[柳楽優弥が主演を務めたNetflixシリーズを実写映画化する「映画 九条の大罪」に、黒木華、鳴海唯、渋川清彦、吉岡睦雄、徳井優、奥野瑛太が新キャストとして出演していることがわかった。併せて特報が...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[雨降ってるのに散歩連れて行けと訴えてくる猫に困ってます…]]></title>
         <id>https://www.youtube.com/watch?v=th39cxufVQI</id>
         <link href="https://www.youtube.com/watch?v=th39cxufVQI"/>
         <updated>2026-09-22T11:01:20.000Z</updated>
         <author>
             <name>もちまる日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「このすば」アニメ10周年記念展の内容が明らかに　作品世界に没入できる展示や「爆裂魔法体感エリア」など]]></title>
-        <id>https://anime.eiga.com/news/127450/</id>
-        <link href="https://anime.eiga.com/news/127450/"/>
-        <updated>2026-09-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメ「この素晴らしい世界に祝福を！」の10周年記念展「『この素晴らしい世界に祝福を！展』～Cheerful～」の展示内容、エリアマップや展示イメージが発表された。 場内は11のエリアで構成され...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女性が刺され死亡　内縁の夫を殺人未遂の疑いで逮捕　「もみくちゃになって･･･」殺意は否認　大阪・貝塚市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/f20bea3e70cea0612444ebb08760475a37346868?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/f20bea3e70cea0612444ebb08760475a37346868?source=rss"/>
-        <updated>2026-09-22T10:38:22.000Z</updated>
-        <summary type="html"><![CDATA[「殺す気はなかった」と男は容疑を否認しています。
-
-　２２日午前３時すぎ、大阪府貝塚市橋本の府営住宅で「父が母を刺した」と通報がありました。
-
-　警察によりますと、松下清美さん（５５）が府営住宅の一]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マンション火災で住人の３１歳女性が意識不明の重体　兵庫・西宮市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/e900ad558d920cd015d35a1b0115ec4661a86e40?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/e900ad558d920cd015d35a1b0115ec4661a86e40?source=rss"/>
-        <updated>2026-09-22T10:37:29.000Z</updated>
-        <summary type="html"><![CDATA[マンション火災で、住人の３１歳の女性が意識不明の重体です。
-
-　２１日午後９時５０分ごろ、西宮市弓場町で、「隣のマンションの３階から火が出ています」と近くに住む男性から消防に通報がありました。]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「怒られるのが嫌で逃げた」　自転車で８３歳女性をひき逃げか　漁師の男を逮捕　兵庫・明石市(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/17b2e45c6f2d9cd371f3ea90f01ac6c38123a830?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/17b2e45c6f2d9cd371f3ea90f01ac6c38123a830?source=rss"/>
-        <updated>2026-09-22T10:18:28.000Z</updated>
-        <summary type="html"><![CDATA[「怒られるのが嫌で逃げた」などと話しているということです。
-
-　漁師の中谷修容疑者（５１）は２０日午前、兵庫県明石市材木町の路上でしゃがんで犬を触っていた森本章さん（８３）に自転車で衝突し、そのまま]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元阪神・掛布雅之さん「野球でもかぶるわけだから」自転車でのヘルメット着用を呼びかけ　大阪・堺で一日警察署長(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/dd664f72fa027beef68be5aa21b4a0c76c5a3e42?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/dd664f72fa027beef68be5aa21b4a0c76c5a3e42?source=rss"/>
-        <updated>2026-09-22T10:04:13.000Z</updated>
-        <summary type="html"><![CDATA[「ミスタータイガース」がヘルメットの着用を呼びかけました。
-
-　大阪府警堺警察署の一日署長を務めたのは、元阪神タイガースの選手で現役時代３度のホームラン王を獲得した掛布雅之さんです。
-
-　大阪府は、]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[琵琶湖で１人の遺体を発見　行方不明者を捜しに出た４０代男性か　警察が身元の特定急ぐ(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/2f14310726f4586b12ff8a5ac068fab099f7093d?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/2f14310726f4586b12ff8a5ac068fab099f7093d?source=rss"/>
-        <updated>2026-09-22T10:03:53.000Z</updated>
-        <summary type="html"><![CDATA[救助に向かい行方不明になった男性とみられる遺体が見つかりました。
-
-　２１日午前１１時半ごろ、滋賀県大津市の琵琶湖で「水上バイクに乗った男性３人が戻ってこない」と、警察に届け出がありました。
-
-　警]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【編集部お勧め】「ルックバック」原作者・藤本タツキも絶賛　ダークフォースのオリジナル劇場アニメ「我々は宇宙人」]]></title>
-        <id>https://anime.eiga.com/news/column/animehack_editors/127463/</id>
-        <link href="https://anime.eiga.com/news/column/animehack_editors/127463/"/>
-        <updated>2026-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9月25日公開の劇場アニメ「我々は宇宙人」をご存じでしょうか。いち早く試写会で見た識者や映画関係者がSNSで熱い感想を投稿しているのを見かけた方もいるかもしれません。 オリジナル作品である同作は...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『幼女戦記II』第12話「出口」のあらすじ＆先行カット解禁]]></title>
-        <id>https://ln-news.com/articles/126728</id>
-        <link href="https://ln-news.com/articles/126728"/>
-        <updated>2026-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[エンターブレイン単行本発のアニメ『幼女戦記II』第12話「出口」のあらすじ＆...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
         </author>
     </entry>
 </feed>
