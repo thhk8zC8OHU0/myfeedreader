@@ -2,10 +2,363 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T05:22:36.597Z</updated>
+    <updated>2026-10-22T10:23:55.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カセットに記録したモンスターに変身して戦うRPG「Cassette Beasts 2002」，ゲーム内容を紹介する最新映像を公開]]></title>
+        <id>https://www.4gamer.net/games/037/G103749/20261022039/</id>
+        <link href="https://www.4gamer.net/games/037/G103749/20261022039/"/>
+        <updated>2026-10-22T10:21:40.000Z</updated>
+        <summary type="html"><![CDATA[RawFuryは2026年10月21日，ByttenStudioが開発中の新作タイトル「CassetteBeasts2002」に関する最新情報を伝える動画「CassetteBeasts2002Showcase」を公開した。本作は，2023年にリリースされたターン制RPG「CassetteBeasts」の続編だ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNK本社の開発現場に潜入。ロビーを改装したモーションキャプチャスタジオや，「新世界楽曲雑技団」のベースなど，歴史と進化を感じるスタジオツアーをレポート]]></title>
+        <id>https://www.4gamer.net/games/041/G104116/20261021010/</id>
+        <link href="https://www.4gamer.net/games/041/G104116/20261021010/"/>
+        <updated>2026-10-22T10:17:43.000Z</updated>
+        <summary type="html"><![CDATA[「餓狼伝説CityoftheWolves」のNintendoSwitch2版発売を控えたSNK本社で，スタジオツアーが開催された。本社ロビーを改装したモーションキャプチャスタジオや，海外とのリモート収録に対応するサウンドルームなど，ゲーム制作の最前線を紹介しよう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ミャクミャク」今冬は天王寺動物園にお引っ越しへ(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a75773b8df8a87e19cfc053bfed9eac14d31d244?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a75773b8df8a87e19cfc053bfed9eac14d31d244?source=rss"/>
+        <updated>2026-10-22T10:16:10.000Z</updated>
+        <summary type="html"><![CDATA[今度は動物園などにお引越しです。 大阪・関西万博のゲート近くに設置されていた２体のミャクミャクのモニュメントは、万博閉幕後、大阪府内各地を巡回しています。「ゲレンデの雪づくり」始まる １２月のスキー場]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輸入禁止のソーセージ２１ｋｇ密輸か　「このソーセージに肉が含まれているとは知なかった」中国籍の女逮捕　関西空港(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/942bfd9d2d43d430bd9010c6d0af3f551ba44c14?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/942bfd9d2d43d430bd9010c6d0af3f551ba44c14?source=rss"/>
+        <updated>2026-10-22T10:14:58.000Z</updated>
+        <summary type="html"><![CDATA[輸入が禁止されているソーセージを密輸した疑いです。記者リポート「女は黒い袋に包まれた段ボールにソーセージを詰め、中身がわからないようにしていたということです」１４歳の中学生が８日前から行方不明 警察が]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホも現金も持たず・・・　１４歳男子中学生が８日前から行方不明　防犯カメラに１人で歩く姿　大阪・生野区(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4c0918310bacc66d44912c1bfd390726288f0d9b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4c0918310bacc66d44912c1bfd390726288f0d9b?source=rss"/>
+        <updated>2026-10-22T10:09:46.000Z</updated>
+        <summary type="html"><![CDATA[１４歳の中学生が８日前から行方不明になり警察が情報提供を呼びかけています。 大阪府警生野署によりますと、行方不明になっているのは大阪市生野区に住む男子中学生の小泉漣さん（１４）です。中学校で男子生徒に]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「カプコン」オンライン会員サービスに不正アクセス　メアドなど約１１７７万件の個人情報が漏えい(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/7f3bb0f902d3c5f228514179272408754aa8c5df?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/7f3bb0f902d3c5f228514179272408754aa8c5df?source=rss"/>
+        <updated>2026-10-22T10:03:30.000Z</updated>
+        <summary type="html"><![CDATA[大阪市のゲーム大手・カプコンはオンライン会員サービスに不正アクセスがあり、メールアドレスなどの個人情報約１１７７万件が漏えいしたと発表しました。「メンテナンス中」の文字が次々ネット上に ＰＨＰの脆弱性]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「超かぐや姫！」11月5日に復活上映終了　翌6日からセカンドランがスタート、1週間限定の4DX上映も]]></title>
+        <id>https://anime.eiga.com/news/127705/</id>
+        <link href="https://anime.eiga.com/news/127705/"/>
+        <updated>2026-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オリジナルアニメ映画「超かぐや姫！」の復活上映が11月5日に終了し、翌6日から新たな劇場でセカンドラン上映がスタートすることが分かった。11月6～12日に1週間限定で、4DX／ULTRA 4DX...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『冰剣の魔術師が世界を統べるII』第3話「世界最強の魔術師である少年は仲間と共に勝ち上がる」のあらすじ＆先行カット解禁]]></title>
+        <id>https://ln-news.com/articles/127003</id>
+        <link href="https://ln-news.com/articles/127003"/>
+        <updated>2026-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[講談社ラノベ文庫発のアニメ『冰剣の魔術師が世界を統べるII』第3話「世界最強...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・箕面市で橋の名前が書かれた「橋名板」４枚盗まれる　茨木市でも先月４５枚の被害(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0a53f7af0e96568ffa8e361fbca36d9f1b5f31de?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0a53f7af0e96568ffa8e361fbca36d9f1b5f31de?source=rss"/>
+        <updated>2026-10-22T09:44:06.000Z</updated>
+        <summary type="html"><![CDATA[箕面市は２２日、市が管理する橋で、橋の名前が書かれた橋名板４枚が盗まれたと発表しました。市は全１７５橋を対象に被害の有無を調べています。１４歳の中学生が８日前から行方不明 警察が情報提供求める 大阪・]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【フィッシング】須崎市の釣り情報サイト、個人情報3人分流出か]]></title>
+        <id>http://www.2nn.jp/dqnplus/1792661220/</id>
+        <link href="http://www.2nn.jp/dqnplus/1792661220/"/>
+        <updated>2026-10-22T09:27:00.000Z</updated>
+        <summary type="html"><![CDATA[2026.10.22 08:35
+高知新聞社
+須崎市は21日、同市の釣り情報サイト「釣りバカシティSUSAKI」の問い合わせフォームを利用した3人分の個人情報が流出した可能性がある、と発表した。ホームページ制作会社にサーバーを...
+https://egg.5ch.io/test/read.cgi/dqnplus/1792661220/]]></summary>
+        <author>
+            <name>朝一から閉店までφ ★</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「メンテナンス中」の文字が次々ネット上に　ＰＨＰの脆弱性発見で企業のウェブサイトに大打撃　今後数カ月は同様の事例が急増の予測も(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d55915b840ef62976adc62c2b52db02b6965baa3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d55915b840ef62976adc62c2b52db02b6965baa3?source=rss"/>
+        <updated>2026-10-22T09:26:57.000Z</updated>
+        <summary type="html"><![CDATA[21日から多くの企業のホームページに「メンテナンス中」「緊急システムメンテナンス」の文字がならんでいます。原因はウェブサイト作りに広く使われるプログラミング言語「PHP」に見つかった、システムの欠陥に]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遊びも仕事も1つで。新ゲーミングチェア「Boulies Master Rex 2026」10/22からMakuakeで先行販売]]></title>
+        <id>https://gadget.phileweb.com/?p=135787</id>
+        <link href="https://gadget.phileweb.com/post-135787/"/>
+        <updated>2026-10-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Boulies（ブーリス）は、ゲーミングチェア「Boulies Master Rex 2026」を発表。クラウドファンディングサイトのMakuakeにて、10月22日11時から先行販売を行う。先行販売では最安49％オフの36,800円（税込／35台限定）から購入することが可能。一般発売時の価格は72 […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「MURCIÉLAGO‐ムルシエラゴ‐」主人公・紅守黒湖役に上田瞳　相棒役に鈴木みのり、恋人役に上坂すみれ]]></title>
+        <id>https://anime.eiga.com/news/127703/</id>
+        <link href="https://anime.eiga.com/news/127703/"/>
+        <updated>2026-10-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2027年1月から放送を開始するテレビアニメ「MURCIÉLAGO‐ムルシエラゴ‐」で、主人公の紅守黒湖（こうもり・くろこ）役を上田瞳が担当することが決定した。鈴木みのり、上坂すみれも出演する。...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「夢幻桜楼閣」，クラウドファンディングが目標金額の200％となる100万円を達成。記念ノベルティの配布や海外支援にも対応]]></title>
+        <id>https://www.4gamer.net/games/914/G091464/20261022033/</id>
+        <link href="https://www.4gamer.net/games/914/G091464/20261022033/"/>
+        <updated>2026-10-22T08:56:27.000Z</updated>
+        <summary type="html"><![CDATA[松竹ゲームズは本日，ローグライト3Dアクション「夢幻桜楼閣」のクラウドファンディングが，目標金額の200％となる100万円を達成したと発表した。これを記念して，SNSアイコンフレームの無料配布を開始したほか，海外からの支援とリターン発送にも対応を開始した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「餓狼伝説 City of the Wolves」，アニメ「東京リベンジャーズ」からマイキーとドラケンがSeason 3のDLCキャラクター第4弾として参戦]]></title>
+        <id>https://www.4gamer.net/games/649/G064915/20261022031/</id>
+        <link href="https://www.4gamer.net/games/649/G064915/20261022031/"/>
+        <updated>2026-10-22T08:54:54.000Z</updated>
+        <summary type="html"><![CDATA[SNKは本日（2026年10月22日），対戦格闘ゲーム「餓狼伝説CityoftheWolves」で，Season3「DESTINEDFORREVENGE」のDLCキャラクター第4弾として，アニメ「東京リベンジャーズ」とのコラボキャラクター「佐野万次郎（マイキー）」「龍宮寺堅（ドラケン）」をリリースした。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[１４歳の中学生が８日前から行方不明　警察が情報提供求める　大阪・生野区(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c6f4a46167cbc587e169ffb47b4f75019c34660b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c6f4a46167cbc587e169ffb47b4f75019c34660b?source=rss"/>
+        <updated>2026-10-22T08:37:38.000Z</updated>
+        <summary type="html"><![CDATA[大阪市生野区に住む中学生、小泉漣さん（１４）が、８日前の１０月１４日午前８時ごろに自宅を出て以降、連絡が取れなくなっていることがわかり、警察が情報提供を求めています。総額２億円をSNS配信者への投げ銭]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『千歳くんはラムネ瓶のなか』のオンラインくじが登場　水着衣装の新規描き下ろしイラストを使用したオリジナルグッズがラインナップ]]></title>
+        <id>https://ln-news.com/articles/126904</id>
+        <link href="https://ln-news.com/articles/126904"/>
+        <updated>2026-10-22T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ガガガ文庫発のアニメ『千歳くんはラムネ瓶のなか』より、オリジナルグッズが手に...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteelSeries「Sensei Pro」「Rival Pro」登場。UWBで接続強化、バッテリーはホットスワップ対応]]></title>
+        <id>https://gadget.phileweb.com/?p=135803</id>
+        <link href="https://gadget.phileweb.com/post-135803/"/>
+        <updated>2026-10-22T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[SteelSeriesは、ワイヤレスゲーミングマウス「Sensei Pro」「Rival Pro」を11月20日に発売する。価格はいずれも33,310円（税込）。 2011年に登場した「Sensei」シリーズと、2013年に登場した「Rival」シリーズから新モデルが登場。両シリーズのデザインを継承 […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カナダが米中間選挙に「干渉している」と在オタワ米大使館が非難　カーニー政権は否定]]></title>
+        <id>https://www.bbc.com/japanese/articles/cm89z1q40xqjo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cm89z1q40xqjo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-22T08:18:07.000Z</updated>
+        <summary type="html"><![CDATA[カナダの首都オタワにあるアメリカ大使館は21日、米中間選挙を11月に控える中、カナダ当局がアメリカの選挙に干渉していると非難した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[総額２億円をSNS配信者への投げ銭に使ったか　機械メーカーの元経理担当者を横領容疑で逮捕　東大阪市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c00d36b7b6d8ae8892e2e8b30d92891101b0e949?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c00d36b7b6d8ae8892e2e8b30d92891101b0e949?source=rss"/>
+        <updated>2026-10-22T08:05:12.000Z</updated>
+        <summary type="html"><![CDATA[東大阪市の機械メーカーで経理を担当していた男が、約５９００万円を横領した疑いで逮捕されました。総額２億円をＳＮＳ配信者への投げ銭に使っていたとみられています。陸上競技関連団体の会計担当役員務める学校教]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ほの暮しの庭」，無料アップデート第2弾を10月27日配信。主人公の誕生日イベントや農具「種まき機」を追加]]></title>
+        <id>https://www.4gamer.net/games/933/G093331/20261021053/</id>
+        <link href="https://www.4gamer.net/games/933/G093331/20261021053/"/>
+        <updated>2026-10-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本一ソフトウェアは本日，生活シミュレーション「ほの暮しの庭」の無料アップデート第2弾を2026年10月27日に配信すると発表した。主人公の誕生日イベントを追加。好感度3以上の住人からプレゼントをもらえるようになるほか，新農具「種まき機」や家具「水回り設備シリーズ」全10種も実装する。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[患者・医師ともに負担少ない新技術　ｉＰＳ細胞で重症心不全の治療　実用化後初　患者女性は「すごく気持ちいい」(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/2727b9b506289e8df8e6ad295fd6b9b627d63b50?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/2727b9b506289e8df8e6ad295fd6b9b627d63b50?source=rss"/>
+        <updated>2026-10-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ｉＰＳ細胞」。２００６年に京都大学の山中伸弥教授らが初めて作製に成功し、万能細胞と呼ばれました。 あれから２０年が経ち、夢の万能細胞はついに現実の医療の新たな希望になりました。大阪都構想に暗雲 特別]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【米中間選挙2026】 ブッシュ家の2人、民主党候補を支持　テキサス州の連邦上院議員選で]]></title>
+        <id>https://www.bbc.com/japanese/articles/crz65nydxlw1o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/crz65nydxlw1o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-22T07:52:37.000Z</updated>
+        <summary type="html"><![CDATA[米テキサス州を地盤とする、共和党の名高い政治家一族のブッシュ家で、11月の中間選挙において民主党の候補を支持する動きが出ている。同州の連邦上院の議席をめぐり、ブッシュ家の2人が、民主党のジェイムズ・タラリコ候補を支持しているとされる。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】 アメリカの外交努力、ウクライナ和平に希望を与えず＝BBCロシア編集長]]></title>
+        <id>https://www.bbc.com/japanese/articles/c6gr8412l2qzo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/c6gr8412l2qzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-22T07:43:30.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェーの首都オスロと、ロシア・サンクトペテルブルクで計2日、外交交渉が行われた。ウクライナでの戦争は、いくらか終結に近づいたのだろうか？　BBCロシア編集長は、大きな進展はみられないと解説する。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【復旧】大阪メトロのホームページが一時閲覧できず　ＰＨＰメンテナンスの影響(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/fd9f5678f2c8488c314ac273f2f06e57663f4fb0?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/fd9f5678f2c8488c314ac273f2f06e57663f4fb0?source=rss"/>
+        <updated>2026-10-22T07:41:11.000Z</updated>
+        <summary type="html"><![CDATA[プログラム言語「ＰＨＰ」でセキュリティ上の脆弱性が見つかった影響で、大阪メトロのホームページでは２２日午前９時ごろから一時閲覧できない状態になっていましたが、午後４時ごろに復旧しました。大阪・吉村知事]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラ、ハンドルのない「サイバーキャブ」の年内販売開始を発表。規制当局の調査続くなか]]></title>
+        <id>https://gadget.phileweb.com/?p=135778</id>
+        <link href="https://gadget.phileweb.com/post-135778/"/>
+        <updated>2026-10-22T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[テスラのエンジニアリング担当副社長ラース・モラヴィ氏は、2026年内にロボタクシー車両として開発した2人乗りEV「Cybercab（サイバーキャブ）」の販売を開始すると、第3四半期決算発表会で述べた。 Cybercabにはハンドル、ペダルが装備されていない。これは、通常なら装備が義務付けられている手 […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[記憶を失った少女が謎めいた屋敷を探索。ホラーADV「ポケットミラー〜黄金の夢」，コンシューマ機版を本日発売]]></title>
+        <id>https://www.4gamer.net/games/052/G105245/20261022026/</id>
+        <link href="https://www.4gamer.net/games/052/G105245/20261022026/"/>
+        <updated>2026-10-22T07:27:31.000Z</updated>
+        <summary type="html"><![CDATA[KOMODOは本日，ホラーアドベンチャーゲーム「ポケットミラー〜黄金の夢」のPS5/Switch/PS4版を発売した。本作は，2016年にリリースされた「PocketMirrorClassic」をリマスターした作品だ。記憶を失った少女が謎めいた屋敷を探索し，自身の正体と隠された真実を追っていく。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ルネサスがRXマイコンに22nmプロセス／MRAM初採用　性能2倍超]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/22/news073.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/22/news073.html"/>
+        <updated>2026-10-22T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[ルネサス エレクトロニクスが、独自の32ビットCPUコアを搭載するRXファミリーの最上位マイコン「RX74M」「RX74N」を発売し、量産を開始した。RXファミリーとして初めて22nmプロセスとMRAMを採用。最大600MHzで動作する「RXv3e」コアを搭載し、従来製品に比べて2倍以上の性能を実現した。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10月12日～10月18日】週間ライトノベル売上ランキング]]></title>
+        <id>https://ln-news.com/articles/127007</id>
+        <link href="https://ln-news.com/articles/127007"/>
+        <updated>2026-10-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月12日（月）～2026年10月18日（日）の書泉ブックタワー...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エアビー、ホストは客にシーツ外しや皿洗いを強制できないと新ルール]]></title>
+        <id>https://www.bbc.com/japanese/articles/cr4g1j6nx08no#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cr4g1j6nx08no?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-22T06:45:28.000Z</updated>
+        <summary type="html"><![CDATA[米民泊仲介サイトのAirbnb（エアビーアンドビー）は20日、ホスト（貸主）が宿泊客に求めることができる作業を制限する新規則を発表した。制限対象には、掃除作業などが含まれる。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説】 日本のイベント開催能力は世界有数、しかしアジア大会は混乱を極めた]]></title>
+        <id>https://www.bbc.com/japanese/articles/cm93zxd0yw50o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cm93zxd0yw50o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-22T06:29:54.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックから毎年東京で開催されるビデオゲームの展示会まで、日本は大規模国際イベントの開催で確かな実績を誇っている。しかし、名古屋および愛知県で開かれた今年のアジア競技大会（アジア大会）は、さまざまな問題が目立った。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「悪を楽しむ」をコンセプトに掲げたシミュレーションRPG「デモンズナイトフィーバー」，本日発売]]></title>
+        <id>https://www.4gamer.net/games/924/G092453/20261022023/</id>
+        <link href="https://www.4gamer.net/games/924/G092453/20261022023/"/>
+        <updated>2026-10-22T06:15:58.000Z</updated>
+        <summary type="html"><![CDATA[アークシステムワークスは2026年10月22日，「デモンズナイトフィーバー」を発売した。本作は，「悪を楽しむ」をコンセプトに掲げた常識破りの「育成RTAシミュレーションRPG」だ。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[敵を撃破し続けなければ都市が壊れる。「EGGコンソール メガロポリスSOS MSX」，本日配信]]></title>
+        <id>https://www.4gamer.net/games/052/G105241/20261022022/</id>
+        <link href="https://www.4gamer.net/games/052/G105241/20261022022/"/>
+        <updated>2026-10-22T06:00:45.000Z</updated>
+        <summary type="html"><![CDATA[D4エンタープライズは本日，「EGGコンソールメガロポリスSOSMSX」の配信を開始した。「メガロポリスSOS」は，1983年に発売された都市防衛型シューティング。プレイヤーは砲台を操作し，弾丸と浮遊機雷で飛来するUFOを迎撃しながら，NYCやLON，TKYなど6つの都市を守り抜く。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メモリ高騰は2027年も続くか。 PC用RAMの品薄がさらに悪化の可能性]]></title>
+        <id>https://gadget.phileweb.com/?p=135717</id>
+        <link href="https://gadget.phileweb.com/post-135717/"/>
+        <updated>2026-10-22T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[自作PCや増設向けメモリの小売価格は、昨年から大幅に高騰し、品不足も続いている。そうしたなか2027年にはメモリの供給がさらに逼迫し、価格がいっそう上昇する可能性があると報じられている。 市場調査会社TrendForceは、2027年にPC向けDRAMの供給が減少するとの見通しを示している。背景にあ […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[劇場版『魔法科高校の劣等生 四葉継承編』Blu-ray＆DVDが2027年3月3日発売決定]]></title>
+        <id>https://ln-news.com/articles/127014</id>
+        <link href="https://ln-news.com/articles/127014"/>
+        <updated>2026-10-22T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[電撃文庫発の劇場版『魔法科高校の劣等生 四葉継承編』のBlu-ray＆DVD...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FMV、ノートPC全機種刷新！ 約634gのNote Uやゴジラコラボモデルなど登場]]></title>
         <id>https://gadget.phileweb.com/?p=135666</id>
@@ -37,6 +390,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【大盛況！】初日は約1,300人が参加★『こびとづかん』コラボイベント「こびとさがし in 厚木市」10月・11月もまだ参加できます☆]]></title>
+        <id>https://atsugi-lab.com/?p=62752</id>
+        <link href="https://atsugi-lab.com/event-kobitos-atsugi2026/"/>
+        <updated>2026-10-22T05:07:34.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、しの＠あつらぼです。 厚木市から、先週開催された「こびとさがし in 厚木市」の報道資料が届きました～！ このイベントは、厚木市がシティプロモーションの一環として、人気児童書シリーズ『こびとづかん』とコラボした企画です♪ 初日の…]]></summary>
+        <author>
+            <name>shino</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[米裁判所、メタに制裁金4兆円の判決　利用者データ流出で「うそ」の説明]]></title>
         <id>https://www.bbc.com/japanese/articles/cjy56q09r9e7o#0</id>
         <link href="https://www.bbc.com/japanese/articles/cjy56q09r9e7o?at_medium=RSS&amp;at_campaign=rss"/>
@@ -44,6 +407,16 @@
         <summary type="html"><![CDATA[アメリカ西部ニューメキシコ州の裁判所は21日、インスタグラム、フェイスブック、ワッツアップ、スレッズを運営するメタに対し、そのビジネス慣行を理由に、250億ドル（約4兆円）の制裁金を言い渡した。同社への制裁金としては過去最高額。]]></summary>
         <author>
             <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウェアラブル機器開発のヒント　スイッチの設計制約、どう解決？]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/22/news010.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/22/news010.html"/>
+        <updated>2026-10-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェアラブル機器には、消費電力や安全性、サイズなどの点で、さまざまな設計上の制約があります。特に、電源投入や状態検出に用いるスイッチには多くの制約があります。今回は、持続血糖モニタリング装置（CGM）を例に取り、トンネル磁気抵抗（TMR）スイッチを利用して、省電力や小型化を実現する設計手法を紹介する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -18981,37 +19354,6 @@ Professor Robert Henderson’s innovations in the design of single photon avalan
         <summary type="html"><![CDATA[エンターブレイン単行本『オーバーロード』より、黒バニー姿のシャルティア・ブラ...]]></summary>
         <author>
             <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『呼び出された殺戮者』の新コミカライズ連載が開始　勇者として呼び出された最凶男のダークファンタジー]]></title>
-        <id>https://ln-news.com/articles/126696</id>
-        <link href="https://ln-news.com/articles/126696"/>
-        <updated>2026-09-22T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[HJノベルス刊『呼び出された殺戮者』の新コミカライズ連載が、「COMICリュ...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和歌山・有田川町で住宅火災　住人の４０代女性と連絡取れず(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/e3fecd5a0a054d826817153ab20e37158b4dfc1c?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/e3fecd5a0a054d826817153ab20e37158b4dfc1c?source=rss"/>
-        <updated>2026-09-22T20:54:10.000Z</updated>
-        <summary type="html"><![CDATA[２２日深夜、和歌山県有田川町の住宅で火事があり、住人の女性と連絡が取れていません。
-
-　２２日午後１１時ごろ、有田川町徳田にある木造平屋建ての住宅で「火が出ている」と近所の人から消防に通報がありまし]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨降ってるのに散歩連れて行けと訴えてくる猫に困ってます…]]></title>
-        <id>https://www.youtube.com/watch?v=th39cxufVQI</id>
-        <link href="https://www.youtube.com/watch?v=th39cxufVQI"/>
-        <updated>2026-09-22T11:01:20.000Z</updated>
-        <author>
-            <name>もちまる日記</name>
         </author>
     </entry>
 </feed>
