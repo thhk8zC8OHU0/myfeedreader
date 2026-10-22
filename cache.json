@@ -2643,6 +2643,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/7cf380509fe0375e13099d5ea408270882d86835?source=rss",
+          "author": null,
+          "description": "16歳の少女が逮捕・勾留され、およそ半年後に死亡したことをめぐる裁判が、21日に神戸地裁で開かれました。「娘を拘束した判断の根拠を」 死亡した１６歳少女の母親が国と県相手に訴え 違法な逮捕・勾留と主張",
+          "link": "https://news.yahoo.co.jp/articles/7cf380509fe0375e13099d5ea408270882d86835?source=rss",
+          "publishedOn": "2026-10-22T22:00:00.000Z",
+          "wordCount": 1816,
+          "title": "ポイントは逮捕・勾留の妥当性と死亡との因果関係　「なぜ娘は死ななければならなかったのか」　勾留後死亡の16歳少女めぐる裁判始まる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00083190-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/ce287cc5152dd218dca8ed3aea98ab30fc3c1213?source=rss",
           "author": null,
           "description": "入院生活を送る子どもたちのストレスを和らげようと、近畿大学病院（堺市）が、拡張現実の技術を使った「ＡＲどうぶつえん」の運用を始めます。医療機関への常設導入は、西日本では初めてです。「ミャクミャク」今冬",
@@ -7551,46 +7561,6 @@
           "wordCount": 1641,
           "title": "JR京都線・JR宝塚線などで遅延　踏切内に人が立ち往生のため(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00082692-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/324f075d00ae0592528785406bbb6fdf9f9edb1e?source=rss",
-          "author": null,
-          "description": "彼岸の伝統行事「砂灸」がありました。\n\n　箱の中の砂を踏んで、つけた足跡にお灸をすえる「砂灸」は、その昔、徳島市の農家が家に泊まった修行僧に教わったとされています。\n\n　この行事は毎年、春と秋の彼岸",
-          "link": "https://news.yahoo.co.jp/articles/324f075d00ae0592528785406bbb6fdf9f9edb1e?source=rss",
-          "publishedOn": "2026-09-23T10:28:07.000Z",
-          "wordCount": 1676,
-          "title": "徳島市での彼岸伝統行事「砂灸」　農家が泊まった修行僧に教わったとされる伝統行事　人だけでなく猫も体験？(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082689-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b0b2be5fb6e59181cbd135a87e49b1577b6211a7?source=rss",
-          "author": null,
-          "description": "暗号資産７３００万円相当を不正に移した疑いです。\n\n　兵庫県姫路市の自称・占い師、伊勢大輔容疑者（３２）はおととし１０月、知人女性（５４）が保有する暗号資産、約７３００万円相当を自身の口座に不正に移",
-          "link": "https://news.yahoo.co.jp/articles/b0b2be5fb6e59181cbd135a87e49b1577b6211a7?source=rss",
-          "publishedOn": "2026-09-23T10:08:57.000Z",
-          "wordCount": 1664,
-          "title": "知人女性の暗号資産7300万円相当を自身の口座に移したか　32歳の自称・占い師の男逮捕　会話からパスワードを割り出した可能性も(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082691-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e72ee305088feb0053afa1ce33bb249ad2a21795?source=rss",
-          "author": null,
-          "description": "大型の鳥「エミュー」が住宅街を歩き回りました。\n\n　傘で追い払おうとする女性に頭を突き出すように近寄っていくのは、大型の鳥「エミュー」です。女性の背丈ほどの大きさに見えます。\n\n　午前６時４５分ごろ",
-          "link": "https://news.yahoo.co.jp/articles/e72ee305088feb0053afa1ce33bb249ad2a21795?source=rss",
-          "publishedOn": "2026-09-23T10:08:37.000Z",
-          "wordCount": 1667,
-          "title": "体長約２メートル「エミュー」が住宅街を歩き回る　目撃から約２時間後に捕獲　周辺住人にけがなし　滋賀・守山市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082690-asahibcv-000-3-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1c8dc0686367ff16b9091545be930c3af2021992?source=rss",
-          "author": null,
-          "description": "１１年ぶりの５連休となったシルバーウィークも23日が最終日。\n\n　関西空港には、連休を海外で過ごした人が多く帰国したほか、大阪・天王寺のてんしばではオクトーバーフェストが開かれ、近場でレジャーを楽し",
-          "link": "https://news.yahoo.co.jp/articles/1c8dc0686367ff16b9091545be930c3af2021992?source=rss",
-          "publishedOn": "2026-09-23T09:28:35.000Z",
-          "wordCount": 1816,
-          "title": "11年ぶり“奇跡の５連休”　シルバーウィークは「自宅でゆっくり」が過半数に？？　多くの人が近場でレジャー　一方で関空には帰国する人の姿も　この連休から見る今後の傾向は？(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00082688-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -10154,6 +10124,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=134925",
+          "author": "石井 徹",
+          "description": "神田須田町の交差点から少し歩くと、白い壁に「HUAWEI」のロゴを掲げたガラス張りの店が現れる。10月23日にオープンした「HUAWEI 公式サービスセンター」だ。スマートウォッチやイヤホンの修理をその場で受け付け、使い方の相談にも乗ってくれる。 全国から宅配で届く修理品も、この店の奥で直している。 […]",
+          "link": "https://gadget.phileweb.com/post-134925/",
+          "publishedOn": "2026-10-22T21:30:00.000Z",
+          "wordCount": 812,
+          "title": "秋葉原にファーウェイの「困ったら行ける場所」誕生！ 公式サービスセンターを訪ねた",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/7274b866df760d4775a26e95bdd789e5.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=135787",
           "author": "編集部：平山洸太",
           "description": "Boulies（ブーリス）は、ゲーミングチェア「Boulies Master Rex 2026」を発表。クラウドファンディングサイトのMakuakeにて、10月22日11時から先行販売を行う。先行販売では最安49％オフの36,800円（税込／35台限定）から購入することが可能。一般発売時の価格は72 […]",
@@ -11582,16 +11562,6 @@
           "wordCount": 723,
           "title": "カメラなしのスマートグラス「Ray-Ban Meta Audio」発表。Meta AIと最大12時間の長時間バッテリー搭載",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/0c1be9152d6ecb10689dcd21ff33d8f6.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=133759",
-          "author": "Munenori Taniguchi",
-          "description": "スイス連邦工科大学チューリッヒ校（ETH Zurich）の研究者たちは、手首から先しかない自律型ロボットハンドを開発した。映画『アダムス・ファミリー』に登場する、人の手首から先だけの格好でちょこまかと歩きまわるキャラクター「ハンドくん（The Thing）」から着想を得たという。 中国Wuji Te […]",
-          "link": "https://gadget.phileweb.com/post-133759/",
-          "publishedOn": "2026-09-23T08:45:00.000Z",
-          "wordCount": 715,
-          "title": "【動画】アダムス・ファミリー「ハンドくん」風、手だけの歩くロボット。強化学習で14種類の路面に対応",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/9119aaf426771828b423a9cc12bcdc68.jpg"
         }
       ]
     },
@@ -12661,6 +12631,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=320597",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、あたたかくて美味しいごはんにこだわる弁当チェーン「ほっともっと（Hotto Mo […]\n投稿 【ほっともっと】牛すき焼き弁当【2026年・期間限定メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/hottomotto-sukiyaki-bento-2026",
+          "publishedOn": "2026-10-22T22:23:00.000Z",
+          "wordCount": 1927,
+          "title": "【ほっともっと】牛すき焼き弁当【2026年・期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/91b3686faa71e4de3550a848667e2572.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=320577",
           "author": "foodfighter",
@@ -16342,36 +16322,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/editor_bookshelf/127464/",
-          "author": null,
-          "description": "最近は大半の映画を配信で見ることができる。新作が劇場公開からほんの数カ月で配信されることも珍しくなくなってきて、それほど強く見たいと思わない映画は、少し待てば配信されるだろうから、そのときまで待...",
-          "link": "https://anime.eiga.com/news/column/editor_bookshelf/127464/",
-          "publishedOn": "2026-09-23T10:00:00.000Z",
-          "wordCount": 719,
-          "title": "【編集Gのサブカル本棚】第62回　「完全版 ザ・レンチキュラーズ a/b」を見て感じた、映画館でしか見られない作品の意義",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127497/",
-          "author": null,
-          "description": "トム・クルーズとアレハンドロ・G・イニャリトゥ監督が挑んだ“規格外”の新作映画「DIGGER ディガー」が10月9日より日本公開される。このほど、日本語吹替版の上映が決定し、超豪華ベテラン声優陣...",
-          "link": "https://anime.eiga.com/news/127497/",
-          "publishedOn": "2026-09-23T09:00:00.000Z",
-          "wordCount": 761,
-          "title": "超豪華声優陣が集結「DIGGER ディガー」日本語吹替版上映決定　吹替テレビスポット、IMAX＆Dolbyポスター、場面写真も解禁",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16380,6 +16330,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126955",
+          "author": null,
+          "description": "ブレイブ文庫刊『私だけが知らない』のコミカライズ連載が、「コミックノヴァ」に...",
+          "link": "https://ln-news.com/articles/126955",
+          "publishedOn": "2026-10-22T21:00:00.000Z",
+          "wordCount": 230,
+          "title": "『私だけが知らない』のコミカライズ連載が開始　失った記憶を巡る優しい嘘からはじまるミステリー",
+          "imageUrl": "https://assets.ln-news.com/images/medias/9b61e36f57b044068fd7123181c2994b.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127003",
           "author": null,
@@ -19119,26 +19079,6 @@
           "wordCount": 227,
           "title": "『海外のエロ動画サイトで俺だけ無修正ダンジョン配信 ～無双してスパチャNo.1になったら世界中の女性パフォーマーから罵詈雑言がDMで届きました～』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/b4bc054024ef4f31bfb4b54d14f6e222.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126718",
-          "author": null,
-          "description": "オーバーラップノベルス発のアニメ『骸骨騎士様、只今異世界へお出掛け中II』の...",
-          "link": "https://ln-news.com/articles/126718",
-          "publishedOn": "2026-09-23T10:00:00.000Z",
-          "wordCount": 235,
-          "title": "アニメ『骸骨騎士様、只今異世界へお出掛け中II』スペシャルムービーが公開　第12話「天晴！ 悪を蹴散らす骸骨裁き！」のあらすじ＆先行カットも到着",
-          "imageUrl": "https://assets.ln-news.com/images/medias/4b144118c5ff450ba95ea417087877d1.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126704",
-          "author": null,
-          "description": "MF文庫J発のアニメ『Re：ゼロから始める異世界生活』のJR東海「推し旅」の...",
-          "link": "https://ln-news.com/articles/126704",
-          "publishedOn": "2026-09-23T08:30:00.000Z",
-          "wordCount": 303,
-          "title": "アニメ『Re：ゼロから始める異世界生活』とJR東海「推し旅」のコラボイベントが開催決定",
-          "imageUrl": "https://assets.ln-news.com/images/medias/1724f106aad44a2aa05b4be4c7bd209b.jpg"
         }
       ]
     },
