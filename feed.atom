@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T22:34:35.421Z</updated>
+    <updated>2026-10-23T00:57:00.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小説投稿サイト「小説家になろう」にて第15回ネット小説大賞の応募が受付中　協賛企業として20社が参加]]></title>
+        <id>https://ln-news.com/articles/126947</id>
+        <link href="https://ln-news.com/articles/126947"/>
+        <updated>2026-10-23T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[小説投稿サイト「小説家になろう」にて、第15回ネット小説大賞の応募受付が開始...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6Mビット/秒の光通信に対応、車載グレードの光センサー]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2610/23/news034.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2610/23/news034.html"/>
+        <updated>2026-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビシェイ・インターテクノロジーは、赤外線エミッターとPINフォトダイオードを一体化した車載グレードの光センサー4製品を発表した。最大6Mビット/秒のデータ伝送が可能で、バッテリーマネジメントや産業オートメーションシステム向けに展開する。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『レプリカだって、恋をする。』浜辺を走るナオ1／6スケールフィギュアが2027年7月発売]]></title>
+        <id>https://ln-news.com/articles/127009</id>
+        <link href="https://ln-news.com/articles/127009"/>
+        <updated>2026-10-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[電撃文庫刊『レプリカだって、恋をする。』より、浜辺を走るナオの1／6スケール...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ほっともっと】牛すき焼き弁当【2026年・期間限定メニュー】]]></title>
         <id>https://foodfighter.jp/?p=320597</id>
@@ -19156,32 +19186,12 @@ Professor Robert Henderson’s innovations in the design of single photon avalan
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「TAMALA2030」27年1月22日に日米同時公開　「ファッキンな1日がまた始まりますね」収録の本予告公開]]></title>
-        <id>https://anime.eiga.com/news/127473/</id>
-        <link href="https://anime.eiga.com/news/127473/"/>
-        <updated>2026-09-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメ映画「TAMALA2030 a punk cat in dark」が、2027年1月22日から日米同時公開されることが分かった。あわせて、メインビジュアルと本予告映像が披露されている。 同...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[お尻が大好きな兄猫に長年追いかけられてる弟がついにこうなっちゃいました…笑]]></title>
         <id>https://www.youtube.com/watch?v=p7jTvOu1V14</id>
         <link href="https://www.youtube.com/watch?v=p7jTvOu1V14"/>
         <updated>2026-09-23T11:01:39.000Z</updated>
         <author>
             <name>もちまる日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ラブライブ！蓮ノ空女学院」三宅美羽の1st写真集が12月14日に発売　テーマは日常・デート・夢の中]]></title>
-        <id>https://anime.eiga.com/news/127462/</id>
-        <link href="https://anime.eiga.com/news/127462/"/>
-        <updated>2026-09-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム「Link！Like！ラブライブ！」で蓮ノ空女学院スクールアイドルクラブの105期生、セラス・柳田・リリエンフェルト役を務めた声優・三宅美羽の1st写真集が、三宅の誕生日である12月14日...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>

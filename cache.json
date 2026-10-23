@@ -9547,6 +9547,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/23/news034.html",
+          "author": null,
+          "description": "ビシェイ・インターテクノロジーは、赤外線エミッターとPINフォトダイオードを一体化した車載グレードの光センサー4製品を発表した。最大6Mビット/秒のデータ伝送が可能で、バッテリーマネジメントや産業オートメーションシステム向けに展開する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/23/news034.html",
+          "publishedOn": "2026-10-23T00:00:00.000Z",
+          "wordCount": 2646,
+          "title": "6Mビット/秒の光通信に対応、車載グレードの光センサー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/23/cover_news034.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/22/news073.html",
           "author": null,
           "description": "ルネサス エレクトロニクスが、独自の32ビットCPUコアを搭載するRXファミリーの最上位マイコン「RX74M」「RX74N」を発売し、量産を開始した。RXファミリーとして初めて22nmプロセスとMRAMを採用。最大600MHzで動作する「RXv3e」コアを搭載し、従来製品に比べて2倍以上の性能を実現した。",
@@ -16292,36 +16302,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127473/",
-          "author": null,
-          "description": "アニメ映画「TAMALA2030 a punk cat in dark」が、2027年1月22日から日米同時公開されることが分かった。あわせて、メインビジュアルと本予告映像が披露されている。 同...",
-          "link": "https://anime.eiga.com/news/127473/",
-          "publishedOn": "2026-09-23T12:00:00.000Z",
-          "wordCount": 690,
-          "title": "「TAMALA2030」27年1月22日に日米同時公開　「ファッキンな1日がまた始まりますね」収録の本予告公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127462/",
-          "author": null,
-          "description": "ゲーム「Link！Like！ラブライブ！」で蓮ノ空女学院スクールアイドルクラブの105期生、セラス・柳田・リリエンフェルト役を務めた声優・三宅美羽の1st写真集が、三宅の誕生日である12月14日...",
-          "link": "https://anime.eiga.com/news/127462/",
-          "publishedOn": "2026-09-23T11:00:00.000Z",
-          "wordCount": 735,
-          "title": "「ラブライブ！蓮ノ空女学院」三宅美羽の1st写真集が12月14日に発売　テーマは日常・デート・夢の中",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16330,6 +16310,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126947",
+          "author": null,
+          "description": "小説投稿サイト「小説家になろう」にて、第15回ネット小説大賞の応募受付が開始...",
+          "link": "https://ln-news.com/articles/126947",
+          "publishedOn": "2026-10-23T00:30:00.000Z",
+          "wordCount": 230,
+          "title": "小説投稿サイト「小説家になろう」にて第15回ネット小説大賞の応募が受付中　協賛企業として20社が参加",
+          "imageUrl": "https://assets.ln-news.com/images/medias/e6c23d69253a43668c083839bdff7c2e.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127009",
+          "author": null,
+          "description": "電撃文庫刊『レプリカだって、恋をする。』より、浜辺を走るナオの1／6スケール...",
+          "link": "https://ln-news.com/articles/127009",
+          "publishedOn": "2026-10-22T23:00:00.000Z",
+          "wordCount": 229,
+          "title": "『レプリカだって、恋をする。』浜辺を走るナオ1／6スケールフィギュアが2027年7月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/b38c11b320fb49da81dd19cdd280ab73.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/126955",
           "author": null,
