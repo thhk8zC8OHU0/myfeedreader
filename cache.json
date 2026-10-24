@@ -2463,6 +2463,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/1e8006f138a99562230f8a2dcd710cf69e31c921?source=rss",
+          "author": null,
+          "description": "大阪府泉佐野市のりんくうタウンでは、「まちびらき３０周年」を記念して、餃子と焼きそばのイベントが開かれています。アップル初の「折りたたみスマホ」発売 大阪の店舗には開店待ちの行列 価格は３６万４８００",
+          "link": "https://news.yahoo.co.jp/articles/1e8006f138a99562230f8a2dcd710cf69e31c921?source=rss",
+          "publishedOn": "2026-10-24T03:18:37.000Z",
+          "wordCount": 1640,
+          "title": "りんくうタウンで「まちびらき３０周年」記念イベント　全国から餃子や焼きそば・クラフトビールなどの名店集結　大阪・泉佐野市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083231-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5317adb4c5b81e0ddc8bf283d4f46b825fb4f593?source=rss",
+          "author": null,
+          "description": "阪神淡路大震災を乗りこえた遺構「神戸の壁」が建てられてから、来年で１００年を迎えることを記念して、式典が開かれました。５月に閉館の大阪松竹座 来月にも解体工事開始へ 跡地の具体的な計画は未定 「神戸の",
+          "link": "https://news.yahoo.co.jp/articles/5317adb4c5b81e0ddc8bf283d4f46b825fb4f593?source=rss",
+          "publishedOn": "2026-10-24T03:18:25.000Z",
+          "wordCount": 1680,
+          "title": "阪神淡路大震災を乗り越えた「神戸の壁」　建設１００年を来年に控え記念式典(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083230-asahibcv-000-2-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/954a1b6132a3e249080da70249ee2adc60a417e1?source=rss",
           "author": null,
           "description": "大阪府立高校の教師が、生徒の個人情報が含まれたＦＡＸを誤送信したと発表しました。ＡＩが示した送信先が間違っていたということです。10年以上発見されなかった重大欠陥をAIが特定 “PHP騒動”に高市総理",
@@ -7431,16 +7451,6 @@
           "wordCount": 1682,
           "title": "【速報】兵庫・たつの市で母娘を殺害か　過去近くに住んでいた４０代男を被疑者死亡のまま書類送検(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00082715-asahibcv-000-3-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c11a4a421e62b517f55adce4f17024c498a09658?source=rss",
-          "author": null,
-          "description": "２４日午後１０時０８分ごろＪＲ学研都市線の河内磐船駅と星田駅の踏切で人身事故があり、現在、木津駅と四条畷駅の間で運転を見合わせています。\n\n　ＪＲ西日本によりますと松井山手発、西明石行きの普通列車が",
-          "link": "https://news.yahoo.co.jp/articles/c11a4a421e62b517f55adce4f17024c498a09658?source=rss",
-          "publishedOn": "2026-09-24T14:08:19.000Z",
-          "wordCount": 1625,
-          "title": "【速報】JR学研都市線で運転見合わせ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00082713-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -7449,6 +7459,56 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c679pxje3q2lo#0",
+          "author": null,
+          "description": "11月3日に米中間選挙を控える中、アメリカのドナルド・トランプ政権は22日、アラスカ州の連邦上院選で共和党の現職ダン・サリヴァン上院議員が僅差で敗れた場合、選挙結果を認定しないよう州に求める訴えを起こした。同州の上院選には、サリヴァン議員と同姓同名の新人が立候補しており、有権者が混乱する可能性があるなどと政府は主張している。",
+          "link": "https://www.bbc.com/japanese/articles/c679pxje3q2lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T05:36:30.000Z",
+          "wordCount": 1929,
+          "title": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/056d/live/ef958c50-cef9-11f1-a7ee-733e71112503.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/ck86z5ee632eo#0",
+          "author": null,
+          "description": "イギリス政府は22日、異常気象や自然災害、サイバー攻撃などの緊急事態に備えるため、国民に3日分の飲料水や缶詰の食料などを備蓄しておくよう呼びかけるキャンペーンを開始した。バーナム首相は、「不測の事態がますますしょっちゅう起きている」ようだとして、国民に備えを呼びかけた。",
+          "link": "https://www.bbc.com/japanese/articles/ck86z5ee632eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T05:29:02.000Z",
+          "wordCount": 1990,
+          "title": "イギリス政府、国民に「3日分の備え」呼びかけ　特定の脅威情報への対策ではなく",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5632/live/6ac13550-cedc-11f1-8507-45cb00a1c41c.png"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cry834lqq90lo#0",
+          "author": null,
+          "description": "11月3日の米中間選挙が迫るなか、トランプ米政権は23日、カナダ製品に対する税率50％の関税について、その一部を撤廃すると発表した。これに先立ち、与党・共和党にとって鍵となる連邦議会上院選で再選を目指している共和党候補が、関税廃止を政府に働きかけたと話していた。",
+          "link": "https://www.bbc.com/japanese/articles/cry834lqq90lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T04:39:33.000Z",
+          "wordCount": 1961,
+          "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cm2d6zzwddypo#0",
+          "author": null,
+          "description": "ウクライナ国防省の複数の関係者は23日、米スペースXの衛星通信サービス「スターリンク」について、所有者のマスク氏が利用制限を解除したとトランプ米大統領が述べたあとも、ウクライナは依然として接続の問題に直面しているとBBCに話した。",
+          "link": "https://www.bbc.com/japanese/articles/cm2d6zzwddypo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T03:17:20.000Z",
+          "wordCount": 1945,
+          "title": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6kg5ml4zv7ko#0",
+          "author": null,
+          "description": "フランス・パリ近郊で23日、銃撃があり、1人が死亡、5人が負傷した。エマニュエル・マクロン仏大統領は、「人種差別的なテロ攻撃」だとしている。",
+          "link": "https://www.bbc.com/japanese/articles/c6kg5ml4zv7ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T02:28:04.000Z",
+          "wordCount": 2183,
+          "title": "パリ近郊で銃撃、「人種差別的なテロ攻撃」と仏大統領　1人死亡し5人負傷",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c50mepzk188go#0",
           "author": null,
@@ -11431,6 +11491,16 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1792817679/",
+          "author": "おっさん友の会 ★",
+          "description": "釧路町のJR釧網線で、いわゆる撮り鉄の男が樹木を伐採したなどとして逮捕された事件で、警察は新たに知人の男を逮捕しました。器物損壊の疑いで逮捕されたのは、札幌市に住む会社員・桜庭駿容疑者(25)です。桜庭容疑...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792817679/",
+          "link": "http://www.2nn.jp/dqnplus/1792817679/",
+          "publishedOn": "2026-10-24T04:54:39.000Z",
+          "wordCount": 1623,
+          "title": "チェンソーマン逮捕その2",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792817679.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1792734340/",
           "author": "おっさん友の会 ★",
           "description": "「ご主人様、お許しくださいと言え」　美容師に謝罪とわいせつ文言要求か　39歳男逮捕 - 産経ニュース2026/10/23 05:00\n警視庁目黒署を出る唐鎌弘行容疑者=22日午後、東京都目黒区(鴨志田拓海撮影)フランチャイズ本...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792734340/",
@@ -12088,6 +12158,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=62552",
+          "author": "fumie",
+          "description": "本厚木駅北口からすぐ☆TRUNK本厚木12Fにある「海鮮個室居酒屋 二ノ宮 本厚木店」さんから、 これからの季節に食べたくなる、人気のお鍋が食べ放題となるイベントの情報が届きましたー！！ ↓↓↓↓↓ 系列店の日本酒原価酒蔵において̶…",
+          "link": "https://atsugi-lab.com/campaign-kaisen-ninomiya202610/",
+          "publishedOn": "2026-10-24T02:50:23.000Z",
+          "wordCount": 875,
+          "title": "【大人気”痛風鍋120分食べ放題”が登場！】牡蠣・白子・あん肝たっぷりの“痛風鍋”を海鮮個室居酒屋 二ノ宮で堪能！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/ninomiya202610.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=62707",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです。 姉妹サイト海老名らぼ で特に話題になっている情報だけ、不定期ですが厚木らぼでもピックアップでお伝えしています。 今回は市役所近くのドラッグストア工事情報や、人気スイーツ店のイートインレポート、そして綾瀬市…",
@@ -12511,6 +12591,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=320699",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   【吉野家】牛すき鍋膳（ご飯 […]\n投稿 【吉野家】牛すき鍋膳（ご飯増量・おかわり無料）【新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/yoshinoya-gyusukinabezen-2026",
+          "publishedOn": "2026-10-24T03:03:36.000Z",
+          "wordCount": 1929,
+          "title": "【吉野家】牛すき鍋膳（ご飯増量・おかわり無料）【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/e029c82a71c34d657f8bc7d9c2552d5c.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=320668",
           "author": "foodfighter",
@@ -13190,16 +13280,6 @@
           "wordCount": 1928,
           "title": "【かつや】牡蠣と大海老の海鮮フライ丼【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/62770093f217c368c95292810dfefa38.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318920",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 焼きいもスフレ 4個入」を世界一詳しく調査しました。   【セブンイレブン […]",
-          "link": "https://foodfighter.jp/711sej-souffle-yakiimo",
-          "publishedOn": "2026-09-24T14:36:37.000Z",
-          "wordCount": 1908,
-          "title": "【セブンイレブン】セブンプレミアム 焼きいもスフレ 4個入【新作コンビニスイーツ】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/b4add8d5e2bead5ed7d3d2918560e3c1.jpg"
         }
       ]
     },
@@ -13208,6 +13288,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127682/",
+          "author": null,
+          "description": "BS12トゥエルビで毎週日曜午後7時から放送中の「日曜アニメ劇場」にて、10月25日に劇場アニメ「小林さんちのメイドラゴン さみしがりやの竜」が放送される。 原作「小林さんちのメイドラゴン」は、...",
+          "link": "https://anime.eiga.com/news/127682/",
+          "publishedOn": "2026-10-24T03:00:00.000Z",
+          "wordCount": 713,
+          "title": "10月25日の「日曜アニメ劇場」は京アニ制作「小林さんちのメイドラゴン さみしがりやの竜」",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127654/",
           "author": null,
@@ -16090,6 +16185,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126810",
+          "author": null,
+          "description": "TOブックス発のアニメ『穏やか貴族の休暇のすすめ。』の再放送が、2026年1...",
+          "link": "https://ln-news.com/articles/126810",
+          "publishedOn": "2026-10-24T05:30:00.000Z",
+          "wordCount": 231,
+          "title": "アニメ『穏やか貴族の休暇のすすめ。』が2026年11月24日（火）よりびわ湖放送にて再放送決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/965ef062cc12445c9b22e1ddf1720f10.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126991",
+          "author": null,
+          "description": "アニメ『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺...",
+          "link": "https://ln-news.com/articles/126991",
+          "publishedOn": "2026-10-24T04:00:00.000Z",
+          "wordCount": 250,
+          "title": "アニメ『追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。』のコラボイベントが全国のファントエスにて開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/bca3198281b4413995be7f85bba9d86c.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127035",
+          "author": null,
+          "description": "2026年10月23日に発売されたMFブックス10月刊行のラインナップ8冊の...",
+          "link": "https://ln-news.com/articles/127035",
+          "publishedOn": "2026-10-24T02:00:00.000Z",
+          "wordCount": 287,
+          "title": "MFブックス2026年10月刊行のラインナップをご紹介。『魔導具師ダリヤはうつむかない15』『かくして少年は迷宮を駆ける5』など8冊",
+          "imageUrl": "https://assets.ln-news.com/images/medias/a111b6841b374065b717fe97bac26d13.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127026",
           "author": null,
@@ -19692,16 +19817,6 @@
           "publishedOn": "2026-09-26T00:46:19.000Z",
           "wordCount": 2743,
           "title": "予知夢",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13548",
-          "author": "watanabe@logipara.com",
-          "description": "ストレス解消のために、Web麻雀ゲームをやるのですが、さらにストレスを溜めています さきほども東一局でリーチをしたところ、対面の親が白・中とポンをし、おいおいおいおいおいおいおい（発をつかむ）（そのまま切る）（対面の親が […]",
-          "link": "https://logipara.com/diary-text/2026-09-25/",
-          "publishedOn": "2026-09-24T13:13:37.000Z",
-          "wordCount": 2739,
-          "title": "麻雀",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
