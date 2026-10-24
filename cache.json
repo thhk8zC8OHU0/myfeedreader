@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/917/G091773/20261023057/",
+          "author": null,
+          "description": "ソニー・ピクチャーズは本日（2026年10月24日），現在上映中の映画「バイオハザード」の新たな本編映像を公開した。今回の映像では，ラクーンシティを逃げ惑う主人公ブライアンの“口の悪さ”がさく裂。劇中で連発されるFワードを多彩に訳し分けた日本語字幕も話題となっている。",
+          "link": "https://www.4gamer.net/games/917/G091773/20261023057/",
+          "publishedOn": "2026-10-24T09:00:00.000Z",
+          "wordCount": 8407,
+          "title": "七色のFワードが話題の映画「バイオハザード」，主人公ブライアンの“口の悪さ”がさく裂する新たな本編映像を公開",
+          "imageUrl": "https://www.4gamer.net/games/917/G091773/20261023057/SS/004.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/041/G104116/20261023051/",
           "author": null,
           "description": "SNKは本日（2026年10月23日），対戦格闘ゲーム「餓狼伝説CityoftheWolves」のNintendoSwitch2版を紹介する新WebCMを公開した。ときど選手とJustinWong選手に加え，お笑いコンビ「NOモーション。」やVTuberのラプラス・ダークネスさんが出演し，さまざまなシチュエーションで本作をプレイする姿が描かれる。",
@@ -2444,16 +2454,6 @@
           "wordCount": 8798,
           "title": "「Castlevania」シリーズ，40周年を記念したキャンペーンを実施。スマホで楽しめる初代「悪魔城ドラキュラ」が期間限定で無料に",
           "imageUrl": "https://www.4gamer.net/games/045/G104530/20260925005/SS/003.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/010/G101055/20260918040/",
-          "author": null,
-          "description": "スクウェア・エニックスは本日，2026年12月3日に発売予定の「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新情報を公開した。フィールド上のモンスターを直接仲間にできる「フィールドスカウト」や，巨大モンスターに複数パーティで挑む「共闘バトル」の詳細が明らかになった。",
-          "link": "https://www.4gamer.net/games/010/G101055/20260918040/",
-          "publishedOn": "2026-09-24T22:00:00.000Z",
-          "wordCount": 8773,
-          "title": "「ドラゴンクエストモンスターズ4」，新要素「フィールドスカウト」と，巨大モンスターとの共闘バトルを紹介",
-          "imageUrl": "https://www.4gamer.net/games/010/G101055/20260918040/SS/006.jpg"
         }
       ]
     },
@@ -2462,6 +2462,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/20b873d6aa3c1c3d79a8234ddf31f23b9c87bf32?source=rss",
+          "author": null,
+          "description": "兵庫県養父市で、鉱山の中で熟成させた純米吟醸酒、「仙櫻」の蔵出しがありました。 養父市の旧・明延鉱山内にある坑道は、一年を通して気温が１２度前後に保たれ光が入らないという、日本酒の長期熟成に適した環境",
+          "link": "https://news.yahoo.co.jp/articles/20b873d6aa3c1c3d79a8234ddf31f23b9c87bf32?source=rss",
+          "publishedOn": "2026-10-24T09:10:40.000Z",
+          "wordCount": 1649,
+          "title": "鉱山内で熟成させた日本酒の蔵出し　深みのある上品な味わい　兵庫・養父市の旧明延鉱山(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083234-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/453dcc75dea1b89e2e4f64b61e8df85dcdc46987?source=rss",
+          "author": null,
+          "description": "近畿日本鉄道によりますと、２４日午後４時ごろ、京都線・山田川駅で京都行きの急行列車が人と接触する事故がありました。嵯峨野トロッコ列車 ２４日は通常運転へ 車両の安全を確認 この事故の影響で、近鉄・京都",
+          "link": "https://news.yahoo.co.jp/articles/453dcc75dea1b89e2e4f64b61e8df85dcdc46987?source=rss",
+          "publishedOn": "2026-10-24T07:47:44.000Z",
+          "wordCount": 1655,
+          "title": "【運転再開】近鉄・京都線で人身事故　近鉄宮津―高の原駅間で一時運転見合わせ　午後６時２分に運転を再開(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083233-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6ad9de2461bca4a6b3a1640527bd51e6609fe9e?source=rss",
+          "author": null,
+          "description": "１４日から行方不明になっていた大阪の男子中学生が、２４日、無事発見されました。 けがなどはないということです。クビアカツヤカミキリの被害拡大 和歌山県が緊急対策 大阪府警によりますと、１４日から行方不",
+          "link": "https://news.yahoo.co.jp/articles/e6ad9de2461bca4a6b3a1640527bd51e6609fe9e?source=rss",
+          "publishedOn": "2026-10-24T07:14:40.000Z",
+          "wordCount": 1703,
+          "title": "【速報】東大阪市内の公園で行方不明だった大阪・生野区の１４歳の男子中学生を無事発見　けがや事件に巻き込まれたような形跡もなし　大阪府警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083232-asahibcv-000-2-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/1e8006f138a99562230f8a2dcd710cf69e31c921?source=rss",
           "author": null,
@@ -12592,6 +12622,16 @@
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=320718",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「クリスピーチキンバーガー590トリオ」を世界一詳しく調査しました。 […]\n投稿 【ケンタッキー】590トリオ（クリスピーチキンバーガー）【店舗限定メニュー・期間限定メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/kfc-590-trio",
+          "publishedOn": "2026-10-24T08:41:48.000Z",
+          "wordCount": 1931,
+          "title": "【ケンタッキー】590トリオ（クリスピーチキンバーガー）【店舗限定メニュー・期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/e63ad8f057f1e7a3641774392f6514ab.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=320699",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、不動の人気を誇る最強の牛丼チェーン「吉野家」へ進撃しました。   【吉野家】牛すき鍋膳（ご飯 […]\n投稿 【吉野家】牛すき鍋膳（ご飯増量・おかわり無料）【新メニュー】 は 進撃のグルメ に最初に表示されました。",
@@ -13288,6 +13328,36 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127712/",
+          "author": null,
+          "description": "10月23日から公開中の劇場アニメ「メイドインアビス 目覚める神秘」に続く、劇場シリーズ第2部の制作が決定した。詳細は後日発表される。 また「目覚める神秘」に、水樹奈々、渡辺明乃、武内駿輔、東山...",
+          "link": "https://anime.eiga.com/news/127712/",
+          "publishedOn": "2026-10-24T10:00:00.000Z",
+          "wordCount": 733,
+          "title": "「メイドインアビス」劇場シリーズ第2部が制作決定　「呪詛船団」メンバー役に水樹奈々、渡辺明乃、武内駿輔、東山奈央、宮本侑芽",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127715/",
+          "author": null,
+          "description": "アニメ「タコピーの原罪」の劇場総集編「タコピーの原罪 ありがとう、また明日」の新ビジュアルと本予告（https://youtu.be/mnoR-kTU25E）が公開された。また主題歌は、配信版の...",
+          "link": "https://anime.eiga.com/news/127715/",
+          "publishedOn": "2026-10-24T09:00:00.000Z",
+          "wordCount": 722,
+          "title": "映画「タコピーの原罪」新ビジュアル、新規カット収録の本予告公開　主題歌はTeleが担当",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127682/",
           "author": null,
@@ -16186,6 +16256,36 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/127038",
+          "author": null,
+          "description": "ビーズログ文庫発のアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってし...",
+          "link": "https://ln-news.com/articles/127038",
+          "publishedOn": "2026-10-24T10:00:00.000Z",
+          "wordCount": 225,
+          "title": "アニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』第4話「過保護な辣腕婚約者様」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/84b609c9ab2e4546958d7e0211881f1d.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126987",
+          "author": null,
+          "description": "レジーナブックス刊『転生令嬢の物理無双』のコミカライズ連載が、「アルファポリ...",
+          "link": "https://ln-news.com/articles/126987",
+          "publishedOn": "2026-10-24T08:30:00.000Z",
+          "wordCount": 218,
+          "title": "『転生令嬢の物理無双』のコミカライズ連載が開始　気弱令嬢に転生した元ヤン少女の鉄拳制裁ファンタジー",
+          "imageUrl": "https://assets.ln-news.com/images/medias/b81105a8b889406ea2c757761e6c2aec.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126908",
+          "author": null,
+          "description": "電撃文庫発の劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』より、オリ...",
+          "link": "https://ln-news.com/articles/126908",
+          "publishedOn": "2026-10-24T07:00:00.000Z",
+          "wordCount": 242,
+          "title": "『青春ブタ野郎はディアフレンドの夢を見ない』のオンラインくじが登場　ハロウィン風コーデの描き下ろしイラストを使用したオリジナルグッズがラインナップ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/73755ff784e541b2860eb5384bec1dea.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/126810",
           "author": null,
           "description": "TOブックス発のアニメ『穏やか貴族の休暇のすすめ。』の再放送が、2026年1...",
@@ -18984,16 +19084,6 @@
           "wordCount": 243,
           "title": "『ゼロの使い魔』アニメ20周年を記念したルイズのノンスケールフィギュアが2027年2月発売",
           "imageUrl": "https://assets.ln-news.com/images/medias/ce452ebcc3674a0e8d53047966ffda70.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126628",
-          "author": null,
-          "description": "GA文庫刊『死亡エンドを回避したギャルゲーのヒロインたちが俺の【日記帳】を読...",
-          "link": "https://ln-news.com/articles/126628",
-          "publishedOn": "2026-09-24T21:00:00.000Z",
-          "wordCount": 234,
-          "title": "『死亡エンドを回避したギャルゲーのヒロインたちが俺の【日記帳】を読んで秘密を知ったらしい』のコミカライズ連載が開始　最新3巻の発売を記念したPVも公開中",
-          "imageUrl": "https://assets.ln-news.com/images/medias/4f61ee44f90248c598a22eb8357cf933.jpg"
         }
       ]
     },
@@ -19204,16 +19294,6 @@
           "wordCount": 3111,
           "title": "柴犬を一瞬で笑顔にさせる方法 #柴犬 #shorts #ytshorts",
           "imageUrl": "https://i.ytimg.com/vi/FfXMRU52gL0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDpVraxKMrsd6-4SG8tlUyy-dzDNg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dFpuDb-HJVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dFpuDb-HJVc",
-          "publishedOn": "2026-09-24T11:00:07.000Z",
-          "wordCount": null,
-          "title": "【異常行動】600kmの大移動…その先に待っていたのは柴犬の異常な程の癖でした",
-          "imageUrl": null
         }
       ]
     },
@@ -19510,16 +19590,6 @@
           "publishedOn": "2026-09-25T11:01:09.000Z",
           "wordCount": null,
           "title": "今日も甘えんぼ猫達を交互になでなでするので忙しい下僕です",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=y4oLptpT1UU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y4oLptpT1UU",
-          "publishedOn": "2026-09-24T11:01:17.000Z",
-          "wordCount": null,
-          "title": "クッションがモゾモゾ動いてるので中を開けたら…",
           "imageUrl": null
         }
       ]
