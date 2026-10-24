@@ -2463,6 +2463,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/9b3aaca4ff206fad511ef33c13cdbc9965a65538?source=rss",
+          "author": null,
+          "description": "ＡＢＣテレビの女性アナウンサーがプロデュースする日本酒を楽しむイベントが２４日から大阪で始まりました。「ミャクミャク」今冬は天王寺動物園にお引っ越しへ イベントは大阪市福島区のカフェで開かれ、初日とな",
+          "link": "https://news.yahoo.co.jp/articles/9b3aaca4ff206fad511ef33c13cdbc9965a65538?source=rss",
+          "publishedOn": "2026-10-24T13:55:04.000Z",
+          "wordCount": 1597,
+          "title": "「日本酒を愛してやまない」ＡＢＣテレビの女性アナウンサー３人がプロデュース！　“日本酒を楽しむ”イベントが大阪市福島区で開催中　３０日まで(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083236-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9f8bbbc47de884120ff893accc4f8197d140ff3e?source=rss",
+          "author": null,
+          "description": "２４日、神戸市垂水区の路上で、総合格闘家の男が原付バイクを運転中に転倒し、普通貨物自動車と衝突する事故を起こしたにもかかわらず、警察に届け出なかったとして、道交法違反の疑いで逮捕されました。電動キック",
+          "link": "https://news.yahoo.co.jp/articles/9f8bbbc47de884120ff893accc4f8197d140ff3e?source=rss",
+          "publishedOn": "2026-10-24T12:30:39.000Z",
+          "wordCount": 1705,
+          "title": "【速報】「飲酒運転していたこともあり、逮捕されるのが嫌で･･･」総合格闘家の男が原付バイク運転中に物損事故起こすも警察に不申告か　道交法違反の疑いで逮捕　兵庫県警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00083235-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/20b873d6aa3c1c3d79a8234ddf31f23b9c87bf32?source=rss",
           "author": null,
           "description": "兵庫県養父市で、鉱山の中で熟成させた純米吟醸酒、「仙櫻」の蔵出しがありました。 養父市の旧・明延鉱山内にある坑道は、一年を通して気温が１２度前後に保たれ光が入らないという、日本酒の長期熟成に適した環境",
@@ -10065,16 +10085,6 @@
           "wordCount": 2666,
           "title": "最大20Gbpsに対応の低消費電力MIPI D-PHY SerDes",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/25/l_edn20260915edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2609/25/news053.html",
-          "author": null,
-          "description": "日清紡マイクロデバイスは2026年9月、Bluetooth Low Energyなどの2.4GHz帯無線通信向けに、超低消費電流のRxブースター「NT1741」を発表した。高いRF性能を維持しつつ、LNAモード時に1.5mA、バイパスモード時に1μAの低消費電流を達成している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2609/25/news053.html",
-          "publishedOn": "2026-09-25T00:00:00.000Z",
-          "wordCount": 2644,
-          "title": "小型ウェアラブル向け 小型／超低電力BLE Rxブースター",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2609/25/cover_news053.jpg"
         }
       ]
     },
@@ -11521,6 +11531,16 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1792844662/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "「逃げ道はない」中森明菜のディナーショー全日当選!「171万円」支払い夫婦の“腹を括った投稿”豪華な料理と生歌を楽しめる中森明菜のディナーショー。抽選に複数応募したところ、すべて当選してしまったある夫婦の...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792844662/",
+          "link": "http://www.2nn.jp/dqnplus/1792844662/",
+          "publishedOn": "2026-10-24T12:24:22.000Z",
+          "wordCount": 1601,
+          "title": "「逃げ道はない」中森明菜のディナーショー9公演全日当選!「171万円」支払い夫婦の“腹を括った投稿”",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792844662.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1792817679/",
           "author": "おっさん友の会 ★",
           "description": "釧路町のJR釧網線で、いわゆる撮り鉄の男が樹木を伐採したなどとして逮捕された事件で、警察は新たに知人の男を逮捕しました。器物損壊の疑いで逮捕されたのは、札幌市に住む会社員・桜庭駿容疑者(25)です。桜庭容疑...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792817679/",
@@ -12536,16 +12556,6 @@
           "wordCount": 862,
           "title": "【イベント】10月24日の本厚木ミロードはハロウィン一色！仮装でのキッズパレードやコンサート、お菓子配布も♪★［厚木市泉町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/hmh202610.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=62002",
-          "author": "fumie",
-          "description": "こんにちは、ふみえ＠あつらぼです！ 話題の新店「スガキヤ 本厚木ミロードイースト店」！！ 今回は気になるメニューや、オープン記念企画などが判明しましたので、早速情報をシェアさせて頂きたいと思います♪ 「スガキヤ 本厚木ミロードイースト店」店…",
-          "link": "https://atsugi-lab.com/news2-sugakiya-atsugi202610/",
-          "publishedOn": "2026-09-25T00:14:11.000Z",
-          "wordCount": 862,
-          "title": "【10月29日開店予定】超★話題の新店「スガキヤ」のメニューが判明！オープン記念企画もお見逃しなく♪［本厚木ミロード］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/09/sugakiya202610-2.jpg"
         }
       ]
     },
@@ -13328,6 +13338,51 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127678/",
+          "author": null,
+          "description": "アマゾンの神秘と美しさの中心へ誘い、アマゾンの新たな価値観に出会うドキュメンタリー「アマゾン、精霊が宿る川」の予告編（https://youtu.be/hAnXvBUz7Ps）が公開された。 ア...",
+          "link": "https://anime.eiga.com/news/127678/",
+          "publishedOn": "2026-10-24T13:00:00.000Z",
+          "wordCount": 641,
+          "title": "神秘と美しさへ誘うアニメーション×アマゾン「アマゾン精霊が宿る川」予告編",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127670/",
+          "author": null,
+          "description": "ディズニー＆ピクサーの新作「水の都のネロ」の日本公開日が、2027年3月19日に決定。あわせて、黒猫の“ネロ”と新キャラクターの鳩を捉えた場面写真が披露された。 本作は、美しい“水の都”イタリア...",
+          "link": "https://anime.eiga.com/news/127670/",
+          "publishedOn": "2026-10-24T12:00:00.000Z",
+          "wordCount": 642,
+          "title": "ディズニー＆ピクサー新作「水の都のネロ」日本公開は27年3月19日　新キャラの鳩をとらえた場面写真披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127704/",
+          "author": null,
+          "description": "アニメ「ちいかわ」の仕掛け絵本「とびだす アニメちいかわ」が、10月19日から発売されている。 同書は、ページをめくるたびに「ちいかわ」のキャラクターたちが飛び出すポップアップ仕掛け絵本。ちいか...",
+          "link": "https://anime.eiga.com/news/127704/",
+          "publishedOn": "2026-10-24T11:00:00.000Z",
+          "wordCount": 702,
+          "title": "アニメ「ちいかわ」仕掛け絵本が発売中　ちいかわとハチワレが飛び出して「ヤーッ！」",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127712/",
           "author": null,
@@ -19054,36 +19109,6 @@
           "wordCount": 229,
           "title": "アニメ『転生したらスライムだった件 第4期』第96話「勇者覚醒」のあらすじ＆先行カット解禁",
           "imageUrl": "https://assets.ln-news.com/images/medias/d26a0eea702846c1826a1f9871a60eed.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126697",
-          "author": null,
-          "description": "アイリスNEO発のアニメ『悲劇の元凶となる最強外道ラスボス女王は民の為に尽く...",
-          "link": "https://ln-news.com/articles/126697",
-          "publishedOn": "2026-09-25T02:00:00.000Z",
-          "wordCount": 230,
-          "title": "『悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。』LINE着せかえとLINE絵文字が発売",
-          "imageUrl": "https://assets.ln-news.com/images/medias/80d74e3f053741cbad94f26e230da3f8.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126742",
-          "author": null,
-          "description": "第25回角川ビーンズ小説大賞の三次選考通過作品の発表が行われた。三次選考を通...",
-          "link": "https://ln-news.com/articles/126742",
-          "publishedOn": "2026-09-25T00:30:00.000Z",
-          "wordCount": 225,
-          "title": "第25回角川ビーンズ小説大賞の三次選考通過作品が発表",
-          "imageUrl": "https://assets.ln-news.com/images/medias/fc38018889c64970a6d662c2e2424522.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126700",
-          "author": null,
-          "description": "MF文庫J刊『ゼロの使い魔』より、アニメ20周年を記念したルイズのノンスケー...",
-          "link": "https://ln-news.com/articles/126700",
-          "publishedOn": "2026-09-24T23:00:00.000Z",
-          "wordCount": 243,
-          "title": "『ゼロの使い魔』アニメ20周年を記念したルイズのノンスケールフィギュアが2027年2月発売",
-          "imageUrl": "https://assets.ln-news.com/images/medias/ce452ebcc3674a0e8d53047966ffda70.jpg"
         }
       ]
     },
@@ -19302,6 +19327,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ejBL60RwVRs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ejBL60RwVRs",
+          "publishedOn": "2026-10-24T11:01:18.000Z",
+          "wordCount": null,
+          "title": "【ご報告】もちが7歳になりました。",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lx4k3hUoGWU",
           "author": null,
