@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-25T17:08:38.121Z</updated>
+    <updated>2026-10-25T19:35:47.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【セブンイレブン】焼きとうもろこし【コンビニ冷凍食品】]]></title>
+        <id>https://foodfighter.jp/?p=320745</id>
+        <link href="https://foodfighter.jp/711sej-grilled-corn"/>
+        <updated>2026-10-25T19:35:11.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「焼きとうもろこし」を世界一詳しく調査しました。   【セブンイレブン】焼きとうもろこし【コン […]
+投稿 【セブンイレブン】焼きとうもろこし【コンビニ冷凍食品】 は 進撃のグルメ に最初に表示されました。]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還付金詐欺]]></title>
         <id>https://logipara.com/?p=13654</id>
@@ -18631,46 +18642,6 @@ NATICK, Mass. and CUPERTINO, Calif., Sept. 22, 2026 /PRNewswire/ -- Cognex Corpo
         <summary type="html"><![CDATA[民放公式テレビ配信サービス「TVer（ティーバー）」で、テレビアニメ「名探偵コナン」の人気キャラクター・服部平次と遠山和葉が登場するエピソード「茜色に染まる想い!!平次＆和葉セレクション」全36...]]></summary>
         <author>
             <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判]]></title>
-        <id>https://www.bbc.com/japanese/articles/ckx2zz60gzdjo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-26T07:05:26.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナのゼレンスキー大統領は25日、ロシアがウクライナのデータセンターやインターネットプロバイダーを標的に攻撃を拡大し、一般市民を相手に最大限の混乱を引き起こそうとしていると述べた。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『86―エイティシックス―』シンとレーナをイメージしたコラボレーションウォッチが登場　各モデル限定86本生産]]></title>
-        <id>https://ln-news.com/articles/126762</id>
-        <link href="https://ln-news.com/articles/126762"/>
-        <updated>2026-09-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電撃文庫発のアニメ『86―エイティシックス―』と自衛隊時計などを手がける国産...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定]]></title>
-        <id>https://www.bbc.com/japanese/articles/c6q8jjypk4jdo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c6q8jjypk4jdo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-26T06:38:49.000Z</updated>
-        <summary type="html"><![CDATA[サッカーのイングランド・プレミアリーグの調査委員会は25日、マンチェスター・シティーに対し、プレミアリーグの財務規則への違反が疑われる事案115件のほとんどについて、有罪と裁定した。米紙アスレチックは、独立調査委員会は、全容疑のうち1件を除いて、有罪と判断したと報じている。制裁措置はまだ決まっていないという。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 3rd Season』の制作決定]]></title>
-        <id>https://ln-news.com/articles/126768</id>
-        <link href="https://ln-news.com/articles/126768"/>
-        <updated>2026-09-26T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[アース・スターノベル発のアニメ『ヘルモード ～やり込み好きのゲーマーは廃設定...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
         </author>
     </entry>
 </feed>

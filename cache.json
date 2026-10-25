@@ -9148,26 +9148,6 @@
           "wordCount": 1739,
           "title": "南アフリカで銃乱射事件相次ぐ、2件で27人死亡",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo#0",
-          "author": null,
-          "description": "ウクライナのゼレンスキー大統領は25日、ロシアがウクライナのデータセンターやインターネットプロバイダーを標的に攻撃を拡大し、一般市民を相手に最大限の混乱を引き起こそうとしていると述べた。",
-          "link": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-26T07:05:26.000Z",
-          "wordCount": 1777,
-          "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/7588/live/6c3865d0-b900-11f1-83cd-2998f68d9572.png"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/c6q8jjypk4jdo#0",
-          "author": null,
-          "description": "サッカーのイングランド・プレミアリーグの調査委員会は25日、マンチェスター・シティーに対し、プレミアリーグの財務規則への違反が疑われる事案115件のほとんどについて、有罪と裁定した。米紙アスレチックは、独立調査委員会は、全容疑のうち1件を除いて、有罪と判断したと報じている。制裁措置はまだ決まっていないという。",
-          "link": "https://www.bbc.com/japanese/articles/c6q8jjypk4jdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-26T06:38:49.000Z",
-          "wordCount": 1695,
-          "title": "サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f3b5/live/e546a0e0-b941-11f1-bc1f-3f186ca4140c.jpg"
         }
       ]
     },
@@ -12221,6 +12201,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=320745",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「焼きとうもろこし」を世界一詳しく調査しました。   【セブンイレブン】焼きとうもろこし【コン […]\n投稿 【セブンイレブン】焼きとうもろこし【コンビニ冷凍食品】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/711sej-grilled-corn",
+          "publishedOn": "2026-10-25T19:35:11.000Z",
+          "wordCount": 1900,
+          "title": "【セブンイレブン】焼きとうもろこし【コンビニ冷凍食品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/7efaf0684090df279cacbce29b0dcf76.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=320724",
           "author": "foodfighter",
@@ -18599,26 +18589,6 @@
           "wordCount": 236,
           "title": "スピンオフコミック『黒猫の悪役令嬢～最低魔力ですが、最強の剣術で諸国漫遊しちゃいます～』の連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/affbd2e986104be29e84221d40c7369c.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126762",
-          "author": null,
-          "description": "電撃文庫発のアニメ『86―エイティシックス―』と自衛隊時計などを手がける国産...",
-          "link": "https://ln-news.com/articles/126762",
-          "publishedOn": "2026-09-26T07:00:00.000Z",
-          "wordCount": 244,
-          "title": "『86―エイティシックス―』シンとレーナをイメージしたコラボレーションウォッチが登場　各モデル限定86本生産",
-          "imageUrl": "https://assets.ln-news.com/images/medias/08971e0ca0464694a602798dcea349fe.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126768",
-          "author": null,
-          "description": "アース・スターノベル発のアニメ『ヘルモード ～やり込み好きのゲーマーは廃設定...",
-          "link": "https://ln-news.com/articles/126768",
-          "publishedOn": "2026-09-26T05:30:00.000Z",
-          "wordCount": 247,
-          "title": "アニメ『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 3rd Season』の制作決定",
-          "imageUrl": "https://assets.ln-news.com/images/medias/058dd94020f14de9b438d04853720e23.jpg"
         }
       ]
     },
