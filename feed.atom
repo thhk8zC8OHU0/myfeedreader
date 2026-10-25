@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-25T19:35:47.174Z</updated>
+    <updated>2026-10-25T22:02:59.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年10月19日〜10月25日]]></title>
+        <id>https://www.4gamer.net/games/040/G004099/20261025006/</id>
+        <link href="https://www.4gamer.net/games/040/G004099/20261025006/"/>
+        <updated>2026-10-25T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月19日〜10月25日，4Gamerに掲載された記事は291本でした。ポーランドで開催されたゲームイベント「PoznańGameArena」（ポズナン・ゲームアリーナ）のレポートなど，さまざまな記事を掲載した4Gamerと世界のゲーム業界の1週間を振り返りましょう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『元最強暗殺者は田舎でひっそり神父になる ～大出世した教え子たちに慕われるおっさんが暗躍する話～』のコミカライズ連載が開始]]></title>
+        <id>https://ln-news.com/articles/127004</id>
+        <link href="https://ln-news.com/articles/127004"/>
+        <updated>2026-10-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DREノベルス刊『元最強暗殺者は田舎でひっそり神父になる ～大出世した教え子...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【セブンイレブン】焼きとうもろこし【コンビニ冷凍食品】]]></title>
         <id>https://foodfighter.jp/?p=320745</id>
@@ -18537,111 +18557,6 @@ NATICK, Mass. and CUPERTINO, Calif., Sept. 22, 2026 /PRNewswire/ -- Cognex Corpo
         <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しまし […]]]></summary>
         <author>
             <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【テレ東アニメWEEK】中島健人MCのアニメ特化バラエティ第2弾が9月29日放送、梶裕貴・畠中祐らが出演　「鑑定団」では梶原岳人のお宝を鑑定]]></title>
-        <id>https://anime.eiga.com/news/127533/</id>
-        <link href="https://anime.eiga.com/news/127533/"/>
-        <updated>2026-09-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9月28日～10月4日に、アニメ関連の特番や、アニメ作品とレギュラー番組のコラボレーション企画などを放送する「テレ東アニメWEEK」が、昨年に引き続き展開される。その一環として、アニメ特化バラエ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第25話「郡長」のあらすじ＆先行カット解禁]]></title>
-        <id>https://ln-news.com/articles/126760</id>
-        <link href="https://ln-news.com/articles/126760"/>
-        <updated>2026-09-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kラノベブックス発のアニメ『転生貴族、鑑定スキルで成り上がる 第3期』第25...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「名探偵コナン」10月3日放送「茜色の千秋楽（前楽）」場面写真公開　「30号殺人事件」Netflix配信記念で渋谷にコナンケーキ登場]]></title>
-        <id>https://anime.eiga.com/news/127532/</id>
-        <link href="https://anime.eiga.com/news/127532/"/>
-        <updated>2026-09-26T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「名探偵コナン」にて、9月26日から原作コミックの人気エピソード「茜色の千秋楽」の3週連続放送がスタートした。同エピソードは、「茜色の千秋楽（初日）」「茜色の千秋楽（前楽）」「茜色の...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約９００人が熱戦　「こども将棋大会」大阪で開催　詰め将棋のクイズコーナーも(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/1402167151d63d31e25c3e7038661f99c06b4ed6?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/1402167151d63d31e25c3e7038661f99c06b4ed6?source=rss"/>
-        <updated>2026-09-26T09:29:58.000Z</updated>
-        <summary type="html"><![CDATA[小学生以下を対象にした国内最大規模の「こども将棋大会」が大阪市で開かれ、熱戦が繰り広げられました。
-
-　小学生以下を対象にしたこの大会は、藤井聡太六冠も優勝したことがあり、約９００人の子どもたちが集]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪府警が防犯イベント　特殊詐欺などの被害防止を呼びかけ　セレッソ・森島会長がＪリーグ観戦チケットを寄贈(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/a24220e5826435d066e29d113fa360efba2571da?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/a24220e5826435d066e29d113fa360efba2571da?source=rss"/>
-        <updated>2026-09-26T09:27:07.000Z</updated>
-        <summary type="html"><![CDATA[毎年１０月に行われる「全国地域安全運動」を前に、大阪府警が防犯イベントを開き、特殊詐欺などの被害防止を呼びかけました。
-
-　２６日午後、大阪市内で府民の防犯意識を高めるためのイベントが開催され、大阪]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「しあわせ運べるように」作者　臼井真さんをしのぶ会　神戸で開かれる(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/6ef4476cd67c57bd370fa1eceb62d321cc7e52f4?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/6ef4476cd67c57bd370fa1eceb62d321cc7e52f4?source=rss"/>
-        <updated>2026-09-26T09:27:07.000Z</updated>
-        <summary type="html"><![CDATA[震災からの復興を願う歌「しあわせ運べるように」の作者で、７月に亡くなった臼井真さんをしのぶ会が、神戸市で開かれました。
-
-　臼井真さんは小学校の音楽教師だった１９９５年、阪神淡路大震災で被災後、「し]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[森脇梨々夏ちゃんと焼肉食べてゴイゴイスー]]></title>
-        <id>https://www.youtube.com/watch?v=QNBT6ffEpmM</id>
-        <link href="https://www.youtube.com/watch?v=QNBT6ffEpmM"/>
-        <updated>2026-09-26T09:08:42.000Z</updated>
-        <author>
-            <name>ダイアン津田のゴイゴイスーチャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ジャンプ SQ.」連載「ファントムバスターズ」27年にTVアニメ化　除霊×男子高生の青春ドタバタ活劇]]></title>
-        <id>https://anime.eiga.com/news/127521/</id>
-        <link href="https://anime.eiga.com/news/127521/"/>
-        <updated>2026-09-26T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「ジャンプ SQ.」（集英社刊）で連載中の漫画「ファントムバスターズ」が、2027年にテレビアニメ化されることが決定した。あわせて、原作者のネオショコ氏が描いたお祝いイラストが披露されている。 ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スピンオフコミック『黒猫の悪役令嬢～最低魔力ですが、最強の剣術で諸国漫遊しちゃいます～』の連載が開始]]></title>
-        <id>https://ln-news.com/articles/126753</id>
-        <link href="https://ln-news.com/articles/126753"/>
-        <updated>2026-09-26T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ダッシュエックス文庫刊『黒猫の剣士 ～ブラックなパーティを辞めたらS級冒険者...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「名探偵コナン」平次＆和葉セレクション全36話がTVerで毎日1話ずつ無料配信]]></title>
-        <id>https://anime.eiga.com/news/127527/</id>
-        <link href="https://anime.eiga.com/news/127527/"/>
-        <updated>2026-09-26T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[民放公式テレビ配信サービス「TVer（ティーバー）」で、テレビアニメ「名探偵コナン」の人気キャラクター・服部平次と遠山和葉が登場するエピソード「茜色に染まる想い!!平次＆和葉セレクション」全36...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
         </author>
     </entry>
 </feed>
