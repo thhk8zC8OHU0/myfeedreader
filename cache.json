@@ -7341,46 +7341,6 @@
           "wordCount": 1639,
           "title": "「自宅の毛布に火をつけた」深夜に集合住宅で火災　住人の７６歳男を放火の疑いで逮捕　大阪・東淀川区(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00082746-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1eb1c7aa33bbcf5248dedffcdf80ba89540f59b5?source=rss",
-          "author": null,
-          "description": "大阪府箕面市で見つかった不発弾の撤去作業が２７日実施され、正午ごろ、爆弾の信管が取り除かれ、市長から安全化宣言が出されました。\n\n　今年７月に大阪府箕面市箕面２丁目の住宅建設現場で見つかった不発弾は",
-          "link": "https://news.yahoo.co.jp/articles/1eb1c7aa33bbcf5248dedffcdf80ba89540f59b5?source=rss",
-          "publishedOn": "2026-09-27T04:07:52.000Z",
-          "wordCount": 1690,
-          "title": "【速報】箕面市の住宅街で見つかった不発弾・米製「１トン爆弾」　約2時間で自衛隊が信管除去し市長が安全化宣言　一時は住人避難や阪急箕面線が運休も先ほど運転再開(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00082745-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/11bd99a8123f78f67117285236b7364598341297?source=rss",
-          "author": null,
-          "description": "大阪府箕面市で見つかった不発弾の撤去作業が２７日朝から始まり、現場周辺が封鎖されています。\n\n記者リポート\n「こちらの道路、警戒区域内にはもう入ることが出来なくなっていて、周辺には消防や市の職員が避",
-          "link": "https://news.yahoo.co.jp/articles/11bd99a8123f78f67117285236b7364598341297?source=rss",
-          "publishedOn": "2026-09-27T03:17:21.000Z",
-          "wordCount": 1683,
-          "title": "阪急箕面駅近くで不発弾の撤去作業　住民約２４００人が避難、周辺道路を通行止めに(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00082744-asahibcv-000-2-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cdf4ca58ea1f1ede3d46dfe7c999123475bccfce?source=rss",
-          "author": null,
-          "description": "手こぎ舟の「ドラゴンボート」に乗り、速さを競う大会が関西空港で開かれています。\n\n　今年で２０回目を迎えるドラゴンボート大会は、関西空港の１期島と２期島の間に作られた２００メートルの特設コースで催さ",
-          "link": "https://news.yahoo.co.jp/articles/cdf4ca58ea1f1ede3d46dfe7c999123475bccfce?source=rss",
-          "publishedOn": "2026-09-27T03:16:50.000Z",
-          "wordCount": 1624,
-          "title": "関空の海上で５９チームが熱戦　手こぎ舟「ドラゴンボート」大会(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00082743-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1501233f6184a3427436c30a2d05752f87c8f484?source=rss",
-          "author": null,
-          "description": "大阪府箕面市で見つかった不発弾の撤去作業が２７日午前１０時すぎ、始まりました。現場周辺が封鎖され、約２４００人の住民が避難しています。\n\n　今年７月に大阪府箕面市箕面２丁目の住宅建設現場で見つかった",
-          "link": "https://news.yahoo.co.jp/articles/1501233f6184a3427436c30a2d05752f87c8f484?source=rss",
-          "publishedOn": "2026-09-27T01:12:57.000Z",
-          "wordCount": 1701,
-          "title": "【速報】大阪・箕面市　阪急・箕面駅近くの住宅建設現場で見つかった不発弾の撤去作業が午前10時10分から始まる　周辺警戒区域は住人避難も(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00082742-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -9346,6 +9306,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/edn.xml",
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/26/news080.html",
+          "author": null,
+          "description": "Infineon Technologiesが、「世界初」（同社）となる900V耐圧の窒化ガリウム（GaN）モノリシック双方向スイッチを開発した。米国Enphase Energyに供給し、同社が開発するAIデータセンター向け半導体変圧器（SST：Solid-State Transformer）に採用される予定だ。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/26/news080.html",
+          "publishedOn": "2026-10-26T12:50:00.000Z",
+          "wordCount": 2695,
+          "title": "Infineonが「世界初」900V GaN双方向スイッチを開発",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/26/cover_news080.jpg"
+        },
         {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/26/news063.html",
           "author": null,
@@ -12512,6 +12482,16 @@
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=320773",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「中華蕎麦とみ田監修 デカ豚ラーメン」を世界一詳しく調査しました。   【セブンイレブン】中華 […]\n投稿 【セブンイレブン】中華蕎麦とみ田監修 デカ豚ラーメン（二郎系）【新作コンビニ弁当】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/711sej-dekabuta-ramen-2026",
+          "publishedOn": "2026-10-26T14:46:38.000Z",
+          "wordCount": 1915,
+          "title": "【セブンイレブン】中華蕎麦とみ田監修 デカ豚ラーメン（二郎系）【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/2deb927f9ed158e24a489d2f1a30afb9.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=320745",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「焼きとうもろこし」を世界一詳しく調査しました。   【セブンイレブン】焼きとうもろこし【コン […]\n投稿 【セブンイレブン】焼きとうもろこし【コンビニ冷凍食品】 は 進撃のグルメ に最初に表示されました。",
@@ -13208,6 +13188,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127725/",
+          "author": null,
+          "description": "「BanG Dream! It's MyGO!!!!!/Ave Mujica」の続編テレビアニメのタイトルが「BanG Dream! MyGO!!!!! // Ave Mujica」に決定し、テ...",
+          "link": "https://anime.eiga.com/news/127725/",
+          "publishedOn": "2026-10-26T12:00:00.000Z",
+          "wordCount": 768,
+          "title": "「BanG Dream! MyGO!!!!! // Ave Mujica」27年1月8日放送開始　ティザーPV第2弾披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127724/",
           "author": null,
@@ -16067,21 +16062,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127519/",
-          "author": null,
-          "description": "テレビアニメ「超巡！超条先輩」のオープニングテーマがアイドルグループ「M!LK」が歌う「ザッツ！超常」、エンディングテーマが若手バンド「至福ぽんちょ」の楽曲「またあした」に決定した。至福ぽんちょ...",
-          "link": "https://anime.eiga.com/news/127519/",
-          "publishedOn": "2026-09-27T03:00:00.000Z",
-          "wordCount": 708,
-          "title": "「超巡！超条先輩」OPテーマはM!LK、EDテーマは至福ぽんちょ　OPテーマ使用の新PV公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -18879,36 +18859,6 @@
           "wordCount": 1009,
           "title": "【9月29日21：00締切】ラノベニュースオンラインアワード2026年8月刊投票アンケート締め切り迫る",
           "imageUrl": "https://assets.ln-news.com/images/medias/9b2e900195be406abb87209ca5207067.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126770",
-          "author": null,
-          "description": "先週（2026年9月20日～2026年9月26日）にオフィシャル告知のあった...",
-          "link": "https://ln-news.com/articles/126770",
-          "publishedOn": "2026-09-27T04:00:00.000Z",
-          "wordCount": 228,
-          "title": "【先週の重版：9月20日～9月26日】『あそびのかんけい』第4巻、『学園一かわいい後輩の命の恩人になったら、通い妻になって関係を迫ってくる。』第1巻など",
-          "imageUrl": "https://assets.ln-news.com/images/medias/505dbed082644c778d2d3a82c9688e74.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126750",
-          "author": null,
-          "description": "2026年9月25日に発売されたグラストNOVELS 9月刊行のラインナップ...",
-          "link": "https://ln-news.com/articles/126750",
-          "publishedOn": "2026-09-27T02:00:00.000Z",
-          "wordCount": 245,
-          "title": "グラストNOVELS 2026年9月刊行のラインナップをご紹介。『破滅フラグの悪役貴族、主人公ルートを先回りしたらヒロイン達が激しく執着してくるようになった』など3冊",
-          "imageUrl": "https://assets.ln-news.com/images/medias/79df99b89e3940fcba2227ad1bd2541e.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126757",
-          "author": null,
-          "description": "第7回HJ小説大賞前期の二次選考通過作品の発表が行われた。一次選考を通過した...",
-          "link": "https://ln-news.com/articles/126757",
-          "publishedOn": "2026-09-27T00:30:00.000Z",
-          "wordCount": 232,
-          "title": "第7回HJ小説大賞前期の二次選考通過作品が発表",
-          "imageUrl": "https://assets.ln-news.com/images/medias/e82df46183ab435a926552639f0b7dd4.jpg"
         }
       ]
     },
@@ -19107,6 +19057,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=J7XeNlakmOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J7XeNlakmOc",
+          "publishedOn": "2026-10-26T11:01:23.000Z",
+          "wordCount": null,
+          "title": "夜中にお出かけしたくなっておねだりしてくるもち",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BN75Kinaitw",
           "author": null,
@@ -19405,6 +19365,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=13657",
+          "author": "watanabe@logipara.com",
+          "description": "今日は、舌下免疫療法の定期健診でした。 　 医者「具合悪くなったりしてませんか」 ワタナベ「はい、大丈夫ですね」 　 その後、処方箋を持って薬局に行き、会計しようとしたら7,000円でちょっと具合悪くなった。",
+          "link": "https://logipara.com/health/sublingual/2026-10-27/",
+          "publishedOn": "2026-10-26T14:41:24.000Z",
+          "wordCount": 2757,
+          "title": "舌下免疫療法は続くよどこまでも",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=13654",
           "author": "watanabe@logipara.com",
           "description": "「国税庁から還付金のお知らせ」という、みるからに詐欺メールなメールが届いたのです。 　 まったく、こんなメールに引っ掛かるわけないのに……。まあ、更新のネタになるから取っておくか……。 　 とメールボックスにとっ […]",
@@ -19701,6 +19671,16 @@
       "feedUrl": "https://note.com/hima_kuuhaku/rss",
       "siteUrl": "https://note.com/hima_kuuhaku",
       "articles": [
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n7dec15ff52ed",
+          "author": null,
+          "description": "女子高校生の日常 2巻 (デジタル版ガンガンコミックスONLINE)link.amazon 770円(2026年10月13日 21:32時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/n7dec15ff52ed",
+          "publishedOn": "2026-10-26T12:07:15.000Z",
+          "wordCount": 5973,
+          "title": "先週観たもの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b2325f30f0677465c0f49330b62e8402301d0f23.png"
+        },
         {
           "id": "https://note.com/hima_kuuhaku/n/ncdb01d2e1ec9",
           "author": null,
