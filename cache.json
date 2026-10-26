@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/954/G095479/20261025001/",
+          "author": null,
+          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，中国武術とスチームパンクを融合させた「カンフーパンク」の世界を舞台とする「PhantomBladeZero」や，昭和レトロの雰囲気が漂うTPS「アノマリス／ANOMALITH」がリリースされる。",
+          "link": "https://www.4gamer.net/games/954/G095479/20261025001/",
+          "publishedOn": "2026-10-25T23:00:00.000Z",
+          "wordCount": 8503,
+          "title": "【今週のモチベ】カンフーパンク「Phantom Blade Zero」や「アノマリス」が発売される 2026年10月26日〜11月1日",
+          "imageUrl": "https://www.4gamer.net/games/954/G095479/20261025001/SS/009.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/040/G004099/20261025006/",
           "author": null,
           "description": "2026年10月19日〜10月25日，4Gamerに掲載された記事は291本でした。ポーランドで開催されたゲームイベント「PoznańGameArena」（ポズナン・ゲームアリーナ）のレポートなど，さまざまな記事を掲載した4Gamerと世界のゲーム業界の1週間を振り返りましょう。",
@@ -12870,16 +12880,6 @@
           "wordCount": 1909,
           "title": "【マクドナルド】ビッグマック【定番人気メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/2a0e393429cfaced5a6819f40e1ec4a0.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=318998",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、定番メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しまし […]",
-          "link": "https://foodfighter.jp/matsuya-2026-0926",
-          "publishedOn": "2026-09-26T10:30:17.000Z",
-          "wordCount": 1924,
-          "title": "【松屋】牛めし、豚汁【定番メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/09/4aef83f4dbd50b547c4d2dab1b39547d.jpg"
         }
       ]
     },
@@ -15702,36 +15702,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127501/",
-          "author": null,
-          "description": "10月26日から開催される、第39回東京国際映画祭の予告編（https://www.youtube.com/@TIFFTOKYOnet）が9月18日から関東近郊の各劇場で上映されている。 今回の...",
-          "link": "https://anime.eiga.com/news/127501/",
-          "publishedOn": "2026-09-26T12:00:00.000Z",
-          "wordCount": 935,
-          "title": "第39回東京国際映画祭、予告編公開　アニメーション部門のラインナップ発表",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127523/",
-          "author": null,
-          "description": "10月2日から放送を開始するテレビアニメ「蒼き伝承 ウェルシュ＆シェダー」の主題歌を、影山ヒロノブと奥井雅美が担当することが決定した。追加キャストとして、甲斐田裕子、古川慎、景山梨彩の出演も明ら...",
-          "link": "https://anime.eiga.com/news/127523/",
-          "publishedOn": "2026-09-26T11:00:00.000Z",
-          "wordCount": 749,
-          "title": "「蒼き伝承 ウェルシュ＆シェダー」主題歌は影山ヒロノブ＆奥井雅美のデュエット　メインPVで音源を公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -15740,6 +15710,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127043",
+          "author": null,
+          "description": "2026年10月26日（月）～2026年11月1日（日）に発売するライト...",
+          "link": "https://ln-news.com/articles/127043",
+          "publishedOn": "2026-10-25T23:00:00.000Z",
+          "wordCount": 432,
+          "title": "今週の新刊情報：ファミ通文庫、ヒーロー文庫、HJ文庫、スニーカー文庫など",
+          "imageUrl": "https://assets.ln-news.com/images/medias/a9b6c2a3c0234a759a699ad6837fc518.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127004",
           "author": null,
