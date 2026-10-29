@@ -6,6 +6,106 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/974/G097473/20261029035/",
+          "author": null,
+          "description": "ブシロードは本日，「ヴァイスシュヴァルツオンライン」（PC/Switch2/Switch）の発売日が2027年3月25日に決定したと発表した。あわせて，Switch2向けパッケージ版の予約受付を開始している。本作は，キャラクターカードゲーム「ヴァイスシュヴァルツ」のデジタル版だ。",
+          "link": "https://www.4gamer.net/games/974/G097473/20261029035/",
+          "publishedOn": "2026-10-29T08:22:46.000Z",
+          "wordCount": 8507,
+          "title": "デジタルカードゲーム「ヴァイスシュヴァルツ オンライン」，発売日が2027年3月25日に決定。Switch2向けパッケージ版の予約受付を開始",
+          "imageUrl": "https://www.4gamer.net/games/974/G097473/20261029035/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/335/G033597/20261029026/",
+          "author": null,
+          "description": "HelloGamesは2026年10月28日，「NoMan'sSky」の大型アップデート「FORSAKEN」を発表した。宇宙の暗い側面を探索し，希少な呪われたテクノロジーや恐ろしい生物を探す内容だ。あわせて40以上のアップデートを収録するiOS版も登場している。",
+          "link": "https://www.4gamer.net/games/335/G033597/20261029026/",
+          "publishedOn": "2026-10-29T07:22:21.000Z",
+          "wordCount": 8624,
+          "title": "「No Man's Sky」，宇宙のより暗い側面を探索する大型アップデート「FORSAKEN」を発表。あわせて40以上のアップデートを収録するiOS版も登場",
+          "imageUrl": "https://www.4gamer.net/games/335/G033597/20261029026/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/054/G105408/20261029028/",
+          "author": null,
+          "description": "タイトーは本日，Switch用ソフト「タイトーマイルストーン5」を2027年1月28日に発売すると発表し，予約受付を開始した。本作には，「スペースインベーダー」や幻の3画面版「サーガイア」など，1978〜1990年のアーケードゲーム10作品が収録される。発表を記念した公式大会の開催も決定した。",
+          "link": "https://www.4gamer.net/games/054/G105408/20261029028/",
+          "publishedOn": "2026-10-29T06:45:07.000Z",
+          "wordCount": 8312,
+          "title": "「タイトーマイルストーン5」，2027年1月28日発売決定。「スペースインベーダー」や幻の3画面版「サーガイア」など10作品を収録",
+          "imageUrl": "https://www.4gamer.net/games/054/G105408/20261029028/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/022/G102226/20261029021/",
+          "author": null,
+          "description": "サクセスは本日，NintendoSwitch向けダウンロードソフト「ぎゅわんぶらあ自己中心派ドランプ帝国をわからせろ！」の発売日が11月19日に決定したと発表した。本作は，片山まさゆき氏の漫画「ぎゅわんぶらあ自己中心派」を原作とする麻雀ゲームシリーズの最新作だ。",
+          "link": "https://www.4gamer.net/games/022/G102226/20261029021/",
+          "publishedOn": "2026-10-29T05:54:44.000Z",
+          "wordCount": 8408,
+          "title": "麻雀ゲーム「ぎゅわんぶらあ自己中心派 ドランプ帝国をわからせろ！」，発売日が11月19日に決定。原作者の片山まさゆき氏が脚本を担当",
+          "imageUrl": "https://www.4gamer.net/games/022/G102226/20261029021/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/010/G101087/20261029023/",
+          "author": null,
+          "description": "Activisionは，「CallofDuty:ModernWarfare4」と「CallofDuty:Warzone」のシーズン1を日本時間11月7日に開始すると発表した。マルチプレイには新マップが6種類以上と新モード，DMZには秘密施設「X01」が登場。「Warzone」にも新マップが2種類加わる。",
+          "link": "https://www.4gamer.net/games/010/G101087/20261029023/",
+          "publishedOn": "2026-10-29T05:29:52.000Z",
+          "wordCount": 9028,
+          "title": "「CoD: Modern Warfare 4」「CoD: Warzone」のシーズン1が11月7日に開幕。新マップや武器が多数追加され，DMZには謎の秘密施設「X01」が登場",
+          "imageUrl": "https://www.4gamer.net/games/010/G101087/20261029023/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/884/G088472/20261029015/",
+          "author": null,
+          "description": "CriticalReflexは本日（2026年10月29日），「Mouthwashing」をNintendoSwitch向けに発売した。本作は，難破した宇宙貨物船「TheTulpar（タルパ）」と，死の危機にさらされたクルーたちの行く末を追う，一人称視点のサイコホラーゲームだ。",
+          "link": "https://www.4gamer.net/games/884/G088472/20261029015/",
+          "publishedOn": "2026-10-29T03:36:28.000Z",
+          "wordCount": 8223,
+          "title": "「Mouthwashing」，Switch向けに本日発売。難破した宇宙貨物船とクルーたちの運命を描く，心を抉るサイコホラー",
+          "imageUrl": "https://www.4gamer.net/games/884/G088472/20261029015/SS/003.webp"
+        },
+        {
+          "id": "https://www.4gamer.net/games/945/G094561/20261029013/",
+          "author": null,
+          "description": "スパイク・チュンソフトは本日（2026年10月29日），ポッドキャスト番組「スーパーダンガンラジオリブート〜希望のゲストと絶望のオガタ〜」の第0回を10月30日19：00に配信すると発表した。出演者は声優の緒方恵美さんと，「スーパーダンガンロンパ２×２」でプロデューサーを務める榊原昌平氏だ。",
+          "link": "https://www.4gamer.net/games/945/G094561/20261029013/",
+          "publishedOn": "2026-10-29T03:20:22.000Z",
+          "wordCount": 8399,
+          "title": "「スーパーダンガンラジオ リブート 〜希望のゲストと絶望のオガタ〜」，第0回を10月30日に配信",
+          "imageUrl": "https://www.4gamer.net/games/945/G094561/20261029013/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/053/G105326/20261027023/",
+          "author": null,
+          "description": "コンパイルハートは2026年10月29日，「ドカポン」シリーズの最新作「ドカポンキングダムコネクト2」を2027年夏に全世界同時発売すると発表した。今回は，全プレイヤーが集結してギガモンスターに挑む「大共闘戦」と，自分だけの勇者を作成できる「キャラクターメイキング」が実装される。",
+          "link": "https://www.4gamer.net/games/053/G105326/20261027023/",
+          "publishedOn": "2026-10-29T03:00:00.000Z",
+          "wordCount": 8456,
+          "title": "「ドカポンキングダム コネクト2」が2027年夏に全世界同時発売。「大共闘戦」「キャラクターメイキング」を新要素として実装",
+          "imageUrl": "https://www.4gamer.net/games/053/G105326/20261027023/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/894/G089481/20261029011/",
+          "author": null,
+          "description": "JackboxGamesは本日，TootGamesが開発する「腕が伸びちゃった！」を，2027年3月11日に発売すると発表した。本作は，長く伸びる腕を持つ泥棒を主人公にしたコミカルな2Dステルスゲームだ。各ステージでは，腕がどこから伸びているのかを悟られないように獲物を手に入れる。",
+          "link": "https://www.4gamer.net/games/894/G089481/20261029011/",
+          "publishedOn": "2026-10-29T02:59:08.000Z",
+          "wordCount": 8474,
+          "title": "腕の長い泥棒が主人公の2Dステルスゲーム「腕が伸びちゃった！」，PC/コンシューマ向けに2027年3月11日発売",
+          "imageUrl": "https://www.4gamer.net/games/894/G089481/20261029011/SS/006.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/053/G105393/20261029008/",
+          "author": null,
+          "description": "集英社ゲームズは，学園SFとボールスポーツを融合させたボスラッシュアクション「BAKUDO」のSwitch2版を発表した。本作は，少女ユーリアが10日以内に学園の頂点「澈日八星」を打ち破る試練に挑む作品だ。学園生活や強敵とのバトルを描く新トレイラーのほか，キービジュアル，主要キャラクター3人の情報も公開された。",
+          "link": "https://www.4gamer.net/games/053/G105393/20261029008/",
+          "publishedOn": "2026-10-29T02:05:39.000Z",
+          "wordCount": 8376,
+          "title": "学園SF×ボールスポーツのボスラッシュアクション「BAKUDO」，Switch2版を発表。学園生活や強敵とのバトルを描く新トレイラーも公開",
+          "imageUrl": "https://www.4gamer.net/games/053/G105393/20261029008/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/982/G098216/20261027046/",
           "author": null,
           "description": "日本ファルコムは本日，アクションRPG「亰都ザナドゥ-桜花幻舞-」の体験版をPC（Steam）/PS5/Switch向けに配信開始した。物語の序幕から第1話終了まで，5〜6時間分のストーリーをプレイでき，2Dと3Dを切り替える独自のバトルシステムや学園生活も楽しめる。セーブデータは製品版へ引き継げる。",
@@ -2564,16 +2664,6 @@
           "wordCount": 898,
           "title": "アイディアファクトリーが新ブランド「IFChronicle（イフクロニクル）」を立ち上げ。第1弾タイトル「ICONOLOGY（イコノロジー）」も発表に",
           "imageUrl": "https://www.4gamer.net/games/046/G104623/20260929018/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/985/G098513/20260929027/",
-          "author": null,
-          "description": "Playstackは本日，Pengonautsが開発した「Dicevaders」をPC/Switch2/Switch向けに発売した。本作は，プレイヤーがエイリアンの指揮官となり，サイコロで軍団を編成して地球を侵略していくデッキ構築型ローグライクだ。ユニットをグリッドに配置してサイコロを振り，コンボを決めて攻撃スコアを高めていく。",
-          "link": "https://www.4gamer.net/games/985/G098513/20260929027/",
-          "publishedOn": "2026-09-29T15:00:00.000Z",
-          "wordCount": 8458,
-          "title": "「StarVaders」のスピンオフ作品「Dicevaders」本日発売。エイリアンの軍団を編成して地球を侵略するデッキ構築型ローグライク",
-          "imageUrl": "https://www.4gamer.net/games/985/G098513/20260929027/SS/008.jpg"
         }
       ]
     },
@@ -2582,6 +2672,106 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ce31d506d830d8691150c400453bc01d8031db78?source=rss",
+          "author": null,
+          "description": "近年、児童発達支援の教室が増えています。自立や社会生活に必要な力を育む支援を行う「療育」の現場を取材しました。ＧＭＯ攻撃者は「プロではない可能性」と専門家指摘 見え隠れする「承認欲求」とプロにみられな",
+          "link": "https://news.yahoo.co.jp/articles/ce31d506d830d8691150c400453bc01d8031db78?source=rss",
+          "publishedOn": "2026-10-29T08:00:00.000Z",
+          "wordCount": 1802,
+          "title": "「児童発達支援施設」が増加　身近になる療育、一方で人材確保や育成に課題も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083306-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d7b9e06a850eabb33b42f4b8a4dff0a17ea2f208?source=rss",
+          "author": null,
+          "description": "政務活動費を不正に受け取ったとして、元兵庫県議が、詐欺などの疑いで書類送検されたことがわかりました。【速報】兵庫県・県立病院の医療職・男性職員が暴言・侮辱・威圧的な行為か 県がパワーハラスメント認定",
+          "link": "https://news.yahoo.co.jp/articles/d7b9e06a850eabb33b42f4b8a4dff0a17ea2f208?source=rss",
+          "publishedOn": "2026-10-29T07:16:45.000Z",
+          "wordCount": 1658,
+          "title": "元兵庫県議が政務活動費を不正受給した疑いで書類送検　ホテル宿泊料金を“県庁内で打合せ”と偽り政務活動費を充てるための文書を偽造し行使か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083311-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/97a596a4771011600e93165077a8d5534a07606a?source=rss",
+          "author": null,
+          "description": "京都府亀岡市の旅館で８月、約２１万円相当の無銭宿泊をしたとして、住居不定無職の２３歳の男が逮捕されました。覚醒剤譲り渡した疑いで現役の消防士逮捕・起訴 30代女に1万5000円で譲渡か 大阪市 ２９日",
+          "link": "https://news.yahoo.co.jp/articles/97a596a4771011600e93165077a8d5534a07606a?source=rss",
+          "publishedOn": "2026-10-29T07:10:47.000Z",
+          "wordCount": 1728,
+          "title": "京都府亀岡市の旅館で食事付・３泊４日の宿泊料金約２１万円相当を無銭宿泊か　宿泊２日目から姿が見えなくなり･･･チェックアウト時“もぬけの殻”　住居不定無職の男を逮捕　警察が余罪調べる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083312-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f404285904dd02057a3b7bafbb6283324fbb77c6?source=rss",
+          "author": null,
+          "description": "近畿厚生局麻薬取締部は２９日、大阪や名古屋などを拠点に、全国へ違法薬物を密売していた組織を摘発したと発表し、組織トップの男ら２人を麻薬特例法違反などの疑いで逮捕・送検しました。GMOが要求する「能動的",
+          "link": "https://news.yahoo.co.jp/articles/f404285904dd02057a3b7bafbb6283324fbb77c6?source=rss",
+          "publishedOn": "2026-10-29T06:00:43.000Z",
+          "wordCount": 1694,
+          "title": "【速報】大阪や名古屋などを拠点に全国へ違法薬物を密売か　近畿厚生局麻薬取締部が“組織を壊滅”発表(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083310-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f1bd1da09cc6243ae33c999811b302a5dcd14f46?source=rss",
+          "author": null,
+          "description": "兵庫県は２９日、県立病院に勤務する６２歳の男性職員が、同僚に暴言などのいわゆるパワーハラスメント行為をしたとして、停職１カ月の懲戒処分にしたと発表しました。【速報】兵庫県加古川市の工事現場で下半身に土",
+          "link": "https://news.yahoo.co.jp/articles/f1bd1da09cc6243ae33c999811b302a5dcd14f46?source=rss",
+          "publishedOn": "2026-10-29T06:00:00.000Z",
+          "wordCount": 1684,
+          "title": "【速報】兵庫県・県立病院の医療職・男性職員が暴言・侮辱・威圧的な行為か　県がパワーハラスメント認定(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083309-asahibcv-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8749ee555fb0ef91bb93dd3c082313146eb98149?source=rss",
+          "author": null,
+          "description": "２９日午前、兵庫県加古川市の工事現場で、下半身に土砂が覆い被さった状態の男性作業員が見つかり、搬送先の病院で死亡が確認されました。「ママ会いたい」密室での取り調べで自白を迫る執拗な言葉 １６歳の少女が",
+          "link": "https://news.yahoo.co.jp/articles/8749ee555fb0ef91bb93dd3c082313146eb98149?source=rss",
+          "publishedOn": "2026-10-29T05:17:03.000Z",
+          "wordCount": 1682,
+          "title": "【速報】兵庫県加古川市の工事現場で下半身に土砂が覆いかぶさった状態の男性作業員が見つかる　搬送先の病院で死亡確認　下水管と下水道をつなげる工事に従事か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083308-asahibcv-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c28747f6b683b0bcccd3627c8ba106aed30215b6?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと２８日、ＪＲ阪和線の東佐野駅で停車する予定だった区間快速電車が約３００メートルオーバーランしたということです。 誤通過防止支援装置が作動していなかったといい、ＪＲ西日本が原因を調",
+          "link": "https://news.yahoo.co.jp/articles/c28747f6b683b0bcccd3627c8ba106aed30215b6?source=rss",
+          "publishedOn": "2026-10-29T04:52:30.000Z",
+          "wordCount": 1711,
+          "title": "ＪＲ西日本・阪和線で“一時的な眠気が・・・”区間快速の運転士がブレーキ操作できずに停車駅を約300ｍオーバーラン　誤通過防止支援装置も作動せず　ＪＲ西日本が原因調査(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083307-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bb362db4d0ba6be16697a80f776ded058055e050?source=rss",
+          "author": null,
+          "description": "２９日朝、今シーズン一番の冷え込みとなった滋賀県大津市では、琵琶湖の対岸の景色が、水面から浮き上がって見える「蜃気楼」が観測されました。「通天閣」開業７０周年 古希を祝う紫色にライトアップ 無料招待に",
+          "link": "https://news.yahoo.co.jp/articles/bb362db4d0ba6be16697a80f776ded058055e050?source=rss",
+          "publishedOn": "2026-10-29T03:40:54.000Z",
+          "wordCount": 1647,
+          "title": "琵琶湖で「蜃気楼」観測　滋賀・大津市で今季一番の冷え込みに(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083303-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/97fa0dadc02c8db575dc21160e7b0e1294909134?source=rss",
+          "author": null,
+          "description": "「餃子の王将」を展開する会社の社長が射殺された事件で、暴力団幹部に無罪を言い渡した京都地裁の判決を不服として、検察は２９日、大阪高裁に控訴しました。抵抗できない状態だったとする点は「否認し争う」 部下",
+          "link": "https://news.yahoo.co.jp/articles/97fa0dadc02c8db575dc21160e7b0e1294909134?source=rss",
+          "publishedOn": "2026-10-29T03:34:42.000Z",
+          "wordCount": 1684,
+          "title": "【速報】「餃子の王将」社長射殺事件　暴力団幹部に無罪を言い渡した京都地裁の判決を不服として検察が大阪高裁に控訴(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083305-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c452703a03def69ed999cbc0da51466c891b8399?source=rss",
+          "author": null,
+          "description": "大阪・関西万博の工事代金を不正に水増しして会社に損害を与えた罪に問われている竹中工務店の元所長が初公判で起訴内容を認めました。万博閉幕から１年 冷めやらぬ熱気・ミャクミャクも\"帰還\" 跡地活用の行方は",
+          "link": "https://news.yahoo.co.jp/articles/c452703a03def69ed999cbc0da51466c891b8399?source=rss",
+          "publishedOn": "2026-10-29T03:25:52.000Z",
+          "wordCount": 1653,
+          "title": "大阪・関西万博の工事めぐり不正に代金水増しか　初公判で元竹中工務店所長は起訴内容認める　裁判で「所長になりその権力を悪用してしまった」被告の供述も明らかに(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00083304-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/cd68e3689750e68e86ab07e8560bf76598393634?source=rss",
           "author": null,
@@ -7610,6 +7800,86 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cmzxlr4zglqwo#0",
+          "author": null,
+          "description": "世界的な人気キャラクター、ハローキティを展開する日本のサンリオは29日、同国の人気テレビドラマ「VIVANT」（ヴィヴァン）とのコラボレーションを中止すると発表し、謝罪した。「VIVANT」では、自衛隊直轄の非公認組織「別班」の諜報員に中国人工作員が残忍な拷問を加える描写があり、中国の国営メディアやソーシャルメディア・ユーザーが広くこれを非難している。",
+          "link": "https://www.bbc.com/japanese/articles/cmzxlr4zglqwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T07:59:10.000Z",
+          "wordCount": 1773,
+          "title": "サンリオ、「VIVANT」とのコラボを中止　中国でドラマへの批判が強まり",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/3ae0/live/865a2400-d343-11f1-ad8b-790d6224b426.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cvp8g410yx55o#0",
+          "author": null,
+          "description": "米テクノロジー大手のマイクロソフトは28日、9月末までの3カ月間の利益が366億ドル（約5兆7800億円）超に急増したと発表した。数日前には、従業員を4分の1以上減らす計画を明らかにしていた。",
+          "link": "https://www.bbc.com/japanese/articles/cvp8g410yx55o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T07:18:09.000Z",
+          "wordCount": 1735,
+          "title": "マイクロソフト、利益急増を報告　6万人対象の希望退職制度の発表から数日後",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/cry831y3gq79o#0",
+          "author": null,
+          "description": "イスラエルで27日に投票された総選挙は、過去20年以上で最も高い投票率となった。開票が進んでいるが、依然として明確な勝者が決まっていない。現時点でわかっていることを、中東特派員が説明する。",
+          "link": "https://www.bbc.com/japanese/watch/cry831y3gq79o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T07:07:41.000Z",
+          "wordCount": 1521,
+          "title": "混迷のイスラエル総選挙、現時点でわかっていること",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8924/live/3d448ba0-d2d7-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/c6kglwvrrn4ko#0",
+          "author": null,
+          "description": "BBCヴェリファイ（検証チーム）は、ボルソナロ氏がブラジルから陸路でアルゼンチンにわたり、エクアドルを経由でマイアミにたどり着くまでの道のりを丹念にたどった。",
+          "link": "https://www.bbc.com/japanese/watch/c6kglwvrrn4ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T05:57:04.000Z",
+          "wordCount": 1273,
+          "title": "【検証】ボルソナロ氏はどのように米マイアミにたどり着いたのか、アルゼンチンとエクアドルを経由",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/c9c9/live/0a0506e0-d2f8-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cwe8l4nmrgp6o#0",
+          "author": null,
+          "description": "今回の選挙はある意味で民主主義の祝うものだったが、イスラエルには新政権樹立への明確な道筋がないと、BBCのジェイムズ・ランデイル外交担当編集委員は書く。",
+          "link": "https://www.bbc.com/japanese/articles/cwe8l4nmrgp6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T05:28:32.000Z",
+          "wordCount": 1952,
+          "title": "【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/ck0j06exevdvo#0",
+          "author": null,
+          "description": "イスラエルで27日に投票された総選挙は、開票率85％時点の獲得議席数で、ネタニヤフ首相が率いる与党側が、アイゼンコット元軍参謀総長を中心とした野党勢力をリードしている。ただ、与党側も過半数の獲得には至っていない。",
+          "link": "https://www.bbc.com/japanese/articles/ck0j06exevdvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T05:13:36.000Z",
+          "wordCount": 1937,
+          "title": "ネタニヤフ陣営がリード、過半数には届かず　イスラエル総選挙で85％開票",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ae4b/live/51445f70-d2f2-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6n8d9j7ynlzo#0",
+          "author": null,
+          "description": "25日に行われたブラジル大統領選の決選投票で敗れた後、ブラジルを出国しアメリカ・フロリダ州に到着した右派フラヴィオ・ボルソナロ氏（45）は28日、「国を離れる」意図は全くなかったと述べた。",
+          "link": "https://www.bbc.com/japanese/articles/c6n8d9j7ynlzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T04:34:39.000Z",
+          "wordCount": 1991,
+          "title": "ブラジル大統領選で敗れたボルソナロ氏、国外逃亡を否定　米マイアミ到着後",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/149c/live/fb1b17b0-d305-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cq0k0rp174m5o#0",
+          "author": null,
+          "description": "スペイン中部で28日朝、高速列車の衝突事故があり、少なくとも68人が死亡、数十人が負傷した。マドリードからセビリアに向かっていた列車が、線路上で停車していた別の列車に追突したとみられている。",
+          "link": "https://www.bbc.com/japanese/articles/cq0k0rp174m5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-29T03:02:31.000Z",
+          "wordCount": 1752,
+          "title": "スペインで高速列車が衝突、少なくとも68人死亡　停止列車に追突か",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cmrly181838xo#0",
           "author": null,
           "description": "アメリカのキリスト教カトリック教会の司教たちがホワイトハウスでドナルド・トランプ大統領と祈りをささげる写真が公表され、司教たちが何か政治的な発言をしていたのではないかとの臆測が飛んでいる。この事態を受け、司教のうち2人がこの会合に参加したことを後悔していると表明した。",
@@ -9547,6 +9817,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2610/29/news016.html",
+          "author": null,
+          "description": "Synapticsの「Astra SR200」シリーズは、マルチモーダルAIのワークロードをデバイス上で実行できるxMCUだ。最大400GOPSのAI推論性能を備え、大規模なAIモデルの実行に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2610/29/news016.html",
+          "publishedOn": "2026-10-29T03:30:00.000Z",
+          "wordCount": 2651,
+          "title": "マルチモーダルAI対応「xMCU」　最大400GOPSのAI推論性能",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/29/l_edn20261027edn001.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2610/29/news045.html",
           "author": null,
           "description": "ルネサス エレクトロニクスは、アナログ／デジタル混載コンフィギュラブルIC製品群「GreenPAK」に1.155×1.155mmの「SLG46801」を追加し、サンプル出荷を開始した。小型サイズながら、マルチタイムプログラマブル機能を搭載している。",
@@ -10223,6 +10503,46 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=136274",
+          "author": "多根清史",
+          "description": "GoogleとXREALは2026年10月28日（日本時間29日）、Android XRを搭載した有線接続型XRグラス「XREAL AURA」の注文受付を米国などで開始した。日本では11月2日から一般向けの注文受付を開始する。国内価格は22万9800円からで、年内の出荷を予定している。 XREAL  […]",
+          "link": "https://gadget.phileweb.com/post-136274/",
+          "publishedOn": "2026-10-29T07:59:37.000Z",
+          "wordCount": 766,
+          "title": "Googleが共同開発の「XREAL AURA」米国で発売。日本は11月2日受付開始",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/c579ae93e4f9c78466e77b98e1ef6613.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=136248",
+          "author": "多根清史",
+          "description": "アップルは、タッチ対応のPROLED XDRディスプレイを搭載した新型MacBook Proを発表した。長年拒んできたMacのタッチ対応に踏み切った理由について、同社のジョン・ターナスCEO、ハードウェア責任者のジョニー・スルージ氏、マーケティング責任者のグレッグ・ジョズウィアック氏ら幹部が米WIR […]",
+          "link": "https://gadget.phileweb.com/post-136248/",
+          "publishedOn": "2026-10-29T05:30:00.000Z",
+          "wordCount": 708,
+          "title": "「Macにタッチはいらない」は過去の話？ アップルが方針を変えた理由",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/c62512de67d1dd307cecc5482346093b.29.51.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=136247",
+          "author": "Munenori Taniguchi",
+          "description": "ソフトウェアソースコードのオンライン管理・共有プラットフォームGitHubで、偽のPlayStation 5エミュレーターが出回り、ダウンロードした者のPCにマルウェアを仕掛ける事例が発生しているとの調査報告が伝えられている。 この調査はVPNサービス企業のNordVPNによるもので、同社の脅威イン […]",
+          "link": "https://gadget.phileweb.com/post-136247/",
+          "publishedOn": "2026-10-29T03:45:00.000Z",
+          "wordCount": 715,
+          "title": "偽PS5エミュレーター、GitHubで出回る。マルウェア混入、個人情報を収集して“消え去る”との報告",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/5219e06e0479abe0e07d91145895a2b3.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=136233",
+          "author": "多根清史",
+          "description": "サムスンは、今年夏に発売した折りたたみスマートフォン「Galaxy Z Fold8」が「予想をはるかに上回る反響」を得たことを受け、2027年の「Galaxy Z Fold9」シリーズでは追加モデルの投入を検討しているとの噂が報じられている。 韓国のリーカーLanzuk氏によると、サムスンが来年のG […]",
+          "link": "https://gadget.phileweb.com/post-136233/",
+          "publishedOn": "2026-10-29T03:21:02.000Z",
+          "wordCount": 731,
+          "title": "Galaxy Z Fold9に追加すべきは「大画面」か「廉価版」か。Fold8のヒット受けサムスンが検討中？",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/35f46b94841e7d9f4f671edc1a3ca42c.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=136203",
           "author": "Munenori Taniguchi",
@@ -12963,16 +13283,6 @@
           "wordCount": 4270,
           "title": "Leopard-Lumotive collaboration",
           "imageUrl": null
-        },
-        {
-          "id": "https://image-sensors-world.blogspot.com/2026/09/cognex-acquires-realsense.html",
-          "author": null,
-          "description": "Link: https://investor.cognex.com/news/news-details/2026/Cognex-to-Acquire-RealSense-Expanding-Machine-Vision-Leadership-into-High-Growth-Robotic-Perception-Market/default.aspx\n\nCognex to Acquire RealSense, Expanding Machine Vision Leadership into High-Growth Robotic Perception Market\n\nSeptember 22, 2026\n\n\nNATICK, Mass. and CUPERTINO, Calif., Sept. 22, 2026 /PRNewswire/ -- Cognex Corporation (NASDAQ: CGNX), the global technology leader in industrial machine vision, today announced that it has entered into a definitive agreement to acquire RealSense, the market leader in depth-sensing cameras and vision technology for robotic perception and Physical AI. The acquisition advances Cognex's strategy to diversify its growth engine by entering the robotic perception market, a high-growth adjacenc…",
-          "link": "https://image-sensors-world.blogspot.com/2026/09/cognex-acquires-realsense.html",
-          "publishedOn": "2026-09-29T19:00:00.000Z",
-          "wordCount": 4279,
-          "title": "Cognex acquires RealSense",
-          "imageUrl": null
         }
       ]
     },
@@ -12981,6 +13291,36 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321003",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「リュウジの至高のレシピ ペペロンチーノ」を世界一詳しく調査しました。   【ファミマ】リュ […]\n投稿 【ファミマ】リュウジの至高のレシピ ペペロンチーノ【新作コンビニ冷凍食品】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/famima-ryuji-peperoncino",
+          "publishedOn": "2026-10-29T07:03:14.000Z",
+          "wordCount": 1911,
+          "title": "【ファミマ】リュウジの至高のレシピ ペペロンチーノ【新作コンビニ冷凍食品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/e0e81ff11d2113ea6e3e3840ccd4bfa7.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=320981",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、惣菜フェア、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。  […]\n投稿 【松のや】アジフライ1枚+カキフライ2個+海老フライ1尾+メンチかつ1個+皮付きハーフポテト【惣菜フェア】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/matsunoya-minced-meat-cutlet",
+          "publishedOn": "2026-10-29T05:50:45.000Z",
+          "wordCount": 1952,
+          "title": "【松のや】アジフライ1枚+カキフライ2個+海老フライ1尾+メンチかつ1個+皮付きハーフポテト【惣菜フェア】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/dd7a9a4950a6f1721aa560e1a9574925.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=320961",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 紅茶蒸しパン ロイヤルミルクティー風味 4個入」を世界一詳しく調査しました。 &nb […]\n投稿 【セブンイレブン】セブンプレミアム  紅茶蒸しパン ロイヤルミルクティー風味 4個入【新作菓子パン】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/711sej-tea-steamed-bread-2026",
+          "publishedOn": "2026-10-29T04:56:14.000Z",
+          "wordCount": 1932,
+          "title": "【セブンイレブン】セブンプレミアム  紅茶蒸しパン ロイヤルミルクティー風味 4個入【新作菓子パン】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/88d91c4bd33d1cfce5e0d7f69417436f.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=320933",
           "author": "foodfighter",
@@ -13688,6 +14028,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127723/",
+          "author": null,
+          "description": "上映中の「ガールズ＆パンツァー 最終章 第5話」の第4～6週目の入場特典や、聖グロリアーナ女学院の新キャラクターが発表された。さらに、新PV「突破成功率9％!?編」（https://www.yo...",
+          "link": "https://anime.eiga.com/news/127723/",
+          "publishedOn": "2026-10-29T03:00:00.000Z",
+          "wordCount": 847,
+          "title": "「ガルパン 最終章 第5話」4～6週目入場特典に複製原画や生コマフィルム　新キャラクターも発表",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127747/",
           "author": null,
@@ -16480,6 +16835,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127073",
+          "author": null,
+          "description": "ガガガ文庫発のアニメ『負けヒロインが多すぎる！』のJR東海「推し旅」のコラボ...",
+          "link": "https://ln-news.com/articles/127073",
+          "publishedOn": "2026-10-29T07:00:00.000Z",
+          "wordCount": 269,
+          "title": "アニメ『負けヒロインが多すぎる！』とJR東海「推し旅」のコラボイベントが開催決定　精文館書店豊橋本店にてオリジナルグッズを販売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/78a91b9635324192a8ad3a1005fb0e62.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127059",
+          "author": null,
+          "description": "アース・スターノベル発のアニメ『悠久の愚者アズリーの、賢者のすゝめ』のメイン...",
+          "link": "https://ln-news.com/articles/127059",
+          "publishedOn": "2026-10-29T05:30:00.000Z",
+          "wordCount": 262,
+          "title": "アニメ『悠久の愚者アズリーの、賢者のすゝめ』メインビジュアルが公開　追加キャストとしてリナ役を藤寺美徳さん",
+          "imageUrl": "https://assets.ln-news.com/images/medias/17e7441423354e7e83e79e72329499a7.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/126967",
+          "author": null,
+          "description": "2026年10月30日に発売されるHJ文庫11月刊行のラインナップ8冊のジャ...",
+          "link": "https://ln-news.com/articles/126967",
+          "publishedOn": "2026-10-29T04:00:00.000Z",
+          "wordCount": 284,
+          "title": "HJ文庫2026年11月刊行のラインナップをご紹介。『六畳間の侵略者!? 50』『影山くんの暗躍×青春ディレクション2』など8冊",
+          "imageUrl": "https://assets.ln-news.com/images/medias/98c16aa39c4c41c89b795d75a8eb263f.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127055",
           "author": null,
@@ -19439,16 +19824,6 @@
           "wordCount": null,
           "title": "突然現れたゴールデンレトリバーを招き入れる柴犬とハスキーが凄すぎました",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/FfXMRU52gL0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/FfXMRU52gL0",
-          "publishedOn": "2026-09-29T11:12:41.000Z",
-          "wordCount": 3111,
-          "title": "柴犬を一瞬で笑顔にさせる方法 #柴犬 #shorts #ytshorts",
-          "imageUrl": "https://i.ytimg.com/vi/FfXMRU52gL0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDpVraxKMrsd6-4SG8tlUyy-dzDNg&usqp=CCk"
         }
       ]
     },
@@ -19745,16 +20120,6 @@
           "publishedOn": "2026-09-30T11:01:03.000Z",
           "wordCount": null,
           "title": "仕事長引いたら待ちくたびれて寝ちゃったもち…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DZXTz8fbu04",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DZXTz8fbu04",
-          "publishedOn": "2026-09-29T11:01:14.000Z",
-          "wordCount": null,
-          "title": "今日も筋トレをジャマしに来た猫がこうなっちゃいましたw",
           "imageUrl": null
         }
       ]
@@ -20098,6 +20463,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCigI38jFeroJWgbgMXYh2zw",
       "siteUrl": "https://www.youtube.com/channel/UCigI38jFeroJWgbgMXYh2zw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/5aaHIT3AfWc",
+          "author": null,
+          "description": "／11/16(月)拠点要撃戦に#次元臨界ジンオウガ が出現！＼拠点要撃戦に備えて要撃特選武器を生産・強化するチャンス✨明日10/30(金)から開催されるディアブロス亜種(次元変異)大量出現で素材を集めましょう！#モンハンNow",
+          "link": "https://www.youtube.com/shorts/5aaHIT3AfWc",
+          "publishedOn": "2026-10-29T03:15:22.000Z",
+          "wordCount": 3030,
+          "title": "【11/16(月) より】拠点要撃戦に #次元臨界ジンオウガ が出現！ #モンハンNow",
+          "imageUrl": "https://i.ytimg.com/vi/5aaHIT3AfWc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCLXKsLCPizOMQjDmQUgBtxTgdGTA"
+        },
         {
           "id": "https://www.youtube.com/shorts/NrwvXoNCxdU",
           "author": null,
