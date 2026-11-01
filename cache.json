@@ -2583,6 +2583,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c4ae9355834d5f585581c2339970e95e358055b5?source=rss",
+          "author": null,
+          "description": "２日未明、滋賀県甲賀市の住宅で火事があり、この家に住む３人と連絡がとれていないということです。 午前２時５０分ごろ甲賀市甲賀町大原中の住宅で、近所の人から「隣りの家から炎がすごく大きい」と警察に通報が",
+          "link": "https://news.yahoo.co.jp/articles/c4ae9355834d5f585581c2339970e95e358055b5?source=rss",
+          "publishedOn": "2026-11-01T21:02:18.000Z",
+          "wordCount": 1636,
+          "title": "【速報】滋賀・甲賀市 住宅火災 住人の３人と連絡取れず(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00083360-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/5ade94a33e1f3704ac173013bf8c1e8f9e7a712e?source=rss",
           "author": null,
           "description": "重機で１分間に風船を何個割れるか、ギネス世界記録に挑むイベントが、京都府舞鶴市であり、兵庫県の男性が「４８個」で記録を更新しました。白菜1玉626円!? 葉物野菜の価格高騰が続く 期待集める「天候に左",
@@ -7381,16 +7391,6 @@
           "wordCount": 1676,
           "title": "「三宮」と「元町」の境界は？　綱引きで決めるイベント　神戸(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00082860-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e874d7ffd233d7d22b545e7e3c9890f9166219a7?source=rss",
-          "author": null,
-          "description": "大阪府の中高生ら８人が、大阪の競技連盟の申し込みの遅れで、今月末の全国大会に出場出来なくなっている問題で、大会を主催する日本陸上競技連盟が「救済措置は行わない」と発表しました。防犯カメラは“いじめ抑止",
-          "link": "https://news.yahoo.co.jp/articles/e874d7ffd233d7d22b545e7e3c9890f9166219a7?source=rss",
-          "publishedOn": "2026-10-03T05:20:08.000Z",
-          "wordCount": 1667,
-          "title": "ＪＯＣ陸上大会エントリー漏れ問題　吉村知事要望も日本陸連「救済措置行わない」(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00082859-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -12556,16 +12556,6 @@
           "wordCount": 827,
           "title": "【10月9日～11日限定】1等は”ラーメン10杯無料”のハズレなしくじが引ける！「麺屋 藤ろう」5周年大感謝祭を開催★［厚木市中町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/fujirou202610.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=62242",
-          "author": "田原",
-          "description": "こんにちは、タハラ＠あつらぼです。 10月29日（木）、本厚木ミロードイーストにオープン予定の「スガキヤ 本厚木ミロードイースト店」。 先日発表されたメニューやオープン記念企画についてお伝えしましたが、オープンまで1か月を切ったので現地へ行…",
-          "link": "https://atsugi-lab.com/news3-sugakiya-atsugi202610/",
-          "publishedOn": "2026-10-03T08:13:30.000Z",
-          "wordCount": 830,
-          "title": "【話題沸騰！】10月29日開店予定の「スガキヤ」の外観にスーちゃん登場！オープンが楽しみすぎる～！［本厚木ミロード］",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/sugakiya3.jpg"
         }
       ]
     },
@@ -12611,6 +12601,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321177",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「おさつバターシュー」を世界一詳しく調査しました。   【ビアードパパ】おさつバターシュー（ […]\n投稿 【ビアードパパ】おさつバターシュー（シュークリーム）【新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/beardpapa-sweet-potato-butter",
+          "publishedOn": "2026-11-01T20:23:25.000Z",
+          "wordCount": 1909,
+          "title": "【ビアードパパ】おさつバターシュー（シュークリーム）【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/0fb050799140ef7f9097f26303dbbd99.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321161",
           "author": "foodfighter",
@@ -13300,16 +13300,6 @@
           "wordCount": 1920,
           "title": "【マクドナルド】ひるまック ビッグマックセット（ポテトSサイズに変更）【ランチメニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/93cf55080ade80f0b4911257d562b65e.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319482",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「焼きチーズケーキシュー」を世界一詳しく調査しました。   【ビアードパパ】焼きチーズケーキ […]",
-          "link": "https://foodfighter.jp/beardpapa-yakicheese-2026",
-          "publishedOn": "2026-10-03T09:05:36.000Z",
-          "wordCount": 1899,
-          "title": "【ビアードパパ】焼きチーズケーキシュー（シュークリーム）【期間限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/6ddca6f472f745f8ffb56727593e5735.jpg"
         }
       ]
     },
@@ -16297,21 +16287,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127576/",
-          "author": null,
-          "description": "10月3日に最終回をむかえたテレビアニメ「本好きの下剋上 領主の養女」に続く原作エピソード「貴族院の自称図書委員編」が、「本好きの下剋上 貴族院の自称図書委員」のタイトルでテレビアニメ化されるこ...",
-          "link": "https://anime.eiga.com/news/127576/",
-          "publishedOn": "2026-10-03T09:00:00.000Z",
-          "wordCount": 672,
-          "title": "「本好きの下剋上　領主の養女」続編「貴族院の自称図書委員編」がTVアニメ化　WIT STUDIOが制作続投",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16320,6 +16295,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127075",
+          "author": null,
+          "description": "ダッシュエックス文庫刊『パワハラ聖女の幼馴染みと絶縁したら、何もかもが上手く...",
+          "link": "https://ln-news.com/articles/127075",
+          "publishedOn": "2026-11-01T21:00:00.000Z",
+          "wordCount": 237,
+          "title": "『パワハラ聖女の幼馴染みと絶縁したら、何もかもが上手くいくようになって最強の冒険者になった ～ついでに優しくて可愛い嫁もたくさん出来た～』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/929d0c197f374426a33e44144297773a.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127089",
           "author": null,
@@ -19049,36 +19034,6 @@
           "wordCount": 342,
           "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第1話「闇より浮かびて」のあらすじ＆先行カット解禁",
           "imageUrl": "https://assets.ln-news.com/images/medias/1f6c647319964a04b914b9a8d31904d3.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126780",
-          "author": null,
-          "description": "ファンタジア文庫刊『美少女しかいない生徒会の議題がいつも俺な件』のコミカライ...",
-          "link": "https://ln-news.com/articles/126780",
-          "publishedOn": "2026-10-03T08:30:00.000Z",
-          "wordCount": 226,
-          "title": "『美少女しかいない生徒会の議題がいつも俺な件』のコミカライズ連載が電撃だいおうじVol.157にて開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/07d9bfccf0da495983aa8ebe744c920b.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126818",
-          "author": null,
-          "description": "オーバーラップ文庫発のアニメ『信者ゼロの女神サマと始める異世界攻略』の第1弾...",
-          "link": "https://ln-news.com/articles/126818",
-          "publishedOn": "2026-10-03T07:00:00.000Z",
-          "wordCount": 275,
-          "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』310によるOPテーマ「未来の足跡」の音源も解禁された第1弾PVが公開",
-          "imageUrl": "https://assets.ln-news.com/images/medias/3e04a40f0a834620b22da9ac25c98f33.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126805",
-          "author": null,
-          "description": "星海社FICTIONS刊『神さま学校の落ちこぼれ』のTVアニメ化が決定した。...",
-          "link": "https://ln-news.com/articles/126805",
-          "publishedOn": "2026-10-03T05:30:00.000Z",
-          "wordCount": 233,
-          "title": "『神さま学校の落ちこぼれ』TVアニメ化決定　ティザービジュアルも解禁",
-          "imageUrl": "https://assets.ln-news.com/images/medias/2feeac90dbbe4b02abfa83fde6fecdbe.jpg"
         }
       ]
     },
