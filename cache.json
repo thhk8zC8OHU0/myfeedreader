@@ -2723,6 +2723,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/474bad83e384431a4507772ff3bc9050173d46b2?source=rss",
+          "author": null,
+          "description": "近鉄によりますと、午前６時２８分ごろ、近鉄奈良線の区間準急が東大阪市にある河内永和駅の構内で人と接触したということです。 午前６時４５分時点で、近鉄奈良線は大阪難波駅と東花園駅の間で運転を見合わせてい",
+          "link": "https://news.yahoo.co.jp/articles/474bad83e384431a4507772ff3bc9050173d46b2?source=rss",
+          "publishedOn": "2026-11-02T22:16:22.000Z",
+          "wordCount": 1607,
+          "title": "【速報】近鉄奈良線　運転見合わせ　列車と人が接触(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083384-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f9c74563191b593c5ef6ef35f16e3502418b5761?source=rss",
+          "author": null,
+          "description": "高知県土佐市で２日午後３時半ごろに見つかった不発弾らしい物について、高知県警は自衛隊が回収したと発表しました。 高知県警は３日午前０時半すぎ、見つかった場所の半径３００ｍの範囲で実施していた立ち入り制",
+          "link": "https://news.yahoo.co.jp/articles/f9c74563191b593c5ef6ef35f16e3502418b5761?source=rss",
+          "publishedOn": "2026-11-02T21:01:42.000Z",
+          "wordCount": 1622,
+          "title": "不発弾のようなものを自衛隊が回収　規制解除　高知・土佐市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00083383-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/68b28db57f7e5c40206c774b2a5e6e9179e577ea?source=rss",
           "author": null,
           "description": "高知県警によりますと、２日午後３時半ごろ、土佐市宇佐町で土砂の分別作業をしていた作業員が不発弾らしい物を見つけたということです。報告を受けた県の土木事務所が警察に連絡しました。【陸自・不発弾処理部隊が",
@@ -7671,36 +7691,6 @@
           "wordCount": 1635,
           "title": "【速報】吹田市の橋で車と接触、自転車の男性が意識不明(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082868-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4159bef1acd20125e2742adf23b10235d325610b?source=rss",
-          "author": null,
-          "description": "２０１９年に堺市の女子中学生が自殺した問題で、原因を再調査する委員会の初会合が４日、開かれました。堺市立中学校で２０１９年、当時２年生だった女子生徒がいじめがきっかけで不登校になり、その後、自殺しまし",
-          "link": "https://news.yahoo.co.jp/articles/4159bef1acd20125e2742adf23b10235d325610b?source=rss",
-          "publishedOn": "2026-10-04T11:44:05.000Z",
-          "wordCount": 1629,
-          "title": "堺市中２女子生徒死亡　いじめとの因果関係めぐる再調査委員会始まる(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00082867-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/68839611c17ac4dd076c204850059134d4156305?source=rss",
-          "author": null,
-          "description": "兵庫県の淡路島で、釣りに来た９歳の男の子が海に落ちて意識不明の重体となり、助けに行った男性が溺れて死亡しました。大阪公立大学で大規模システム障害 全授業が１週間休講に 原因は調査中 学生は困惑「スケジ",
-          "link": "https://news.yahoo.co.jp/articles/68839611c17ac4dd076c204850059134d4156305?source=rss",
-          "publishedOn": "2026-10-04T09:27:56.000Z",
-          "wordCount": 1666,
-          "title": "９歳男児を助けようと海に飛び込んだ知人男性死亡　男児は意識不明の重体　兵庫・淡路島(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00082866-asahibcv-000-3-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ea9439e38ac5b7c29e76e0931db2ec0ae8c5ff15?source=rss",
-          "author": null,
-          "description": "言葉が滑らかに出にくい「吃音」のある人たちが仕事の体験談を共有する「吃音しごと博」が大阪で開かれました。「三宮」と「元町」の境界は？ 綱引きで決めるイベント 神戸 「吃音しごと博」は、言葉が滑らかに出",
-          "link": "https://news.yahoo.co.jp/articles/ea9439e38ac5b7c29e76e0931db2ec0ae8c5ff15?source=rss",
-          "publishedOn": "2026-10-04T09:25:30.000Z",
-          "wordCount": 1660,
-          "title": "「吃音しごと博」開催　当事者らが仕事の体験談を共有　大阪(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00082865-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -10363,6 +10353,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=136435",
+          "author": "編集部：平山洸太",
+          "description": "DJIの小型ワイヤレスマイクに、新たに「Mic Mini 2S」が登場した。内部収録に対応し、32-bitフロート録音も利用できるなど、上位機譲りの機能とスペックを搭載するモデルだ。 今回、通常のレシーバーを使う「2 TX＋1 RX＋充電ケース」と、スマートフォン向けの「1 TX＋1 モバイルRX＋ […]",
+          "link": "https://gadget.phileweb.com/post-136435/",
+          "publishedOn": "2026-11-02T21:30:00.000Z",
+          "wordCount": 753,
+          "title": "手頃な価格で内部収録＆32-bitフロートに対応。DJI「Mic Mini 2S」を試す",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/3fba847bb1294deab9d3af5b533cab4e.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=136527",
           "author": "Munenori Taniguchi",
@@ -13870,16 +13870,6 @@
           "wordCount": 1923,
           "title": "【松屋】4種のチーズ牛めし【店舗限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/790d1268e43c18599d21703890ec03df.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319524",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ランチメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &nb […]",
-          "link": "https://foodfighter.jp/mcdonalds-big-mac-set-2026",
-          "publishedOn": "2026-10-04T11:14:47.000Z",
-          "wordCount": 1920,
-          "title": "【マクドナルド】ひるまック ビッグマックセット（ポテトSサイズに変更）【ランチメニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/93cf55080ade80f0b4911257d562b65e.jpg"
         }
       ]
     },
@@ -16837,51 +16827,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127562/",
-          "author": null,
-          "description": "「イキヅライブ! LOVELIVE! BLUEBIRD」の麻布麻衣役で知られ、同役で「ラブライブ！」シリーズのユニット「AiScReam（アイスクリーム）」のメンバーとしても活動している声優・遠...",
-          "link": "https://anime.eiga.com/news/127562/",
-          "publishedOn": "2026-10-04T11:00:00.000Z",
-          "wordCount": 689,
-          "title": "遠藤璃菜の1st写真集「MOMENT」が10月6日発売　ドレスや制服、メガネ姿を披露【写真多数掲載】",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127500/",
-          "author": null,
-          "description": "「KPOPガールズ! デーモン・ハンターズ」のスタジオが贈る、Netflix映画最新作「リリスとシンデレラのおとぎの王国」が11月20日より配信スタートとなる。このほど、本作のティーザー予告とア...",
-          "link": "https://anime.eiga.com/news/127500/",
-          "publishedOn": "2026-10-04T10:00:00.000Z",
-          "wordCount": 602,
-          "title": "「KPOPガールズ!」手がけたスタジオ製作のNetflix映画「リリスとシンデレラのおとぎの王国」ティーザー予告＆アート公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127573/",
-          "author": null,
-          "description": "劇場アニメ「魔法使いの夜」の主題歌が、「supercell」の新曲「夜と青」に決定した。原作ゲームのテーマソング「星が瞬くこんな夜に」と同じく、作詞・作曲・編曲をryo、歌唱をやなぎなぎが担当し...",
-          "link": "https://anime.eiga.com/news/127573/",
-          "publishedOn": "2026-10-04T09:00:00.000Z",
-          "wordCount": 695,
-          "title": "劇場アニメ「魔法使いの夜」主題歌は原作ゲームから引き続き「supercell」が担当　最終予告も公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16890,6 +16835,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127027",
+          "author": null,
+          "description": "MFブックス刊『無職転生～異世界行ったら本気だす～』より、着替え中のエリス・...",
+          "link": "https://ln-news.com/articles/127027",
+          "publishedOn": "2026-11-02T23:00:00.000Z",
+          "wordCount": 241,
+          "title": "『無職転生～異世界行ったら本気だす～』着替え中のエリス・ボレアス・グレイラット1／7スケールフィギュアが2027年1月に再販売決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/f1025ba6c0fa4703b188d2f09ea03fcc.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127072",
+          "author": null,
+          "description": "GAノベル刊『悪役転生して世界を救った後に裏切られて追放された俺、なぜかかつ...",
+          "link": "https://ln-news.com/articles/127072",
+          "publishedOn": "2026-11-02T21:00:00.000Z",
+          "wordCount": 223,
+          "title": "『悪役転生して世界を救った後に裏切られて追放された俺、なぜかかつての仲間が病んだ目をして追いかけてきちゃった……』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/17e64e5112c443b1893af153a191d19e.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127105",
           "author": null,
@@ -19559,56 +19524,6 @@
           "wordCount": 229,
           "title": "『ちびっこ錬金術師の恩返し』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/251b5b4cc7c74f5383b8a7909ec069c7.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126859",
-          "author": null,
-          "description": "TOブックス刊『本好きの下剋上 ～司書になるためには手段を選んでいられません...",
-          "link": "https://ln-news.com/articles/126859",
-          "publishedOn": "2026-10-04T11:30:00.000Z",
-          "wordCount": 239,
-          "title": "『本好きの下剋上 第四部「貴族院の自称図書委員」』TVアニメ化決定　アニメーション制作はWIT STUDIOが担当",
-          "imageUrl": "https://assets.ln-news.com/images/medias/778b8a0f7bec46ca83a797266a05edb5.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126853",
-          "author": null,
-          "description": "ビーズログ文庫発のアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってし...",
-          "link": "https://ln-news.com/articles/126853",
-          "publishedOn": "2026-10-04T10:00:00.000Z",
-          "wordCount": 329,
-          "title": "アニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』第1話「シルエットモブ悪役令嬢だった私」のあらすじ＆先行カット解禁",
-          "imageUrl": "https://assets.ln-news.com/images/medias/a9e3005ae1e449b9908d099ed7ca47b6.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126785",
-          "author": null,
-          "description": "ファンタジア文庫刊『けもみみ巫女の異世界神社再興記 神様がくれた奇跡の力のせ...",
-          "link": "https://ln-news.com/articles/126785",
-          "publishedOn": "2026-10-04T08:30:00.000Z",
-          "wordCount": 230,
-          "title": "『けもみみ巫女の異世界神社再興記 神様がくれた奇跡の力のせいで祀られすぎて困ってます。』のコミカライズ連載が電撃だいおうじVol.157より開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/204b573aa90c4aac9d6bc0dcb7701fa0.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126801",
-          "author": null,
-          "description": "アニメ『落第賢者の学院無双 ～二度目の転生、Sランクチート魔術師冒険録～』の...",
-          "link": "https://ln-news.com/articles/126801",
-          "publishedOn": "2026-10-04T07:00:00.000Z",
-          "wordCount": 228,
-          "title": "アニメ『落第賢者の学院無双』が2026年10月5日（月）よりBSフジにて再放送決定",
-          "imageUrl": "https://assets.ln-news.com/images/medias/47fbc115513848639d9974095aea9571.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126857",
-          "author": null,
-          "description": "電撃文庫発のアニメ『狼と香辛料 MERCHANT MEETS THE WIS...",
-          "link": "https://ln-news.com/articles/126857",
-          "publishedOn": "2026-10-04T05:30:00.000Z",
-          "wordCount": 281,
-          "title": "アニメ『狼と香辛料 MERCHANT MEETS THE WISE WOLF』第2期のティザーPVが公開　エーブ・ボラン役を引き続き朴璐美さんが担当",
-          "imageUrl": "https://assets.ln-news.com/images/medias/48a853567a3f43acbf033b3228078235.jpg"
         }
       ]
     },
