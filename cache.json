@@ -2723,6 +2723,56 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/7b403fbd6506c6ca1db63934571f574d2a39a842?source=rss",
+          "author": null,
+          "description": "３日午前１０時ごろ、阪神高速の環状線でトラックが分離帯に乗り上げて横転し、運転手がけがをしました。現場付近は交通規制が実施されています。不発弾のようなものを自衛隊が回収 規制解除 高知・土佐市 午前１",
+          "link": "https://news.yahoo.co.jp/articles/7b403fbd6506c6ca1db63934571f574d2a39a842?source=rss",
+          "publishedOn": "2026-11-03T03:21:49.000Z",
+          "wordCount": 1640,
+          "title": "ハンドル操作を誤り出口の分離帯部分に乗り上げたか　阪神高速環状線でトラック横転 　運転手の男性１人がけが(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083389-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4fef757e255856915345fd064dd254307006316b?source=rss",
+          "author": null,
+          "description": "大阪・岸和田市の観光農園では今が旬のミカン狩りを楽しむ家族連れらでにぎわっています。神戸の人気スポット「モザイク」一時閉館へ 来年１月から 施設の老朽化が進行 岸和田市の「北阪町観光農場」では温州ミカ",
+          "link": "https://news.yahoo.co.jp/articles/4fef757e255856915345fd064dd254307006316b?source=rss",
+          "publishedOn": "2026-11-03T03:21:13.000Z",
+          "wordCount": 1642,
+          "title": "今が旬！観光農園でミカン狩り　家族連れらでにぎわう　大阪・岸和田市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083387-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/df03e086ed40dba52fb386ab0ca095cf4a9908c6?source=rss",
+          "author": null,
+          "description": "医療的ケアが必要な子どもやその家族らが防災を学べるイベントが、京都市内で開かれています。吉村知事が大阪府内への「防災局」誘致に意欲 防災庁発足受け「地方拠点の設置・誘致を目指す」 このイベントは、医療",
+          "link": "https://news.yahoo.co.jp/articles/df03e086ed40dba52fb386ab0ca095cf4a9908c6?source=rss",
+          "publishedOn": "2026-11-03T03:20:55.000Z",
+          "wordCount": 1657,
+          "title": "医療的ケア児らのための防災イベント開催　京都(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083388-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d5fc6c3332032441984807fe105a662007289cae?source=rss",
+          "author": null,
+          "description": "何者かによるサイバー攻撃で、個人情報の漏洩や不正取引などの被害が出たＧＭＯインターネットグループ。社長が２日に初めて会見を開きました。不正アクセス問題で「ＧＭＯ」社長が初めて会見 過去にセキュリティー",
+          "link": "https://news.yahoo.co.jp/articles/d5fc6c3332032441984807fe105a662007289cae?source=rss",
+          "publishedOn": "2026-11-03T03:00:02.000Z",
+          "wordCount": 1813,
+          "title": "ホワイトハッカーが明かすサイバー攻撃の実態　進化するＡＩは攻守の要因に　パスワードは「６桁だと２秒で解ける」　では１２桁だと？【岩本計介ニュースの現場から】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083386-asahibcv-000-3-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bb27c5d11a5d94c211089d4d028a42813464b103?source=rss",
+          "author": null,
+          "description": "３日午前１０時ごろ、阪神高速環状線で中型トラックが横転し、運転手がけがをしました。現場付近は交通規制が行われています。不発弾のようなものを自衛隊が回収 規制解除 高知・土佐市 午前１０時前、阪神高速環",
+          "link": "https://news.yahoo.co.jp/articles/bb27c5d11a5d94c211089d4d028a42813464b103?source=rss",
+          "publishedOn": "2026-11-03T02:37:10.000Z",
+          "wordCount": 1670,
+          "title": "【速報】阪神高速環状線でトラック横転　運転手の男性がけが　現場付近で交通規制(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083385-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/474bad83e384431a4507772ff3bc9050173d46b2?source=rss",
           "author": null,
           "description": "近鉄によりますと、午前６時２８分ごろ、近鉄奈良線の区間準急が東大阪市にある河内永和駅の構内で人と接触したということです。 午前６時４５分時点で、近鉄奈良線は大阪難波駅と東花園駅の間で運転を見合わせてい",
@@ -7699,6 +7749,56 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cj3vq0z29xyko#0",
+          "author": null,
+          "description": "イギリス政府は3日、ウクライナでの戦争で和平合意が成立した際に、多国籍軍がウクライナに展開する能力を検証するための演習を、フランスと共に主導すると発表した。今月ポーランドで行われる軍事演習には、欧州12カ国から約3000人の軍関係者が参加する。",
+          "link": "https://www.bbc.com/japanese/articles/cj3vq0z29xyko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-03T04:45:44.000Z",
+          "wordCount": 1765,
+          "title": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ　英仏が主導",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/45f0/live/856d7200-d6d0-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqm26g74pm80o#0",
+          "author": null,
+          "description": "アメリカの連邦最高裁判所は2日、3日に投票日を迎える中間選挙について、カリフォルニア州で約2万票について集計しないよう求めたトランプ政権の訴えを退けた。中間選挙では、トランプ政権の残る2年間で与党・共和党と野党・民主党のどちらが連邦議会を支配するかが決まる。",
+          "link": "https://www.bbc.com/japanese/articles/cqm26g74pm80o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-03T04:45:18.000Z",
+          "wordCount": 1915,
+          "title": "【米中間選挙2026】連邦最高裁、カリフォルニア州の票集計めぐるトランプ政権の訴え退ける",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo#0",
+          "author": null,
+          "description": "ヨーロッパ7カ国で2日、数十店舗のスーパーマーケットが、冷蔵庫や冷凍庫を狙ったサイバー攻撃を受けた。複数店舗で、冷凍庫内の温度が最高50度まで上昇したとされている。",
+          "link": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-03T03:09:48.000Z",
+          "wordCount": 1787,
+          "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ee77/live/582d14e0-d724-11f1-b5e4-95dbcca86f59.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/cmdx37yw99xno#0",
+          "author": null,
+          "description": "今年の中間選挙で、アメリカの有権者は何を最も重視しているのか。BBCがアメリカ各地で取材したところ、多くの人が「経済」と答えた。世論調査によると、ほとんどの有権者が景気を最も重視している。",
+          "link": "https://www.bbc.com/japanese/watch/cmdx37yw99xno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-03T03:06:26.000Z",
+          "wordCount": 1284,
+          "title": "【米中間選挙2026】有権者は何を最も重視するのか？",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/9e5a/live/1bf26380-d315-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cw1m41pvzrgyo#0",
+          "author": null,
+          "description": "ウクライナ当局によると、南部ザポリッジャ州で2日、ロシア軍が支援物資の配布センターを攻撃し、少なくとも26人を殺害した。",
+          "link": "https://www.bbc.com/japanese/articles/cw1m41pvzrgyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-03T01:32:19.000Z",
+          "wordCount": 1979,
+          "title": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c699z804g70xo#0",
           "author": null,
@@ -12778,6 +12878,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=63005",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 先日、パティオビルに「やきとん うが屋本店」というお店がオープンするみたい！という一報をお伝えしました。 今回はグランドオープン日が判明いたしましたので、続報をお届けします！ 「やきとん うが屋本店」オー…",
+          "link": "https://atsugi-lab.com/open-ugaya-atsugi-20261106/",
+          "publishedOn": "2026-11-03T00:00:50.000Z",
+          "wordCount": 833,
+          "title": "【開店・続報】パティオビル1階「やきとん うが屋本店」は11月6日グランドオープンと判明！［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/ugaya20261106.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=62951",
           "author": "fumie",
           "description": "街を歩いていると「クリスマスケーキ」や「おせち」なんて単語が目に飛び込んでくるようになって、 急な年末感に、何となくそわそわしてしまうふみえ＠あつらぼです。 そして、忘年会や新年会のシーズンも、いつの間にか近づいてきていますね！ 厚木市中町…",
@@ -13878,6 +13988,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127785/",
+          "author": null,
+          "description": "テレビアニメ「呪術廻戦 死滅回游 前編」から、主要キャラクター13人の描き下ろしキャラクタービジュアルが公開された。 描き下ろされたのは、主人公・虎杖悠仁のほか、伏黒恵、禪院真希、乙骨憂太、リカ...",
+          "link": "https://anime.eiga.com/news/127785/",
+          "publishedOn": "2026-11-03T03:00:00.000Z",
+          "wordCount": 771,
+          "title": "「呪術廻戦 死滅回游 前編」虎杖悠仁ら13人の描き下ろしキャラクタービジュアル披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127742/",
           "author": null,
@@ -16812,21 +16937,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127530/",
-          "author": null,
-          "description": "山田孝之が主演を務めるNetflixシリーズ「国民クイズ」に出演する16人の新キャストが発表。あわせて予告映像（https://www.youtube.com/watch?v=QvcWAcZcE...",
-          "link": "https://anime.eiga.com/news/127530/",
-          "publishedOn": "2026-10-04T12:00:00.000Z",
-          "wordCount": 677,
-          "title": "山田孝之主演「国民クイズ」石田莉子、倉科カナ、瀬戸康史、小池栄子ら16人の新キャスト発表　見る者の民度が問われる予告映像も",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16835,6 +16945,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127113",
+          "author": null,
+          "description": "MF文庫J発のアニメ『探偵はもう、死んでいる。Season2』第5話「それが...",
+          "link": "https://ln-news.com/articles/127113",
+          "publishedOn": "2026-11-03T04:00:00.000Z",
+          "wordCount": 240,
+          "title": "アニメ『探偵はもう、死んでいる。Season2』第5話「それが最後に出した答え」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/8fe624c979304c4692fb1a32e81f2381.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127119",
+          "author": null,
+          "description": "スニーカー文庫発のアニメ『涼宮ハルヒの憂鬱』放送20周年を記念したアニバーサ...",
+          "link": "https://ln-news.com/articles/127119",
+          "publishedOn": "2026-11-03T02:00:00.000Z",
+          "wordCount": 246,
+          "title": "アニメ『涼宮ハルヒの憂鬱』放送20周年を記念したアニバーサリークロノグラフ腕時計が登場",
+          "imageUrl": "https://assets.ln-news.com/images/medias/e11205dd6038479d943732cc8349921e.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127110",
+          "author": null,
+          "description": "2026年11月2日に発売されたアース・スター ルナ11月刊行のラインナップ...",
+          "link": "https://ln-news.com/articles/127110",
+          "publishedOn": "2026-11-03T00:30:00.000Z",
+          "wordCount": 288,
+          "title": "アース・スター ルナ2026年11月刊行のラインナップをご紹介。『侯爵令嬢アリアレインの帰還 上・下』『転生令嬢は米作りがしたい3』など6冊",
+          "imageUrl": "https://assets.ln-news.com/images/medias/b6761aef163b4d81891e1b08821bc4d9.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127027",
           "author": null,
