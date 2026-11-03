@@ -2684,36 +2684,6 @@
           "wordCount": 8358,
           "title": "彩京のシューティング12作品を収録。「彩京Memories」，Switch2/PS5向けに2027年2月18日発売",
           "imageUrl": "https://www.4gamer.net/games/047/G104744/20261002041/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/954/G095479/20261004006/",
-          "author": null,
-          "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，モバイル向けに作り直されたほのぼのMMORPG「マビノギモバイル」や，自由な飛行が軸となったオープンワールドMMORPG「AION2」が発売される。",
-          "link": "https://www.4gamer.net/games/954/G095479/20261004006/",
-          "publishedOn": "2026-10-04T23:00:00.000Z",
-          "wordCount": 8647,
-          "title": "【今週のモチベ】「マビノギモバイル」や「AION 2」が発売される 2026年10月5日〜10月11日",
-          "imageUrl": "https://www.4gamer.net/games/954/G095479/20261004006/SS/003.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/865/G086591/20260921049/",
-          "author": null,
-          "description": "恐竜やエイリアンの脅威に立ち向かうシューティングゲーム「Turok:Origins」。本稿では，TGS2026に合わせて実施した開発者インタビューの模様をお伝えしよう。シリーズの多彩な要素を受け継いだ世界観や，惑星ごとに異なる生き物のデザイン，武器を強化して繰り返し戦う楽しさについて尋ねた。",
-          "link": "https://www.4gamer.net/games/865/G086591/20260921049/",
-          "publishedOn": "2026-10-04T22:00:00.000Z",
-          "wordCount": 8650,
-          "title": "恐竜やエイリアンが待ち受ける惑星が舞台。PvEシューティング「Turok: Origins」の開発陣に，環境デザインや戦闘システムについて聞いた",
-          "imageUrl": "https://www.4gamer.net/games/865/G086591/20260921049/SS/004.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/040/G004099/20261004007/",
-          "author": null,
-          "description": "2026年9月28日〜10月4日，4Gamerに掲載された記事は261本でした。「東京ゲームショウ2026」の関連記事や，秋の夜長に楽しめそうなゲームの情報など，いろいろな記事を掲載した4Gamerと世界のゲーム業界の1週間をさくっと振り返りましょう。",
-          "link": "https://www.4gamer.net/games/040/G004099/20261004007/",
-          "publishedOn": "2026-10-04T22:00:00.000Z",
-          "wordCount": 9361,
-          "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年9月28日〜10月4日",
-          "imageUrl": "https://www.4gamer.net/games/040/G004099/20261004007/SS/033.jpg"
         }
       ]
     },
@@ -2722,6 +2692,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/94ff865c13826663c526b4632a9f1c929d132731?source=rss",
+          "author": null,
+          "description": "市民の個人情報が漏えいした可能性があると発表しました。 大阪市によりますと、インターネットで住民票の写しの請求や水道の使用開始・中止などの手続きができる「行政オンラインシステム」で利用者の氏名やメール",
+          "link": "https://news.yahoo.co.jp/articles/94ff865c13826663c526b4632a9f1c929d132731?source=rss",
+          "publishedOn": "2026-11-03T10:09:15.000Z",
+          "wordCount": 1665,
+          "title": "大阪市の「行政オンラインシステム」で市民の個人情報漏えいか　氏名やメールアドレスなど(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083395-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/53000ef547bf474f3f9a0b9f45c9b46f61b4823f?source=rss",
+          "author": null,
+          "description": "冬の訪れを前に、「小便小僧」にマントがかけられました。 神戸市の六甲高山植物園では毎年、本格的な冬の寒さを迎える前に、園内の「小便小僧」に手作りのマントをプレゼントしていて、今年で５３回目を迎えます。",
+          "link": "https://news.yahoo.co.jp/articles/53000ef547bf474f3f9a0b9f45c9b46f61b4823f?source=rss",
+          "publishedOn": "2026-11-03T10:09:06.000Z",
+          "wordCount": 1628,
+          "title": "冬の訪れを前に…「小便小僧」に手作りマントをプレゼント　神戸・六甲高山植物園(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083393-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/174f6da86fce61d8e8f1384af302d7ab44d32b0e?source=rss",
+          "author": null,
+          "description": "メール配信サービスを運営する「アララ」が不正アクセスを受けた問題で、大阪市は３日、行政オンラインシステムの利用者の個人情報が、漏えいした可能性があると発表しました。ホワイトハッカーが明かすサイバー攻撃",
+          "link": "https://news.yahoo.co.jp/articles/174f6da86fce61d8e8f1384af302d7ab44d32b0e?source=rss",
+          "publishedOn": "2026-11-03T05:28:21.000Z",
+          "wordCount": 1670,
+          "title": "大阪市の行政オンラインシステムで利用者情報が流出か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083391-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/480443c4120e79c9f4b60c0cab23c17aee50ee33?source=rss",
+          "author": null,
+          "description": "兵庫県三木市の店舗で、１７歳の女性に性的暴行を加えた疑いで、市内に住む美容室経営の男（３２）が逮捕されました。ハンドル操作を誤り出口の分離帯部分に乗り上げたか 阪神高速環状線でトラック横転 運転手の男",
+          "link": "https://news.yahoo.co.jp/articles/480443c4120e79c9f4b60c0cab23c17aee50ee33?source=rss",
+          "publishedOn": "2026-11-03T05:27:22.000Z",
+          "wordCount": 1663,
+          "title": "「酒に酔った影響で記憶にない」１７歳女性に性的暴行か　美容室経営の男逮捕　兵庫県警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00083392-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/7b403fbd6506c6ca1db63934571f574d2a39a842?source=rss",
           "author": null,
@@ -10435,16 +10445,6 @@
           "wordCount": 2650,
           "title": "100A対応の絶縁型ホール電流センサー、Melexis",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/05/l_edn20261002edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2610/05/news024.html",
-          "author": null,
-          "description": "インフィニオン テクノロジーズは、車載および産業用モーター制御向けに設計された、ホール技術ベースのデジタル角度センサー「XENSIV TLx49012」ファミリーを発表した。独自のシステム自己キャリブレーション機能を備える。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2610/05/news024.html",
-          "publishedOn": "2026-10-05T00:00:00.000Z",
-          "wordCount": 2657,
-          "title": "自己キャリブレーション機能搭載のデジタル角度センサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/05/cover_news024.jpg"
         }
       ]
     },
@@ -11932,16 +11932,6 @@
           "wordCount": 765,
           "title": "中古CPUのせいで『VALORANT』からBAN？ユーザーは前の持ち主のチートが原因と主張",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/ab84270d86076cd96c85deb63e9a5830.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=134303",
-          "author": "山本 敦",
-          "description": "2026年モデルとなる新しいApple Watch Series 12とApple Watch Ultra 4が、9月18日に発売された。新規に開発されたヘルスセンシングシステムを搭載して、ユーザーに提供する健康機能を大きく拡大している。 そのひとつとなるのが「準備度」アプリだ。どのようなApple […]",
-          "link": "https://gadget.phileweb.com/post-134303/",
-          "publishedOn": "2026-10-04T21:30:00.000Z",
-          "wordCount": 782,
-          "title": "Apple Watch新機能「準備度」を2週間かけて体験した",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/99fd454939d79fa4078cff5ed36f11b5.jpg"
         }
       ]
     },
@@ -13988,6 +13978,81 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127787/",
+          "author": null,
+          "description": "オリジナルアニメ「ガールズバンドクライ」の完全新作劇場版「ガールズバンドクライ THE MOVIE」の公開日が2027年5月21日に決定した。あわせて、特報映像（https://youtu.be...",
+          "link": "https://anime.eiga.com/news/127787/",
+          "publishedOn": "2026-11-03T12:30:00.000Z",
+          "wordCount": 815,
+          "title": "「ガールズバンドクライ THE MOVIE」27年5月21日公開　「トゲナシトゲアリ」の全国ライブツアーが幕を開ける",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127717/",
+          "author": null,
+          "description": "ディズニー・アニメーション・スタジオ最新作「ビリーと魔法のはじまり」と同時上映される短編映画「リロ＆スクラッチ」の日本版声優が発表され、永尾柚乃、山寺宏一、シソンヌ・長谷川忍が参加していることが...",
+          "link": "https://anime.eiga.com/news/127717/",
+          "publishedOn": "2026-11-03T12:00:00.000Z",
+          "wordCount": 793,
+          "title": "「リロ＆スクラッチ」日本版声優発表　リロ役は永尾柚乃、スティッチ役に山寺宏一、ジャンバ博士役にシソンヌ長谷川",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127697/",
+          "author": null,
+          "description": "2018年公開の劇場アニメ「文豪ストレイドッグス DEAD APPLE」が、12月25日から全国30館で復刻上映される。 12月24日まで販売中のムビチケ前売り券（オンライン）を購入すると、キー...",
+          "link": "https://anime.eiga.com/news/127697/",
+          "publishedOn": "2026-11-03T11:00:00.000Z",
+          "wordCount": 786,
+          "title": "「文豪ストレイドッグス DEAD APPLE」12月25日から復刻上映　太宰治記念館とのコラボも実施",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127786/",
+          "author": null,
+          "description": "2027年1月からスタートするテレビアニメ「一式さんは恋を知りたい。」のオープニング主題歌を、コスプレイヤーのえなこが担当することが分かった。えなこは、羽下ねね役として出演もする。 本PV（ht...",
+          "link": "https://anime.eiga.com/news/127786/",
+          "publishedOn": "2026-11-03T10:00:00.000Z",
+          "wordCount": 771,
+          "title": "「一式さんは恋を知りたい。」OP主題歌をコスプレイヤーのえなこが担当、看護師役としても出演　本PVも公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127780/",
+          "author": null,
+          "description": "劇場アニメ「劇場版 薬屋のひとりごと 亡妃の秘宝」の公開を記念し、神奈川県・横浜市、全国アニメイトとのコラボレーションが決定した。横浜をイメージした猫猫と壬氏のコラボキービジュアルも公開されてい...",
+          "link": "https://anime.eiga.com/news/127780/",
+          "publishedOn": "2026-11-03T09:00:00.000Z",
+          "wordCount": 800,
+          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」横浜市、全国アニメイトとコラボ　横浜をイメージしたビジュアル披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127785/",
           "author": null,
@@ -16946,6 +17011,46 @@
       "siteUrl": "https://ln-news.com",
       "articles": [
         {
+          "id": "https://ln-news.com/articles/127111",
+          "author": null,
+          "description": "MF文庫Jの新文芸単行本発のアニメ『佐々木とピーちゃん Season2』第5...",
+          "link": "https://ln-news.com/articles/127111",
+          "publishedOn": "2026-11-03T10:00:00.000Z",
+          "wordCount": 245,
+          "title": "アニメ『佐々木とピーちゃん Season2』第5話「英雄（ヒーロー）と想い」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/9db4000f35bb44f89326b52f417d94fc.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127086",
+          "author": null,
+          "description": "レジーナブックス刊『悪役令嬢の矜持 婚約破棄、構いません』のコミカライズ連載...",
+          "link": "https://ln-news.com/articles/127086",
+          "publishedOn": "2026-11-03T08:30:00.000Z",
+          "wordCount": 233,
+          "title": "『悪役令嬢の矜持 婚約破棄、構いません』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/3d7c8a9594ca41718f6a943f6f89fe34.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127112",
+          "author": null,
+          "description": "2026年10月26日（月）～2026年11月1日（日）の書泉ブックタワー／...",
+          "link": "https://ln-news.com/articles/127112",
+          "publishedOn": "2026-11-03T07:00:00.000Z",
+          "wordCount": 285,
+          "title": "【10月26日～11月1日】週間ライトノベル売上ランキング",
+          "imageUrl": "https://assets.ln-news.com/images/medias/b64cf2622b4b49b7a7fda1c900cbcb55.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127122",
+          "author": null,
+          "description": "MFブックス発のアニメ『アラフォー賢者の異世界生活日記』より、11月3日の“...",
+          "link": "https://ln-news.com/articles/127122",
+          "publishedOn": "2026-11-03T05:30:00.000Z",
+          "wordCount": 241,
+          "title": "アニメ『アラフォー賢者の異世界生活日記』“いいおっさんの日”を記念した描き下ろしビジュアル＆「アラフォーあるあるボイス」が公開",
+          "imageUrl": "https://assets.ln-news.com/images/medias/94855331588a4f7eb4dadc8b1bebdf14.jpg"
+        },
+        {
           "id": "https://ln-news.com/articles/127113",
           "author": null,
           "description": "MF文庫J発のアニメ『探偵はもう、死んでいる。Season2』第5話「それが...",
@@ -19634,36 +19739,6 @@
           "wordCount": 236,
           "title": "スピンオフコミック『転生したら剣でした My Dish』の連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/1e31cf00d43148f8b0a59f326d2693df.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126817",
-          "author": null,
-          "description": "第7回集英社WEB小説大賞の結果発表が行われた。応募総数5,400超の作品の...",
-          "link": "https://ln-news.com/articles/126817",
-          "publishedOn": "2026-10-05T00:30:00.000Z",
-          "wordCount": 247,
-          "title": "第7回集英社WEB小説大賞の結果が発表　「大賞」に1作品など9作品が受賞へ",
-          "imageUrl": "https://assets.ln-news.com/images/medias/0ac290ca9c6d4445b34bbd11dfbee10d.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126855",
-          "author": null,
-          "description": "2026年10月5日（月）～2026年10月11日（日）に発売するライト...",
-          "link": "https://ln-news.com/articles/126855",
-          "publishedOn": "2026-10-04T23:00:00.000Z",
-          "wordCount": 571,
-          "title": "今週の新刊情報：アルファポリス、電撃文庫、カドカワBOOKS、ツギクルブックスなど",
-          "imageUrl": "https://assets.ln-news.com/images/medias/a9b6c2a3c0234a759a699ad6837fc518.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126799",
-          "author": null,
-          "description": "アルファポリス刊『ちびっこ錬金術師の恩返し』のコミカライズ連載が、「アルファ...",
-          "link": "https://ln-news.com/articles/126799",
-          "publishedOn": "2026-10-04T21:00:00.000Z",
-          "wordCount": 229,
-          "title": "『ちびっこ錬金術師の恩返し』のコミカライズ連載が開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/251b5b4cc7c74f5383b8a7909ec069c7.jpg"
         }
       ]
     },
@@ -19832,6 +19907,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=7zUFdOhR9WI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7zUFdOhR9WI",
+          "publishedOn": "2026-11-03T11:02:38.000Z",
+          "wordCount": null,
+          "title": "深夜に猫がニャンニャン鳴いて叩き起こしてくるので電気をつけたら…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Fhes8aSKaWU",
           "author": null,
@@ -20120,16 +20205,6 @@
           "publishedOn": "2026-10-05T11:01:26.000Z",
           "wordCount": null,
           "title": "庭で走るのが楽しすぎて「戻っておいで〜」と声をかけても止まらない猫たちが可愛すぎたwww",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=twBpuQhHUVc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=twBpuQhHUVc",
-          "publishedOn": "2026-10-04T11:01:33.000Z",
-          "wordCount": null,
-          "title": "お散歩しようとしたら雨だったときの猫たちの反応が…",
           "imageUrl": null
         }
       ]
