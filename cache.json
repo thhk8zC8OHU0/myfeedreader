@@ -2634,16 +2634,6 @@
           "wordCount": 8595,
           "title": "「ファイナルファンタジーXIV」のファンイベント「ファンフェスティバル 2026 in 東京」，ステージの詳細が明らかに",
           "imageUrl": "https://www.4gamer.net/games/199/G019924/20261005046/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/981/G098166/20261005036/",
-          "author": null,
-          "description": "TeyonJapanは本日，パッケージ版「きかんしゃトーマスとなかまたち：ソドー島の不思議」デラックスエディションを2026年12月17日にPS5/Switch向けに発売すると発表した。本作は，トーマスたちを運転してソドー島を巡るADVで，複数のゲームモードと，ジェームスを追加するDLCを収録する。",
-          "link": "https://www.4gamer.net/games/981/G098166/20261005036/",
-          "publishedOn": "2026-10-05T09:14:41.000Z",
-          "wordCount": 9351,
-          "title": "トーマスたちを運転してソドー島を探索。「きかんしゃトーマスとなかまたち：ソドー島の不思議」デラックスエディションを12月17日発売",
-          "imageUrl": "https://www.4gamer.net/games/981/G098166/20261005036/SS/001.jpg"
         }
       ]
     },
@@ -2652,6 +2642,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/572338c3290ff4968b8d9d15cbd9866b1fc07466?source=rss",
+          "author": null,
+          "description": "４日未明、兵庫県明石市の劇場で、カーペットなどが燃える不審火がありました。 警察によりますと、４日午前０時１５分ごろ、明石市本町にある木造二階建ての劇場「明石ほんまち三白館」で、控室のカーペットから火",
+          "link": "https://news.yahoo.co.jp/articles/572338c3290ff4968b8d9d15cbd9866b1fc07466?source=rss",
+          "publishedOn": "2026-11-03T22:16:17.000Z",
+          "wordCount": 1660,
+          "title": "劇場の控室で不審火　放火の可能性も視野に捜査　兵庫・明石市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00083399-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/05c2a4c5677cb5c9b7b86adbd766f64d618d7da7?source=rss",
           "author": null,
@@ -7581,56 +7581,6 @@
           "wordCount": 1663,
           "title": "性的暴行の噂を広めたとして刑事告訴された副検事の不起訴処分は「相当」　検察審査会が議決(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082884-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f76ebdde70ffbec714e08870f654289d85d8860c?source=rss",
-          "author": null,
-          "description": "平安女学院大学が共学化すると発表。 平安女学院大学を運営する学校法人は、２０２８年度から大学を男女共学化し、大学名を「京都地域共創大学（仮称）」とすると発表しました。【大阪都構想】淀川区、北区、なにわ",
-          "link": "https://news.yahoo.co.jp/articles/f76ebdde70ffbec714e08870f654289d85d8860c?source=rss",
-          "publishedOn": "2026-10-05T11:05:29.000Z",
-          "wordCount": 1653,
-          "title": "平安女学院大学が共学化へ　名称は「京都地域共創大学（仮称）」に　背景に学生数の落ち込み(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082883-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6e7b420caeae20944db570944e6b9b7048348edf?source=rss",
-          "author": null,
-          "description": "大規模システム障害の原因はサイバー攻撃でした。 大阪公立大学は、２日に起きたシステム障害の原因がサイバー攻撃で、少なくとも１３万人分の情報が流出した恐れがあると発表しました。システムのサーバーにデータ",
-          "link": "https://news.yahoo.co.jp/articles/6e7b420caeae20944db570944e6b9b7048348edf?source=rss",
-          "publishedOn": "2026-10-05T11:00:41.000Z",
-          "wordCount": 1664,
-          "title": "大阪公立大のシステム障害、原因はサイバー攻撃　少なくとも１３万人分の情報が流出した恐れ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082882-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f5ae9a2991b48ffe9d03a422780199f367695478?source=rss",
-          "author": null,
-          "description": "大阪府の泉佐野市と泉南市が、合併を視野に協議会を立ち上げます。 泉佐野市の千代松市長と泉南市の山本市長は、両市の合併を視野に来年１月にも協議会を発足させる考えを示しました。「運転手の体調が急変し、体が",
-          "link": "https://news.yahoo.co.jp/articles/f5ae9a2991b48ffe9d03a422780199f367695478?source=rss",
-          "publishedOn": "2026-10-05T10:56:38.000Z",
-          "wordCount": 1644,
-          "title": "大阪の泉佐野市と泉南市が合併検討　来年1月にも協議会発足へ　周辺２市町も加わる可能性(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082877-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0248d1e1168336af99e0fb3049ae4a065d722729?source=rss",
-          "author": null,
-          "description": "同乗者が「運転手の体調が急変した」などと説明しているということです。 １日、神戸市中央区のＪＲ三ノ宮駅近くの交差点で、男性（５８）が運転する乗用車が横断歩道を渡っていた歩行者らを次々とはね、岸上優空さ",
-          "link": "https://news.yahoo.co.jp/articles/0248d1e1168336af99e0fb3049ae4a065d722729?source=rss",
-          "publishedOn": "2026-10-05T10:51:40.000Z",
-          "wordCount": 1632,
-          "title": "「運転手の体調が急変し、体が震えて急発進」と同乗者　神戸５人死傷事故(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00082881-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1acc10fdcc380f5b5fdeadecb7d43b88cc3f1bb4?source=rss",
-          "author": null,
-          "description": "大阪地検の元検事正から性的暴行の被害を訴える元検事の女性や弁護士らが、性犯罪被害者の心的外傷後ストレス障害（ＰＴＳＤ）を「致傷罪」で起訴することなどを求める会を立ち上げました。大阪の泉佐野市と泉南市が",
-          "link": "https://news.yahoo.co.jp/articles/1acc10fdcc380f5b5fdeadecb7d43b88cc3f1bb4?source=rss",
-          "publishedOn": "2026-10-05T09:14:00.000Z",
-          "wordCount": 1629,
-          "title": "性犯罪被害者のＰＴＳＤも「致傷罪で起訴を」　元検事正による性的暴行を訴える女性ら(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800"
         }
       ]
     },
@@ -11681,6 +11631,16 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1793750039/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "迷惑“撮り鉄”男2人を再逮捕…脚立とチェーンソー放置しJRの業務を妨害した疑い「撮影の邪魔だったので切った」木を切断→JR職員に見つかり脚立とチェンソー放置し妨害…観光列車「ノロッコ号」ラストラン当日事件...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1793750039/",
+          "link": "http://www.2nn.jp/dqnplus/1793750039/",
+          "publishedOn": "2026-11-03T23:53:59.000Z",
+          "wordCount": 1623,
+          "title": "【チェンソーマン】撮り鉄2人を再逮捕…脚立とチェーンソー放置しJRの業務を妨害した疑い「撮影の邪魔だったので切った」木を切断",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1793750039.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1793599563/",
           "author": "おっさん友の会 ★",
           "description": "アララは11月2日、メール配信サービス「アララメッセージ」への不正アクセスについて、約7700万件のメールアドレスが外部に持ち出されたと発表した。持ち出されたおそれがある分を含む、精査中の件数。10月31日には...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1793599563/",
@@ -12608,6 +12568,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=62280",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 あつぎ鮎まつりが無事10月に開催され、大賑わいの2日間でしたが、 厚木の秋イベントといえば！の一大イベントが、今年も11月に開催されますよ～！ 「にぎわい爆発あつぎ国際大道芸2026」11月7日（土）・8…",
+          "link": "https://atsugi-lab.com/event-daidogei-atsugi-2026/",
+          "publishedOn": "2026-11-03T23:57:15.000Z",
+          "wordCount": 836,
+          "title": "【11月7日・8日】「にぎわい爆発あつぎ国際大道芸2026」今年は東京五輪の開会式にも出演したパフォーマーが初出演だって！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/akd202611.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=63005",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです。 先日、パティオビルに「やきとん うが屋本店」というお店がオープンするみたい！という一報をお伝えしました。 今回はグランドオープン日が判明いたしましたので、続報をお届けします！ 「やきとん うが屋本店」オー…",
@@ -12955,6 +12925,16 @@
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "https://image-sensors-world.blogspot.com/2026/11/samsung-to-exit-8-inch-foundry-business.html",
+          "author": null,
+          "description": "Link: https://www.thelec.net/news/articleView.html?idxno=15179\nSamsung Electronics to Exit 8-Inch Foundry Business by 2030\nCompany notifies customers of shutdown plans, leaving fabless chipmakers scrambling for alternative production capacity\nSouth Korean fabless semiconductor companies that rely on Samsung for chip manufacturing are now scrambling to secure alternative production capacity.\nIndustry participants are also calling for Samsung Electronics to delay the closure of its 8-inch production lines. They argue that government intervention may be necessary because individual fabless companies have little leverage to change Samsung’s decision to end production.",
+          "link": "https://image-sensors-world.blogspot.com/2026/11/samsung-to-exit-8-inch-foundry-business.html",
+          "publishedOn": "2026-11-03T23:21:59.160Z",
+          "wordCount": 3848,
+          "title": "Samsung to exit 8-inch foundry business",
+          "imageUrl": null
+        },
+        {
           "id": "https://image-sensors-world.blogspot.com/2026/10/programmable-readout-pixel.html",
           "author": null,
           "description": "In a paper titled \"A Programmable Readout Pixel Image Sensor\" Lazzaro et al. from Dartmouth write:\nIn this paper, a pixel architecture that can be re-programmed to favor low noise, high speed, high dynamic range, or other characteristics desired in scientific imaging is proposed. Termed a programmable readout (PRO) pixel, this novel design combines a pinned photodiode, a deep-buried-channel CCD router, and multiple in-pixel amplifiers of different characteristics. By clocking the CCD router with different sequences, photogenerated charge can be steered to an appropriate readout amplifier given the application. The CCD router can be further programmed to store charge from multiple frames. The concept of such a pixel and its operation are described in detail and TCAD simulations aid in this …",
@@ -12991,6 +12971,26 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321315",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]\n投稿 【マクドナルド】チーチーダブチソーセージマフィン（朝マック）【期間限定メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-dabuchi-muffin-2026",
+          "publishedOn": "2026-11-04T00:13:27.000Z",
+          "wordCount": 1925,
+          "title": "【マクドナルド】チーチーダブチソーセージマフィン（朝マック）【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/bbddfb0a241ff3f7b65b89bf14e30efa.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=321290",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   【マクドナル […]\n投稿 【マクドナルド】三角チョコパイ ホワイトチョコ＆カスタード【新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-sankakupie-white",
+          "publishedOn": "2026-11-03T21:41:10.000Z",
+          "wordCount": 1931,
+          "title": "【マクドナルド】三角チョコパイ ホワイトチョコ＆カスタード【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/4ca0deef0c1f2890e11c153dcce007f7.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321263",
           "author": "foodfighter",
@@ -13718,6 +13718,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127783/",
+          "author": null,
+          "description": "「神様はじめました」の鈴木ジュリエッタ氏が「花とゆめ」（白泉社刊）で連載中の少女漫画「推しに甘噛み」のテレビアニメ化が決定し、特報ビジュアルと特報PV（https://youtu.be/u3Es...",
+          "link": "https://anime.eiga.com/news/127783/",
+          "publishedOn": "2026-11-03T23:00:00.000Z",
+          "wordCount": 735,
+          "title": "「推しに甘噛み」TVアニメ化決定　「神様はじめました」の鈴木ジュリエッタが描くブラッディ・ラブコメディ",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127787/",
           "author": null,
@@ -16637,96 +16652,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127574/",
-          "author": null,
-          "description": "シリーズ史上初の“Filmed For IMAX®”作品として、IMAX®認証デジタルカメラで撮影された映画「バイオハザード」が10月9日より全国公開される。⽇本に先駆けて9⽉18⽇に公開を迎え...",
-          "link": "https://anime.eiga.com/news/127574/",
-          "publishedOn": "2026-10-05T12:00:00.000Z",
-          "wordCount": 663,
-          "title": "“最恐”の「バイオハザード」日本語吹き替え版声優第2弾として⽇笠陽⼦、Lynn、小野大輔、杉田智和らが参加",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127592/",
-          "author": null,
-          "description": "「電撃文庫」（KADOKAWA刊）のライトノベル「組織の宿敵と結婚したらめちゃ甘い」がテレビアニメ化されることが決定した。あわせて、アニメ化決定PV（https://www.youtube.co...",
-          "link": "https://anime.eiga.com/news/127592/",
-          "publishedOn": "2026-10-05T11:00:00.000Z",
-          "wordCount": 624,
-          "title": "「組織の宿敵と結婚したらめちゃ甘い」TVアニメ化決定、PV披露　メインスタッフも発表",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127593/",
-          "author": null,
-          "description": "「電撃の新文芸」（KADOKAWA刊）から刊行中の小説「奴隷からの期待と評価のせいで搾取できないのだが」（原作：急川回レ、キャラクター原案：へいろー）のTVアニメ化が決定した。あわせて、超ウルト...",
-          "link": "https://anime.eiga.com/news/127593/",
-          "publishedOn": "2026-10-05T10:30:00.000Z",
-          "wordCount": 565,
-          "title": "異世界勘違いコメディ「奴隷からの期待と評価のせいで搾取できないのだが」TVアニメ化",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127586/",
-          "author": null,
-          "description": "テレビアニメ「狼と香辛料 MERCHANT MEETS THE WISE WOLF（第2期）」に、謎多き商人エーブ・ボラン役で朴璐美の出演が決定した。第2期の映像を使ったティザーPV（https...",
-          "link": "https://anime.eiga.com/news/127586/",
-          "publishedOn": "2026-10-05T10:00:00.000Z",
-          "wordCount": 664,
-          "title": "「狼と香辛料」第2期、朴璐美がエーブ・ボラン役を旧TVシリーズから続投　ティザーPVも公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127594/",
-          "author": null,
-          "description": "ファンタジー漫画「ヴァンパイア十字界」が、連載開始から24年の歳月を経た2027年にテレビアニメ化されることが決定した。主人公のローズレッド・ストラウス役を内田雄馬、ダムピール（ヴァンパイアと人...",
-          "link": "https://anime.eiga.com/news/127594/",
-          "publishedOn": "2026-10-05T09:00:00.000Z",
-          "wordCount": 658,
-          "title": "城平京原作の漫画「ヴァンパイア十字界」が27年にTVアニメ化　内田雄馬、島田愛野が出演",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127589/",
-          "author": null,
-          "description": "累計発行部数350万部を突破している漫画「満州アヘンスクワッド」のアニメ化が決まり、アニメ制作の一端を垣間見ることができる「アニメ化解禁ビジュアル」が公開された。スタッフなどの詳細は、公式サイト...",
-          "link": "https://anime.eiga.com/news/127589/",
-          "publishedOn": "2026-10-05T08:00:00.000Z",
-          "wordCount": 554,
-          "title": "漫画「満州アヘンスクワッド」アニメ化が決定　10月5日発売「ヤングマガジン」から新体制で連載再開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16735,6 +16660,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127100",
+          "author": null,
+          "description": "電撃文庫刊『青春ブタ野郎』シリーズより、「ねんどろいど ランドセルガール」が...",
+          "link": "https://ln-news.com/articles/127100",
+          "publishedOn": "2026-11-03T23:00:00.000Z",
+          "wordCount": 241,
+          "title": "『青春ブタ野郎』シリーズより「ねんどろいど ランドセルガール」が2027年7月に発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/6e34799fa60b48dd906ca230e2d7550f.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127091",
+          "author": null,
+          "description": "ファミ通文庫（B6判）刊『シートン動物戦記』のコミカライズ連載が、「電撃コミ...",
+          "link": "https://ln-news.com/articles/127091",
+          "publishedOn": "2026-11-03T21:00:00.000Z",
+          "wordCount": 236,
+          "title": "『シートン動物戦記』のコミカライズ連載が開始　やがて「獣王」と呼ばれる軍人を描く戦記ファンタジー",
+          "imageUrl": "https://assets.ln-news.com/images/medias/311e34018f234c77966ca4ede7e57fc1.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127111",
           "author": null,
@@ -19404,26 +19349,6 @@
           "wordCount": 230,
           "title": "『侯爵次男は家出する ～才能がないので全部捨てて冒険者になります～』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/34ec913e92824cecac674a0fe1e19f7b.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126804",
-          "author": null,
-          "description": "ファンタジア文庫の最新情報をお届けする配信イベント「ファンタジア文庫大感謝祭...",
-          "link": "https://ln-news.com/articles/126804",
-          "publishedOn": "2026-10-05T10:00:00.000Z",
-          "wordCount": 243,
-          "title": "「ファンタジア文庫大感謝祭2026 オンライン」が10月25日（日）配信決定",
-          "imageUrl": "https://assets.ln-news.com/images/medias/f3aa4ac8efe4481eb5cb5d6160a6e404.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126784",
-          "author": null,
-          "description": "ブシロードノベル刊『はぐれもの達の魔王城開拓記』のコミカライズ連載が、「コミ...",
-          "link": "https://ln-news.com/articles/126784",
-          "publishedOn": "2026-10-05T08:30:00.000Z",
-          "wordCount": 220,
-          "title": "『はぐれもの達の魔王城開拓記』のコミカライズ連載が開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/2f27f3701c7f4eb0b194de61aa828b95.jpg"
         }
       ]
     },
@@ -19454,7 +19379,18 @@
       "title": "Kenshi Yonezu  米津玄師",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUCeZaZeJbEYAAzvMgrKOPQ",
       "siteUrl": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Hn0IiJlBV8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Hn0IiJlBV8Y",
+          "publishedOn": "2026-11-02T09:53:22.000Z",
+          "wordCount": null,
+          "title": "Kenshi Yonezu - Lemon  (Live)   Music Video 10億回記念 🍋  Celebrating 1 Billion Views",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ジェラードンチャンネル",
