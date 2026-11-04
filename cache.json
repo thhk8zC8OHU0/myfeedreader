@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/002/G100206/20261104055/",
+          "author": null,
+          "description": "フリューは2026年11月5日，「クライムライト／CRYMELIGHT」を発売した。本作は，死後の世界を舞台に，罪を背負った少女たちがそれぞれの過去と向き合い，自由を求めて戦うローグライクアクションだ。また，ローンチトレイラーも公開された。",
+          "link": "https://www.4gamer.net/games/002/G100206/20261104055/",
+          "publishedOn": "2026-11-04T15:00:00.000Z",
+          "wordCount": 8325,
+          "title": "罪と向き合うローグライクアクション「クライムライト／CRYMELIGHT」，本日発売",
+          "imageUrl": "https://www.4gamer.net/games/002/G100206/20261104055/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/882/G088214/20261104057/",
           "author": null,
           "description": "ソニックレーシング クロスワールド ソニックレーシング クロスワールド Nintendo Switch 2 Edition ソニックレーシング クロスワールド ソニックレーシング クロスワールド ソニ…",
@@ -2744,16 +2754,6 @@
           "wordCount": 8550,
           "title": "「NGS ヘッドライン WAVE」，10月6日21：00より配信",
           "imageUrl": "https://www.4gamer.net/games/521/G052100/20261006011/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/897/G089761/20261006006/",
-          "author": null,
-          "description": "任天堂は本日（2026年10月6日），NintendoSwitch2本体と，対象のゲームソフト（ダウンロード版）から好きな1本を選んで購入できる「選べるソフトセット」を11月12日に発売すると発表した。NintendoStoreで予約受付を開始している。",
-          "link": "https://www.4gamer.net/games/897/G089761/20261006006/",
-          "publishedOn": "2026-10-06T03:58:09.000Z",
-          "wordCount": 8506,
-          "title": "Switch2，「選べるソフトセット」の予約受付を開始。対象タイトルからソフトを1本選んで本体とセットにできる",
-          "imageUrl": "https://www.4gamer.net/games/897/G089761/20261006006/SS/001.jpg"
         }
       ]
     },
@@ -7791,56 +7791,6 @@
           "wordCount": 1700,
           "title": "すれ違いざまに女性２人の胸触ったか　小学校教師を逮捕　「覚えていません」容疑否認　神戸(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00082896-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5e1cba10c814fc72c73565119646b469f53e7d6d?source=rss",
-          "author": null,
-          "description": "阪神タイガースのリーグ優勝は、関西地域に約945億9,995万円もの経済効果をもたらすーー。そんな試算が発表されました。関西各地では優勝記念セールが開催され、大阪中心部での優勝パレード開催も検討されて",
-          "link": "https://news.yahoo.co.jp/articles/5e1cba10c814fc72c73565119646b469f53e7d6d?source=rss",
-          "publishedOn": "2026-10-06T05:00:00.000Z",
-          "wordCount": 1784,
-          "title": "阪神優勝で関西に“約945億円”の経済効果？　各地で記念セール開催！　優勝パレードも開催を検討(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00082893-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/34e47c4f2b7ee08867f0c95526354e9b9d533be3?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本によりますと、６日午後０時５７分頃、ＪＲ神戸線の須磨海浜公園駅で列車が人と接触したため、芦屋駅～西明石駅間で運転を見合わせていましたが、午後１時５３分に運転を再開しました。ＪＲ湖西線 強風の",
-          "link": "https://news.yahoo.co.jp/articles/34e47c4f2b7ee08867f0c95526354e9b9d533be3?source=rss",
-          "publishedOn": "2026-10-06T04:35:53.000Z",
-          "wordCount": 1655,
-          "title": "【運転再開】ＪＲ神戸線　芦屋～西明石駅間で一時運転見合わせ　人身事故の影響(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00082894-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/29c6e3f85de771c03d65cb811068f6e53fd7e1ef?source=rss",
-          "author": null,
-          "description": "６日未明、大阪市港区のコインパーキングで、中国籍の男性が男２人に襲われて顔などを殴られ、高級腕時計を奪われました。「運転手の体調が急変し、体が震えて急発進」と同乗者 神戸５人死傷事故記者リポート「男性",
-          "link": "https://news.yahoo.co.jp/articles/29c6e3f85de771c03d65cb811068f6e53fd7e1ef?source=rss",
-          "publishedOn": "2026-10-06T03:33:38.000Z",
-          "wordCount": 1651,
-          "title": "中国語話す男２人組が逃走　コインパーキングで顔殴られ高級腕時計奪われる　大阪・港区(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00082891-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7767acd187e14a764ada303eeea6c0a5880cf666?source=rss",
-          "author": null,
-          "description": "大阪市生野区の長屋で、人が住んでいない一角が倒壊しました。一部に居住者がいる長屋は、法律上「空き家」ではなく、市は倒壊後に建物を「空き家」と判断し、がれきの撤去に向けた対応を検討しています。「命だけは",
-          "link": "https://news.yahoo.co.jp/articles/7767acd187e14a764ada303eeea6c0a5880cf666?source=rss",
-          "publishedOn": "2026-10-06T03:33:38.000Z",
-          "wordCount": 1632,
-          "title": "生野区で長屋の一角が倒壊し道路ふさぐ　大阪市は撤去に向けた対応を検討(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00082890-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3550f7944be33b51f20ba765e7c79d0c8ef87291?source=rss",
-          "author": null,
-          "description": "「検察なめんなよ」などと取り調べ中に罵倒したとして、特別公務員暴行陵虐の罪に問われた検事の４回目の裁判が開かれ、弁護人が「陵虐行為に当たらないことは明らか」と無罪を主張しました。「言葉が人を殺す」 S",
-          "link": "https://news.yahoo.co.jp/articles/3550f7944be33b51f20ba765e7c79d0c8ef87291?source=rss",
-          "publishedOn": "2026-10-06T03:33:38.000Z",
-          "wordCount": 1644,
-          "title": "「陵虐行為に当たらない」弁護側は無罪主張　取り調べ中に「検察なめんなよ」　特別公務員暴行陵虐の罪に問われた検事の裁判(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00082889-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9928,26 +9878,6 @@
           "wordCount": 1887,
           "title": "脳の内部の動きをを解明した米独3教授にノーベル生理学・医学賞",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cm4g1p2zepvxo#0",
-          "author": null,
-          "description": "イギリスのベストセラー作家で元政治家のジェフリー・アーチャー氏が5日、死去した。86歳だった。",
-          "link": "https://www.bbc.com/japanese/articles/cm4g1p2zepvxo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-06T05:01:36.000Z",
-          "wordCount": 1673,
-          "title": "英作家で元政治家のジェフリー・アーチャー氏が死去、86歳",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4670/live/1a35a720-c134-11f1-babe-4199b0e7ccea.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cqj9knnrvp18o#0",
-          "author": null,
-          "description": "ドナルド・トランプ米大統領は5日、ロシア・シベリア連邦管区にあるペスト対策研究所でロシア人職員が死亡した事案について、アメリカは「非常に真剣に」調査していると述べた。研究所のあるイルクーツク州のイーゴリ・コブゼフ知事は、職員の死因を「原因不明の肺炎」と発表した上で、この職員の業務に関連する「微生物」は、「研究員の生体試料からは検出されなかった」と述べた。",
-          "link": "https://www.bbc.com/japanese/articles/cqj9knnrvp18o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-06T03:44:20.000Z",
-          "wordCount": 1729,
-          "title": "ロシアのペスト研究所の職員が死亡、アメリカは事態を「注視」していると",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/bee8/live/9f1fa570-c103-11f1-a64c-550be9e3c66b.jpg"
         }
       ]
     },
@@ -10575,16 +10505,6 @@
           "wordCount": 2680,
           "title": "ルネサス初の低耐圧GaNパワー半導体、AIサーバやヒューマノイド狙う",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/06/cover_news069.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2610/06/news015.html",
-          "author": null,
-          "description": "Eggtronicは、ノートPC用アダプターなどのUSB Type-C給電機器向けに、最大140W出力に対応するUSB Power Delivery（USB PD）3.1準拠のAC-DC電源リファレンスデザインを発表した。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2610/06/news015.html",
-          "publishedOn": "2026-10-06T03:30:00.000Z",
-          "wordCount": 2680,
-          "title": "ルネサスのGaN採用、140W USB-C PD 3.1対応電源",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/06/l_edn20261005edn001.jpg"
         }
       ]
     },
@@ -12072,16 +11992,6 @@
           "wordCount": 716,
           "title": "MetaのAIエージェント「Muse」、ユーザーの人間関係を詳細に記録。研究者「かなり気味が悪い」",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/9c96336cd9eae4153c42de13abb71c8c.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=134463",
-          "author": "多根清史",
-          "description": "アップルは早ければ今月（2026年10月）、初のタッチスクリーン搭載MacBook Proを発表すると噂されている。その噂をその噂を裏付けるかのような動きとして、開発者向け「macOS 27.2ベータ3」では、タッチ操作を意識したとみられるコードが追加されたと報じられている。 米MacRumorsに […]",
-          "link": "https://gadget.phileweb.com/post-134463/",
-          "publishedOn": "2026-10-06T03:06:45.000Z",
-          "wordCount": 739,
-          "title": "Apple、Macをタッチ操作対応へ？ macOS 27.2で気になる変化",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/ea4ce9d9bf0fdabd104d6b9a49fd93b7.jpg"
         }
       ]
     },
@@ -13442,6 +13352,16 @@
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=321379",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]\n投稿 【マクドナルド】チーズチーズダブルチーズバーガー（チーチーダブチ）【味・価格・重さ・新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-cheese-dabuchi-202611",
+          "publishedOn": "2026-11-04T15:12:31.000Z",
+          "wordCount": 1923,
+          "title": "【マクドナルド】チーズチーズダブルチーズバーガー（チーチーダブチ）【味・価格・重さ・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/1be6844ea3920fc88b0a0c6e74be0199.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=321346",
           "author": "foodfighter",
           "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &n […]\n投稿 【マクドナルド】チーズチーズてりやきチキンジューシーマック【新メニュー・味・価格・重さ】 は 進撃のグルメ に最初に表示されました。",
@@ -14170,26 +14090,6 @@
           "wordCount": 1929,
           "title": "【松屋】ネオカシミールカレー【新メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/6c4deea74c1d7d6aff44ce109321766f.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319568",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「ハーゲンダッツ パパパパンプキンタルト」を世界一詳しく調査しました。   【ファミマ】ハー […]",
-          "link": "https://foodfighter.jp/famima-hd-pumpkin",
-          "publishedOn": "2026-10-06T04:22:01.000Z",
-          "wordCount": 1903,
-          "title": "【ファミマ】ハーゲンダッツ パパパパンプキンタルト【新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/af8402eb0a1f8290b82e12365694f957.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319539",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]",
-          "link": "https://foodfighter.jp/matsuya-cheese-gyumeshi-2026",
-          "publishedOn": "2026-10-06T03:38:50.000Z",
-          "wordCount": 1923,
-          "title": "【松屋】4種のチーズ牛めし【店舗限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/790d1268e43c18599d21703890ec03df.jpg"
         }
       ]
     },
@@ -19939,16 +19839,6 @@
           "wordCount": 228,
           "title": "アニメ『錆喰いビスコ』第2期のティザービジュアル第一弾が公開",
           "imageUrl": "https://assets.ln-news.com/images/medias/00159fb6f2484f489b3fa40d65ff596c.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126796",
-          "author": null,
-          "description": "電撃文庫刊『わたしで童貞捨てたくせに』のコミカライズ連載が、「少年エースpl...",
-          "link": "https://ln-news.com/articles/126796",
-          "publishedOn": "2026-10-06T04:00:00.000Z",
-          "wordCount": 229,
-          "title": "『わたしで童貞捨てたくせに』のコミカライズ連載が開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/8643ba8856ee4c098a6b8e6810b8c990.jpg"
         }
       ]
     },
@@ -20430,10 +20320,294 @@
       ]
     },
     {
+      "title": "でえだらもっち!!",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCll8L8g7rsA-JlkgkYpyKaA",
+      "siteUrl": "https://www.youtube.com/channel/UCll8L8g7rsA-JlkgkYpyKaA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4lmWahvTeiE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4lmWahvTeiE",
+          "publishedOn": "2026-10-31T10:09:51.000Z",
+          "wordCount": null,
+          "title": "ゲリラちびみちゅ！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7ujeu4_qCN4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7ujeu4_qCN4",
+          "publishedOn": "2026-10-28T10:30:26.000Z",
+          "wordCount": null,
+          "title": "遊ぶのより”なでなで”が好きなぽよぽよ猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7On2PZ4f0Ps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7On2PZ4f0Ps",
+          "publishedOn": "2026-10-26T10:30:05.000Z",
+          "wordCount": null,
+          "title": "猫の目の前で足をパタパタさせてみた",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j3Iv_dizucY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j3Iv_dizucY",
+          "publishedOn": "2026-10-23T10:30:17.000Z",
+          "wordCount": null,
+          "title": "まったりタイムはお口を開かず喋る猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FBqGcGV0QYw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FBqGcGV0QYw",
+          "publishedOn": "2026-10-21T10:30:33.000Z",
+          "wordCount": null,
+          "title": "”かわいい”に得意げなポンポンみせ太郎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2IJYzeOLvz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2IJYzeOLvz0",
+          "publishedOn": "2026-10-19T10:30:09.000Z",
+          "wordCount": null,
+          "title": "それではお聴きください。しーちゃんで『おやつのおかわり熱望』です",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rt3u0Q7G0Ek",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rt3u0Q7G0Ek",
+          "publishedOn": "2026-10-16T10:30:28.000Z",
+          "wordCount": null,
+          "title": "注目は独り占めしたい派の猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ndAnZd7stQ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ndAnZd7stQ4",
+          "publishedOn": "2026-10-14T10:30:36.000Z",
+          "wordCount": null,
+          "title": "可愛いのは当然と言わんばかりの猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Zovil9i4HI4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Zovil9i4HI4",
+          "publishedOn": "2026-10-12T10:30:03.000Z",
+          "wordCount": null,
+          "title": "猫の甘噛みでほぼ食べられてる",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7U01Ivc5Xk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7U01Ivc5Xk8",
+          "publishedOn": "2026-10-09T10:41:38.000Z",
+          "wordCount": null,
+          "title": "なんだか甘えたい気分のみちゅちゃま",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TeWJCF6-5ws",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TeWJCF6-5ws",
+          "publishedOn": "2026-10-07T10:30:18.000Z",
+          "wordCount": null,
+          "title": "今日もまったく おしゃべりなもんだ",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "【子ライオン】みにら日記‐MINIRA‐Diary‐",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfZs4ufKQCJfTLjFEtiZgAA",
+      "siteUrl": "https://www.youtube.com/channel/UCfZs4ufKQCJfTLjFEtiZgAA",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=RU03PzcetVo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RU03PzcetVo",
+          "publishedOn": "2026-11-04T13:10:40.000Z",
+          "wordCount": null,
+          "title": "暖かいところを見つけては幸せに寝ている猫をご覧下さい。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OU6jI17vV4w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OU6jI17vV4w",
+          "publishedOn": "2026-11-03T12:20:27.000Z",
+          "wordCount": null,
+          "title": "恐らく農家で職務経験があったであろう猫の動き笑う",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-vIZPTwDrzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-vIZPTwDrzQ",
+          "publishedOn": "2026-10-31T13:54:50.000Z",
+          "wordCount": null,
+          "title": "【宣伝】うちの猫がまたパソコンをいじくってなんかしてるよ…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MY6yKlXGZ_Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MY6yKlXGZ_Q",
+          "publishedOn": "2026-10-29T11:30:52.000Z",
+          "wordCount": null,
+          "title": "ママがお風呂に入ると現れる『フロノゾキネコ』",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mO5DKy3zMUE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mO5DKy3zMUE",
+          "publishedOn": "2026-10-28T13:28:55.000Z",
+          "wordCount": null,
+          "title": "あざとさ全開でママに遊んでちょんちょんアピールをする猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bJiVEtW1Muc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bJiVEtW1Muc",
+          "publishedOn": "2026-10-27T12:49:52.000Z",
+          "wordCount": null,
+          "title": "ついにあのストーブとの再会を果たした猫がこちらです",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/nhihbuMzG7I",
+          "author": null,
+          "description": "動画本編はこちら👇https://youtu.be/2CF_e0Pz7oo?si=Cbuz2bAfTMQpGhL2\"クレイジー・キャット・メカニック\"スパナ吉田率いる異端集団「ヨシダモータース」と、ねこちゅーば一界の異端児！『みにら日記」のまさかのコラボ！にゃんこ最強道https://youtube.com/@...",
+          "link": "https://www.youtube.com/shorts/nhihbuMzG7I",
+          "publishedOn": "2026-10-26T13:12:08.000Z",
+          "wordCount": 3329,
+          "title": "みにら日記✕ヨシダモータース コラボ動画",
+          "imageUrl": "https://i.ytimg.com/vi/nhihbuMzG7I/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLARjAfjvlPcU63z1r5HGiINOq3e7Q"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AR3S67lJwqc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AR3S67lJwqc",
+          "publishedOn": "2026-10-25T11:25:22.000Z",
+          "wordCount": null,
+          "title": "猫がリモート会議であの猫たちと話していました…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2LojjVY6B-g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2LojjVY6B-g",
+          "publishedOn": "2026-10-24T13:24:23.000Z",
+          "wordCount": null,
+          "title": "鈍臭い癖に得意げにおもちゃで遊ぶ猫が可愛すぎるので観てもらいたい",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=mOIxGEX8usk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mOIxGEX8usk",
+          "publishedOn": "2026-10-22T13:47:27.000Z",
+          "wordCount": null,
+          "title": "ひげ饅頭を触られるとケリケリが止まらなくなる猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3yStJgRCfsY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3yStJgRCfsY",
+          "publishedOn": "2026-10-21T13:12:56.000Z",
+          "wordCount": null,
+          "title": "珍しくママの言う通りに大人しく爪を切られている猫がシュールすぎる件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=MKfzONL5cvo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MKfzONL5cvo",
+          "publishedOn": "2026-10-19T12:24:24.000Z",
+          "wordCount": null,
+          "title": "最近のうちの子の赤ちゃん化が止まらないので観てもらいたい",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wsEXFZ3mU68",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wsEXFZ3mU68",
+          "publishedOn": "2026-10-18T13:11:06.000Z",
+          "wordCount": null,
+          "title": "光合成を繰り返してお布団みたいな匂いになる猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=N1qr_n-kM34",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N1qr_n-kM34",
+          "publishedOn": "2026-10-17T14:54:15.000Z",
+          "wordCount": null,
+          "title": "うちの猫が何故か克服出来ないものがこちら",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=051OR2GI-og",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=051OR2GI-og",
+          "publishedOn": "2026-10-15T12:02:06.000Z",
+          "wordCount": null,
+          "title": "お腹いっぱいご飯を食べている夢を見てくちゃくちゃしとる猫",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "ろじっくぱらだいす(Logic Paradise)",
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13683",
+          "author": "watanabe@logipara.com",
+          "description": "昨日は、イカスミのもんじゃ焼きを食べました。 　 　 　 今朝は、トイレがとてもイカスミでした",
+          "link": "https://logipara.com/diary-text/2026-11-05/",
+          "publishedOn": "2026-11-04T15:10:56.000Z",
+          "wordCount": 2750,
+          "title": "イカスミのもんじゃ",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13678",
           "author": "watanabe@logipara.com",
