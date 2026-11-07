@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/056/G105632/20261106044/",
+          "author": null,
+          "description": "サイバードは本日（2026年11月7日），新作タイトル「LunaReverse（ルナリバース）」（PC/NintendoSwitch）を発表した。本作は同社がアニプレックスとタッグを組んで送り出す初のタイトルだ。ジャンルは「復讐の果てに待つ運命のADV」とされている。",
+          "link": "https://www.4gamer.net/games/056/G105632/20261106044/",
+          "publishedOn": "2026-11-07T09:35:00.000Z",
+          "wordCount": 8178,
+          "title": "復讐の果てに待つ運命のADV「LunaReverse（ルナリバース）」発表。「終遠のヴィルシュ」の中山智美氏らがシナリオを担当",
+          "imageUrl": "https://www.4gamer.net/games/056/G105632/20261106044/SS/001.png"
+        },
+        {
           "id": "https://www.4gamer.net/games/055/G105594/20261106002/",
           "author": null,
           "description": "ヒューネックスは本日（2026年11月7日），「アルカナ・ファミリア幽霊船の魔術師」のPC/NintendoSwitch版を2027年にリリースすると発表した。本作は，2012年のPSP作品を移植し，CGをフルHD化したものだ。幽霊船を巡る物語が，コミック風の演出で描かれる。",
@@ -2694,16 +2704,6 @@
           "wordCount": 8319,
           "title": "Switch版「ホグワーツ・レガシー」の本編＋DLCセットが987円と超激安！「レゴシティ アンダーカバー」は457円！「今週のすべり込みセール情報」",
           "imageUrl": "https://www.4gamer.net/games/484/G048410/20261009002/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/635/G063598/20261009005/",
-          "author": null,
-          "description": "ネクソンは本日（2026年10月9日），同社の連結子会社MINTROCKETが手掛ける「デイヴ・ザ・ダイバー」と，UnknownWorldsEntertainmentが開発する「サブノーティカ2」のコラボDLCを2027年初頭に配信すると発表した。これに合わせてトレイラーやスクリーンショットも公開された。",
-          "link": "https://www.4gamer.net/games/635/G063598/20261009005/",
-          "publishedOn": "2026-10-09T02:29:37.000Z",
-          "wordCount": 8668,
-          "title": "「デイヴ・ザ・ダイバー」と「サブノーティカ 2」がコラボ。新たなDLCを2027年初頭に配信予定",
-          "imageUrl": "https://www.4gamer.net/games/635/G063598/20261009005/SS/001.jpg"
         }
       ]
     },
@@ -2712,6 +2712,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/eff07361be9e50e99158eb43fad17caf50ba0966?source=rss",
+          "author": null,
+          "description": "７日夜、兵庫県淡路市の神戸淡路鳴門自動車道で、大阪から高知に向かっていた高速バスが炎上しました。 運転手と乗客、合わせて２２人にけがはありません。劇場の控室で不審火 放火の可能性も視野に捜査 兵庫・明",
+          "link": "https://news.yahoo.co.jp/articles/eff07361be9e50e99158eb43fad17caf50ba0966?source=rss",
+          "publishedOn": "2026-11-07T13:59:58.000Z",
+          "wordCount": 1713,
+          "title": "神戸淡路鳴門自動車道で高速バス炎上　運転手と乗客計２２人はパトカーで避難しけがなし　エンジンから出火か(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00083475-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/480f3da284d0ae56a17bd790dac12e4cec6c839d?source=rss",
+          "author": null,
+          "description": "「大阪維新の会」は７日、吉村洋文氏を新代表に選出しました。 ２０２０年から３期続けて代表を務めることになった吉村氏は、「大阪都構想は絶対にプラスになる」と都構想の実現へ意欲を見せました。「大阪都構想」",
+          "link": "https://news.yahoo.co.jp/articles/480f3da284d0ae56a17bd790dac12e4cec6c839d?source=rss",
+          "publishedOn": "2026-11-07T13:13:56.000Z",
+          "wordCount": 1673,
+          "title": "「大阪維新の会」新代表に吉村洋文氏　２０２０年から3期連続　「大阪都構想は絶対にプラス」と意気込み語る(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00083474-asahibcv-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a905d3c89e5a1a4a3cdb3732141cbcc7f557656e?source=rss",
+          "author": null,
+          "description": "繊維産業で栄えた大阪で、スーツ姿の人たちが歴史的な建物を歩いて巡る「船場スタイルウォーク」がありました。【岩本計介ニュースの現場から】「飛行場でも作る気か」と言われた御堂筋 来年で誕生から90年 記念",
+          "link": "https://news.yahoo.co.jp/articles/a905d3c89e5a1a4a3cdb3732141cbcc7f557656e?source=rss",
+          "publishedOn": "2026-11-07T09:25:06.000Z",
+          "wordCount": 1631,
+          "title": "「今の時代にはないイベント」スーツ姿で大阪の歴史的な建造物巡る　かつての繊維産業の街で「船場スタイルウォーク」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00083472-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a1a19cacb7daabb87c36b4bbaaded177b37ae64f?source=rss",
+          "author": null,
+          "description": "早産や低体重で生まれた赤ちゃんのその後の成長を伝える写真展が、大阪市住之江区で開かれています。【岩本計介ニュースの現場から】「飛行場でも作る気か」と言われた御堂筋 来年で誕生から90年 記念イベントに",
+          "link": "https://news.yahoo.co.jp/articles/a1a19cacb7daabb87c36b4bbaaded177b37ae64f?source=rss",
+          "publishedOn": "2026-11-07T09:23:34.000Z",
+          "wordCount": 1640,
+          "title": "「優しい気持ちで見守って」　早産や低体重で生まれた‶リトルベビー“の成長伝える写真展　大阪市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00083473-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/59ecb044b75b92018c0467f0b1181a76b53c0740?source=rss",
           "author": null,
@@ -7721,46 +7761,6 @@
           "wordCount": 1684,
           "title": "大阪公立大がきょう（＝９日）授業を再開　「ランサムウェア」とみられるサイバー攻撃受け大規模なシステム障害　学生ら約１３万人の個人情報流出のおそれも(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00082948-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/77827114080a1b15965ca851a11ec5ca68b6a68a?source=rss",
-          "author": null,
-          "description": "近畿日本鉄道によりますと、９日午前１０時１２分ごろ、東生駒駅で保安装置が故障した影響で、奈良線は一部区間で運転を見合わせましたが、午後１１時１９分に運転を再開しました。鳥インフル想定した防疫演習 車両",
-          "link": "https://news.yahoo.co.jp/articles/77827114080a1b15965ca851a11ec5ca68b6a68a?source=rss",
-          "publishedOn": "2026-10-09T02:03:57.000Z",
-          "wordCount": 1700,
-          "title": "【速報】近鉄奈良線が東花園ー大和西大寺駅間で運転見合わせ　東生駒駅内での保安装置故障の影響　振替輸送を実施(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00082947-asahibcv-000-3-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b9fa2af0ad2111466b66d91dcc8aed45c5b700f1?source=rss",
-          "author": null,
-          "description": "兵庫県川西市の住宅で白骨化した遺体が見つかり、兵庫県警はこの住宅に住む男（４６）を死体遺棄の疑いで逮捕しました。 警察によりますと７日午後、川西市萩原の住宅で、「新聞がたまっている」と市の社会福祉協議",
-          "link": "https://news.yahoo.co.jp/articles/b9fa2af0ad2111466b66d91dcc8aed45c5b700f1?source=rss",
-          "publishedOn": "2026-10-08T22:37:57.000Z",
-          "wordCount": 1687,
-          "title": "父子２人暮らしの住宅に白骨遺体　死体遺棄容疑で息子を逮捕　「父は家にいない」と否認　兵庫・川西市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00082946-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cea527fd3e6659914dc420bb93d2dfc8bdd109d8?source=rss",
-          "author": null,
-          "description": "８日夜、大阪府摂津市の路上で８０歳の女性がバッグを奪われけがをする事件がありました。 ８日午後９時すぎ、摂津市千里丘東の路上で「近くを歩いていた人がバッグを取られた」と通りがかった男性から１１０番通報",
-          "link": "https://news.yahoo.co.jp/articles/cea527fd3e6659914dc420bb93d2dfc8bdd109d8?source=rss",
-          "publishedOn": "2026-10-08T21:32:28.000Z",
-          "wordCount": 1650,
-          "title": "８０歳女性が路上で現金約２万円など入ったバッグ奪われけが　大阪・摂津市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00082945-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/94d7b1b553739a645afc95dca1ed4684ded69f89?source=rss",
-          "author": null,
-          "description": "ＪＲ西日本のＨＰによりますと、９日午前５時２４分ごろに信太山駅と和泉府中駅の間で列車と人が接触する事故が起きたということです。すれ違いざまに女性２人の胸触ったか 小学校教師を逮捕 「覚えていません」容",
-          "link": "https://news.yahoo.co.jp/articles/94d7b1b553739a645afc95dca1ed4684ded69f89?source=rss",
-          "publishedOn": "2026-10-08T21:13:59.000Z",
-          "wordCount": 1710,
-          "title": "【速報】ＪＲ阪和線と関西空港線で一時運転見合わせ　運転再開も大阪環状線など広いエリアで遅延　人身事故の影響(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00082944-asahibcv-000-2-view.jpg?exp=10800"
         }
       ]
     },
@@ -7778,6 +7778,16 @@
           "wordCount": 1735,
           "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4792/live/ca5fa8c0-da58-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o#0",
+          "author": null,
+          "description": "人工知能（AI）をめぐる、いわゆるゴールドラッシュは終わりを迎えつつあるのか。それとも、これは単に現実に立ち返っているだけなのか。",
+          "link": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-07T06:31:56.000Z",
+          "wordCount": 1818,
+          "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg"
         },
         {
           "id": "https://www.bbc.com/japanese/articles/cj62yye5krz3o#0",
@@ -9808,26 +9818,6 @@
           "wordCount": 1959,
           "title": "韓国、駐ウクライナ大使を呼び戻す　北朝鮮捕虜の移送公表問題が深刻化",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f15e/live/fb9d5240-c2fa-11f1-b8c6-6d610e41a5d9.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ckg5j29qp22do#0",
-          "author": null,
-          "description": "2009年に米軍基地で銃を乱射して13人を殺害し、殺人罪などで死刑判決を受けた元軍医の銃殺刑について、ヘグセス米国防長官は8日、刑の執行を一般市民が視聴できるように中継すると述べた。",
-          "link": "https://www.bbc.com/japanese/articles/ckg5j29qp22do?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-09T02:50:50.000Z",
-          "wordCount": 1884,
-          "title": "米国防総省、米軍基地で銃乱射した元軍医の銃殺刑執行をライブ配信の方針",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cqly07x4457do#0",
-          "author": null,
-          "description": "イギリスのテムズ・ヴァレー警察は8日、王室メンバーのアンドリュー・マウントバッテン＝ウィンザー氏を2月に逮捕した際に自宅捜索のため使った令状が違法だったと、高等法院で行われた司法審査で認めた。同氏に対する刑事捜査は続く。",
-          "link": "https://www.bbc.com/japanese/articles/cqly07x4457do?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-09T02:48:24.000Z",
-          "wordCount": 1979,
-          "title": "アンドリュー元英王子宅の捜索、令状は違法と裁判所が認定　捜査は継続",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6fbb/live/79288160-c325-11f1-9981-cf94ea240e40.jpg"
         }
       ]
     },
@@ -10455,26 +10445,6 @@
           "wordCount": 2650,
           "title": "Diodesの車載用整流ダイオード、独自技術で損失低減",
           "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/09/l_edn20261005edn001.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2610/09/news043.html",
-          "author": null,
-          "description": "Nuvoton Technology（以下、Nuvoton）は、電気化学インピーダンス分光法（EIS）測定機能を搭載した第6世代バッテリー監視IC「KA85010UA」を発表した。独自のインダクター方式を採用したことで電力損失／発熱を約93％低減している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2610/09/news043.html",
-          "publishedOn": "2026-10-09T02:00:00.000Z",
-          "wordCount": 2647,
-          "title": "独自方式でEISの損失／発熱93％減、26セルバッテリー監視IC",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/09/cover_news043.jpg"
-        },
-        {
-          "id": "https://edn.itmedia.co.jp/edn/articles/2610/09/news041.html",
-          "author": null,
-          "description": "STマイクロエレクトロニクスは、6軸IMUセンサー「LSM6DSK320X」「ISM6HGK256X」を発表した。ミラー構造のMEMS技術を採用した超対称ジャイロセンサーアーキテクチャや、2つの独立した加速度センサーを搭載している。",
-          "link": "https://edn.itmedia.co.jp/edn/articles/2610/09/news041.html",
-          "publishedOn": "2026-10-09T00:00:00.000Z",
-          "wordCount": 2641,
-          "title": "ミラー構造で外部影響を相殺　STの6軸IMUセンサー",
-          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2610/09/cover_news041.jpg"
         }
       ]
     },
@@ -11922,16 +11892,6 @@
           "wordCount": 734,
           "title": "アップル、10月13日に「Welcome home」発表へ。スマートホーム新製品が続々登場か",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/3f92ad658465880f91ff62f2f0e6455f.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=134691",
-          "author": "Munenori Taniguchi",
-          "description": "Cyberleekによるゲームプレイ動画の流出が収まり、Netflix先行公開となった新たなトレイラーが話題になったことで、『Grand Theft Auto VI（GTA 6）』の開発元Rockstar Gamesはようやく11月の発売予定日に向けて集中できるようになったかもしれない。 ところがそ […]",
-          "link": "https://gadget.phileweb.com/post-134691/",
-          "publishedOn": "2026-10-09T02:30:00.000Z",
-          "wordCount": 718,
-          "title": "11月発売の『GTA 6』新たなリーク、全裸ジェイソンでプレイするストーリーネタバレ動画",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/06/249b66131e78139a1a825923fbd639b0.jpg"
         }
       ]
     },
@@ -11940,6 +11900,16 @@
       "feedUrl": "https://www.2nn.jp/rss/dqnplus.rdf",
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
+        {
+          "id": "http://www.2nn.jp/dqnplus/1794047917/",
+          "author": "朝一から閉店までφ ★",
+          "description": "(東京)稲城市向陽台5丁目で下半身露出　11月7日\n日本不審者情報センター11/7(土)18:07警視庁によると、11月7日午後2時40分頃、稲城市向陽台5丁目のマンションで、下半身露出が発生しました。(実行者の特徴:男性、20...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1794047917/",
+          "link": "http://www.2nn.jp/dqnplus/1794047917/",
+          "publishedOn": "2026-11-07T10:38:37.000Z",
+          "wordCount": 1682,
+          "title": "【茶髪マッシュルーム】稲城市向陽台5丁目で下半身露出 11月7日",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1794047917.jpg"
+        },
         {
           "id": "http://www.2nn.jp/dqnplus/1793870289/",
           "author": "朝一から閉店までφ ★",
@@ -12819,26 +12789,6 @@
           "wordCount": 1597,
           "title": "肝付町役場の課長 缶コーヒー2本万引き疑いで現行犯逮捕 公務中「金もったいなかった」",
           "imageUrl": "http://www.2nn.jp/img/dqnplus/1791533306.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1791511014/",
-          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
-          "description": "栃木・小山市役所の職員(30)を逮捕　「性行為をしたら、子どもの保育料を下げてあげる」　不同意わいせつ未遂の容疑TBSテレビTBSテレビ\n2026年10月7日(水) 18:24\n栃木県小山市役所の職員が女性に対して、「性行為を...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791511014/",
-          "link": "http://www.2nn.jp/dqnplus/1791511014/",
-          "publishedOn": "2026-10-09T01:56:54.000Z",
-          "wordCount": 1680,
-          "title": "栃木・小山市役所の職員(30)を逮捕 「性行為をしたら、子どもの保育料を下げてあげる」 不同意わいせつ未遂の容疑",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791511014.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1791510300/",
-          "author": "朝一から閉店までφ ★",
-          "description": "TBSテレビ\n2026年10月9日(金) 00:06\n国内\n神奈川県警の警察官が有効期限の切れた運転免許証およそ30枚を不正に外部に持ち出し、一時紛失していたことが分かりました。捜査関係者によりますと、外部に持ち出された運...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791510300/",
-          "link": "http://www.2nn.jp/dqnplus/1791510300/",
-          "publishedOn": "2026-10-09T01:45:00.000Z",
-          "wordCount": 1576,
-          "title": "神奈川県警の警察官のリュックから期限切れ免許証約30枚が見つかる 飲酒後に駅のホームに置き忘れ 県警が処分を検討",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791510300.jpg"
         }
       ]
     },
@@ -13166,16 +13116,6 @@
           "wordCount": 814,
           "title": "【11月開店予定】パティオビル1階に居酒屋「やきとん・うが屋本店」オープン予定だって。現地に行ってみた。［厚木市中町］",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/yakiton-ugaya.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=62412",
-          "author": "田原",
-          "description": "こんにちは、タハラ＠あつらぼです。 厚木市の一大イベント「あつぎ鮎まつり」が、いよいよ今週末に迫ってきました！ 2026年は記念すべき「第80回あつぎ鮎まつり」。 10月10日（土）・11日（日）の2日間にわたって、本厚木駅周辺や厚木中央公…",
-          "link": "https://atsugi-lab.com/topic-atsugi-ayu-matsuri-2026/",
-          "publishedOn": "2026-10-09T00:47:17.000Z",
-          "wordCount": 893,
-          "title": "【花火大会】「第80回あつぎ鮎まつり」いよいよ10月10日・11日開催！大花火大会は10日17時40分から★",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/s-ayum-202610.jpg"
         }
       ]
     },
@@ -13231,6 +13171,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321525",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、朝マックメニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   【マクドナル […]\n投稿 【マクドナルド】チーチーダブチソーセージマフィンセット【朝マック・新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mcdonalds-dabuchi-muffin-set",
+          "publishedOn": "2026-11-07T09:02:00.000Z",
+          "wordCount": 1921,
+          "title": "【マクドナルド】チーチーダブチソーセージマフィンセット【朝マック・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/dc06f6ca47e3889d96713dabf152bb95.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321500",
           "author": "foodfighter",
@@ -13970,16 +13920,6 @@
           "wordCount": 1928,
           "title": "【かつや】海老トリプル丼（海老カツ・海老フライ・海老クリームコロッケ）【期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/dc2cc5aecf5d6a4bee54c9ae55921f14.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319687",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「ブラックベリーヨーグルトフラペチーノ 白耳ver.（ハロウィン）」を世界一詳しく […]",
-          "link": "https://foodfighter.jp/starbucks-blackberry",
-          "publishedOn": "2026-10-08T23:38:44.000Z",
-          "wordCount": 1918,
-          "title": "【スターバックス】ブラックベリーヨーグルトフラペチーノ 白耳ver.（ハロウィン）【新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/8860ce9272efd7ac60601926872f9b7d.jpg"
         }
       ]
     },
@@ -13988,6 +13928,81 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127801/",
+          "author": null,
+          "description": "A24が人気ゲームを実写映画化する「エルデンリング（原題）」の実写映画版が、11月に米ロサンゼルスで開催されるアメリカン・フィルム・マーケット（AFM）に出品される。米Deadlineが報じた。...",
+          "link": "https://anime.eiga.com/news/127801/",
+          "publishedOn": "2026-11-07T13:00:00.000Z",
+          "wordCount": 770,
+          "title": "実写映画版「エルデンリング」、製作費約2億ドルの超大作に",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127776/",
+          "author": null,
+          "description": "俳優の奈緒が、ヨン・サンホ監督の最新作「コロニー 群体」（2027年1月1日公開）で日本語吹き替え声優に初挑戦していることがわかった。チョン・ジヒョン演じる主人公クォン・セジョン役に息吹を注ぐ。...",
+          "link": "https://anime.eiga.com/news/127776/",
+          "publishedOn": "2026-11-07T12:00:00.000Z",
+          "wordCount": 984,
+          "title": "奈緒、「コロニー　群体」で日本語吹き替えに初挑戦　梶裕貴、早見沙織、江口拓也、七海ひろき、関智一らも出演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127818/",
+          "author": null,
+          "description": "「異種族レビュアーズ」「平穏世代の韋駄天達」などで知られる天原氏の漫画「33歳独身女騎士隊長。」の連載10周年を記念して、アニメ化が決定した。あわせて、アニメ化記念ミュージックビデオ（https...",
+          "link": "https://anime.eiga.com/news/127818/",
+          "publishedOn": "2026-11-07T11:00:00.000Z",
+          "wordCount": 829,
+          "title": "オトナ向けファンタジーコメディ漫画「33歳独身女騎士隊長。」アニメ化決定　記念MVが公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127816/",
+          "author": null,
+          "description": "テレビアニメ「傷口と包帯」に、盆子原康、高梨謙吾、杉田智和が出演し、オープニング主題歌をMIYAVIが歌うことが決定した。本PV（https://youtu.be/DyimnIi9nJk）とキー...",
+          "link": "https://anime.eiga.com/news/127816/",
+          "publishedOn": "2026-11-07T10:00:00.000Z",
+          "wordCount": 877,
+          "title": "「傷口と包帯」追加キャストに盆子原康、高梨謙吾　杉田智和がナレーション担当　本PVでOP主題歌を初披露",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127815/",
+          "author": null,
+          "description": "劇場アニメ「KING OF PRISM‐Your Endless Call‐み～んなきらめけ！プリズム☆ツアーズ」（略称「キンツア」）に新作CGライブを盛り込んだ新ルート「route1.5：われ...",
+          "link": "https://anime.eiga.com/news/127815/",
+          "publishedOn": "2026-11-07T09:00:00.000Z",
+          "wordCount": 910,
+          "title": "「キンツア」新作CGライブを盛り込んだ新ルート「route1.5」「route5.5」が27年1月上映　4DX演出強化版も2月上映",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127804/",
           "author": null,
@@ -16932,36 +16947,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127623/",
-          "author": null,
-          "description": "全世界で29億7000万ビューを記録（※2026年7月時点）しているLINEマンガ「再婚承認を要求します」のテレビアニメ化が決まり、2027年に放送されることが明らかになった。あわせて、スタッフ...",
-          "link": "https://anime.eiga.com/news/127623/",
-          "publishedOn": "2026-10-08T22:00:00.000Z",
-          "wordCount": 713,
-          "title": "LINEマンガ「再婚承認を要求します」27年にTVアニメ化　キャスト、スタッフ、特報PVなど一挙発表",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127621/",
-          "author": null,
-          "description": "韓国発のボクシング漫画「ザ・ボクサー」のテレビアニメ化が決定した。主人公のユ役を内山昂輝が務め、小野賢章、関智一、豊永利行も出演する。特報PV（https://www.youtube.com/w...",
-          "link": "https://anime.eiga.com/news/127621/",
-          "publishedOn": "2026-10-08T22:00:00.000Z",
-          "wordCount": 672,
-          "title": "韓国発の漫画「ザ・ボクサー」TVアニメ化決定　内山昂輝が主人公ユ役　小野賢章、関智一、豊永利行も出演",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16970,6 +16955,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127149",
+          "author": null,
+          "description": "ビーズログ文庫発のアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってし...",
+          "link": "https://ln-news.com/articles/127149",
+          "publishedOn": "2026-11-07T10:00:00.000Z",
+          "wordCount": 222,
+          "title": "アニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』第6話「攻略アイテムとヒロインのひみつ」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/69b7fee9a67b4141b103b0ce890a23ad.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127141",
+          "author": null,
+          "description": "電撃文庫刊『とある魔術の禁書目録』のスピンオフアニメ『とある科学の超電磁砲T...",
+          "link": "https://ln-news.com/articles/127141",
+          "publishedOn": "2026-11-07T08:30:00.000Z",
+          "wordCount": 313,
+          "title": "『とある科学の超電磁砲』×アパレルブランド「arti-mate」のオリジナルアパレルが登場　アニメイト通販にて事前予約受付を開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/5b4f76c3b712499ba29d201a51f1220b.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127126",
           "author": null,
@@ -19629,46 +19634,6 @@
           "wordCount": 234,
           "title": "『処刑された悪女は、大国で皇妃の座を掴む ～毒杯を飲み干したあとに、やり直しの物語がはじまりました～』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/31cfa4c3a7b74094a834a10a3be29f17.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126765",
-          "author": null,
-          "description": "ヒーロー文庫発の映画『劇場版 薬屋のひとりごと 亡妃の秘宝』と近畿日本鉄道、...",
-          "link": "https://ln-news.com/articles/126765",
-          "publishedOn": "2026-10-09T02:00:00.000Z",
-          "wordCount": 340,
-          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』奈良を巡るスペシャルコラボ企画「猫猫・壬氏 万葉への謎旅」が開催決定",
-          "imageUrl": "https://assets.ln-news.com/images/medias/cf3c091fe3c940c59d17be0e010a43ef.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126890",
-          "author": null,
-          "description": "電撃文庫発のアニメ『キノの旅 -the Beautiful World- t...",
-          "link": "https://ln-news.com/articles/126890",
-          "publishedOn": "2026-10-09T00:30:00.000Z",
-          "wordCount": 301,
-          "title": "『キノの旅 the Beautiful World』×アパレルブランド「arti-mate」のオリジナルアパレルが登場　アニメイト通販にて事前予約受付を開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/6ca910f5de454d9abea0bfc727838580.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126886",
-          "author": null,
-          "description": "電撃文庫発のアニメ『デモンズ・クレスト』の第2弾PVが公開された。本作は世界...",
-          "link": "https://ln-news.com/articles/126886",
-          "publishedOn": "2026-10-08T23:00:00.000Z",
-          "wordCount": 285,
-          "title": "アニメ『デモンズ・クレスト』第2弾PVが公開　戦いに挑むキャラクター達を描いたバトルキーアートもお披露目",
-          "imageUrl": "https://assets.ln-news.com/images/medias/4aa2e71064e44e1a82385925e6323b4b.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126897",
-          "author": null,
-          "description": "アルファポリス刊『異世界召喚されて捨てられた僕が邪神であることを誰も知らない...",
-          "link": "https://ln-news.com/articles/126897",
-          "publishedOn": "2026-10-08T21:00:00.000Z",
-          "wordCount": 225,
-          "title": "『異世界召喚されて捨てられた僕が邪神であることを誰も知らない……たぶん。』のコミカライズ連載が開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/54cc251f499645418e9bcd3b27d6c7a0.jpg"
         }
       ]
     },
@@ -19858,6 +19823,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ngB_ImtQAGw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ngB_ImtQAGw",
+          "publishedOn": "2026-11-07T11:01:01.000Z",
+          "wordCount": null,
+          "title": "兄にお気に入りのボールを取られちゃった猫がまさかの行動に…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=RT4skNnuf6g",
           "author": null,
@@ -20263,6 +20238,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfZs4ufKQCJfTLjFEtiZgAA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A7hMLLdyyUI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A7hMLLdyyUI",
+          "publishedOn": "2026-11-07T10:16:16.000Z",
+          "wordCount": null,
+          "title": "いきなり出てきた手にびっくり顔になる猫が面白すぎた",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RU03PzcetVo",
           "author": null,
           "description": "",
@@ -20419,6 +20404,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13693",
+          "author": "watanabe@logipara.com",
+          "description": "忘年会シーズンなんですが、 　 　 　 あまりにも毎年忘年会をやってるから、日程だけ決められて、集合場所も時間も「いつも通りだろ」となんの連絡も相談もない事案が発生。（普通にみんな集まった）（逆に怖い）",
+          "link": "https://logipara.com/diary-text/2026-11-08/",
+          "publishedOn": "2026-11-07T14:03:12.000Z",
+          "wordCount": 2745,
+          "title": "忘年会シーズン",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13687",
           "author": "watanabe@logipara.com",
