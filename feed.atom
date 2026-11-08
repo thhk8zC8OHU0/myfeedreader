@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T19:58:50.108Z</updated>
+    <updated>2026-11-08T23:30:25.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【今週のモチベ】「みんなでポイっと！プリニーすごろく」や「Football Manager 27」が発売される 2026年11月9日〜11月15日]]></title>
+        <id>https://www.4gamer.net/games/954/G095479/20261108002/</id>
+        <link href="https://www.4gamer.net/games/954/G095479/20261108002/"/>
+        <updated>2026-11-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，コマンドRPGとスゴロクを融合させた「みんなでポイっと！プリニーすごろく」や，サッカークラブの全権監督となり，チームを頂点へ導くシリーズの最新作「FootballManager27」が発売される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ「ひらやすみ」OPテーマは星野源の新曲に決定　「ありがたい縁を感じてとても嬉しく思いました」]]></title>
+        <id>https://anime.eiga.com/news/127827/</id>
+        <link href="https://anime.eiga.com/news/127827/"/>
+        <updated>2026-11-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[真造圭伍氏の漫画をテレビアニメ化する「ひらやすみ」のオープニングテーマが、星野源の新曲に決定した。星野が同作のために書き下ろした楽曲で、現段階ではタイトルは未発表。 さらに、星野と、原作者・真造...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週の新刊情報：アルファポリス、電撃文庫、カドカワBOOKS、GA文庫など]]></title>
+        <id>https://ln-news.com/articles/127159</id>
+        <link href="https://ln-news.com/articles/127159"/>
+        <updated>2026-11-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月9日（月）～2026年11月15日（日）に発売するライト...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月2日〜11月8日]]></title>
+        <id>https://www.4gamer.net/games/040/G004099/20261108001/</id>
+        <link href="https://www.4gamer.net/games/040/G004099/20261108001/"/>
+        <updated>2026-11-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月2日〜11月8日，4Gamerに掲載された記事は230本でした。タイのバンコクで開催された「gamescomasiaxThailandGameShow2026」のレポートや，「グランド・セフト・オートVI」のまとめ記事などを掲載した，4Gamerと世界のゲーム業界の1週間を振り返ってみましょう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『愛を知らない捨てられJKを全力で甘やかしたら俺まで幸せにされた件』のコミカライズ連載が開始]]></title>
+        <id>https://ln-news.com/articles/127140</id>
+        <link href="https://ln-news.com/articles/127140"/>
+        <updated>2026-11-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HJ文庫刊『愛を知らない捨てられJKを全力で甘やかしたら俺まで幸せにされた件...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特技は「ボール拾い」 プロ野球のボール拾って売却していた時事通信カメラマンの笑えない自己紹介]]></title>
+        <id>http://www.2nn.jp/dqnplus/1794169822/</id>
+        <link href="http://www.2nn.jp/dqnplus/1794169822/"/>
+        <updated>2026-11-08T20:30:22.000Z</updated>
+        <summary type="html"><![CDATA[2026/11/06/ 14:30
+AERA編集部
+時事通信社は11月5日、同社写真部社員で20代のAカメラマンが、今年2月に沖縄県で行われたプロ野球の春季キャンプ取材中に、練習球を無断で持ち帰り、フリマサイトで売却していたことを...
+https://egg.5ch.io/test/read.cgi/dqnplus/1794169822/]]></summary>
+        <author>
+            <name>朝一から閉店までφ ★</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テスター]]></title>
         <id>https://logipara.com/?p=13695</id>
@@ -19130,102 +19193,12 @@ https://egg.5ch.io/test/read.cgi/dqnplus/1791638211/]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[グレビーシマウマ「ミナト」６歳で死ぬ　死因は調査中　京都市動物園(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/ee8ffcf01bba8795cda92b9fe57a0a6a857bba05?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/ee8ffcf01bba8795cda92b9fe57a0a6a857bba05?source=rss"/>
-        <updated>2026-10-10T11:15:50.000Z</updated>
-        <summary type="html"><![CDATA[京都市動物園は１０日、飼育していたグレビーシマウマのミナト（オス）が死んだと発表しました。６歳でした。死因については調査中としています。【発見】「十一面観世音菩薩」の中から巻物が見つかる 鎌倉時代創建]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[兄の弱点のお尻をクンクンした弟が大変なことに…]]></title>
         <id>https://www.youtube.com/watch?v=N73OpXJG5Dg</id>
         <link href="https://www.youtube.com/watch?v=N73OpXJG5Dg"/>
         <updated>2026-10-10T11:01:28.000Z</updated>
         <author>
             <name>もちまる日記</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「高橋和希原画展 YU-GI-OH! ART WORKS」で「遊☆戯☆王」バトル・シティ編決勝の新規映像を公開　風間俊介、津田健次郎の新録ボイス]]></title>
-        <id>https://anime.eiga.com/news/127632/</id>
-        <link href="https://anime.eiga.com/news/127632/"/>
-        <updated>2026-10-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[12月12日～2027年2月21日にCREATIVE MUSEUM TOKYOで開催される「高橋和希原画展 YU-GI-OH! ART WORKS」の会場で、「特別映像 ─友として!!─」が公開...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編集部おすすめ26年秋アニメ　「バーテックスフォース」「チー付与」「FX戦士くるみちゃん」「サイバーパンク エッジランナーズ2」]]></title>
-        <id>https://anime.eiga.com/news/column/animehack_editors/127595/</id>
-        <link href="https://anime.eiga.com/news/column/animehack_editors/127595/"/>
-        <updated>2026-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[続々とスタートしている2026年秋アニメ。この3連休から見はじめようという方も多いのではないでしょうか。ラインナップのチェックには、タイトルやスタッフ・キャストがひと目で分かるアニメハックの今期...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27話「ザットとブラッハム」のあらすじ＆先行カット解禁]]></title>
-        <id>https://ln-news.com/articles/126912</id>
-        <link href="https://ln-news.com/articles/126912"/>
-        <updated>2026-10-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kラノベブックス発のアニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泉佐野と泉大津でだんじり横転　男性２人死亡　大阪(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/9660c375fabcaa62a171039d50cce21744609c05?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/9660c375fabcaa62a171039d50cce21744609c05?source=rss"/>
-        <updated>2026-10-10T09:44:14.000Z</updated>
-        <summary type="html"><![CDATA[大阪府泉佐野市と泉大津市で、秋祭りのだんじりが横転する事故があり、ともに男性１人が死亡しました。大阪・羽曳野市のグループホームで入所者虐待・行政は「改善命令」 なくならない施設での虐待に専門家は「職員]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赤ちゃんの健やかな成長祝う「ハイハイレース」　和歌山・白浜町のアドベンチャーワールド(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/525706d6c64b81e64ecf96462c59033c80df9365?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/525706d6c64b81e64ecf96462c59033c80df9365?source=rss"/>
-        <updated>2026-10-10T09:44:14.000Z</updated>
-        <summary type="html"><![CDATA[和歌山県白浜町のアドベンチャーワールドでは、赤ちゃんの健やかな成長を祝う、「ハイハイレース」が開かれました。【発見】「十一面観世音菩薩」の中から巻物が見つかる 鎌倉時代創建の京都・正寿院 住職「大変驚]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「名探偵コナン」ついに平次＆和葉がカップルに　ふたりを祝うPV公開　“告白のあと”が聞ける施策も実施]]></title>
-        <id>https://anime.eiga.com/news/127638/</id>
-        <link href="https://anime.eiga.com/news/127638/"/>
-        <updated>2026-10-10T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「名探偵コナン」で、3週にわたって展開されたエピソード「茜色の千秋楽」が、このほど最終話「茜色の千秋楽（大楽）」を迎えた。物語のラストで服部平次と遠山和葉がカップルになったことをうけ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「気になってる人が男じゃなかった」に津田健次郎、畠中祐ら出演　第1弾PVも公開]]></title>
-        <id>https://anime.eiga.com/news/127631/</id>
-        <link href="https://anime.eiga.com/news/127631/"/>
-        <updated>2026-10-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新井すみこ氏の漫画をテレビアニメ化する「気になってる人が男じゃなかった」が2027年1月8日から放送されることが決まり、第1弾PV（https://youtu.be/kLO7KyjhGR0）が公...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『余りもの令嬢と訳あり令息は意外と相性が良いようです』のコミカライズ配信が開始]]></title>
-        <id>https://ln-news.com/articles/126834</id>
-        <link href="https://ln-news.com/articles/126834"/>
-        <updated>2026-10-10T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ツギクルブックス刊『余りもの令嬢と訳あり令息は意外と相性が良いようです』のコ...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
         </author>
     </entry>
 </feed>
