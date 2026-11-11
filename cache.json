@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/997/G099766/20261111012/",
+          "author": null,
+          "description": "AurochDigitalは，弾幕サバイバル「WarhammerSurvivors」をリリースした。「Warhammer40,000」と「WarhammerAgeofSigmar」の世界を融合した作品だ。40人以上のチャンピオンと75種類以上の武器が登場し，敵の大群を蹴散らす爽快な戦闘を楽しめる。",
+          "link": "https://www.4gamer.net/games/997/G099766/20261111012/",
+          "publishedOn": "2026-11-11T03:37:54.000Z",
+          "wordCount": 8364,
+          "title": "弾幕サバイバル「Warhammer Survivors」リリース。2つの世界から40人以上のチャンピオンが参戦。75種類以上の武器で敵の大群を蹴散らせ",
+          "imageUrl": "https://www.4gamer.net/games/997/G099766/20261111012/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/761/G076117/20261110018/",
           "author": null,
           "description": "TamagawaSoftは2026年11月10日，「遺跡島と旅するねこまた」を2027年1月19日にSteamで発売すると発表した。価格は2250円（税込）。本作は，2本の尻尾を持つねこまた「キジノ」を操作して，森に埋もれた遺跡を冒険する2Dアクションアドベンチャーだ。",
@@ -2662,6 +2672,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/469c31a2512861f606018f6cb2235e4b04059ef8?source=rss",
+          "author": null,
+          "description": "１１日朝は近畿各地で気温が下がり、兵庫県養父市と鳥取県にまたがる氷ノ山で、初冠雪が確認されました。冷え症には４つのタイプがあります あなたは当てはまりますか？ 気温急変で心配な冷え性対策 兵庫県内最高",
+          "link": "https://news.yahoo.co.jp/articles/469c31a2512861f606018f6cb2235e4b04059ef8?source=rss",
+          "publishedOn": "2026-11-11T03:27:45.000Z",
+          "wordCount": 1663,
+          "title": "兵庫県最高峰・氷ノ山で初冠雪　近畿各地で今季一番の寒さ　奈良県内で最低気温０度未満の「冬日」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00083537-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/812ded046c94d5801167be1550903f0e7c9aa9e0?source=rss",
+          "author": null,
+          "description": "１０日夜、徳島市の交差点で救急車が別の車に衝突する事故がありました。搬送されていた女性は病院で死亡が確認されました。軽自動車を運転中に信号を無視して交差点に進入し他の車の運転手にけがをさせたうえで立ち",
+          "link": "https://news.yahoo.co.jp/articles/812ded046c94d5801167be1550903f0e7c9aa9e0?source=rss",
+          "publishedOn": "2026-11-11T03:26:27.000Z",
+          "wordCount": 1655,
+          "title": "緊急走行中の救急車が軽乗用車と衝突　患者の女性が別の救急車で搬送も死亡　徳島市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00083536-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aeddae5a4460f768a7351ea9f0c15a258f3995ad?source=rss",
+          "author": null,
+          "description": "犯罪や事故などで亡くなった人たちの遺品などを展示し、命の尊さを伝える「生命（いのち）のメッセージ展」が京都で開かれています。ＪＲ西日本 福知山線脱線事故の被害者・遺族らに説明会 京都市中京区の「生命の",
+          "link": "https://news.yahoo.co.jp/articles/aeddae5a4460f768a7351ea9f0c15a258f3995ad?source=rss",
+          "publishedOn": "2026-11-11T03:25:03.000Z",
+          "wordCount": 1659,
+          "title": "犯罪や事故で失われた「命」の尊さ伝える　京都で「生命のメッセージ展」　生前の写真や遺品展示(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00083535-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a33dfd71344ed567ac765c07620ae2ab156e1602?source=rss",
           "author": null,
@@ -7810,6 +7850,76 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cmy0en9pe2ygo#0",
+          "author": null,
+          "description": "アメリカの連邦議会下院は10日、ヘグセス国防長官を弾劾しようとする試みを阻止した。同長官をめぐっては、議会の承認なしにイランに戦争を仕掛けたとして、弾劾条項を含む決議案が出されていたが、委員会への付託を決めた。ヘグセス氏はこの日、国防総省で半年ぶりに記者会見を開き、弾劾の動きを「茶番」、「妨害行為」と非難した。",
+          "link": "https://www.bbc.com/japanese/articles/cmy0en9pe2ygo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T05:50:10.000Z",
+          "wordCount": 1784,
+          "title": "ヘグセス米国防長官の弾劾決議案、下院で共和党がひとまず阻止",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6y49ypdk2z8o#0",
+          "author": null,
+          "description": "米司法省は10日、アメリカと欧州で一連のテロ計画で共謀したとして、イランの支援を受けているとされる男性工作員3人を、計8件の罪で起訴したと発表した。同省によると、この3人は、今年9月に米軍が駐留する英フェアフォード空軍基地付近で発生した重大事件にも関与していたという。",
+          "link": "https://www.bbc.com/japanese/articles/c6y49ypdk2z8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T04:20:23.000Z",
+          "wordCount": 1754,
+          "title": "米司法省、イランの支援を受けた工作員3人を起訴　英空軍基地の事件にも関与か",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cm36gne1ewjgo#0",
+          "author": null,
+          "description": "イギリス王室ハリー王子の妻、メガン妃の父親が児童ポルノ所持の罪で起訴され、自宅軟禁を命じられていたが、足首の監視装置を外した疑いで10日、米フロリダ州の連邦当局に再び拘束された。裁判資料から明らかになった。",
+          "link": "https://www.bbc.com/japanese/articles/cm36gne1ewjgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T04:10:49.000Z",
+          "wordCount": 1901,
+          "title": "英メガン妃の父、監視装置外した疑いで再拘束　児童ポルノ所持の罪で起訴",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/cmy97ejzdjego#0",
+          "author": null,
+          "description": "米フロリダ州フォート・ピアースにあるチンパンジー保護施設が洪水に見舞われた。道路が寸断されて孤立してしまった38歳のチンパンジー「ケイレブ」に、職員がドローンを使って食べ物を届けた。",
+          "link": "https://www.bbc.com/japanese/watch/cmy97ejzdjego?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T03:52:01.000Z",
+          "wordCount": 1427,
+          "title": "保護施設のチンパンジーが洪水で孤立、ドローンで食料を届ける　米フロリダ州",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/97ae/live/880fae60-dc66-11f1-8fe6-5becaee5408f.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c3zxvlgv7p25o#0",
+          "author": null,
+          "description": "ウクライナでの戦争の終結を目指すウクライナ、ロシア、アメリカの3カ国による高官級協議が10日、アラブ首長国連邦（UAE）の首都アブダビであった。2日間の日程で、この日は初日。ウクライナのゼレンスキー大統領は出席しなかったが、「建設的でかなり実質的」だったと述べた。",
+          "link": "https://www.bbc.com/japanese/articles/c3zxvlgv7p25o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T02:34:53.000Z",
+          "wordCount": 1779,
+          "title": "ウクライナ和平の3カ国協議、初日は「建設的」とゼレンスキー氏",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6680/live/bb89f6b0-dd4c-11f1-a2ff-1f577adb9bef.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c6jred4885evo#0",
+          "author": null,
+          "description": "イスラエルで10日、国会（クネセト、定数120）の新会期が始まり、議員らが宣誓した。10月末に行われた総選挙後に、新しい連立政権の組閣を要請された野党・中道新党「ヤシャル」のガディ・アイゼンコット党首は、ベンヤミン・ネタニヤフ暫定首相の失脚を目指している。",
+          "link": "https://www.bbc.com/japanese/articles/c6jred4885evo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T01:59:27.000Z",
+          "wordCount": 1745,
+          "title": "イスラエル国会が開会、与野党が連立政権の樹立目指し競う",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c9x2ey0eky6no#0",
+          "author": null,
+          "description": "イギリスの対テロ警察は10日、ロシアのためにスパイ行為を行った疑いで米陸軍兵士1人を逮捕したと発表した。BBCが入手した情報によると、この兵士はグロスターシャー州インズワースにあるイムジン兵舎に駐屯していた。この兵舎には、北大西洋条約機構（NATO）の連合緊急対応軍団（ARRC）の本部があり、NATOの戦略作戦拠点となっている。",
+          "link": "https://www.bbc.com/japanese/articles/c9x2ey0eky6no?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-11T00:40:01.000Z",
+          "wordCount": 1743,
+          "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cv0ldlx3ky5eo#0",
           "author": null,
           "description": "数兆ドルの企業価値を持つ米半導体大手エヌビディアのジェンスン・フアンCEOと、シンガポールを拠点とするデータセンター企業の元CEOとの不倫疑惑は、ジェンスン・フアン氏の家族をはるかに超えて波紋を広げ、テクノロジー、地政学、そして国家安全保障が交錯する分かれ道へとつながっている。",
@@ -9857,6 +9967,46 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/11/news015.html",
+          "author": null,
+          "description": "Nordic SemiconductorのWi-Fi SoC「nRF71」シリーズは、従来製品に比べて待機時消費電力を最大20分の1に削減する。NPUを搭載したモデルも用意し、バッテリー駆動機器でのエッジAI推論に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/11/news015.html",
+          "publishedOn": "2026-11-11T03:30:00.000Z",
+          "wordCount": 2686,
+          "title": "Nordic、エッジAI推論対応のWi-Fi SoC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/11/l_edn20261109edn001.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/05/news007.html",
+          "author": null,
+          "description": "アナログ回路設計は、デジタル回路設計とは全く違う設計思想が必要になります。この連載では、中堅のアナログ回路設計者である穴炉具 学（あなろぐ まなぶ）さんと、穴炉具さんが「師」とあおぐベテラン設計者、押江（おしえ）先生とのやりとりを通して、中級レベルのアナログ回路設計について学んでいきます。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/05/news007.html",
+          "publishedOn": "2026-11-11T02:00:00.000Z",
+          "wordCount": 2684,
+          "title": "デルタシグマA-Dコンバーターって何？",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/05/cover_news007.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/11/news039.html",
+          "author": null,
+          "description": "キヤノンは、メモリやロジック向けのKrF半導体露光装置「FPA-6400ES6a」を同年12月上旬から発売する。1時間当たり400枚の高スループットと4.0nmの重ね合わせ精度を実現している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/11/news039.html",
+          "publishedOn": "2026-11-11T01:00:00.000Z",
+          "wordCount": 2660,
+          "title": "高スループット／重ね合わせ精度のKrF露光装置、キヤノン",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/11/cover_news039.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/11/news027.html",
+          "author": null,
+          "description": "テキサス・インスツルメンツ（TI）は、AIデータセンターのリモート監視や電源供給および最適化に必要なソリューションを提供する。AIワークロードの規模や複雑さが増大する中、AIデータセンターにおけるシステム性能の最適化や、利用停止期間の最短化を実現していく。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/11/news027.html",
+          "publishedOn": "2026-11-11T00:00:00.000Z",
+          "wordCount": 2654,
+          "title": "AIデータセンターをナノ秒単位で監視　TIが新ADC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/11/cover_news027.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2611/10/news068.html",
           "author": null,
           "description": "サイレックス・テクノロジーは、既存の有線LAN機器を大幅な設計変更なしにWi-Fi 6対応にできるワイヤレスブリッジ「BR-110AX」を発表した。無線機能を機器本体から切り出すことで、欧州サイバーレジリエンス法（CRA）への対応を見据えた開発／保守の負荷軽減にもつなげる。",
@@ -10543,6 +10693,36 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=137179",
+          "author": "多根清史",
+          "description": "注目ガジェットの分解動画で知られるiFixitは、タッチ操作に対応した14インチモデル「PROLED XDR MacBook Pro」の分解レポートと動画を公開した。アップルによる軽量化の手法や背面の光るロゴの仕組みに加え、タッチ非対応の14インチM6 MacBook Proとの違いを詳しく調査して […]",
+          "link": "https://gadget.phileweb.com/post-137179/",
+          "publishedOn": "2026-11-11T05:30:00.000Z",
+          "wordCount": 728,
+          "title": "復活した光るアップルロゴ。バックライトがないPROLED XDRなのになぜ光る？iFixitが分解レポート",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/f927edc6eb022649ac90646546d42073.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137167",
+          "author": "多根清史",
+          "description": "アップルは2027年上半期に、OLED（有機EL）ディスプレイを搭載した新型iPad Airを2つのサイズで投入する見通しだと、台湾の電子業界誌DigiTimesが報じている。 従来の液晶ディスプレイをOLEDに置き換えたiPad Airについては、1年以上前から開発が噂されている。アップルの未発表 […]",
+          "link": "https://gadget.phileweb.com/post-137167/",
+          "publishedOn": "2026-11-11T03:15:00.000Z",
+          "wordCount": 727,
+          "title": "2027年の新型iPad AirもOLED搭載へ。しかしProMotionは見送り、60Hz駆動か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/043efda0380e43fe8fc1e6237ffe0b2b.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137156",
+          "author": "Munenori Taniguchi",
+          "description": "Metaは、同社が販売するMeta Glassesに含まれる一部のAIグラスで、内部に「過剰な湿気や汗」が入った際に熱くなりすぎる問題があるとユーザーに警告した。問題が含まれる機種を所有するユーザーには、スマートフォンのMeta AIアプリからアップデートを行うことが勧められている Metaはユーザ […]",
+          "link": "https://gadget.phileweb.com/post-137156/",
+          "publishedOn": "2026-11-11T02:30:00.000Z",
+          "wordCount": 716,
+          "title": "【濡らすなキケン】Meta、一部のAIグラスが「濡れると熱くなり過ぎる」と警告。アップデートを順次提供",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/91f63ccf5018408a272b0c8ea4ba0ec6.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=136941",
           "author": "コヤマタカヒロ",
@@ -12949,16 +13129,6 @@
           "wordCount": 1572,
           "title": "コートでは 誰でもポロリ ポロリ出す",
           "imageUrl": "http://www.2nn.jp/img/dqnplus/1791846584.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1791811972/",
-          "author": "朝一から閉店までφ ★",
-          "description": "By - grape TREND編集部 　公開:2026-10-12 　更新:2026-10-12\n2026年5月8日に亡くなった、『リング』『らせん』などの名作ホラー小説で知られる作家の鈴木光司さん。同年10月11日、東京都内で行われた『しのぶ会』...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791811972/",
-          "link": "http://www.2nn.jp/dqnplus/1791811972/",
-          "publishedOn": "2026-10-12T13:32:52.000Z",
-          "wordCount": 1544,
-          "title": "鈴木光司さんの『しのぶ会』に貞子がサプライズ登場 まさかの記念写真に「笑った」「愛を感じる」",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791811972.jpg"
         }
       ]
     },
@@ -13371,6 +13541,26 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321715",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]\n投稿 【モスバーガー】『モスの匠味』黒毛和牛ダブルバーガー【新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mos-wagyu-burger-2026",
+          "publishedOn": "2026-11-11T05:09:56.000Z",
+          "wordCount": 1922,
+          "title": "【モスバーガー】『モスの匠味』黒毛和牛ダブルバーガー【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/018bacf60671a3b3b60fc6fe3ee4ed9f.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=321691",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、新メニュー、”想いが見える野菜”を使用した人気ハンバーガーチェーン「モスバーガー」へ進撃しま […]\n投稿 【モスバーガー】まぜるシェイク ティラミス【新メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/mos-shake-tiramisu",
+          "publishedOn": "2026-11-11T01:38:35.000Z",
+          "wordCount": 1927,
+          "title": "【モスバーガー】まぜるシェイク ティラミス【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/6e73e727e5aae1b6fef1acea357f728b.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321662",
           "author": "foodfighter",
@@ -14128,6 +14318,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127844/",
+          "author": null,
+          "description": "テレビアニメ「ワンパンマン」第3期・第2クールのエンディング主題歌が、主人公・サイタマ役の古川慎が歌う「惑星の片隅（ほしのはしくれ）」に決定した。 古川は第1クールのエンディング主題歌「そこに有...",
+          "link": "https://anime.eiga.com/news/127844/",
+          "publishedOn": "2026-11-11T03:00:00.000Z",
+          "wordCount": 821,
+          "title": "「ワンパンマン」第3期・第2クールのED主題歌は古川慎が続投　新ヒーロー＆怪人ビジュアル公開",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127828/",
           "author": null,
@@ -17080,6 +17285,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127162",
+          "author": null,
+          "description": "GCノベルズ発のアニメ『ガチャを回して仲間を増やす 最強の美少女軍団を作り上...",
+          "link": "https://ln-news.com/articles/127162",
+          "publishedOn": "2026-11-11T05:30:00.000Z",
+          "wordCount": 304,
+          "title": "アニメ『ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ』は2027年1月7日（木）より放送開始　キャスト舞台挨拶付き先行上映会も開催決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/7ba29ac04354445eb8414e547b51fc9e.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127171",
+          "author": null,
+          "description": "GCノベルズ発のアニメ『転生したら剣でしたII』第6話「初めての砂浜は塩味で...",
+          "link": "https://ln-news.com/articles/127171",
+          "publishedOn": "2026-11-11T04:00:00.000Z",
+          "wordCount": 228,
+          "title": "アニメ『転生したら剣でしたII』第6話「初めての砂浜は塩味でした」のあらすじ＆先行カット解禁",
+          "imageUrl": "https://assets.ln-news.com/images/medias/299e5a745c7a4dbc8897bb97d06b2bf3.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127174",
+          "author": null,
+          "description": "電撃文庫刊『エロマンガ先生』や『私の初恋は恥ずかしすぎて誰にも言えない』を手...",
+          "link": "https://ln-news.com/articles/127174",
+          "publishedOn": "2026-11-11T01:00:00.000Z",
+          "wordCount": 269,
+          "title": "イベント「伏見つかさデビュー20周年＆俺の妹がこんなに可愛いわけがない アニメ放送15周年記念3作品合同ストア in THEキャラ」が有楽町マルイにて開催中",
+          "imageUrl": "https://assets.ln-news.com/images/medias/ca848e018bc9496ca1f1978e83f54be1.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127133",
           "author": null,
@@ -20758,16 +20993,6 @@
           "wordCount": 2756,
           "title": "80億分の1",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image-14.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13611",
-          "author": "watanabe@logipara.com",
-          "description": "Q：減っているのに伸びているもの、なーんだ？ A:髪 　 美容院に行ってきました。 席に通され、目の前にある机に雑誌を置かれたのですが、見たこともないファッション雑誌で。 しかし、この雑誌を読まないと、美容師に、 （やっ […]",
-          "link": "https://logipara.com/diary-text/2026-10-13/",
-          "publishedOn": "2026-10-12T12:33:26.000Z",
-          "wordCount": 2763,
-          "title": "美容院の雑誌問題",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
@@ -20795,16 +21020,6 @@
           "wordCount": 261,
           "title": "AIが見つけた堀口英利2023年渡英証拠のミス",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/15814954196cbbf395c4abd8e460717c53da43da.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/n3f26fe45a2ec",
-          "author": null,
-          "description": "ドカ食いダイスキ！ もちづきさん 4 (ヤングアニマルコミックス)link.amazon 759円(2026年09月29日 12:53時点詳しくはこちら)    Amazon.co.jpで購入する    \n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/n3f26fe45a2ec",
-          "publishedOn": "2026-10-12T12:36:13.000Z",
-          "wordCount": 11497,
-          "title": "先週観たもの",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/34e50357f3c4b15878ff7dda70a5e3db4fa749ea.png"
         }
       ]
     },
