@@ -2664,16 +2664,6 @@
           "wordCount": 8434,
           "title": "フィーチャーフォン向けRPG「ロストセイヴァー」がG-MODEアーカイブス+で復刻。Switch版を10月15日，Steam版を10月28日に配信",
           "imageUrl": "https://www.4gamer.net/games/049/G104983/20261013047/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/635/G063504/20261013053/",
-          "author": null,
-          "description": "カプコンは本日，「ストリートファイター6」にYear4追加キャラクター第2弾「アルジュン」を実装した。ヨガと呼吸法を生かした設置技や飛び道具に加え，パワフルな打撃も得意とするファイターで，アーケードモードには専用ストーリーも追加されている。",
-          "link": "https://www.4gamer.net/games/635/G063504/20261013053/",
-          "publishedOn": "2026-10-13T11:41:04.000Z",
-          "wordCount": 8702,
-          "title": "「ストリートファイター6」，Year 4追加キャラ第2弾「アルジュン」が本日参戦。設置技や飛び道具を駆使するトリッキーなファイター",
-          "imageUrl": "https://www.4gamer.net/games/635/G063504/20261013053/SS/001.jpg"
         }
       ]
     },
@@ -2682,6 +2672,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/c2b1b2cd57c4efde7d3db1e6cc2c0f1bbfb7d545?source=rss",
+          "author": null,
+          "description": "１１日夜、大阪府富田林市の道路工事現場で、バックしていたトラックと接触したガードマンの男性が、死亡しました。大阪のごみ処理ひっ迫問題 大阪市と八尾市の一部のごみを東大阪市・大東市の組合が受け入れへ １",
+          "link": "https://news.yahoo.co.jp/articles/c2b1b2cd57c4efde7d3db1e6cc2c0f1bbfb7d545?source=rss",
+          "publishedOn": "2026-11-11T22:18:14.000Z",
+          "wordCount": 1663,
+          "title": "大阪・富田林市の道路工事現場でバック中のトラックと接触したガードマンの男性が死亡　運転していたベトナム国籍の男を現行犯逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00083553-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/fa19841567a5f6bcd1b0a289a1a87b38240aba55?source=rss",
           "author": null,
@@ -7781,106 +7781,6 @@
           "wordCount": 1643,
           "title": "道頓堀のグリコの看板リニューアル　来年春ごろお披露目予定　ランナーのポーズは変わらず(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083021-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d13ec72ed38b744fcba778484c06c9b9a3df02fc?source=rss",
-          "author": null,
-          "description": "阪急電鉄によりますと、午後１０時１５分ごろに起きた人身事故の影響で、宝塚線は大阪梅田駅と宝塚駅の間で一時運転を見合わ、列車に遅れが出ています。",
-          "link": "https://news.yahoo.co.jp/articles/d13ec72ed38b744fcba778484c06c9b9a3df02fc?source=rss",
-          "publishedOn": "2026-10-13T13:48:29.000Z",
-          "wordCount": 1578,
-          "title": "阪急宝塚線一時運転見合わせ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083023-asahibcv-000-5-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b2c8ce22a994d9ae5365781a9e59a78eeb0d5dc9?source=rss",
-          "author": null,
-          "description": "東大阪市にある布施戎神社の福娘らが、街頭で地域の安全を呼びかけました。 「河内のえべっさん」として親しまれている布施戎神社で１３日、一日署長を委嘱されたのは「ミス福娘」の北谷真乙さんら３人の福娘です。",
-          "link": "https://news.yahoo.co.jp/articles/b2c8ce22a994d9ae5365781a9e59a78eeb0d5dc9?source=rss",
-          "publishedOn": "2026-10-13T13:10:00.000Z",
-          "wordCount": 1647,
-          "title": "布施戎の「福娘」が一日署長　地域の安全を呼びかけ　東大阪市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083019-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e07a18bf8793a7772e02f0194c9acea855880585?source=rss",
-          "author": null,
-          "description": "自治体向けに防災アプリなどを提供するシステムを運営する「アルカディア」は、第三者による不正アクセスを受け、個人情報が漏洩した可能性があると発表しました。メールアドレスなど約３２５万件が漏洩した可能性が",
-          "link": "https://news.yahoo.co.jp/articles/e07a18bf8793a7772e02f0194c9acea855880585?source=rss",
-          "publishedOn": "2026-10-13T13:07:40.000Z",
-          "wordCount": 1701,
-          "title": "「アルカディア」に不正アクセス　約３２５万件の個人情報漏洩した可能性　自治体向けに防災アプリ提供するシステム運営　大阪・箕面市などがメール配信停止(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083022-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/446706bcba9935453525489c484a3500b3054b36?source=rss",
-          "author": null,
-          "description": "大阪府からひとり親支援に関する補助金などを受給し、支援事業を委託されている社会福祉法人の元職員が約４０００万円を不正に着服していたとして懲戒解雇されました。利用者の頭を殴るなどの虐待 障害者向けグルー",
-          "link": "https://news.yahoo.co.jp/articles/446706bcba9935453525489c484a3500b3054b36?source=rss",
-          "publishedOn": "2026-10-13T10:46:14.000Z",
-          "wordCount": 1689,
-          "title": "「ひとり親支援」の補助金など約4000万円を生活費に　大阪府が事業委託した社会福祉法人の元職員が不正着服　(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083018-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/bcc41fbafde5fc52f42207130c462187e2275261?source=rss",
-          "author": null,
-          "description": "大阪・関西万博の閉幕からちょうど１年。記念イベントが開催されました。 ユニバーサルスタジオジャパンでは、ミャクミャクとＵＳＪの人気キャラクターたちが特別パフォーマンスを披露。万博閉幕から1年、夢洲はど",
-          "link": "https://news.yahoo.co.jp/articles/bcc41fbafde5fc52f42207130c462187e2275261?source=rss",
-          "publishedOn": "2026-10-13T10:35:11.000Z",
-          "wordCount": 1648,
-          "title": "大阪・関西万博閉幕から１年　各地でイベント開催　ＵＳＪではミャクミャクが登場　限定コラボグッズも(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083015-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c5e18e47fad60ed63aacede04ad75adda1f6be1a?source=rss",
-          "author": null,
-          "description": "殺害された男子高校生の父親は、「息子の命に比べれば過大な要求ではない」と述べました。【速報】廃プラスチック工場で火災 現在も消火活動中 従業員６人は避難して無事 奈良 ２０１０年、神戸市北区の路上で高",
-          "link": "https://news.yahoo.co.jp/articles/c5e18e47fad60ed63aacede04ad75adda1f6be1a?source=rss",
-          "publishedOn": "2026-10-13T10:34:59.000Z",
-          "wordCount": 1649,
-          "title": "「失われた息子の命に比べれば過大な要求ではない」神戸・高校生殺害事件　損害賠償訴訟の控訴審(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083014-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/679ee59e44fae517e60fe8b61ff7969accd69fe8?source=rss",
-          "author": null,
-          "description": "13日から始まった衆議院予算委員会。簗農水大臣の一連の疑惑について、身内からも苦言が呈されました。万博閉幕から1年、夢洲はどうなった？ 跡地活用の公募に「手を挙げる事業者いない」エリアも “負の遺産”",
-          "link": "https://news.yahoo.co.jp/articles/679ee59e44fae517e60fe8b61ff7969accd69fe8?source=rss",
-          "publishedOn": "2026-10-13T10:22:50.000Z",
-          "wordCount": 1827,
-          "title": "簗農水大臣の発言を「不適切でダサい」 高市総理の進退判断は？ 農水省内には「簗大臣お支えチーム」結成　国会答弁や報道対応を強化へ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083017-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/742db725359c8a10c7cd9da0027d86332804008c?source=rss",
-          "author": null,
-          "description": "虐待があったとして障害者施設を処分です。 大阪府貝塚市が３ヵ月間、全てのサービスの提供を停止させる処分を科したのは特定非営利活動法人「ゆめがめぐみ」が運営する障害者向けグループホーム「めぐみホーム」で",
-          "link": "https://news.yahoo.co.jp/articles/742db725359c8a10c7cd9da0027d86332804008c?source=rss",
-          "publishedOn": "2026-10-13T10:20:37.000Z",
-          "wordCount": 1663,
-          "title": "利用者３人に対し頭を殴るなどの虐待　障害者施設を処分　３カ月間サービス停止(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083013-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3821bc46b03c8cbe76ff29af52ee5dcf9bb4d31d?source=rss",
-          "author": null,
-          "description": "一方、パビリオン建設費の「未払い問題」を巡っては一部の国が支払っていたことがわかりました。万博閉幕から1年、夢洲はどうなった？ 跡地活用の公募に「手を挙げる事業者いない」エリアも “負の遺産”への懸念",
-          "link": "https://news.yahoo.co.jp/articles/3821bc46b03c8cbe76ff29af52ee5dcf9bb4d31d?source=rss",
-          "publishedOn": "2026-10-13T10:17:43.000Z",
-          "wordCount": 1676,
-          "title": "万博・建設費”未払い問題”　アンゴラ政府が「人道的な理由」で下請け会社を救済　４割にあたる約１７００万円支払い(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083016-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4217944c397b8688898c7d19acf712590e48a2c5?source=rss",
-          "author": null,
-          "description": "認定こども園で、男の子がゼリーをのどに詰まらせて死亡しました。 奈良県香芝市などによりますと９月１５日、市内にある民間の認定こども園「あけぼの・幼保学院」で、３歳児クラスの４歳の男の子が、ゼリーをのど",
-          "link": "https://news.yahoo.co.jp/articles/4217944c397b8688898c7d19acf712590e48a2c5?source=rss",
-          "publishedOn": "2026-10-13T10:04:50.000Z",
-          "wordCount": 1649,
-          "title": "４歳男児がゼリーをのどに詰まらせ死亡　奈良・香芝市の認定こども園　第三者委で事故原因調査へ(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00083012-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -7889,6 +7789,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjy5x41ezplro#0",
+          "author": null,
+          "description": "3日に投開票された米中間選挙の連邦上院選で、民主党候補のスコット・コロム氏がミシシッピ州で勝利した。数十年にわたり共和党を選出してきた極めて保守的な同州で、民主党が衝撃的な勝利を獲得した。同州から黒人候補が連邦上院に選ばれるのは、1881年以来。",
+          "link": "https://www.bbc.com/japanese/articles/cjy5x41ezplro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-12T01:58:22.000Z",
+          "wordCount": 1780,
+          "title": "【米中間選挙2026】 民主党コロム氏が歴史的勝利、ミシシッピ州の連邦上院選",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b0ff/live/5691ef30-de3a-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/ckeq45jyz2ndo#0",
           "author": null,
@@ -9957,6 +9867,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/12/news031.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、データセンターやロボティクス、産業用モータなどのリアルタイム制御に対応したミックスド・シグナル・マイクロコントローラー「STM32G5」シリーズを発表した。Arm Cortex-M33コアを搭載し、演算処理性能を従来品の2倍に向上させている。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/12/news031.html",
+          "publishedOn": "2026-11-12T00:00:00.000Z",
+          "wordCount": 2662,
+          "title": "ロボットなど向け「STM32」の新ファミリ、演算処理性能2倍",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/12/cover_news031.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2611/11/news015.html",
           "author": null,
           "description": "Nordic SemiconductorのWi-Fi SoC「nRF71」シリーズは、従来製品に比べて待機時消費電力を最大20分の1に削減する。NPUを搭載したモデルも用意し、バッテリー駆動機器でのエッジAI推論に対応する。",
@@ -10633,6 +10553,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=137262",
+          "author": "佐野正弘",
+          "description": "2026年11月4日に増収増益の決算を発表し、さらに業績の上方修正を打ち出すなど、業績回復を鮮明に打ち出したNTTドコモ。だがその翌日、同社を巡り大きなトラブルが、しかも立て続けに発生している。 その1つが、外部からの不正アクセスによって個人情報の流出が発生したこと。同社の「ドコモオンラインショップ […]",
+          "link": "https://gadget.phileweb.com/post-137262/",
+          "publishedOn": "2026-11-11T21:30:00.000Z",
+          "wordCount": 732,
+          "title": "通信障害に不正アクセス、ドコモでトラブルが相次ぐのはなぜか",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/10315d6e96355188c26a7e3501473349.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=137249",
           "author": "Munenori Taniguchi",
@@ -12102,26 +12032,6 @@
           "wordCount": 759,
           "title": "PC版『GTA 6』は2027年1～3月期に発売？海外メディアが報道、ただし公式発表はなし",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/7ea04b1f0586250570cccbe065e32999.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=134949",
-          "author": "編集部：平山洸太",
-          "description": "アップルは、ディスプレイ搭載のスマートホームデバイス「Apple HomeView」を海外発表した。なお、日本での発売はアナウンスされていない。オーストラリア、カナダ、インド、ニュージーランド、英国、米国では、299ドルで予約注文が開始されている。 7型のLiquid Retinaディスプレイを搭載 […]",
-          "link": "https://gadget.phileweb.com/post-134949/",
-          "publishedOn": "2026-10-13T14:15:00.000Z",
-          "wordCount": 701,
-          "title": "アップル初、画面付きスマートホーム機器「HomeView」海外発表。299ドル",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/f615f206404ac2eb92d819d2c4e51238.jpg.xlarge_2x.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=134943",
-          "author": "編集部：平山洸太",
-          "description": "アップルは、スマートスピーカー「HomePod mini 2」を10月30日に発売する。価格は24,800円（税込）。カラーはピンク、グリーン、ブルー、ホワイト、ミッドナイトを用意する。 「あらゆる部屋のための究極のスピーカー」だという、同社スマートスピーカーの新モデル。新しいApple TV 4K […]",
-          "link": "https://gadget.phileweb.com/post-134943/",
-          "publishedOn": "2026-10-13T13:50:00.000Z",
-          "wordCount": 709,
-          "title": "アップル、新スマートスピーカー「HomePod mini 2」発表。最大4台でサラウンド再生、5色展開で10月30日発売",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/41a19f30e8ca6ec41003e651d27f2c5c.jpg.large_2x.jpg"
         }
       ]
     },
@@ -12130,6 +12040,26 @@
       "feedUrl": "https://www.2nn.jp/rss/dqnplus.rdf",
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
+        {
+          "id": "http://www.2nn.jp/dqnplus/1794446618/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "「知らない、どうでもいい」会社から借りていた携帯電話を買取店に100円で売却し横領した疑い　大阪市西成区の無職の男(55)を逮捕【香川】今年5月、勤務先の会社名義の携帯電話機1台を買取店に100円で売却し横領する...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1794446618/",
+          "link": "http://www.2nn.jp/dqnplus/1794446618/",
+          "publishedOn": "2026-11-12T01:23:38.000Z",
+          "wordCount": 1621,
+          "title": "「知らない、どうでもいい」会社から借りていた携帯電話を買取店に100円で売却し横領した疑い 大阪市西成区の無職の男(55)を逮捕",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1794446618.jpg"
+        },
+        {
+          "id": "http://www.2nn.jp/dqnplus/1794445232/",
+          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
+          "description": "親の死届けた男性を死亡扱い　市職員ミス、マイナカード失効山陽新聞社\n高梁市役所\n高梁市は11日、職員が住民記録システムの入力を誤って、親の死亡届を出した男性を死亡扱いとし、マイナンバーカードを失効させるミ...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1794445232/",
+          "link": "http://www.2nn.jp/dqnplus/1794445232/",
+          "publishedOn": "2026-11-12T01:00:32.000Z",
+          "wordCount": 1662,
+          "title": "親の死届けた男性を死亡扱い 市職員ミス、マイナ免許証失効   市側「タクシーを使え」",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1794445232.jpg"
+        },
         {
           "id": "http://www.2nn.jp/dqnplus/1794399180/",
           "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
@@ -12999,16 +12929,6 @@
           "wordCount": 1563,
           "title": "入浴中の女性を盗撮した疑いで男を再逮捕 以前は女性用かつらで変装し女子トイレ侵入か 香川",
           "imageUrl": "http://www.2nn.jp/img/dqnplus/1791902295.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1791890199/",
-          "author": "朝一から閉店までφ ★",
-          "description": "2026.10.13\nウエストランドの井口浩之が11日、自身のYouTubeで、10日に放送されたTBS「オールスター後夜祭」での“テンコジ算”について解説。プロレスラーの小島聡が「私も勉強になりました」とつぶやいた。「後夜...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1791890199/",
-          "link": "http://www.2nn.jp/dqnplus/1791890199/",
-          "publishedOn": "2026-10-13T11:16:39.000Z",
-          "wordCount": 1539,
-          "title": "1+1は10倍の200だ! テンコジ算を制したウエストランド井口がYouTubeで解説 小島聡も感激",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1791890199.jpg"
         }
       ]
     },
@@ -13411,6 +13331,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321743",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、丼ぶりと京風うどんの有名人気チェーン「なか卯」へ進撃しました。   【なか卯】天然いくら丼・ […]\n投稿 【なか卯】天然いくら丼・豪快盛【新商品】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/nakau-ikura-don-2026",
+          "publishedOn": "2026-11-12T01:08:20.000Z",
+          "wordCount": 1934,
+          "title": "【なか卯】天然いくら丼・豪快盛【新商品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/4922a27ca6deda0bca8600bec06244c0.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321715",
           "author": "foodfighter",
@@ -14150,26 +14080,6 @@
           "wordCount": 2160,
           "title": "【コメダ珈琲店】お好み焼きバーガー【数量限定・期間限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/263926dfd02cd8f24d52405b376d06ed.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319956",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「ギガ盛りソフト（ミルク）」を世界一詳しく調査しました。   【ファミマ】ギガ盛りソフト（ミ […]\n投稿 【ファミマ】ギガ盛りソフト（ミルク・ソフトクリーム）【店舗限定・新作アイス】 は 進撃のグルメ に最初に表示されました。",
-          "link": "https://foodfighter.jp/famima-soft-cream-giga",
-          "publishedOn": "2026-10-13T14:19:15.000Z",
-          "wordCount": 1905,
-          "title": "【ファミマ】ギガ盛りソフト（ミルク・ソフトクリーム）【店舗限定・新作アイス】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/c96d2172fccca7b19609893e44c69bbc.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=319930",
-          "author": "foodfighter",
-          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「CAFE BOX デミトマロコモコ（カフェボックス）」を世界一詳しく調査しました。   【セ […]\n投稿 【セブンイレブン】CAFE BOX デミトマロコモコ（カフェボックス）【新作コンビニ弁当】 は 進撃のグルメ に最初に表示されました。",
-          "link": "https://foodfighter.jp/711sej-cafe-box-loco-moco",
-          "publishedOn": "2026-10-13T10:25:03.000Z",
-          "wordCount": 1926,
-          "title": "【セブンイレブン】CAFE BOX デミトマロコモコ（カフェボックス）【新作コンビニ弁当】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/696e97cb2a5baf7129018714c8135c99.jpg"
         }
       ]
     },
@@ -17107,66 +17017,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127647/",
-          "author": null,
-          "description": "11月13日に公開される「楽園追放 心のレゾナンス」の主題歌を、ガブリエル役の佐倉綾音と「乃木坂46」のメンバーである井上和が歌うことがわかった。さらに、本予告映像（https://youtu....",
-          "link": "https://anime.eiga.com/news/127647/",
-          "publishedOn": "2026-10-13T13:00:00.000Z",
-          "wordCount": 724,
-          "title": "「楽園追放 心のレゾナンス」主題歌は佐倉綾音と「乃木坂46」井上和が歌唱　本予告映像も公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127645/",
-          "author": null,
-          "description": "「劇場版 薬屋のひとりごと 亡妃の秘宝」のキャラクターPV「未の一族」編（https://youtu.be/j750IM4RNjs）が、このほど公開された。 アニメ「薬屋のひとりごと」は、シリー...",
-          "link": "https://anime.eiga.com/news/127645/",
-          "publishedOn": "2026-10-13T12:00:00.000Z",
-          "wordCount": 708,
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫たちが旅先で出会う「未の一族」キャラPV披露　沐清役の伊瀬茉莉也がコメント発表",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127617/",
-          "author": null,
-          "description": "現在公開中の織田裕二主演映画「踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！」が、10月4日までの公開17日間で動員185万人、興行収入26.5億円を突破している。このヒットを記念し、急...",
-          "link": "https://anime.eiga.com/news/127617/",
-          "publishedOn": "2026-10-13T11:00:00.000Z",
-          "wordCount": 694,
-          "title": "「踊る大捜査線 N.E.W.」ヒット記念し、シリーズ初の応援上映＆副音声上映が決定　関智一ナレーションの“応援上映指南ムービー”も解禁",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127644/",
-          "author": null,
-          "description": "「劇場版 薬屋のひとりごと 亡妃の秘宝」のキャラクターPV「猫猫・壬氏一行」編（https://youtu.be/bo-P_qi2-RU）が、このほど公開された。 アニメ「薬屋のひとりごと」は、...",
-          "link": "https://anime.eiga.com/news/127644/",
-          "publishedOn": "2026-10-13T10:00:00.000Z",
-          "wordCount": 690,
-          "title": "「劇場版　薬屋のひとりごと　亡妃の秘宝」猫猫・壬氏一行を描くキャラクターPV披露【初公開シーン満載】",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -17175,6 +17025,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127176",
+          "author": null,
+          "description": "第33回電撃小説大賞の結果発表が行われた。応募総数5,088作品の中から、最...",
+          "link": "https://ln-news.com/articles/127176",
+          "publishedOn": "2026-11-12T01:00:00.000Z",
+          "wordCount": 243,
+          "title": "第33回電撃小説大賞の結果発表　「大賞」に1作品など7作品が受賞",
+          "imageUrl": "https://assets.ln-news.com/images/medias/cb151fe56a6548e7b843c7502fc0e360.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127177",
+          "author": null,
+          "description": "MF文庫J刊『義妹生活』より、水着姿の綾瀬沙季のノンスケールフィギュアが20...",
+          "link": "https://ln-news.com/articles/127177",
+          "publishedOn": "2026-11-11T23:00:00.000Z",
+          "wordCount": 244,
+          "title": "『義妹生活』水着姿の綾瀬沙季のノンスケールフィギュアが2027年6月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/94065e02dab541a5b6511f583dc188a5.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127150",
           "author": null,
@@ -19764,16 +19634,6 @@
           "wordCount": 234,
           "title": "『ちび神獣たちのお世話係始めました ～世界樹の森でもふもふスローライフ！～』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/7ced9b535a5446b3be8e1b70f0ddcada.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126917",
-          "author": null,
-          "description": "MF文庫Jの新文芸単行本発のアニメ『佐々木とピーちゃん Season2』第2...",
-          "link": "https://ln-news.com/articles/126917",
-          "publishedOn": "2026-10-13T10:00:00.000Z",
-          "wordCount": 236,
-          "title": "アニメ『佐々木とピーちゃん Season2』第2話「デスゲームと悪魔」のあらすじ＆先行カット解禁",
-          "imageUrl": "https://assets.ln-news.com/images/medias/7b0d8654d28f4423b3cfe2abd8da3acc.jpg"
         }
       ]
     },
@@ -20282,16 +20142,6 @@
           "wordCount": null,
           "title": "何年経っても掃除機が大嫌いな猫がこうなっちゃいます…",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cbSR55cgB14",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cbSR55cgB14",
-          "publishedOn": "2026-10-13T11:01:37.000Z",
-          "wordCount": null,
-          "title": "やっと仕事が終わったので遊んであげたら猫が興奮しすぎてこうなっちゃいましたwww",
-          "imageUrl": null
         }
       ]
     },
@@ -20575,6 +20425,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=13705",
+          "author": "watanabe@logipara.com",
+          "description": "異動があり、我らが職場に転入者と、転出者がでることになりました。 じゃあ歓迎会＆送別会をしよう！と、参加予定を確認したところ、すべての日程で 　・転入者が× 　・転出者が× のどちらかで、幹事がうっすら悩んでいる話（ある […]",
+          "link": "https://logipara.com/diary-text/2026-11-12/",
+          "publishedOn": "2026-11-12T00:20:26.000Z",
+          "wordCount": 2752,
+          "title": "職場の歓迎会",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=13699",
           "author": "watanabe@logipara.com",
           "description": "先日、夢を見たんですよ。 みかんを包むネットがあるじゃないですか。 こんな感じのネットを、自分の口からずーーーーーっと引き出してる夢。 万国旗を口から出す手品があるじゃないですか。あの万国旗をみかんネットに変えたイメージ […]",
@@ -20853,16 +20713,6 @@
           "wordCount": 2748,
           "title": "要領の悪い体調",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13613",
-          "author": "watanabe@logipara.com",
-          "description": "いま、８０億分の１という人生シミュレーターが流行っています。 https://1in8b.life/ja 　 生まれると、統計上の確率に基づいてどこかの国に生まれ、さまざまな選択を経て成長し、結婚や病気を経て、やがて死ん […]",
-          "link": "https://logipara.com/diary-text/2026-10-14/",
-          "publishedOn": "2026-10-13T13:31:47.000Z",
-          "wordCount": 2756,
-          "title": "80億分の1",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image-14.png"
         }
       ]
     },
