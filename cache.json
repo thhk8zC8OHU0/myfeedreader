@@ -6,6 +6,56 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/058/G105815/20261113006/",
+          "author": null,
+          "description": "ディースリー・パブリッシャーは本日，「ガールズ＆パンツァーオールスター・タンク・カーニバル」を2027年3月25日に発売すると発表した。発表済みのSwitch2版に加え，PC（Steam）/PS5版の同時発売も決定。3機種間のクロスプレイに対応し，最大10人でオンライン対戦を楽しめる。",
+          "link": "https://www.4gamer.net/games/058/G105815/20261113006/",
+          "publishedOn": "2026-11-13T03:13:33.000Z",
+          "wordCount": 8419,
+          "title": "「ガールズ＆パンツァー オールスター・タンク・カーニバル」，2027年3月25日発売決定。PC / PS5版も登場し，最大10人でのクロスプレイに対応",
+          "imageUrl": "https://www.4gamer.net/games/058/G105815/20261113006/SS/022.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/931/G093154/20261109019/",
+          "author": null,
+          "description": "戦わないクラフト系アドベンチャー「LittleWitchintheWoods」のインプレッションをお届けする。生き物をなでたりコネコネしたりして素材を集め，ポーションを調合する気ままな魔女生活が楽しめる本作を，Switch版のプレイをもとに紹介しよう。",
+          "link": "https://www.4gamer.net/games/931/G093154/20261109019/",
+          "publishedOn": "2026-11-13T03:00:00.000Z",
+          "wordCount": 8405,
+          "title": "モフって，調合して，寄り道三昧！　Steamで“非常に好評”な「Little Witch in the Woods」は，戦うことに疲れた人に遊んでほしい【PR】",
+          "imageUrl": "https://www.4gamer.net/games/931/G093154/20261109019/TN/002.gif"
+        },
+        {
+          "id": "https://www.4gamer.net/games/054/G105426/20261110016/",
+          "author": null,
+          "description": "2027年発売予定の「枷檻累々―うら黄泉照らす鬼灯夜―」は，攻略キャラクター全員が死者という設定の和風ダークファンタジーADVだ。本作の世界観やキャラクター，背景美術や音楽へのこだわりなど，制作の裏側に迫った。",
+          "link": "https://www.4gamer.net/games/054/G105426/20261110016/",
+          "publishedOn": "2026-11-13T03:00:00.000Z",
+          "wordCount": 1028,
+          "title": "攻略キャラクターは全員“死者”。「枷檻累々―うら黄泉照らす鬼灯夜―」の世界観やキャラクター，制作の裏側に迫る［インタビュー］",
+          "imageUrl": "https://www.4gamer.net/games/054/G105426/20261110016/SS/007.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/484/G048410/20261112003/",
+          "author": null,
+          "description": "セール終了間際のタイトルから，名作や特にお買い得なタイトルを厳選して紹介する連載「今週のすべり込みセール情報」。今週は「龍が如く極３/龍が如く３外伝DarkTies」がNintendoStoreで60％オフの3596円，「イース・オリジン」がNintendoStoreで90％オフの216円と，お買い得になっています！",
+          "link": "https://www.4gamer.net/games/484/G048410/20261112003/",
+          "publishedOn": "2026-11-13T03:00:00.000Z",
+          "wordCount": 8186,
+          "title": "「龍が如く 極３ / 龍が如く３外伝 Dark Ties」が8990円→3596円で最安！「イース・オリジン」は216円！「今週のすべり込みセール情報」",
+          "imageUrl": "https://www.4gamer.net/games/484/G048410/20261112003/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/035/G103535/20261113003/",
+          "author": null,
+          "description": "SHIFTUPとLostInCultRecordsは，「StellarBlade」の楽曲を収録した4枚組LPボックスセット「StellarBlade:Director’sEdition」を発表した。ゲーム本編や拡張版サウンドトラック，ジャズアレンジなどから楽曲を厳選したもので，限定カラー盤を含む2種類が用意される。本日から予約の受け付けが始まっている。",
+          "link": "https://www.4gamer.net/games/035/G103535/20261113003/",
+          "publishedOn": "2026-11-13T02:14:51.000Z",
+          "wordCount": 8214,
+          "title": "「Stellar Blade」の楽曲を収録した4枚組LPボックスセット「Director’s Edition」が発売決定。限定カラー盤を含む2種類をラインナップ",
+          "imageUrl": "https://www.4gamer.net/games/035/G103535/20261113003/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/010/G101055/20261105050/",
           "author": null,
           "description": "スクウェア・エニックスは本日，「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の冒険序盤に関する最新情報を公開した。ビアンカとフローラのどちらかを主人公に選べることや，冒険の拠点となるカレキの国の施設，フィールド探索，モンスターの配合など，ゲーム序盤の流れが明らかになった。",
@@ -2654,16 +2704,6 @@
           "wordCount": 8575,
           "title": "マレーシア産パズルアクションADV「Ondeh  Ondeh カヤのうまみ大冒険」は絵柄に似合わず歯ごたえ十分。リズムに乗って絵本のような世界を冒険しよう［プレイレポ］",
           "imageUrl": "https://www.4gamer.net/games/604/G060423/20261014036/SS/007.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/724/G072426/20261013029/",
-          "author": null,
-          "description": "本日（2026年10月15日），ついに正式リリースとなる「Ratatan（ラタタン）」のプレイレポートをお届けする。楽しいリズムでキュートなコブンに指示を出す，ポップで明るいアクションゲームだ。ローグライト要素も強く，臨機応変にビルドを組んで冒険を進めていこう。",
-          "link": "https://www.4gamer.net/games/724/G072426/20261013029/",
-          "publishedOn": "2026-10-14T15:00:00.000Z",
-          "wordCount": 8577,
-          "title": "「Ratatan（ラタタン）」，本日より正式リリース。リズムコマンドでコブンを指揮するローグライトアクション［プレイレポ］",
-          "imageUrl": "https://www.4gamer.net/games/724/G072426/20261013029/SS/003.jpg"
         }
       ]
     },
@@ -2672,6 +2712,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5e5ee742038431c5719e4e304e8b22b01cb360eb?source=rss",
+          "author": null,
+          "description": "大阪の百貨店で、黄金に輝くポケモンなど、金の製品が並ぶ「大黄金展」が開催されています。阿波市長 逮捕されても給与・ボーナス満額支給？差し止めには何が必要か 大阪・難波の高島屋大阪店で１１日から開催され",
+          "link": "https://news.yahoo.co.jp/articles/5e5ee742038431c5719e4e304e8b22b01cb360eb?source=rss",
+          "publishedOn": "2026-11-13T03:32:14.000Z",
+          "wordCount": 1632,
+          "title": "「大黄金展」にピカチュウ登場　２億円超の金のサッカーボールなど１０００点以上の金製品　高島屋大阪店(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00083578-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/98c4732928be2dce08a1d275e167222604f18c36?source=rss",
+          "author": null,
+          "description": "兵庫県姫路市で母親を殺害したとして４５歳の女が逮捕された事件で、現場の台所に、洗いたての包丁が残されていたことがわかりました。岩本アナ 年平均２．７億円赤字のＪＲローカル線を取材【岩本計介ニュースの現",
+          "link": "https://news.yahoo.co.jp/articles/98c4732928be2dce08a1d275e167222604f18c36?source=rss",
+          "publishedOn": "2026-11-13T03:28:10.000Z",
+          "wordCount": 1642,
+          "title": "台所に洗いたての包丁　凶器か　母親殺害疑いで４５歳女逮捕　兵庫・姫路市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00083577-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/26e6cc07a62710567a050adc8756ba4587285955?source=rss",
+          "author": null,
+          "description": "京都府綾部市で、地元の小学生が特産の「手すき和紙」を使った卒業証書作りに取り組みました。年平均２．７億円の赤字 ＪＲローカル線を取材 地元の声から考える「存続」の行方【岩本計介ニュースの現場から】 綾",
+          "link": "https://news.yahoo.co.jp/articles/26e6cc07a62710567a050adc8756ba4587285955?source=rss",
+          "publishedOn": "2026-11-13T03:22:02.000Z",
+          "wordCount": 1662,
+          "title": "特産の「手すき和紙」で卒業証書作り　地元の小学６年生たちが取り組む　京都・綾部市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00083576-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/24d0b261943f35627537473cfd675740abbee730?source=rss",
+          "author": null,
+          "description": "政府が「物価高対策の切り札」として進める食料品の消費税減税。実現すれば、来年の4月から2年間限定で、食料品の消費税が8％から1％になります。ただし、外食は対象外で、10％のまま据え置かれる見通しです。",
+          "link": "https://news.yahoo.co.jp/articles/24d0b261943f35627537473cfd675740abbee730?source=rss",
+          "publishedOn": "2026-11-13T03:00:00.000Z",
+          "wordCount": 1742,
+          "title": "消費税減税で”外食離れ”は起きるのか　丸亀製麺が値下げ発表の一方で、町の個人店は「今でも赤字なのに･･･」と不安(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00083575-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/69bb1b5db42fb191f7c3e3c76d1e63a9a103ebf7?source=rss",
           "author": null,
@@ -7751,46 +7831,6 @@
           "wordCount": 1807,
           "title": "「時価２００億円以上」大阪・ミナミの“超一等地”が強制競売に　不動産鑑定士も注目の土地を手にする者は誰？　建てられるものは？(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00083039-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5d8d89b17886ab98ce70e6e19d91470fee0e091b?source=rss",
-          "author": null,
-          "description": "お笑いコンビ「ヤーレンズ」が、「一日警察署長」に就任しました。 大阪府警池田署の一日警察署長に就任したお笑いコンビ「ヤーレンズ」の楢原真樹（３９）さんと出井隼之介（３９）さんは、池田市の市民文化会館で",
-          "link": "https://news.yahoo.co.jp/articles/5d8d89b17886ab98ce70e6e19d91470fee0e091b?source=rss",
-          "publishedOn": "2026-10-14T12:13:58.000Z",
-          "wordCount": 1649,
-          "title": "「ヤーレンズ」が一日署長に　特殊詐欺への注意呼びかけ　大阪府警池田署(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00083042-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cc05bb5cedbd74cbf7b09b1a8fae6baea580699f?source=rss",
-          "author": null,
-          "description": "名誉毀損の疑いで動画配信業の男が逮捕されました。 名誉毀損の疑いで逮捕されたのは、東京都の動画配信業・池田実貴容疑者（２８）です。トクリュウ指示役兼リクルーターか 29歳女を逮捕 バー経営者の自宅への",
-          "link": "https://news.yahoo.co.jp/articles/cc05bb5cedbd74cbf7b09b1a8fae6baea580699f?source=rss",
-          "publishedOn": "2026-10-14T12:12:42.000Z",
-          "wordCount": 1722,
-          "title": "動画配信業の男を逮捕　動画で男性の名誉毀損した疑い　男性は事件後に自殺(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00083041-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/dfea0bcc847d408a6c4f5fde6c5ba1c48418c3e7?source=rss",
-          "author": null,
-          "description": "信号待ち中に、寝落ちしていました。 酒酔い運転の疑いで書類送検されたのは、大阪府警の警察署の刑事課に所属する、男性巡査（２７）です。捜索で“マニュアル”も発見 無資格で犬や猫に薬剤投与した疑い ペット",
-          "link": "https://news.yahoo.co.jp/articles/dfea0bcc847d408a6c4f5fde6c5ba1c48418c3e7?source=rss",
-          "publishedOn": "2026-10-14T12:11:59.000Z",
-          "wordCount": 1663,
-          "title": "大阪府警の２７歳男性巡査が酒酔い運転の疑いで書類送検　信号待ち中に寝落ち、基準値超えるアルコール検知(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00083043-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1e1bad89c21f2ffe08612cb95b368f51f31ae71c?source=rss",
-          "author": null,
-          "description": "女性が運転する軽自動車を追い抜いた直後に急停止し、自分の車をわざと衝突させて、女性にけがをさせたとして７９歳の男が逮捕されました。トクリュウ指示役兼リクルーターか 29歳女を逮捕 バー経営者の自宅への",
-          "link": "https://news.yahoo.co.jp/articles/1e1bad89c21f2ffe08612cb95b368f51f31ae71c?source=rss",
-          "publishedOn": "2026-10-14T12:11:02.000Z",
-          "wordCount": 1697,
-          "title": "追い抜いた直後に急ブレーキ、わざと車を衝突させ女性にけがさせた疑い　７９歳男を逮捕　滋賀・大津市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00083044-asahibcv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -7799,6 +7839,16 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c9vg2l1ykxe7o#0",
+          "author": null,
+          "description": "アメリカの首都ワシントンの集合住宅内のジムで12日、銃撃があり、建物の管理人が死亡、4人が負傷した。警察によると、容疑者は犯行後に自ら命を絶った。容疑者は集合住宅の自宅のかびなどをめぐり、管理者側と対立していたとされる。",
+          "link": "https://www.bbc.com/japanese/articles/c9vg2l1ykxe7o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T02:20:49.000Z",
+          "wordCount": 1782,
+          "title": "米首都で医師が発砲、集合住宅の管理人死亡　自宅カビ問題で対立か",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ba5b/live/e513fed0-def6-11f1-93e1-3b657b665bcf.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/watch/cqy7r6415yn1o#0",
           "author": null,
@@ -9857,6 +9907,26 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/13/news046.html",
+          "author": null,
+          "description": "TDKは、最大650W出力のAC-DCコンバーター「HWS650G」の受注を開始した。従来製品と比べて体積を約60％削減し、変換効率は最大94％を実現。一部に炭化ケイ素（SiC）パワー半導体を採用したほか、定電圧／定電流制御にも対応し、半導体製造装置やロボット向けのバッテリー充電などへの採用を狙う。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/13/news046.html",
+          "publishedOn": "2026-11-13T02:00:00.000Z",
+          "wordCount": 2672,
+          "title": "22年ぶり刷新、SiC採用で体積6割減　TDKの650W電源",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/13/cover_news046.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/13/news043.html",
+          "author": null,
+          "description": "Tektronixは、大学生から経験豊富なエンジニアまで幅広い用途を想定したオシロスコープ「1シリーズ」を発表した。5万円台からの手頃な価格とコンパクトなデザインを実現しつつ、最大4つのアナログチャンネルや12ビットの垂直解像度、シリアルプロトコル解析機能などを搭載する。教育、組み込み設計、電子機器のテストなどの分野に対応する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/13/news043.html",
+          "publishedOn": "2026-11-13T00:00:00.000Z",
+          "wordCount": 2656,
+          "title": "教育から本格使用まで テクトロニクスの5万円台オシロ",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/13/cover_news043.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2611/12/news043.html",
           "author": null,
           "description": "ザインエレクトロニクスは60GHz帯の無線通信を活用し、360度回転する基板間で非接触のデータ通信を実現するソリューションの提供を開始したと発表した。",
@@ -10523,6 +10593,26 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=137434",
+          "author": "多根清史",
+          "description": "Googleおよびサムスンは11月12日（現地時間）、Gentle Monster、Warby Parkerと共同開発したスマートグラス「インテリジェントアイウェア」の予約受付を開始したと発表した。一般発売は12月10日で、オンラインを中心に販売される。Warby Parkerでは店舗でも購入できる […]",
+          "link": "https://gadget.phileweb.com/post-137434/",
+          "publishedOn": "2026-11-13T03:25:00.000Z",
+          "wordCount": 721,
+          "title": "GoogleとサムスンのAIグラスはiPhoneにも対応。米韓で予約開始、約6万円から",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/0cb2d65189745c42b030935b488367c0.width-2200.format-webp.webp"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137429",
+          "author": "多根清史",
+          "description": "アップルはAIスマートグラスとカメラ搭載AirPodsを開発中と噂されているが、同社はその存在を公式には認めていない。しかし、中国の製造設備メーカーが最近の決算説明会で、これらの開発への関与を示唆した可能性が浮上している。 中国の証券時報によると、中国の製造設備メーカーであるQuick Intell […]",
+          "link": "https://gadget.phileweb.com/post-137429/",
+          "publishedOn": "2026-11-13T02:55:00.000Z",
+          "wordCount": 702,
+          "title": "うわさのアップル製AIスマートグラスに中国メーカーが言及、新型イヤホンにも関与か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/248c6077143f9f97f5678acc9bbd0eee.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=137400",
           "author": "Munenori Taniguchi",
@@ -14020,16 +14110,6 @@
           "wordCount": 1923,
           "title": "【ケンタッキー】骨なしオリジナルチキン【新定番メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/34ece17dad8ca973dccb88de7996dd1f.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=320069",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]\n投稿 【すき家】アサイー・バナナシェイク・Lサイズ【すきカフェ・新メニュー】 は 進撃のグルメ に最初に表示されました。",
-          "link": "https://foodfighter.jp/sukiya-yakiimo-shake-acai",
-          "publishedOn": "2026-10-14T14:16:35.000Z",
-          "wordCount": 1923,
-          "title": "【すき家】アサイー・バナナシェイク・Lサイズ【すきカフェ・新メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/2fabedd35a45e7cc6201cb87d5532123.jpg"
         }
       ]
     },
@@ -14038,6 +14118,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127859/",
+          "author": null,
+          "description": "名古屋市で11月13日～18日に開催される第2回「あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル」（通称ANIAFF）。映画祭の期間中には、上映だけでなく、各界からク...",
+          "link": "https://anime.eiga.com/news/127859/",
+          "publishedOn": "2026-11-13T03:00:00.000Z",
+          "wordCount": 740,
+          "title": "第2回ANIAFF、アニメ業界と作品をより深く学べる多彩なトークプログラムを実施",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127858/",
           "author": null,
@@ -16942,36 +17037,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127660/",
-          "author": null,
-          "description": "「劇場版 薬屋のひとりごと 亡妃の秘宝」のキャラクターPV「若晴＆銀山」編（https://youtu.be/dipjaCmYris）が、このほど公開された。あわせて、物語のカギを握る亡き妃・若...",
-          "link": "https://anime.eiga.com/news/127660/",
-          "publishedOn": "2026-10-14T13:00:00.000Z",
-          "wordCount": 794,
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」亡き妃・若晴役に沢城みゆき、若晴妃の侍女頭・銀山役に見上愛　キャラクターPV公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127642/",
-          "author": null,
-          "description": "「Dr.STONE」シリーズの続編エピソード「TERRAFORMING」が、「Dr.STONE TERRAFORMING」のタイトルでアニメ化されることが決定した。あわせて、解禁PV（https...",
-          "link": "https://anime.eiga.com/news/127642/",
-          "publishedOn": "2026-10-14T12:00:00.000Z",
-          "wordCount": 720,
-          "title": "「Dr.STONE」新作アニメ「TERRAFORMING」製作決定　本編完結後の続編エピソード",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16980,6 +17045,16 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127164",
+          "author": null,
+          "description": "ガガガ文庫発のアニメ『千歳くんはラムネ瓶のなか』より、オリジナルグッズが手に...",
+          "link": "https://ln-news.com/articles/127164",
+          "publishedOn": "2026-11-13T01:00:00.000Z",
+          "wordCount": 241,
+          "title": "『千歳くんはラムネ瓶のなか』のオンラインくじが登場　雑誌イラストを使用したオリジナルグッズがラインナップ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/e960ff8b84e8452fb6a9df4c25795012.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127190",
           "author": null,
@@ -20658,16 +20733,6 @@
           "wordCount": 2746,
           "title": "リュックを洗う",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image-16.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13618",
-          "author": "watanabe@logipara.com",
-          "description": "近所の医者がやってる日は体調が良くて、定休日の前の晩に急に体調が悪くなる、この感じ。",
-          "link": "https://logipara.com/diary-text/2026-10-15/",
-          "publishedOn": "2026-10-14T13:58:58.000Z",
-          "wordCount": 2748,
-          "title": "要領の悪い体調",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
     },
