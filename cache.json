@@ -2594,56 +2594,6 @@
           "wordCount": 8585,
           "title": "「ドラゴンクエストモンスターズ4」，オンライン共闘やランクマッチ，闘技場の詳細を公開。全50試合に挑むローグライク要素も",
           "imageUrl": "https://www.4gamer.net/games/010/G101055/20261006046/SS/004.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/804/G080402/20261015002/",
-          "author": null,
-          "description": "三国時代を扱ったゲームは多いが，その後の晋の時代となると，ゲームではあまり見かけない。「真・三國無双」シリーズなどは，そうした数少ない例の一つだが，では何を読めば知識を深められるだろうか。今回はそんな晋代にフォーカスした一冊「魏晋清談集『世説新語』を中心として」を紹介しよう。",
-          "link": "https://www.4gamer.net/games/804/G080402/20261015002/",
-          "publishedOn": "2026-10-15T12:00:00.000Z",
-          "wordCount": 8537,
-          "title": "三国志の時代と，その後に続く人物たちの群像を描いた一冊「魏晋清談集」（ゲーマーのためのブックガイド：第72回）",
-          "imageUrl": "https://www.4gamer.net/games/804/G080402/20261015002/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/520/G052062/20261015036/",
-          "author": null,
-          "description": "アニプレックスは本日，ダンジョン探索型RPG「Fate/EXTRARecord」の特別体験会を2026年11月7日，8日に都内某所で開催すると発表した。試遊時間は90分で，これまでのイベント試遊より広い範囲を体験可能。あわせて，敵陣営のマスターやサーヴァントを紹介する第2弾キャラクターPVも公開された。",
-          "link": "https://www.4gamer.net/games/520/G052062/20261015036/",
-          "publishedOn": "2026-10-15T11:45:00.000Z",
-          "wordCount": 9096,
-          "title": "「Fate/EXTRA Record」，90分遊べる特別体験会を11月7日，8日に都内某所で開催。敵陣営に焦点を当てた新PVも公開",
-          "imageUrl": "https://www.4gamer.net/games/520/G052062/20261015036/SS/004.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/985/G098537/20261015045/",
-          "author": null,
-          "description": "SilverLiningInteractiveは2026年10月14日，SunnyLabが開発した新作タイトル「TheWitch'sBakery」をリリースした。本作は，憧れの街・パリにやってきた若き魔法使い「ルネ」が，魔法のパンで街の人たちの元気を取り戻す2Dアドベンチャーゲームだ。",
-          "link": "https://www.4gamer.net/games/985/G098537/20261015045/",
-          "publishedOn": "2026-10-15T11:17:49.000Z",
-          "wordCount": 8674,
-          "title": "魔法のパンで人々の心を癒すアドベンチャーゲーム「The Witch's Bakery」，配信開始",
-          "imageUrl": "https://www.4gamer.net/games/985/G098537/20261015045/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/050/G105059/20261015035/",
-          "author": null,
-          "description": "CCMCは本日（2026年10月15日），「ぷちホロの村-剣とお店と田舎暮らし」のNintendoSwitch2版を10月22日に発売すると発表した。ニンテンドーeショップで予約を受け付けている。",
-          "link": "https://www.4gamer.net/games/050/G105059/20261015035/",
-          "publishedOn": "2026-10-15T09:50:27.000Z",
-          "wordCount": 8285,
-          "title": "「ぷちホロの村 - 剣とお店と田舎暮らし」Switch2版，10月22日に発売。本日予約受付を開始",
-          "imageUrl": "https://www.4gamer.net/games/050/G105059/20261015035/SS/001.png"
-        },
-        {
-          "id": "https://www.4gamer.net/games/050/G105057/20261015030/",
-          "author": null,
-          "description": "D4エンタープライズは本日，「EGGコンソールザ・スクリーマーPC-8801」の配信を開始した。1985年発売の3Dダンジョン型サイバーRPGで，キャラクターが死亡するとデータも失われるシビアな仕様が特徴。第3次世界大戦後の199X年を舞台に，悪魔が住むと噂される塔「BIAS」の真相を追う。",
-          "link": "https://www.4gamer.net/games/050/G105057/20261015030/",
-          "publishedOn": "2026-10-15T07:40:45.000Z",
-          "wordCount": 8343,
-          "title": "死んだらデータも消える。1985年の高難度サイバーRPG「ザ・スクリーマー」，EGGコンソールで本日配信",
-          "imageUrl": "https://www.4gamer.net/games/050/G105057/20261015030/SS/008.jpg"
         }
       ]
     },
@@ -2652,6 +2602,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/f7672a6997c6dceeafc70bacf34d771cb2e5e377?source=rss",
+          "author": null,
+          "description": "酒気を帯びながら軽乗用車を運転したとして、奈良市に住む５８歳の介護士の男が逮捕されました。介護施設の利用者を助手席に乗せて運転中、自損事故を起こしたことで酒気帯び運転が発覚したということです。 道路交",
+          "link": "https://news.yahoo.co.jp/articles/f7672a6997c6dceeafc70bacf34d771cb2e5e377?source=rss",
+          "publishedOn": "2026-11-13T21:03:42.000Z",
+          "wordCount": 1648,
+          "title": "「お酒を飲みたい気持ちを抑えることができなかった」老人ホーム利用者の送迎中に酒気帯び運転か　介護士の男逮捕　奈良(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00083595-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/919fa624a81d51eb46cc33440741913f009206b4?source=rss",
           "author": null,
@@ -7681,186 +7641,6 @@
           "wordCount": 1671,
           "title": "【速報】阪神戦のチケットを不正転売疑い　親子を逮捕　これまでに３５００枚転売し、約４２００万円売り上げか　兵庫・姫路市(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083068-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c07e7c334ebebc01614a0b7ae591e4d8f7fce40b?source=rss",
-          "author": null,
-          "description": "カジノディーラーを育成する専門コースが新設されます。 東京と大阪でカジノディーラーを育成している「日本カジノスクール」は、２０３０年開業のＩＲを運営する「ＭＧＭ大阪」公認のディーラー育成コースを来年４",
-          "link": "https://news.yahoo.co.jp/articles/c07e7c334ebebc01614a0b7ae591e4d8f7fce40b?source=rss",
-          "publishedOn": "2026-10-15T10:20:49.000Z",
-          "wordCount": 1648,
-          "title": "カジノディーラー育成の専門コース新設へ　２０３０年のＩＲ開業に向けて　ギャンブル依存症を見抜く講座も(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083065-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/669af62ae522eb9a765227e27bbf33a83d7dc445?source=rss",
-          "author": null,
-          "description": "見どころは「みこし合わせ」です。 「灘のけんか祭り」で知られる兵庫県姫路市の松原八幡神社の秋祭りは１５日に本宮を迎えました。九州の人気グルメやスイーツが勢ぞろい あべのハルカス近鉄本店で「九州大物産展",
-          "link": "https://news.yahoo.co.jp/articles/669af62ae522eb9a765227e27bbf33a83d7dc445?source=rss",
-          "publishedOn": "2026-10-15T10:20:29.000Z",
-          "wordCount": 1632,
-          "title": "みこしが壊れるほどに何度もぶつけ合う　兵庫・姫路市で「灘のけんか祭り」(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083064-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a8ccc3c3a8d88876b90a8cf033153af9accae216?source=rss",
-          "author": null,
-          "description": "免許停止期間中に救急車を１１回運転していました。 大阪府の守口市と門真市を管轄する消防組合によりますと、門真消防署に所属する男性消防士（２７）は、免許停止期間中であることを職場に報告せず、８月中の３日",
-          "link": "https://news.yahoo.co.jp/articles/a8ccc3c3a8d88876b90a8cf033153af9accae216?source=rss",
-          "publishedOn": "2026-10-15T10:19:59.000Z",
-          "wordCount": 1655,
-          "title": "免停期間中に救急車を１１回運転　２７歳消防士を停職処分に　大阪・門真消防署(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083063-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7b428b55590f4ce1b00bb7bb3cfb48c4ded8c1b6?source=rss",
-          "author": null,
-          "description": "ホテルのＷｉ－Ｆｉで詐欺メールを送信か。 偽計業務妨害などの疑いで逮捕された、神戸市中央区の中国籍・叶加鋒容疑者（３９）は去年５月、神戸市内のホテルの客室にパソコンを設置。アルカディアのサーバーが復旧",
-          "link": "https://news.yahoo.co.jp/articles/7b428b55590f4ce1b00bb7bb3cfb48c4ded8c1b6?source=rss",
-          "publishedOn": "2026-10-15T10:19:05.000Z",
-          "wordCount": 1653,
-          "title": "ホテルのＷｉ－Ｆｉで詐欺メール４８万件超を送信か　中国籍の夫婦を逮捕(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083062-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/29122f2856dbede602ef28e063e63376aae20daf?source=rss",
-          "author": null,
-          "description": "ＪＲ三ノ宮駅前の事故。運転手の男が逮捕されました。 過失運転致死傷の疑いで逮捕されたのは、徳島市の会社役員・矢部健司容疑者（５８）です。免停中に救急車を１１回運転 「紛失した」と説明して所持続ける 大",
-          "link": "https://news.yahoo.co.jp/articles/29122f2856dbede602ef28e063e63376aae20daf?source=rss",
-          "publishedOn": "2026-10-15T10:17:13.000Z",
-          "wordCount": 1641,
-          "title": "「なぜ事故を起こしたのかわかりません」　ＪＲ三ノ宮駅近くの死傷事故で車運転の会社役員を逮捕(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083061-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0b08e5736b3b6c574ff8fab5a2fd6bef7074ba32?source=rss",
-          "author": null,
-          "description": "動画配信業の男が逮捕された事件で、遺族が提訴しました。 １４日、名誉毀損の疑いで逮捕されたのは、東京都の動画配信業・池田実貴容疑者（２８）です。動画配信業の男を逮捕 動画で男性の名誉毀損した疑い 男性",
-          "link": "https://news.yahoo.co.jp/articles/0b08e5736b3b6c574ff8fab5a2fd6bef7074ba32?source=rss",
-          "publishedOn": "2026-10-15T10:16:17.000Z",
-          "wordCount": 1676,
-          "title": "動画中傷で自殺した男性の母が提訴　名誉毀損容疑で逮捕の男に損害賠償求める(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083057-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a047b2cb631ec8fd6b3c95832a10472d84d5c7fe?source=rss",
-          "author": null,
-          "description": "１０代男性に因縁をつけて監禁し、現金２０万円などを奪った疑いで、指定暴力団六代目山口組系の組員ら１２人が逮捕されました。 強盗と監禁の疑いで逮捕されたのは、指定暴力団山口組系組員の菅野深海容疑者（２７",
-          "link": "https://news.yahoo.co.jp/articles/a047b2cb631ec8fd6b3c95832a10472d84d5c7fe?source=rss",
-          "publishedOn": "2026-10-15T10:13:47.000Z",
-          "wordCount": 1668,
-          "title": "売り上げ盗んだと因縁？　１０代男性を暴行監禁の疑い　暴力団組員ら１２人逮捕　大阪府警(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083067-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/dee164f2cec5f4eac86f8a2b4fd333aa43c7d084?source=rss",
-          "author": null,
-          "description": "徳島市内の質店に２人組の男が押し入り、店主らにけがをさせた事件で、２４歳の自称会社員の男が逮捕・送検されました。 強盗致傷の疑いで逮捕・送検されたのは、徳島県吉野川市の自称会社員、遊塚瑞稀容疑者（２４",
-          "link": "https://news.yahoo.co.jp/articles/dee164f2cec5f4eac86f8a2b4fd333aa43c7d084?source=rss",
-          "publishedOn": "2026-10-15T10:10:58.000Z",
-          "wordCount": 1684,
-          "title": "質店に押し入り店主らにスプレー噴射し負傷させた疑い　トクリュウ関与の可能性も　徳島(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083066-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d55b780f7e53bb4e5d190ec3a064083f071cc3f0?source=rss",
-          "author": null,
-          "description": "パナソニックは１５日、製造したドラム式洗濯乾燥機およそ６４万台について、発火のおそれがあるとしてリコールを発表しました。 リコールの対象は、パナソニックが２０２１年８月から２０２５年７月までに製造した",
-          "link": "https://news.yahoo.co.jp/articles/d55b780f7e53bb4e5d190ec3a064083f071cc3f0?source=rss",
-          "publishedOn": "2026-10-15T09:55:09.000Z",
-          "wordCount": 1718,
-          "title": "パナソニックが約６４万台をリコール　ドラム式洗濯機で計２１品番(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083058-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e2e4a20218989eaa54775e92313369cf6385453d?source=rss",
-          "author": null,
-          "description": "自治体向けに防災メールなどを提供する大阪府箕面市のＩＴ関連会社「アルカディア」は、１５日午後３時ごろに停止していたサーバーの復旧を完了したと発表しました。アルカディアへの不正アクセス問題 消防職員や消",
-          "link": "https://news.yahoo.co.jp/articles/e2e4a20218989eaa54775e92313369cf6385453d?source=rss",
-          "publishedOn": "2026-10-15T09:49:26.000Z",
-          "wordCount": 1673,
-          "title": "アルカディアのサーバーが復旧　不正アクセスで約３２０件余りの個人情報漏えいの恐れ　自治体に影響(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083059-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cdee933ec7ea811f6fa9985c11b3400b304f3ea1?source=rss",
-          "author": null,
-          "description": "ホテルの客室にパソコンを隠し、メールを大量に送信していたということです。 偽計業務妨害などの疑いで逮捕されたのは、神戸市中央区の中国籍・叶加鋒容疑者（３９）と、妻の申琪容疑者（３９）です。神戸市で毒キ",
-          "link": "https://news.yahoo.co.jp/articles/cdee933ec7ea811f6fa9985c11b3400b304f3ea1?source=rss",
-          "publishedOn": "2026-10-15T08:54:26.000Z",
-          "wordCount": 1668,
-          "title": "ホテル客室にパソコン隠す→偽サイトへの誘導メールを大量送信か　中国籍の夫婦を逮捕　兵庫県警(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083055-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/37b8210b3c81cbbe0147117fa1f4d1680f681978?source=rss",
-          "author": null,
-          "description": "運転免許の停止期間中に、救急車をあわせて１１回運転したとして、大阪・門真消防署に勤務する男性消防士（２７）が、停職６カ月の懲戒処分を受けました。 守口市と門真市を管轄する消防組合によりますと、門真消防",
-          "link": "https://news.yahoo.co.jp/articles/37b8210b3c81cbbe0147117fa1f4d1680f681978?source=rss",
-          "publishedOn": "2026-10-15T08:32:10.000Z",
-          "wordCount": 1665,
-          "title": "免停中に救急車を１１回運転　「紛失した」と説明して所持続ける　大阪・門真消防署の消防士を懲戒処分(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083056-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a45ee294d0d5ee978bf09b037994e268d88efe8f?source=rss",
-          "author": null,
-          "description": "全国で40店舗以上を展開していたペットショップチェーンで、資格を持たないスタッフに販売用の犬や猫に薬剤を注射させていたとして、経営者らが逮捕されました。捜索で“マニュアル”も発見 無資格で犬や猫に薬剤",
-          "link": "https://news.yahoo.co.jp/articles/a45ee294d0d5ee978bf09b037994e268d88efe8f?source=rss",
-          "publishedOn": "2026-10-15T08:00:00.000Z",
-          "wordCount": 1811,
-          "title": "無資格で犬や猫に薬剤投与させた疑い　ペットショップ運営チェーンの社長ら６人逮捕　９匹に投与→７匹が死ぬ　「経費削減」目的？　組織的に行っていたか(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083049-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/fba027bf1df5231a1e8cebc1c1b3eef5c22d50ac?source=rss",
-          "author": null,
-          "description": "神戸市は、市内に住む男子中学生が、遊歩道に自生していた毒キノコ「オオシロカラカサタケ」を食べて食中毒になり、一時入院したと発表しました。子どもたちが遊ぶ公園にも…各地で「毒キノコ」大量発生のワケ 誤食",
-          "link": "https://news.yahoo.co.jp/articles/fba027bf1df5231a1e8cebc1c1b3eef5c22d50ac?source=rss",
-          "publishedOn": "2026-10-15T07:36:32.000Z",
-          "wordCount": 1666,
-          "title": "神戸市で毒キノコ原因の食中毒　男子中学生が遊歩道で食べて一時入院(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083054-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9835116fab3520509648bc6ae77ab14669a7a34e?source=rss",
-          "author": null,
-          "description": "無資格にもかかわらず犬や猫に薬剤の注射をさせた疑いで逮捕されたペットショップの社長らが、違法な注射を組織的に繰り返したとみられることがわかりました。【速報】無資格でペットに薬剤投与か ペットショップ会",
-          "link": "https://news.yahoo.co.jp/articles/9835116fab3520509648bc6ae77ab14669a7a34e?source=rss",
-          "publishedOn": "2026-10-15T07:09:38.000Z",
-          "wordCount": 1660,
-          "title": "犬猫９匹に無資格注射の疑いなどでペットショップ社長らを送検　コスト抑制のため組織的に繰り返したか(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083050-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/705c21cbb060da4cfcf1775738d2d1c4d66c4eb8?source=rss",
-          "author": null,
-          "description": "日本維新の会の吉村代表は１５日、簗和夫衆議院議員が農水大臣を辞任することについて「連立パートナーとして重く受け止める」と述べました。維新・吉村代表 問題渦中の農水大臣・簗氏に「胸に手を当てて出処進退判",
-          "link": "https://news.yahoo.co.jp/articles/705c21cbb060da4cfcf1775738d2d1c4d66c4eb8?source=rss",
-          "publishedOn": "2026-10-15T06:56:19.000Z",
-          "wordCount": 1682,
-          "title": "簗和夫・衆院議員の農水大臣辞任「重く受け止める」　維新・吉村代表　(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083052-asahibcv-000-3-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/49a20565774cd6327e71a8cd12ec8a80eedff630?source=rss",
-          "author": null,
-          "description": "大阪で２０３０年に開業する統合型リゾート（ＩＲ）に合わせた、カジノディーラーを育成するカリキュラムが、来年春に新設されます。「時価２００億円以上」大阪・ミナミの“超一等地”が強制競売に 不動産鑑定士も",
-          "link": "https://news.yahoo.co.jp/articles/49a20565774cd6327e71a8cd12ec8a80eedff630?source=rss",
-          "publishedOn": "2026-10-15T06:52:20.000Z",
-          "wordCount": 1679,
-          "title": "「日本カジノスクール」がカリキュラム新設へ　　２０３０年の大阪ＩＲ開業に向けてディーラー育成　(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083051-asahibcv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d4883ad279e342dd5ddf18a1f3110c81e89900c4?source=rss",
-          "author": null,
-          "description": "神戸市中心部で今月１日、急発進した車にはねられるなどして歩行者４人が死傷した事故で、兵庫県警は１５日、車を運転していた徳島市の会社役員の男を逮捕しました。同乗者「運転手の体調が急変し急発進」 警察は回",
-          "link": "https://news.yahoo.co.jp/articles/d4883ad279e342dd5ddf18a1f3110c81e89900c4?source=rss",
-          "publishedOn": "2026-10-15T06:47:30.000Z",
-          "wordCount": 1665,
-          "title": "【速報】神戸のＪＲ三ノ宮駅付近で歩行者４人死傷の事故　車を運転していた男を逮捕　兵庫県警(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00083053-asahibcv-000-3-view.jpg?exp=10800"
         }
       ]
     },
@@ -9918,66 +9698,6 @@
           "wordCount": 1849,
           "title": "イエメン大統領宮殿にフーシ派のミサイル攻撃、5人死亡とイエメン政府",
           "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cv8ez6y8w0p7o#0",
-          "author": null,
-          "description": "「ノーマル・ピープル」などの作品で知られるアイルランド人作家サリー・ルーニー氏は14日、自身の著書が今後、イギリスの書店に供給されなくなると発表した。イギリスの親パレスチナ団体「パレスチナ・アクション」を支持しているためだと説明している。",
-          "link": "https://www.bbc.com/japanese/articles/cv8ez6y8w0p7o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T08:57:14.000Z",
-          "wordCount": 1842,
-          "title": "アイルランド人作家サリー・ルーニー氏、英国で著書の販売停止　「パレスチナ・アクション」支持で",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/5ade/live/73ec5110-c7d3-11f1-9e10-4dcbd31d4273.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cmp3gn4d9erpo#0",
-          "author": null,
-          "description": "ケニアは14日、同国で2例目のエボラ出血熱の感染者を確認したと発表した。ケニアでは10日前に、エボラ出血熱が流行しているコンゴ民主共和国（旧ザイール）から戻った男性実業家が、エボラウイルスに感染して死亡している。",
-          "link": "https://www.bbc.com/japanese/articles/cmp3gn4d9erpo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T08:31:39.000Z",
-          "wordCount": 1854,
-          "title": "エボラ出血熱、ケニアで感染2例目を確認　1例目の死者の親族",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/aa15/live/cb6ea3e0-c7e5-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/watch/cqkgkrkze2nno#0",
-          "author": null,
-          "description": "イギリス情報局保安部（MI5）のマカラム長官が3日、ロンドンにあるMI5本部で年次演説を行った。テロ対策や、国家による脅威への対応について話し、人工知能（AI）がもたらす新しい脅威に関して警告した。",
-          "link": "https://www.bbc.com/japanese/watch/cqkgkrkze2nno?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T08:14:14.000Z",
-          "wordCount": 1269,
-          "title": "「国家による脅威」やAI……英MI5長官が年次演説で警告したこと",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e6e5/live/30681480-c704-11f1-9a39-31b474234113.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/ck8dz17ez88ro#0",
-          "author": null,
-          "description": "サウジアラビアで、フェイスブックでのコメントがイスラム教と預言者ムハンマドへの冒涜（ぼうとく）にあたるとして、死刑判決を受けたスリランカからの出稼ぎ労働者の若者について、サウジアラビアの最高裁判所は14日、死刑判決を破棄した。スリランカの外務副大臣が明らかにした。",
-          "link": "https://www.bbc.com/japanese/articles/ck8dz17ez88ro?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T07:32:53.000Z",
-          "wordCount": 1819,
-          "title": "スリランカ人出稼ぎ労働者の死刑判決を破棄、サウジアラビア最高裁　フェイスブック投稿めぐり",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b052/live/df047440-c79d-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cqvgj9vlrg47o#0",
-          "author": null,
-          "description": "ウクライナのゼレンスキー大統領は14日、ロンドンの英首相官邸を訪れ、イギリスのバーナム首相と会談した。トランプ米政権のウクライナへの風当たりが強まる中、ゼレンスキー氏はヨーロッパの支援国との関係強化を図ろうとしている。バーナム氏にとっては、ウクライナとアメリカの間でバランスを取りながら関係修復を進めるという、難しい外交が求められている。",
-          "link": "https://www.bbc.com/japanese/articles/cqvgj9vlrg47o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T07:11:53.000Z",
-          "wordCount": 1962,
-          "title": "【解説】 イギリスはアメリカとウクライナの橋渡し役になれるのか　バーナム氏に難題",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/f21f/live/800ae3a0-c867-11f1-971b-634f423608e9.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/japanese/articles/cm0qkg89e1vgo#0",
-          "author": null,
-          "description": "ロシアとドイツを結ぶガスパイプライン「ノルド・ストリーム」が2022年に爆破された事件で、関与したとして起訴されたウクライナ人の男性被告の裁判が14日、ドイツ・ハンブルクで始まった。現代欧州史に刻まれた劇的な破壊工作は、発生から4年たって最初の裁判を迎えた。",
-          "link": "https://www.bbc.com/japanese/articles/cm0qkg89e1vgo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T07:09:18.000Z",
-          "wordCount": 1890,
-          "title": "ノルド・ストリーム爆破、ウクライナ人被告の裁判がドイツで始まる",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/41b7/live/66289890-c7c4-11f1-993a-152cbb068da1.jpg"
         }
       ]
     },
@@ -10663,6 +10383,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=136645",
+          "author": "草刈和人",
+          "description": "iPhone Duoの背面カメラは2つだ。48MPのFusionメインカメラ（26mm、F1.6）と、48MPのFusion超広角カメラ（13mm）で構成されている。望遠専用のレンズはないため、ズームはメインカメラの中央部分を切り出す「光学品質の2倍」となる。 望遠だけで考えると、当然だがiPhon […]",
+          "link": "https://gadget.phileweb.com/post-136645/",
+          "publishedOn": "2026-11-13T22:00:00.000Z",
+          "wordCount": 833,
+          "title": "iPhone Duoのカメラで満足できるか。iPhone 18 Proと撮り比べて分かった選び方",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/b9da8d8ee8652f5181f43f4bc8b93dd4.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=137473",
           "author": "Munenori Taniguchi",
@@ -12132,16 +11862,6 @@
           "wordCount": 732,
           "title": "空が見えなくても“どこでもつながる時代”は来る？ SpaceX「プラチナバンド取得」で何が変わるか",
           "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/479834518cd13e34dc7258855d9aae1b.jpg"
-        },
-        {
-          "id": "https://gadget.phileweb.com/?p=135117",
-          "author": "Munenori Taniguchi",
-          "description": "映画『バック・トゥ・ザ・フューチャー』のに登場する伝説的スポーツカーで有名なデロリアンが、これまでになかったモータースポーツに参戦する。デロリアン・モーターカンパニーは10月13日11月に開幕する「Airspeeder International Series（エアスピーダー・インターナショナル・シ […]",
-          "link": "https://gadget.phileweb.com/post-135117/",
-          "publishedOn": "2026-10-15T07:45:00.000Z",
-          "wordCount": 709,
-          "title": "デロリアン、空中カーレースに参戦へ。将来的に機体開発も計画",
-          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/10/e0b5cf3b40f1068e290707ebcfc5f02c.jpg"
         }
       ]
     },
@@ -12989,26 +12709,6 @@
           "wordCount": 1538,
           "title": "道路を何度も往復",
           "imageUrl": "http://www.2nn.jp/img/dqnplus/1792105770.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1792062381/",
-          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
-          "description": "SNSに「殺してやりたい」　36歳女性を脅迫容疑で76歳男逮捕\nSNSに「殺してやりたい」などと書き込み30代の女性を脅迫したとして、神奈川県警は76歳の男を逮捕しました。脅迫の疑いで逮捕されたのは、横浜市金沢区に...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792062381/",
-          "link": "http://www.2nn.jp/dqnplus/1792062381/",
-          "publishedOn": "2026-10-15T11:06:21.000Z",
-          "wordCount": 1680,
-          "title": "SNSに「殺してやりたい」「シャキーンと切れる日本刀を手に入れました」36歳女性を脅迫容疑で76歳男逮捕",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792062381.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1792061925/",
-          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
-          "description": "交番に侵入しカウンターで飛び跳ねた疑い　とび職の男(18)を逮捕　三重・津市\n中京テレビNEWS\n警察官が不在の交番に侵入したなどとして18歳の男が逮捕されました。建造物侵入の疑いで逮捕されたのは三重県鈴鹿市のと...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792061925/",
-          "link": "http://www.2nn.jp/dqnplus/1792061925/",
-          "publishedOn": "2026-10-15T10:58:45.000Z",
-          "wordCount": 1679,
-          "title": "交番に侵入しカウンターで飛び跳ねた疑い とび職の男(18)を逮捕 三重・津市",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792061925.jpg"
         }
       ]
     },
@@ -13401,6 +13101,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321845",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「セブンプレミアム 中華蕎麦とみ田監修 豚ラーメン」を世界一詳しく調査しました。   【セブン […]\n投稿 【セブンイレブン】セブンプレミアム 中華蕎麦とみ田監修 豚ラーメン【新作カップ麺】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/711sej-buta-ramen-cup",
+          "publishedOn": "2026-11-13T23:19:28.000Z",
+          "wordCount": 1927,
+          "title": "【セブンイレブン】セブンプレミアム 中華蕎麦とみ田監修 豚ラーメン【新作カップ麺】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/29335ecadcea893e16b13b02f3257e8e.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321826",
           "author": "foodfighter",
@@ -17037,66 +16747,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127667/",
-          "author": null,
-          "description": "テレビアニメ「冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する」の放送が、2027年1月からスタートすることが決定した。主人公のダグラス役を安元洋貴、その愛娘と...",
-          "link": "https://anime.eiga.com/news/127667/",
-          "publishedOn": "2026-10-15T12:00:00.000Z",
-          "wordCount": 808,
-          "title": "「冒険者ライセンス」27年1月に放送決定　安元洋貴＆井口裕香が出演、ティザーPVや新ビジュアル公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/animehack_editors/127663/",
-          "author": null,
-          "description": "人気テレビアニメ「薬屋のひとりごと」の第3期の放送が、10月2日からはじまりました。 本記事では、第1期と第2期で主人公・猫猫が遭遇した事件のなかから、特に重要な事件をご紹介。「薬屋のひとりごと...",
-          "link": "https://anime.eiga.com/news/column/animehack_editors/127663/",
-          "publishedOn": "2026-10-15T11:00:00.000Z",
-          "wordCount": 829,
-          "title": "「薬屋のひとりごと」重要事件を徹底解説（事件の真相・犯人） 壬氏の“本当の身分”も深掘り",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/column/tiff2026_news/127605/",
-          "author": null,
-          "description": "10月26日～11月4日に開催される第39回東京国際映画祭のアニメーション部門は、国内作品が旧作上映とあわせて7作、海外作品が5作の計12作がラインナップされている。 東京国際映画祭のYouTu...",
-          "link": "https://anime.eiga.com/news/column/tiff2026_news/127605/",
-          "publishedOn": "2026-10-15T10:00:00.000Z",
-          "wordCount": 885,
-          "title": "第39回東京国際映画祭（TIFF2026） アニメーション部門の作品紹介",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127664/",
-          "author": null,
-          "description": "人気漫画「NARUTO-ナルト-」と、同作に強い影響を与えた「NINKU-忍空-」によるクロスーバー企画「NARUTO-ナルト-×NINKU-忍空-」が、完全新作アニメとして製作が進行中であるこ...",
-          "link": "https://anime.eiga.com/news/127664/",
-          "publishedOn": "2026-10-15T09:00:00.000Z",
-          "wordCount": 750,
-          "title": "「NARUTO-ナルト-」「NINKU-忍空-」コラボの新作アニメが制作進行中　阿部記之、西尾鉄也らが参加",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -17105,6 +16755,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127184",
+          "author": null,
+          "description": "MFブックス刊『無職転生～異世界行ったら本気だす～』より、幸せなひと時をイメ...",
+          "link": "https://ln-news.com/articles/127184",
+          "publishedOn": "2026-11-13T23:00:00.000Z",
+          "wordCount": 240,
+          "title": "『無職転生～異世界行ったら本気だす～』幸せなひと時をイメージしたロキシー・ミグルディア・グレイラット1／7スケールフィギュアが2027年6月発売",
+          "imageUrl": "https://assets.ln-news.com/images/medias/0392b681be9242a0b4157edba167e891.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127178",
+          "author": null,
+          "description": "ブレイブ文庫刊『隣に住んでる聖女様は俺がキャラデザを担当した大人気VTube...",
+          "link": "https://ln-news.com/articles/127178",
+          "publishedOn": "2026-11-13T21:00:00.000Z",
+          "wordCount": 228,
+          "title": "『隣に住んでる聖女様は俺がキャラデザを担当した大人気VTuberでした』のコミカライズ連載が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/8c93be5e2b2f4b82b4cb5392b4f2fa8e.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127191",
           "author": null,
@@ -19664,36 +19334,6 @@
           "wordCount": 227,
           "title": "『家族と移住した先で隠しキャラ拾いました』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/caf676830bd84932b00e9da507a557ab.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126938",
-          "author": null,
-          "description": "スニーカー文庫発のアニメ『この素晴らしい世界に祝福を！』の10周年記念展示会...",
-          "link": "https://ln-news.com/articles/126938",
-          "publishedOn": "2026-10-15T10:00:00.000Z",
-          "wordCount": 254,
-          "title": "【レポート】カズマたちの冒険の足跡をたどりながら10年間を振り返る「『この素晴らしい世界に祝福を！』展～Cheerful～」の模様をお届け",
-          "imageUrl": "https://assets.ln-news.com/images/medias/70939f1343ed4141aecd42622915ed5f.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126885",
-          "author": null,
-          "description": "エンターブレイン単行本発のアニメ『幼女戦記II』より、オリジナルグッズが手に...",
-          "link": "https://ln-news.com/articles/126885",
-          "publishedOn": "2026-10-15T08:30:00.000Z",
-          "wordCount": 244,
-          "title": "『幼女戦記』のオンラインくじが登場　キャラファイングラフなどのオリジナルグッズがラインナップ",
-          "imageUrl": "https://assets.ln-news.com/images/medias/22758cf1eed440a6aa518f79439144ef.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126942",
-          "author": null,
-          "description": "電撃文庫発の劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』の公開を記...",
-          "link": "https://ln-news.com/articles/126942",
-          "publishedOn": "2026-10-15T07:00:00.000Z",
-          "wordCount": 323,
-          "title": "江の島・湘南周遊イベント「青春ブタ野郎はたゆたうクラゲの夢をみない」が開催決定",
-          "imageUrl": "https://assets.ln-news.com/images/medias/f219d45fa76a4ad89e3260946d2e4b68.jpg"
         }
       ]
     },
