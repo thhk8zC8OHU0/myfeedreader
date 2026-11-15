@@ -2424,46 +2424,6 @@
           "wordCount": 8501,
           "title": "「ロマサガ2 リベンジオブザセブン」のリアル謎解きゲーム「円環のにゃにゃ英雄」が発売。山手線を巡って七英雄に挑もう",
           "imageUrl": "https://www.4gamer.net/games/811/G081131/20261017003/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/015/G101585/20261016069/",
-          "author": null,
-          "description": "コーエーテクモゲームスは本日（2026年10月16日），2027年2月25日に発売を予定している「カリアのアトリエ〜夜の王国と追憶の道標〜」のユーザーアンケート結果を発表した。つまみ食いに伴う体型変化と，そのオンオフの切り替え，好みの体型で固定する機能の実装が決定した。",
-          "link": "https://www.4gamer.net/games/015/G101585/20261016069/",
-          "publishedOn": "2026-10-16T13:14:06.000Z",
-          "wordCount": 8466,
-          "title": "「カリアのアトリエ」に体型変化機能の実装が決定。好みの体型での固定も可能。ユーザーアンケートでは3万8000件以上の回答が集まる",
-          "imageUrl": "https://www.4gamer.net/games/015/G101585/20261016069/SS/002.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/637/G063753/20261016064/",
-          "author": null,
-          "description": "アトラスは本日（2026年10月16日），「ペルソナ5ザ・ロイヤル」より，クリエイター・可哀想に！氏が描き起こしたLINEアニメーションスタンプを発売した。描き起こしイラストを使用したコラボグッズの販売も予定されている。",
-          "link": "https://www.4gamer.net/games/637/G063753/20261016064/",
-          "publishedOn": "2026-10-16T11:45:34.000Z",
-          "wordCount": 8464,
-          "title": "「ペルソナ5 ザ・ロイヤル」可哀想に！氏が描き起こしたLINEアニメーションスタンプを発売。グッズも販売予定",
-          "imageUrl": "https://www.4gamer.net/games/637/G063753/20261016064/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/050/G105081/20261016061/",
-          "author": null,
-          "description": "FeatherweightGamesは本日（2026年10月16日），新作タイトル「ChainedBeasts」をリリースした。本作は，仲間とともに闘技場での混沌とした戦いに挑む，最大4人協力プレイに対応した剣闘士ローグライクアクションゲームだ。",
-          "link": "https://www.4gamer.net/games/050/G105081/20261016061/",
-          "publishedOn": "2026-10-16T11:40:17.000Z",
-          "wordCount": 8441,
-          "title": "鎖でつながれた4人が闘技場での戦いを生き抜く協力型ローグライトACT「Chained Beasts」，配信開始",
-          "imageUrl": "https://www.4gamer.net/games/050/G105081/20261016061/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/999/G999903/20261016057/",
-          "author": null,
-          "description": "任天堂は，2026年11月16日に同社に到着した修理品から，NintendoSwitch2/NintendoSwitch本体の修理価格を改定すると発表した。このたびの改定は修理部品の価格高騰によるものであり，全体的に値上げする形となった。",
-          "link": "https://www.4gamer.net/games/999/G999903/20261016057/",
-          "publishedOn": "2026-10-16T11:05:24.000Z",
-          "wordCount": 8240,
-          "title": "Switch2 / Switch本体の修理価格を11月16日に到着した修理品から改定。修理内容によっては9900円の値上げに",
-          "imageUrl": "https://www.4gamer.net/games/999/G999903/20261016057/SS/007.png"
         }
       ]
     },
@@ -2472,6 +2432,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/b9f6ee7eed72e5638f2caad886b5cd9d29f21fe5?source=rss",
+          "author": null,
+          "description": "１５日午前、大阪市都島区で、飲酒後に路上で寝ていた男性が２人組の人物に約３万円が入った財布を奪われました。 男性は抵抗した際に、顔を殴られ軽傷です。 １５日午前４時半ごろ、都島区東野田町のＪＲ京橋駅近",
+          "link": "https://news.yahoo.co.jp/articles/b9f6ee7eed72e5638f2caad886b5cd9d29f21fe5?source=rss",
+          "publishedOn": "2026-11-14T23:32:48.000Z",
+          "wordCount": 1654,
+          "title": "ＪＲ京橋駅近くの路上で寝ていた男性が約３万円入りの財布奪われる　２人組が逃走(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00083601-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/380ea6ff748aa2640a6996bc11eb53bb78c9ae4a?source=rss",
           "author": null,
@@ -7251,46 +7221,6 @@
           "wordCount": 1720,
           "title": "クラクションでSOS　車に閉じ込められたら「たすけてブーブー」　幼稚園で安全教室　親子で確認を(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00083097-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ec9c73224577ea6608456ce261e8d6316bd274c9?source=rss",
-          "author": null,
-          "description": "モーター大手「ニデック」の不正会計などを巡る問題で、役員責任調査委員会が創業者・永守重信氏ら経営陣に「会社法に基づく損害賠償責任がある」と結論づけました。ニデック・戒田理夫新社長が就任会見も･･･“お",
-          "link": "https://news.yahoo.co.jp/articles/ec9c73224577ea6608456ce261e8d6316bd274c9?source=rss",
-          "publishedOn": "2026-10-16T13:34:25.000Z",
-          "wordCount": 1690,
-          "title": "ニデック不正会計など巡る問題　創業者・永守重信氏らに「損害賠償責任がある」　調査委の報告書概要を公表(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00083100-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/7b9be4006e5ef6b7abbb3198fd893db79df6879f?source=rss",
-          "author": null,
-          "description": "男性が荷物用エレベーターと壁の間に体を挟まれ死亡しました。 １６日午後４時４０分ごろ、奈良県天理市前栽町の３階建て店舗付き住宅で、「６０代の男性がエレベーターに挟まれている」と１１９番通報がありました",
-          "link": "https://news.yahoo.co.jp/articles/7b9be4006e5ef6b7abbb3198fd893db79df6879f?source=rss",
-          "publishedOn": "2026-10-16T13:25:16.000Z",
-          "wordCount": 1661,
-          "title": "荷物用エレベーターに挟まれる　修理をしていた６７歳男性死亡　奈良・天理市(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00083099-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8abb0312ac59a46a6da4ca02ffc3faac3d208c8b?source=rss",
-          "author": null,
-          "description": "「餃子の王将」を展開する会社の社長が射殺された事件で、京都地裁は１６日、暴力団幹部の被告に無罪（求刑・無期懲役）を言い渡しました。検察が控訴しても「無罪がくつがえることは難しい」 王将社長射殺事件 暴",
-          "link": "https://news.yahoo.co.jp/articles/8abb0312ac59a46a6da4ca02ffc3faac3d208c8b?source=rss",
-          "publishedOn": "2026-10-16T13:25:16.000Z",
-          "wordCount": 1679,
-          "title": "「餃子の王将」社長射殺事件　暴力団幹部の被告に無罪判決　遺族「予期せぬ判決で非常に落胆」(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00083096-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ba6466ffc10507d56bdfab8fd99253067496957d?source=rss",
-          "author": null,
-          "description": "裁判長「主文、被告人は無罪」 そのとき被告は、２度うなづきました。「餃子の王将」を展開する会社の社長が射殺された事件で、京都地裁は１６日、暴力団幹部の被告に無罪判決を言い渡しました。道頓堀川に男性を投",
-          "link": "https://news.yahoo.co.jp/articles/ba6466ffc10507d56bdfab8fd99253067496957d?source=rss",
-          "publishedOn": "2026-10-16T12:16:32.000Z",
-          "wordCount": 1805,
-          "title": "検察が控訴しても「無罪がくつがえることは難しい」　王将社長射殺事件　暴力団幹部に無罪判決　今回の判断のポイントは？(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00083098-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -12179,16 +12109,6 @@
           "wordCount": 1592,
           "title": "「金、金、金」12歳中1女子がコンビニ店主に制汗スプレーを吹きかけ包丁を突きつける 強盗致傷容疑で児相に送致 大阪",
           "imageUrl": "http://www.2nn.jp/img/og/default.png"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1792148259/",
-          "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
-          "description": "北朝鮮の潜水艦「金君玉英雄」艦から二種類の巡航ミサイルを試射10/15(木) 12:36\n10月15日、北朝鮮は前日の14日に「朝鮮東海(日本海)で二種の潜水艦発射戦略巡航ミサイルを試射した」と発表しました。金正恩の視察は...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792148259/",
-          "link": "http://www.2nn.jp/dqnplus/1792148259/",
-          "publishedOn": "2026-10-16T10:57:39.000Z",
-          "wordCount": 1686,
-          "title": "北朝鮮の潜水艦「金君玉英雄」艦から二種類の巡航ミサイルを試射",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792148259.jpg"
         }
       ]
     },
@@ -12571,6 +12491,26 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=321934",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、築地銀だこの定番メニュー「チーズ明太子」を世界一詳しく調査しました。   【築地銀だこ】チーズ明太子たこ焼き【定番メ […]\n投稿 【築地銀だこ】チーズ明太子たこ焼き【定番メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/gindaco-cheese-mentaiko",
+          "publishedOn": "2026-11-15T01:40:04.000Z",
+          "wordCount": 1915,
+          "title": "【築地銀だこ】チーズ明太子たこ焼き【定番メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/81db96bebda2f70e5a1475057d8515e1.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=321921",
+          "author": "foodfighter",
+          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、朝食メニュー、本格とんかつメニューが揃った松屋フーズのとんかつ業態「松のや」へ進撃しました。 […]\n投稿 【松のや】玉子かけごはん（納豆）【モーニング・朝食メニュー】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/matsunoya-morning-natto",
+          "publishedOn": "2026-11-15T00:43:41.000Z",
+          "wordCount": 1930,
+          "title": "【松のや】玉子かけごはん（納豆）【モーニング・朝食メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/f7bf0a79f1b601ffe4678a5cc61e8ba1.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=321903",
           "author": "foodfighter",
@@ -16232,36 +16172,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127669/",
-          "author": null,
-          "description": "公開中の「魔法少女まどか☆マギカ ワルプルギスの廻天」と、11月20日から公開予定の劇場アニメ「魔法使いの夜」のコラボレーションが発表された。あわせて、コラボビジュアルと、その解禁映像（http...",
-          "link": "https://anime.eiga.com/news/127669/",
-          "publishedOn": "2026-10-16T12:00:00.000Z",
-          "wordCount": 808,
-          "title": "「魔法少女まどか☆マギカ」と「魔法使いの夜」がコラボ　シャフト・ufotable描き下ろしビジュアル公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127673/",
-          "author": null,
-          "description": "劇場アニメ「青春ブタ野郎はディアフレンドの夢を見ない」が10月16日に公開されたことを記念して、「楽園追放 心のレゾナンス」（11月13日公開）とのコラボレーションが実現。「楽園追放 心のレゾナ...",
-          "link": "https://anime.eiga.com/news/127673/",
-          "publishedOn": "2026-10-16T11:00:00.000Z",
-          "wordCount": 795,
-          "title": "「青春ブタ野郎」と「楽園追放 心のレゾナンス」がコラボ　ガブリエルがバニーガールになったオマージュビジュアル公開",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16270,6 +16180,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/126995",
+          "author": null,
+          "description": "MFブックス刊『魔導具師ダリヤはうつむかない～今日から自由な職人ライフ～』よ...",
+          "link": "https://ln-news.com/articles/126995",
+          "publishedOn": "2026-11-15T01:00:00.000Z",
+          "wordCount": 248,
+          "title": "『魔導具師ダリヤはうつむかない～今日から自由な職人ライフ～』のオンラインくじが登場　駒田ハチ氏による原作イラストをしたオリジナルグッズがラインナップ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/6b8f1607945f41d29ff20ac3094b544b.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127211",
+          "author": null,
+          "description": "MF文庫J発のアニメ『Re：ゼロから始める異世界生活 5th season』...",
+          "link": "https://ln-news.com/articles/127211",
+          "publishedOn": "2026-11-14T23:00:00.000Z",
+          "wordCount": 237,
+          "title": "アニメ『Re：ゼロから始める異世界生活 5th season』製作決定",
+          "imageUrl": "https://assets.ln-news.com/images/medias/a5f017ebf5754d88a1cff1dd820c6c5e.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127196",
           "author": null,
@@ -18819,16 +18749,6 @@
           "wordCount": 222,
           "title": "『結婚して可愛い義息子たちができましたが、夫を殺すように命じられています！』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/5ae8b72cf86d47679237fe0c61b7163e.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126934",
-          "author": null,
-          "description": "2026年10月17日（土）、10月18日（日）に全国で開催されているライト...",
-          "link": "https://ln-news.com/articles/126934",
-          "publishedOn": "2026-10-16T11:30:00.000Z",
-          "wordCount": 1285,
-          "title": "週末はイベントに行こう！：「『この素晴らしい世界に祝福を！』展～Cheerful～」や「青春ブタ野郎は湯けむり少女の夢を見ない」など",
-          "imageUrl": "https://assets.ln-news.com/images/medias/7d0684f738e844b8be2ad61633c9cb1b.jpg"
         }
       ]
     },
@@ -19629,6 +19549,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13712",
+          "author": "watanabe@logipara.com",
+          "description": "先日もお伝えいたしましたが（アナウンサー風）、ワイヤーの歯列矯正から、マウスピース（リテーナー）の歯列矯正に移行しました。 　 食事のとき以外、これをずーっと着用していくことになります。 外したときは洗浄剤などで洗うので […]",
+          "link": "https://logipara.com/health/orthodontics/2026-11-15/",
+          "publishedOn": "2026-11-15T00:15:50.000Z",
+          "wordCount": 2757,
+          "title": "マウスピースの収納容器",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/11/image-5-edited.png"
+        },
         {
           "id": "https://logipara.com/?p=13710",
           "author": "watanabe@logipara.com",
