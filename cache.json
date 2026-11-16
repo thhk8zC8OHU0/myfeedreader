@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/040/G004099/20261115006/",
+          "author": null,
+          "description": "2026年11月9日〜11月15日，4Gamerに掲載された記事は269本でした。アメリカのビッグテックでは，あんなことやこんなことが報道されていますが，それはともかく，今回もはりきって4Gamerと世界のゲーム業界の1週間を振り返ってみましょう。",
+          "link": "https://www.4gamer.net/games/040/G004099/20261115006/",
+          "publishedOn": "2026-11-15T22:00:00.000Z",
+          "wordCount": 8703,
+          "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年11月9日〜11月15日",
+          "imageUrl": "https://www.4gamer.net/games/040/G004099/20261115006/SS/034.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/933/G093375/20261114002/",
           "author": null,
           "description": "プライム1スタジオは2026年11月13日，同社が展開する新フィギュアシリーズ「A-SYMBOL」の第1弾として商品化される「塊魂」シリーズの王様，王子について，「ワンス・アポン・ア・塊魂」のプロデューサー，石田僚氏と同社開発スタッフによる対談インタビューページを公開した。",
@@ -7201,26 +7211,6 @@
           "wordCount": 1659,
           "title": "沖縄・辺野古沖船転覆事故　亡くなった女子生徒の遺族が沖縄県知事と事故以来初めて面会(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00083107-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9a443fa4bd8b305520241b07e66ef35cbf97351d?source=rss",
-          "author": null,
-          "description": "京都駅ビルで伝統文化と現代アート、そしてエンターテインメントが融合したイベントが開かれています。約５００万本のコスモス見頃 秋風に揺れる姿に「心もほっこり」 兵庫・丹波市 「京都駅ビル芸術祭」は、京都",
-          "link": "https://news.yahoo.co.jp/articles/9a443fa4bd8b305520241b07e66ef35cbf97351d?source=rss",
-          "publishedOn": "2026-10-17T10:06:22.000Z",
-          "wordCount": 1631,
-          "title": "伝統文化と現代アートが融合　「京都駅ビル芸術祭」１１月３日まで(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00083104-asahibcv-000-2-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4e4c0c3500e77ab36c207e696d9aa6a40adad7e1?source=rss",
-          "author": null,
-          "description": "１７日午前、奈良県下北山村で男性がクマに襲われ、顔や腕などをかまれたり引っかかれたりして救急搬送されました。荷物用エレベーターに挟まれる 修理をしていた６７歳男性死亡 奈良・天理市 午前１１時半ごろ、",
-          "link": "https://news.yahoo.co.jp/articles/4e4c0c3500e77ab36c207e696d9aa6a40adad7e1?source=rss",
-          "publishedOn": "2026-10-17T10:06:07.000Z",
-          "wordCount": 1668,
-          "title": "山林で作業中の６０代男性がクマに襲われ負傷　周辺住民に注意呼びかけ　奈良・下北山村(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00083105-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9197,6 +9187,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/16/news036.html",
+          "author": null,
+          "description": "マイクロチップ・テクノロジーは、2次元静電容量式センサーアレイからの信号をデジタルデータに変換する高速静電容量デジタイザー「ATFCD52」を発表した。ロボットグリッパーやヒューマノイドハンドによる物体の把持や操作の調整を支援する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/16/news036.html",
+          "publishedOn": "2026-11-16T00:00:00.000Z",
+          "wordCount": 2656,
+          "title": "ロボットの「そっと掴む」をサポートするデジタイザー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/16/cover_news036.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2611/13/news054.html",
           "author": null,
           "description": "pSemiは、0.3～10.6GHzの広い周波数帯域に対応する単極双投（SPDT）RFスイッチ「PE423213」を発表した。標準消費電流は95nAと低く、ISM、無線LAN、Wi-Fi、Bluetooth、超広帯域無線（UWB）など複数の無線規格に対応する。",
@@ -9853,6 +9853,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=137532",
+          "author": "編集部：平山洸太",
+          "description": "Google初の紛失防止タグ（紛失防止トラッカー）「Google Pixel Tag」が11月12日に登場した。価格は単品が5,010円、4個セットが16,940円（いずれも税込）。すでにFind Hubに対応するタグはいくつもあるが、Google純正のタグは使ってみると何が違うのか。実機を借りたの […]",
+          "link": "https://gadget.phileweb.com/post-137532/",
+          "publishedOn": "2026-11-15T21:30:00.000Z",
+          "wordCount": 737,
+          "title": "ついに登場、Google初の紛失防止タグ「Pixel Tag」を試す。UWBで“方向と距離”がわかる便利さ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/bceb30378bdeb90b59225f492fa2ec9a.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=136645",
           "author": "草刈和人",
@@ -12078,6 +12088,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=63327",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 最近、TVでもたびたび取り上げられ、市場がどんどん拡大しているという「カプセルトイ」。 筆者もついこの間TVで特集を見たばかりで、そのブームに驚いていたところに、本厚木駅前で気になる掲示を発見しました↓↓…",
+          "link": "https://atsugi-lab.com/open-c-pla-2nd-mylord202611/",
+          "publishedOn": "2026-11-15T23:25:57.000Z",
+          "wordCount": 827,
+          "title": "【開店】本厚木ミロードに2店舗目！？カプセルトイ専門店 「#C-pla2nd 本厚木ミロード店」が11月13日にオープンしていた！",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/cpla2-202611.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=63226",
           "author": "shino",
           "description": "こんにちは、しの＠あつらぼです。 厚木市妻田東で建設が進んでいる「ケーズデンキ厚木妻田店（仮称）」に動きがありました！ たくさんの情報提供ありがとうございます！ 工事が進み、少しずつお店の姿が見えてきましたよ～♪ 「ケーズデンキ厚木妻田店（…",
@@ -12376,16 +12396,6 @@
           "wordCount": 901,
           "title": "【愛川町】地元の季節食材をたっぷり使った「CAFE豊作」で、人気の養生ランチ＆ローストビーフを堪能☆",
           "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/hosakuimage202610.jpg"
-        },
-        {
-          "id": "https://atsugi-lab.com/?p=62570",
-          "author": "shino",
-          "description": "こんにちは、しの＠あつらぼです。 10月も後半に入り、厚木市内では楽しいイベントが続々と開催されますよ～！ 家族で楽しめるイベントから、グルメ好きにはたまらないイベントまで盛りだくさん！ 早速ご紹介します♪ 【厚木ガス ガス展2026】10…",
-          "link": "https://atsugi-lab.com/topic-atsugi-autumn-event-202610/",
-          "publishedOn": "2026-10-17T09:29:20.000Z",
-          "wordCount": 872,
-          "title": "【イベント】10月23日～25日は秋のお出かけにぴったりなイベントが盛りだくさん♪厚木イベント情報まとめ。",
-          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/10/ae202610-2.jpg"
         }
       ]
     },
@@ -13150,16 +13160,6 @@
           "wordCount": 1914,
           "title": "【ケンタッキー】ソフトクリーム ショコラ（チョコ）【店舗限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/a429d43f1e8fac3c7203c0f27ffe1a2f.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=320271",
-          "author": "foodfighter",
-          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、店舗限定メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃し […]\n投稿 【松屋】バッファローチキン・ライスセット【店舗限定メニュー】 は 進撃のグルメ に最初に表示されました。",
-          "link": "https://foodfighter.jp/matsuya-buffalo-chicken",
-          "publishedOn": "2026-10-17T11:19:31.000Z",
-          "wordCount": 1928,
-          "title": "【松屋】バッファローチキン・ライスセット【店舗限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/0e4d7b43365d7ed3bf3e6e53293ec87a.jpg"
         }
       ]
     },
@@ -16117,66 +16117,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127584/",
-          "author": null,
-          "description": "漫画家・新井英樹氏と伝説のSMサロン「ユリイカ」オーナー・鏡ゆみこによるコミック「SPUNK スパンク！」が、𠮷田恵輔監督のメガホンで映画化されることが発表された。 2018年、1995年の原作...",
-          "link": "https://anime.eiga.com/news/127584/",
-          "publishedOn": "2026-10-17T13:00:00.000Z",
-          "wordCount": 729,
-          "title": "新井英樹×鏡ゆみこ「SPUNK スパンク！」実写映画化　監督は「映画化するなら私が！」と名乗りを上げていた𠮷田恵輔",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127641/",
-          "author": null,
-          "description": "「週刊ヤングジャンプ」（集英社刊）で連載中の漫画をテレビアニメ化する「のあ先輩はともだち。」が2027年に放送されることが決まり、第1弾キービジュアルが公開された。あわせてメインキャストも発表さ...",
-          "link": "https://anime.eiga.com/news/127641/",
-          "publishedOn": "2026-10-17T12:00:00.000Z",
-          "wordCount": 774,
-          "title": "「のあ先輩はともだち。」27年に放送決定　のあ先輩役は川口莉奈、理人役は井藤智哉",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127676/",
-          "author": null,
-          "description": "テレビアニメ「ワンパンマン」第3期の第2クールが2027年1月から放送されることが決まり、キービジュアルとPV第1弾（https://youtu.be/VR9MRmP2GF8）が公開された。 オ...",
-          "link": "https://anime.eiga.com/news/127676/",
-          "publishedOn": "2026-10-17T11:00:00.000Z",
-          "wordCount": 757,
-          "title": "「ワンパンマン」第3期・第2クール、27年1月放送開始　JAM ProjectがOP主題歌続投",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127674/",
-          "author": null,
-          "description": "人気キャラクター「ちいかわ」とANAがコラボレーションしたオリジナルグッズの第1弾が10月23日より順次発売される。 コラボグッズは、特別デザイン機「ちいかわジェット」の就航を記念して発売され、...",
-          "link": "https://anime.eiga.com/news/127674/",
-          "publishedOn": "2026-10-17T10:00:00.000Z",
-          "wordCount": 772,
-          "title": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売　制服姿のちいかわたちをデザイン",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16185,6 +16125,26 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127017",
+          "author": null,
+          "description": "電撃文庫刊『キノの旅 the Beautiful World』より、オリジナ...",
+          "link": "https://ln-news.com/articles/127017",
+          "publishedOn": "2026-11-16T01:00:00.000Z",
+          "wordCount": 275,
+          "title": "『キノの旅 the Beautiful World』のオンラインくじが登場　黒星紅白氏による新規描き下ろしイラストを使用したオリジナルグッズがラインナップ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/e6bc9704d6a8455fb082eea2d33c6950.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127213",
+          "author": null,
+          "description": "2026年11月16日（月）～2026年11月22日（日）に発売するライ...",
+          "link": "https://ln-news.com/articles/127213",
+          "publishedOn": "2026-11-15T23:00:00.000Z",
+          "wordCount": 540,
+          "title": "今週の新刊情報：電撃の新文芸、ガガガ文庫、ファンタジア文庫、オーバーラップ文庫など",
+          "imageUrl": "https://assets.ln-news.com/images/medias/a9b6c2a3c0234a759a699ad6837fc518.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127189",
           "author": null,
@@ -18724,16 +18684,6 @@
           "wordCount": 227,
           "title": "『蒼焔の魔女』のコミカライズ連載が開始　天災少女が大陸最強へ至る魔女戦記ファンタジー",
           "imageUrl": "https://assets.ln-news.com/images/medias/8ca76d41cf244db999b9a580ef77fa23.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126977",
-          "author": null,
-          "description": "ビーズログ文庫発のアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってし...",
-          "link": "https://ln-news.com/articles/126977",
-          "publishedOn": "2026-10-17T10:00:00.000Z",
-          "wordCount": 235,
-          "title": "アニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』第3話「乙女ゲーの舞台に入学!?」のあらすじ＆先行カット解禁",
-          "imageUrl": "https://assets.ln-news.com/images/medias/d518ceef8ed742d8aee59815244887df.jpg"
         }
       ]
     },
@@ -18830,26 +18780,6 @@
           "publishedOn": "2026-11-05T14:50:59.000Z",
           "wordCount": null,
           "title": "マジックバーの店員が、どこをとっても気持ち悪い【ジェラードン】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UtvKDeB5Ggw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UtvKDeB5Ggw",
-          "publishedOn": "2026-10-17T12:54:10.000Z",
-          "wordCount": null,
-          "title": "ジェラードン「マジックバー」【キングオブコント決勝披露ネタ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vvIuQD2Rs3c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vvIuQD2Rs3c",
-          "publishedOn": "2026-10-17T12:53:34.000Z",
-          "wordCount": null,
-          "title": "ジェラードン「酔っ払い」【キングオブコント披露ネタ】",
           "imageUrl": null
         }
       ]
@@ -19251,16 +19181,6 @@
           "publishedOn": "2026-10-18T11:01:37.000Z",
           "wordCount": null,
           "title": "大好きな友達が帰ろうとしたら猫がこうなっちゃいました…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RasqzZSSfws",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RasqzZSSfws",
-          "publishedOn": "2026-10-17T11:01:00.000Z",
-          "wordCount": null,
-          "title": "遊びに来た友達と仲良くお散歩してる猫が可愛すぎました笑",
           "imageUrl": null
         }
       ]
