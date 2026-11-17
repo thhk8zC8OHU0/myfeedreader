@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/968/G096831/20261113002/",
+          "author": null,
+          "description": "本日発売されたSpryFoxが手掛ける「クロスランドせいれいたちとつむぐせかい」は，雲の上に広がる幻想的な世界で，精霊たちとの交流や家づくり，ほかのプレイヤーとの共同生活などを楽しめるコージーMMOだ。自分のペースで自由気ままに暮らせる本作の魅力を，プレイレポートで紹介しよう。",
+          "link": "https://www.4gamer.net/games/968/G096831/20261113002/",
+          "publishedOn": "2026-11-16T22:00:00.000Z",
+          "wordCount": 8377,
+          "title": "今日は何をして過ごそう？ 「クロスランド せいれいたちとつむぐせかい」で楽しむ，目的に縛られない雲の上の暮らし【PR】",
+          "imageUrl": "https://www.4gamer.net/games/968/G096831/20261113002/SS/045.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/045/G104563/20261116032/",
           "author": null,
           "description": "ライドオンジャパンは本日（2026年11月17日），PS5版「マーセナリーズグレイス黒い羽根と黄金の右腕」を11月25日に発売すると発表した。価格は3850円（税込）。Switch版は12月中に，Steam版は2027年初頭にそれぞれ発売される予定とのこと。",
@@ -2444,16 +2454,6 @@
           "wordCount": 9593,
           "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年10月12日〜10月18日",
           "imageUrl": "https://www.4gamer.net/games/040/G004099/20261018002/SS/037.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/601/G060128/20261016073/",
-          "author": null,
-          "description": "フリューは本日（2026年10月18日），アクションRPG「CRYSTAR-クライスタ-」の発売8周年記念セールとプレゼントキャンペーンの開催を発表した。期間中はNintendoSwitch版が過去最安値の288円（95％オフ）となり，デジタルアートブック付き版も500円で購入できる。",
-          "link": "https://www.4gamer.net/games/601/G060128/20261016073/",
-          "publishedOn": "2026-10-18T09:00:00.000Z",
-          "wordCount": 8318,
-          "title": "Switch版「CRYSTAR -クライスタ-」が95％オフの288円！ 発売8周年記念セールを開催。アートブック付き版も500円で買える",
-          "imageUrl": "https://www.4gamer.net/games/601/G060128/20261016073/SS/003.jpg"
         }
       ]
     },
@@ -2462,6 +2462,46 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/62d891ed44c22bfea35993d3f12acfe918bfb383?source=rss",
+          "author": null,
+          "description": "大阪府は１６日、行政オンラインシステムの利用者のメールアドレス約１０万７０００件が流出したと発表しました。 システムのメール配信を手がける「アララ」が不正アクセスの被害を受け、調査したところ、漏えいが",
+          "link": "https://news.yahoo.co.jp/articles/62d891ed44c22bfea35993d3f12acfe918bfb383?source=rss",
+          "publishedOn": "2026-11-16T23:59:27.000Z",
+          "wordCount": 1670,
+          "title": "大阪府　メールアドレス約１０万７０００件流出　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00083635-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4989135fce8fd1f8829bc047805bc37a95999696?source=rss",
+          "author": null,
+          "description": "日本では17人に1人が早産児です。クラスに2人か3人はいる計算になります。それなのに、社会の理解はまだ進んでいません。和歌山と徳島を結ぶ南海フェリーが存続の危機 「なんとしても残したい」両県知事が協議",
+          "link": "https://news.yahoo.co.jp/articles/4989135fce8fd1f8829bc047805bc37a95999696?source=rss",
+          "publishedOn": "2026-11-16T23:00:00.000Z",
+          "wordCount": 1838,
+          "title": "322gで産まれた長女　母親が抱いた罪悪感と家族に支えられた日々　いま伝えたいのは「お母さんが悪いということは全くない」　11月15日は世界早産児デー(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00083629-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8b9a6da42bcc7f90be31f6f719c5ca68afc28f65?source=rss",
+          "author": null,
+          "description": "中学校の同級生である男子生徒（１５）の腹部を文化包丁で刺し、けがをさせたとして、京都市伏見区の少年（１５）が逮捕されました。「夫を殺すために包丁で刺した」 男性が意識不明の重体 ４９歳女を殺人未遂の疑",
+          "link": "https://news.yahoo.co.jp/articles/8b9a6da42bcc7f90be31f6f719c5ca68afc28f65?source=rss",
+          "publishedOn": "2026-11-16T22:33:56.000Z",
+          "wordCount": 1714,
+          "title": "中学の同級生である男子生徒の腹部を刺して負傷させた疑い　15歳少年逮捕　女性めぐるトラブルか　京都・伏見区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00083634-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/096aa225c74affba3b81d0410c9c9da8347b0226?source=rss",
+          "author": null,
+          "description": "１６日午後、兵庫県姫路市で、親族３人が乗る車に乗り込もうとした高齢女性が、そのまま発進した車の助手席側ドアノブをつかんだまま転倒し、軽傷を負いました。警察は親族３人を殺人未遂の疑いで逮捕しました。車上",
+          "link": "https://news.yahoo.co.jp/articles/096aa225c74affba3b81d0410c9c9da8347b0226?source=rss",
+          "publishedOn": "2026-11-16T19:38:06.000Z",
+          "wordCount": 1725,
+          "title": "親族３人が乗る車に乗り込もうとした９０歳女性　ドアノブつかんだまま車発進し転倒　殺人未遂容疑で親族３人逮捕　警察「相当、危険な事案」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00083633-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/f58f59ad6f0a845388d49d3d4d430a06a7aae4e4?source=rss",
           "author": null,
@@ -7391,36 +7431,6 @@
           "wordCount": 1641,
           "title": "【速報】奈良県内の陸上競技団体の会計役員で地方公務員の男が業務上横領疑いで逮捕される　大会参加費の一部を横領か(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00083115-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/484cdf49ecc67dd3b196092d8b1e4e1a2e62f3c3?source=rss",
-          "author": null,
-          "description": "１８日午後、神戸市の県道で信号待ちの車に後ろから走ってきた車が追突する事故がありました。追突された車に乗っていた男女４人が病院に搬送され、うち女性１人が意識不明の重体です。１８日午後３時半ごろ、神戸市",
-          "link": "https://news.yahoo.co.jp/articles/484cdf49ecc67dd3b196092d8b1e4e1a2e62f3c3?source=rss",
-          "publishedOn": "2026-10-18T13:59:47.000Z",
-          "wordCount": 1599,
-          "title": "神戸・北区で追突事故　２０代女性が意識不明の重体　７２歳のアルバイトの男を現行犯逮捕(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00083114-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0e7c303de5d1f1bd946154d68d53468ce5c7a2c0?source=rss",
-          "author": null,
-          "description": "沖縄県名護市の辺野古沖で船が転覆し、同志社国際高校の女子生徒ら２人が死亡した事故で、女子生徒の遺族が現場近くで花を手向けました。沖縄・辺野古沖船転覆事故 亡くなった女子生徒の遺族が沖縄県知事と事故以来",
-          "link": "https://news.yahoo.co.jp/articles/0e7c303de5d1f1bd946154d68d53468ce5c7a2c0?source=rss",
-          "publishedOn": "2026-10-18T09:37:57.000Z",
-          "wordCount": 1633,
-          "title": "辺野古沖船転覆事故　女子生徒の遺族が現場近くの浜辺で献花(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00083113-asahibcv-000-1-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/260860b6335b87e1793815f11fc23ee2d55bd4a8?source=rss",
-          "author": null,
-          "description": "秋篠宮家の次女・佳子さまが、京都で開かれた聴覚障害がある人たちの交流会に出席されました。大阪城の天守閣を重要文化財に指定へ 「再建手法の先がけとして価値が高い」 京都・建仁寺の法堂も 佳子さまは、難聴",
-          "link": "https://news.yahoo.co.jp/articles/260860b6335b87e1793815f11fc23ee2d55bd4a8?source=rss",
-          "publishedOn": "2026-10-18T09:37:57.000Z",
-          "wordCount": 1645,
-          "title": "佳子さま　聴覚障害ある人たちとの交流会にご出席　京都(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00083112-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -9477,6 +9487,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/17/news038.html",
+          "author": null,
+          "description": "アンリツは、キャンドックスシステムズと協業のもと、60GHz帯レーダー／センサー製品向けのチャンバーレス量産検査ソリューションを提供している。大型電波暗室を用いない測定環境が構築可能で、設備の省スペース化や導入、運用コストの抑制などを支援する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/17/news038.html",
+          "publishedOn": "2026-11-17T00:00:00.000Z",
+          "wordCount": 2658,
+          "title": "大型電波暗室なしで60GHz帯が測定可能なソリューション",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/17/cover_news038.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2611/16/news036.html",
           "author": null,
           "description": "マイクロチップ・テクノロジーは、2次元静電容量式センサーアレイからの信号をデジタルデータに変換する高速静電容量デジタイザー「ATFCD52」を発表した。ロボットグリッパーやヒューマノイドハンドによる物体の把持や操作の調整を支援する。",
@@ -10143,6 +10163,36 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=137625",
+          "author": "編集部：平山洸太",
+          "description": "シャープは、スマートフォン「AQUOS sense11」を11月26日から順次発売する。同社公式ストアにおけるSIMフリーモデルの価格は、8GBモデルが94,600円、12GBモデルが119,900円（どちらも税込）。 スタンダードモデルである “AQUOS sense” シリーズの新モデルとして、 […]",
+          "link": "https://gadget.phileweb.com/post-137625/",
+          "publishedOn": "2026-11-17T01:00:00.000Z",
+          "wordCount": 723,
+          "title": "シャープ「AQUOS sense11」発表。3万円以上の値上げ、約9.5万円から",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/e076e6050d65c4de020174a19f2438c6.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137644",
+          "author": "編集部：平山洸太",
+          "description": "VAIOは、メーカー保証の保証範囲を拡大することを発表。対象機種において、これまでの自然故障に加えて、ユーザー過失によるものなどが無償修理の対象となる。 通常は1年のメーカー保証が付帯されているが、この保証内容がパワーアップ。ユーザーが間違って落下や水濡れさせた場合、火災や水害、落雷で故障した場合も […]",
+          "link": "https://gadget.phileweb.com/post-137644/",
+          "publishedOn": "2026-11-17T01:00:00.000Z",
+          "wordCount": 706,
+          "title": "VAIO、1年メーカー保証に「落下・水濡れ・火災」など追加。“品質への自信”で実現",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/09/65fd61f50893f2ee148805d8897e3f38.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137652",
+          "author": "編集部：平山洸太",
+          "description": "VAIOは、3機種の個人向けのノートPC、および3機種の法人向けノートPCを発表。いずれも11月27日に発売する。ラインナップと、VAIOストアにおける税込価格は以下の通り。 個人向けノート 法人向けノートPC AI PCの普及加速を見据え、AI活用体験を幅広く提供するためにラインナップを加速。アド […]",
+          "link": "https://gadget.phileweb.com/post-137652/",
+          "publishedOn": "2026-11-17T01:00:00.000Z",
+          "wordCount": 760,
+          "title": "VAIO、“AI体験”広げる新ノート6機種。スタンダード「F14／F16」とアドバンスド「S13」など刷新",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/8a292e4d430e69fd5911605902328d27.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=137617",
           "author": "Munenori Taniguchi",
@@ -12439,16 +12489,6 @@
           "wordCount": 1569,
           "title": "生徒の背負い投げで教師大けが、指導に反発か 徳島の公立中",
           "imageUrl": "http://www.2nn.jp/img/dqnplus/1792413689.jpg"
-        },
-        {
-          "id": "http://www.2nn.jp/dqnplus/1792323121/",
-          "author": "朝一から閉店までφ ★",
-          "description": "(埼玉)越谷市蒲生東町で下半身露出　10月15日\n2026/10/16\n埼玉県警によると、10月15日午後5時55分頃、越谷市蒲生東町の路上で、下半身露出が発生しました。(実行者の特徴:男性、20～30歳)■発生時の状況\n・上...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1792323121/",
-          "link": "http://www.2nn.jp/dqnplus/1792323121/",
-          "publishedOn": "2026-10-18T11:32:01.000Z",
-          "wordCount": 1574,
-          "title": "上半身裸で、下半身を出しているのが目撃された。",
-          "imageUrl": "http://www.2nn.jp/img/dqnplus/1792323121.jpg"
         }
       ]
     },
@@ -12457,6 +12497,16 @@
       "feedUrl": "https://atsugi-lab.com/feed",
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
+        {
+          "id": "https://atsugi-lab.com/?p=63428",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 いつも情報提供、ありがとうございます！ 「すき家 412号厚木林店」の店舗の看板が取り外されてるーー！ということで 早速現地に行ってみました！ 場所は厚木市林、本厚木駅から車で約10分。 お店の場所は本厚…",
+          "link": "https://atsugi-lab.com/construction-sukiya-hayashi2026/",
+          "publishedOn": "2026-11-17T01:19:22.000Z",
+          "wordCount": 823,
+          "title": "【一時休業＆工事中】「すき家 412号厚木林店」の店舗看板が取り外されている！再開はいつから？［厚木市林］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/hayashi-sukiya202611.jpg"
+        },
         {
           "id": "https://atsugi-lab.com/?p=63327",
           "author": "fumie",
@@ -13530,16 +13580,6 @@
           "wordCount": 1923,
           "title": "【松屋】シーザーサラダ牛めし【店舗限定メニュー】",
           "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/759fa1d206022f179ecd16b145e0ae58.jpg"
-        },
-        {
-          "id": "https://foodfighter.jp/?p=320295",
-          "author": "foodfighter",
-          "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「ソフトクリーム ショコラ（チョコ）」を世界一詳しく調査しました。  […]\n投稿 【ケンタッキー】ソフトクリーム ショコラ（チョコ）【店舗限定メニュー】 は 進撃のグルメ に最初に表示されました。",
-          "link": "https://foodfighter.jp/kfc-soft-cream-chocolate",
-          "publishedOn": "2026-10-18T09:50:31.000Z",
-          "wordCount": 1914,
-          "title": "【ケンタッキー】ソフトクリーム ショコラ（チョコ）【店舗限定メニュー】",
-          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/10/a429d43f1e8fac3c7203c0f27ffe1a2f.jpg"
         }
       ]
     },
@@ -16512,66 +16552,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127624/",
-          "author": null,
-          "description": "25年にわたり根強い支持を集めてきた特撮SFアクション「時空警察ヴェッカー」シリーズの映画製作（2027年公開予定）と、映画の続編として舞台公演が行われることがわかった。 2001年の誕生以来、...",
-          "link": "https://anime.eiga.com/news/127624/",
-          "publishedOn": "2026-10-18T13:00:00.000Z",
-          "wordCount": 682,
-          "title": "25周年プロジェクト発進　「時空警察ヴェッカー」映画制作＆舞台公演が決定",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127658/",
-          "author": null,
-          "description": "アニメ「メイドインアビス」の劇場版シリーズの第1部「メイドインアビス 目覚める神秘」の1週目入場特典として、10月23～29日に「つくしあきひと先生描きおろしミニ色紙」が配布される（全2種からラ...",
-          "link": "https://anime.eiga.com/news/127658/",
-          "publishedOn": "2026-10-18T11:00:00.000Z",
-          "wordCount": 776,
-          "title": "「メイドインアビス　目覚める神秘」入場特典はミニ色紙　“観る入場特典”として「ひめさま日記」がミニアニメ化",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127661/",
-          "author": null,
-          "description": "2027年1～2月に東京・京都で上演される「『HUNTER×HUNTER』THE STAGE 4」の、出演者を含む全情報が明らかになった。公演PV（https://youtu.be/lVK9K_...",
-          "link": "https://anime.eiga.com/news/127661/",
-          "publishedOn": "2026-10-18T10:00:00.000Z",
-          "wordCount": 876,
-          "title": "「HUNTER×HUNTER」新作舞台、メルエム役は佐藤流司　キメラアント陣営は若月佑美、真田理希らも出演【全情報発表】",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127672/",
-          "author": null,
-          "description": "劇場アニメ「機動戦士ガンダム 閃光のハサウェイ キルケーの魔女」が、12月11日から全国の劇場で再上映されることが分かった（2週間限定）。再上映では、配信およびブルーレイ収録版の本編映像が劇場用...",
-          "link": "https://anime.eiga.com/news/127672/",
-          "publishedOn": "2026-10-18T09:00:00.000Z",
-          "wordCount": 777,
-          "title": "「機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女」12月11日から再上映　上映劇場でブルーレイを先行販売",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16580,6 +16560,36 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127185",
+          "author": null,
+          "description": "スニーカー文庫発のアニメ『時々ボソッとロシア語でデレる隣のアーリャさん』より...",
+          "link": "https://ln-news.com/articles/127185",
+          "publishedOn": "2026-11-17T01:00:00.000Z",
+          "wordCount": 236,
+          "title": "『時々ボソッとロシア語でデレる隣のアーリャさん』アーリャの誕生日を記念したオンラインくじが登場　新規描き下ろしイラストを使用したオリジナルグッズがラインナップ",
+          "imageUrl": "https://assets.ln-news.com/images/medias/8f178f5181694332bb500d2a43a8e2bd.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127219",
+          "author": null,
+          "description": "株式会社KADOKAWAが開催する「次にくるライトノベル大賞2026」より、...",
+          "link": "https://ln-news.com/articles/127219",
+          "publishedOn": "2026-11-16T23:00:00.000Z",
+          "wordCount": 210,
+          "title": "「次にくるライトノベル大賞2026」ノミネート153作品への本投票が開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/8f67ae00505a441b90effb520eaeb502.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127209",
+          "author": null,
+          "description": "MF文庫J刊『ラヴィ THE MUSIC NOVEL ギゼンシャ・クライシス...",
+          "link": "https://ln-news.com/articles/127209",
+          "publishedOn": "2026-11-16T21:00:00.000Z",
+          "wordCount": 246,
+          "title": "『ラヴィ THE MUSIC NOVEL ギゼンシャ・クライシス』のコミカライズ連載がコミックジーン12月号にて開始",
+          "imageUrl": "https://assets.ln-news.com/images/medias/e1fe6a118cec4c8ba4b3fe41e71aa60e.jpg"
+        },
         {
           "id": "https://ln-news.com/articles/127201",
           "author": null,
@@ -19099,36 +19109,6 @@
           "wordCount": 218,
           "title": "『俺の追放されたい願望、全員に好かれて叶わない』のコミカライズ連載が開始",
           "imageUrl": "https://assets.ln-news.com/images/medias/33dd3bd1baef4094aca5dbd7a108b3ca.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126968",
-          "author": null,
-          "description": "Mノベルスf発のアニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』第3...",
-          "link": "https://ln-news.com/articles/126968",
-          "publishedOn": "2026-10-18T10:00:00.000Z",
-          "wordCount": 220,
-          "title": "アニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』第3話「紅茶の香る魔女の歌」のあらすじ＆先行カット解禁",
-          "imageUrl": "https://assets.ln-news.com/images/medias/c4470060e9764829ad4ccf0e4a6b2cbb.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126945",
-          "author": null,
-          "description": "ツギクルブックス刊『私のことはどうぞお気遣いなく、これまで通りにお過ごしくだ...",
-          "link": "https://ln-news.com/articles/126945",
-          "publishedOn": "2026-10-18T08:30:00.000Z",
-          "wordCount": 215,
-          "title": "『私のことはどうぞお気遣いなく、これまで通りにお過ごしください。』のコミカライズ連載が開始",
-          "imageUrl": "https://assets.ln-news.com/images/medias/5081ef5b0ea242a3870fc6921d719f87.jpg"
-        },
-        {
-          "id": "https://ln-news.com/articles/126667",
-          "author": null,
-          "description": "電撃文庫発のアニメ『レプリカだって、恋をする。』より、香水の輸入販売を手がけ...",
-          "link": "https://ln-news.com/articles/126667",
-          "publishedOn": "2026-10-18T07:00:00.000Z",
-          "wordCount": 242,
-          "title": "『レプリカだって、恋をする。』ナオと愛川素直をイメージした香水が登場",
-          "imageUrl": "https://assets.ln-news.com/images/medias/99d0884b991f40279ada3694c627704d.jpg"
         }
       ]
     },
@@ -19627,16 +19607,6 @@
           "wordCount": null,
           "title": "シャンプー変えただけでこだわり強めの猫がこうなっちゃいました汗",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yNJlAcbdArk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yNJlAcbdArk",
-          "publishedOn": "2026-10-18T11:01:37.000Z",
-          "wordCount": null,
-          "title": "大好きな友達が帰ろうとしたら猫がこうなっちゃいました…",
-          "imageUrl": null
         }
       ]
     },
@@ -19900,16 +19870,6 @@
           "publishedOn": "2026-10-19T12:24:24.000Z",
           "wordCount": null,
           "title": "最近のうちの子の赤ちゃん化が止まらないので観てもらいたい",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wsEXFZ3mU68",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wsEXFZ3mU68",
-          "publishedOn": "2026-10-18T13:11:06.000Z",
-          "wordCount": null,
-          "title": "光合成を繰り返してお布団みたいな匂いになる猫",
           "imageUrl": null
         }
       ]
@@ -20208,16 +20168,6 @@
           "wordCount": 2751,
           "title": "とある自販機",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image-20.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13628",
-          "author": "watanabe@logipara.com",
-          "description": "昨日は、知人が会員制の飲食店を貸し切ったとのことで、誘われて行ってきました。 「会員制」「貸し切り」だけでもう、私には敷居 is highな雰囲気をビンビンに感じます。 隅っこで息をひそめ、ついばむようにビールを飲んでき […]",
-          "link": "https://logipara.com/diary-text/2026-10-19/",
-          "publishedOn": "2026-10-18T12:36:09.000Z",
-          "wordCount": 2751,
-          "title": "オシャレ飲食店はとことんオシャレ",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2026/10/image-18.png"
         }
       ]
     },
