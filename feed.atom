@@ -2,10 +2,328 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T09:14:04.509Z</updated>
+    <updated>2026-11-18T18:06:31.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Omnivision announces new machine vision sensors]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/11/omnivision-announces-new-machine-vision.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/11/omnivision-announces-new-machine-vision.html"/>
+        <updated>2026-11-18T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[OMNIVISION announced two new global shutter sensors for machine vision applications.
+-   The OG05D 2.2-micron global shutter sensor features Nyxel® technology, HDR, low power consumption and compact optical formats to enable next-generation industrial vision systems
+-   The OG12S10 is a 12MP BSI GS sensor with outstanding pixel performance, delivering exceptional sensitivity and shutter efficiency for factory automation and ITS
+Key features of the OG05D GS sensor:
+-   2.2µm 5MP BSI global shutter with the industry’s smallest >70dB HDR-capable pixel
+-   Nyxel® technology enhances NIR QE at 850nm (>55%) and 940nm (>35%)
+-   30% power reduction from previous-generation 5MP product
+-   HDR support: 60 fps DCG™ single-exposure HDR on-chip combination; 60 fps 3-exposure (3s) HDR on-chip combination
+-   Supports RGB, mono and RBG-IR
+-   RGB-IR on-chip re-mosaic 
+Key features of the OG12S10 GS sensor:
+-   12MP GS sensor with 4096 x 3072 resolution
+-   3.45µm BSI pixel in a 1.1-inch optical format
+-   74dB dynamic range with DCG™ HDR
+-   20Ke- (20,000 electrons) full well capacity and 2.8e- (2.8 electrons) read noise (RN) in DCG™ mode
+-   Nyxel® technology and high quantum efficiency, 60% @ 850nm and 40% @ 940nm, 5x QE boost compared with existing 3.45µm product
+-   1µs ultra-short exposure time
+-   106dB shutter efficiency
+-   PureCel®Plus-S die stacking technology
+-   Interface: 16-lane sub-LVDS to 1.1Gbps and 4-lane MIPI]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO、トリプル2億画素カメラの「Find X10 Pro Max」発表。ハッセルブラッド共同開発]]></title>
+        <id>https://gadget.phileweb.com/?p=137957</id>
+        <link href="https://gadget.phileweb.com/post-137957/"/>
+        <updated>2026-11-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オウガ・ジャパンは、ハイエンドスマートフォン「OPPO Find X10シリーズ」を発表。「OPPO Find X10」および「OPPO Find X10 Pro Max」の2モデルを投入する。なお、価格は後日の発表となる。 同社ハイエンドの「OPPO Find X」シリーズに新モデルが登場する。カ […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情報漏洩を逆手に取る]]></title>
+        <id>https://logipara.com/?p=13727</id>
+        <link href="https://logipara.com/diary-text/2026-11-19/"/>
+        <updated>2026-11-18T13:13:18.000Z</updated>
+        <summary type="html"><![CDATA[自分の名前とともに、局所の写真やサイズを登録し、情報漏洩させることで露出プレイを味わうテクニックどうですか。 これはさすがのAIも読み切れまいて……ククク……（ゆっくりと連行される）]]></summary>
+        <author>
+            <name>watanabe@logipara.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[timelesz橋本将生の包容力がメロすぎる…　実写映画「お姉ちゃんの翠くん」胸キュン本編映像＆新場面写真公開]]></title>
+        <id>https://anime.eiga.com/news/127839/</id>
+        <link href="https://anime.eiga.com/news/127839/"/>
+        <updated>2026-11-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[橋本将生（timelesz）が主演を務める映画「お姉ちゃんの翠くん」の本編映像と新場面写真が公開された。 原作は、Z世代を中心に「切なすぎる」「共感しかない」と熱狂的な支持を集め、累計発行部数1...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【なんでこうなる？】キャットタワーにかじりつく猫]]></title>
+        <id>https://www.youtube.com/watch?v=rOLUIv8RGEU</id>
+        <link href="https://www.youtube.com/watch?v=rOLUIv8RGEU"/>
+        <updated>2026-11-18T12:34:45.000Z</updated>
+        <author>
+            <name>【子ライオン】みにら日記‐MINIRA‐Diary‐</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪都構想の「協定書案」提示　吉村知事が「警視庁・東京消防庁に匹敵する組織作り」を盛り込むよう求める(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/52539d280f316dbe85db7480dbd9a4ff160cdd4d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/52539d280f316dbe85db7480dbd9a4ff160cdd4d?source=rss"/>
+        <updated>2026-11-18T12:02:22.000Z</updated>
+        <summary type="html"><![CDATA[いわゆる「大阪都構想」の制度案を議論する法定協議会が開かれ、これまでの議論をまとめた「協定書案」が示されました。外部の専門家招き児相の対応検証 吉村知事「検証部会」立ち上げ表明 大阪・枚方３歳女児死亡]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第2回ANIAFF、金鯱賞は「魔法の星図」、「CHERRY AND VIRGIN」が2冠]]></title>
+        <id>https://anime.eiga.com/news/127893/</id>
+        <link href="https://anime.eiga.com/news/127893/"/>
+        <updated>2026-11-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市で開催中の第2回「あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル」（通称ANIAFF）で、11月17日、国際コンペティション部門の授賞式が開催された。金鯱賞（...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指定暴力団「六代目山口組」ナンバー３の極粋会会長ら逮捕　車の所有者移転で虚偽申請か(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1eb4bf740d78444e911bb1debe75bb63fce3195f?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1eb4bf740d78444e911bb1debe75bb63fce3195f?source=rss"/>
+        <updated>2026-11-18T11:44:39.000Z</updated>
+        <summary type="html"><![CDATA[指定暴力団「六代目山口組」のナンバー３で、極粋会会長の森尾昇容疑者（６８）ら男３人が車の所有者移転で虚偽の申請をした疑いで逮捕されました。親族３人が乗る車に乗り込もうとした９０歳女性 ドアノブつかんだ]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ケンタッキー】マッケンチーズチキンバーガー（背徳バーガーズ）【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=322128</id>
+        <link href="https://foodfighter.jp/kfc-burger-mac-and-cheese"/>
+        <updated>2026-11-18T11:43:17.000Z</updated>
+        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「マッケンチーズチキンバーガー」を世界一詳しく調査しました。 &nb […]
+投稿 【ケンタッキー】マッケンチーズチキンバーガー（背徳バーガーズ）【新メニュー】 は 進撃のグルメ に最初に表示されました。]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「METAL GEAR SOLID: MASTER COLLECTION Vol.2」がPS Storeで初セール。KONAMI，「Black Friday SALE」に対象タイトルを追加]]></title>
+        <id>https://www.4gamer.net/games/983/G098322/20261118045/</id>
+        <link href="https://www.4gamer.net/games/983/G098322/20261118045/"/>
+        <updated>2026-11-18T11:42:21.000Z</updated>
+        <summary type="html"><![CDATA[コナミデジタルエンタテインメントは本日（2026年11月18日），開催中の「BlackFridaySALE」にてPSStoreおよびニンテンドーeショップのセール対象タイトルを新たに追加した。PSStoreでは，「METALGEARSOLID:MASTERCOLLECTIONVol.2」などが初めてセール対象となる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レントゲン写真に"大きな鍵”　入院先病院で鍵誤飲し死亡した男性　遺族らが損害賠償求めた裁判の判決　鍵の管理義務違反認める一方で誤飲と死亡の因果関係認めず(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/6ded5803e87313a0068bfb5f3dd991f1ccbc254b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/6ded5803e87313a0068bfb5f3dd991f1ccbc254b?source=rss"/>
+        <updated>2026-11-18T11:35:07.000Z</updated>
+        <summary type="html"><![CDATA[入院先の病院で鍵を誤飲し、その後亡くなった男性の遺族が、病院に対して損害賠償を求めていた裁判で、大阪地裁は１８日、病院側の鍵の管理義務違反を認める一方で、鍵の誤飲と死亡との因果関係は認めませんでした。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紅葉の名所・京都「永観堂」で試験点灯　あさって２０日からライトアップ　見ごろは１１月下旬(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/0ed419864c8f3f72ad43b9cf853bb3d84abcbe9c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/0ed419864c8f3f72ad43b9cf853bb3d84abcbe9c?source=rss"/>
+        <updated>2026-11-18T11:03:10.000Z</updated>
+        <summary type="html"><![CDATA[紅葉の名所、京都の「永観堂」で、あさって２０日からライトアップが始まります。 「紅葉の名所」として知られる京都市左京区の「永観堂」は、平安時代の初期に創建されました。たまごの価格高騰で1パック366円]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不起訴から一転…３人死傷の多重事故で被告の女に懲役５年の判決　てんかん発作で意識障害に　和歌山地裁「想定できたはず」　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/dcaaba362428a48f2b3746ec11543b7eae2142e3?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/dcaaba362428a48f2b3746ec11543b7eae2142e3?source=rss"/>
+        <updated>2026-11-18T11:02:41.000Z</updated>
+        <summary type="html"><![CDATA[和歌山市で３人が死傷した多重事故で、危険運転致死傷の罪に問われた女に、和歌山地裁は１８日、懲役５年の判決を言い渡しました。３歳娘を暴行し死亡させた疑いで父親逮捕 児相に預けられるも「外泊」で戻った際に]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猫たちのトイレ掃除してるともちが何か言いたそうな顔でついてきて…]]></title>
+        <id>https://www.youtube.com/watch?v=cf5XdbSXny0</id>
+        <link href="https://www.youtube.com/watch?v=cf5XdbSXny0"/>
+        <updated>2026-11-18T11:01:25.000Z</updated>
+        <author>
+            <name>もちまる日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「SAKAMOTO DAYS」第2期、27年1月18日放送開始　OP主題歌は「Creepy Nuts」が担当、追加キャストに堀内賢雄、谷山紀章]]></title>
+        <id>https://anime.eiga.com/news/127896/</id>
+        <link href="https://anime.eiga.com/news/127896/"/>
+        <updated>2026-11-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ「SAKAMOTO DAYS（第2期）」が、2027年1月18日深夜12時からテレビ東京系列でスタートすることが決定し、堀内賢雄と谷山紀章の出演が明らかになった。オープニング主題歌は...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニコン、特別な「ZR」カスタム機をInter BEEで展示。「Z CINEMA 50mm T1.9 VV」モックアップも]]></title>
+        <id>https://gadget.phileweb.com/?p=137948</id>
+        <link href="https://gadget.phileweb.com/post-137948/"/>
+        <updated>2026-11-18T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[幕張メッセでメディアの最前線が集まる総合イベント「Inter BEE 2026」が開幕。ニコンはREDとの共同にて、「Z CINEMA」シリーズの製品を中心とした映像ソリューションを展示している。 ブース内にはリングが用意され、「ZR」やRED「V-RAPTOR XE」を使った撮影体験が可能。ZRで […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神山健治監督、新作ガンダムは「早く見てもらいたい気持ちある」　特集上映で「攻殻機動隊S.A.C.」など過去作制作秘話語る]]></title>
+        <id>https://anime.eiga.com/news/127879/</id>
+        <link href="https://anime.eiga.com/news/127879/"/>
+        <updated>2026-11-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[名古屋市で開催中の第2回「あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル」（通称ANIAFF）で、11月14日のオールナイト上映【神山健治監督特集】に神山監督が登壇し...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女性に下半身露出し胸揉みバッグひったくり逃走か　別の不同意わいせつ致傷事件で逮捕の男　大阪(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4b475dae7c4ea7224bb2c5501369d22ef83afb57?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4b475dae7c4ea7224bb2c5501369d22ef83afb57?source=rss"/>
+        <updated>2026-11-18T10:15:35.000Z</updated>
+        <summary type="html"><![CDATA[女性に下半身を見せ、バッグをひったくるなどした疑いです。 大阪府大東市の会社員・井浦知博容疑者（５１）は５月、府内の路上で、自動販売機で飲み物を買っていた女性に、原付バイクで後ろから近づき、露出した下]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本一高い観覧車が１年ぶり営業再開へ　落雷で休止のエキスポシティ「ＯＳＡＫＡ ＷＨＥＥＬ」(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/5a6c511b6c0315e8fada230f87eb46e884fcb0cb?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/5a6c511b6c0315e8fada230f87eb46e884fcb0cb?source=rss"/>
+        <updated>2026-11-18T10:08:25.000Z</updated>
+        <summary type="html"><![CDATA[約１年ぶりに営業を再開します。 大阪府吹田市の大型複合施設「エキスポシティ」の観覧車、「ＯＳＡＫＡ ＷＨＥＥＬ」は去年１１月、落雷の影響で緊急停止し、約９時間乗客が閉じ込められました。「後ろから頭を金]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[３歳娘を暴行し死亡させた疑いで父親逮捕　児相に預けられるも「外泊」で戻った際に暴行か　容疑を否認　兵庫・伊丹市　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/81daa4b995cecc573addd0567b6fb9488b850de2?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/81daa4b995cecc573addd0567b6fb9488b850de2?source=rss"/>
+        <updated>2026-11-18T10:06:15.000Z</updated>
+        <summary type="html"><![CDATA[３歳の娘に暴行を加え死亡させた疑いで、父親が逮捕されました。 兵庫県伊丹市の有元慎哉容疑者（２９）は今年１月、自宅で娘の徠音ちゃん（当時３歳）の頭や腹に暴行を加え、死亡させた疑いが持たれています。警察]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コンソールアーカイブス ザ・ファイヤーメン2 ピート＆ダニー」，11月19日配信。超高層ビルの火災現場で人々を救出するアクションゲーム]]></title>
+        <id>https://www.4gamer.net/games/059/G105944/20261118025/</id>
+        <link href="https://www.4gamer.net/games/059/G105944/20261118025/"/>
+        <updated>2026-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハムスターは本日，「コンソールアーカイブスザ・ファイヤーメン2ピート＆ダニー」を11月19日に配信すると発表した。1995年にヒューマンから発売されたアクションゲームの復刻版だ。消防士のピートとダニーを操作し，火災が発生した超高層アミューズメントビルで人々の救出に挑む。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今期TVアニメランキング】「薬屋のひとりごと」首位　「超巡！超条先輩」が6位に躍進]]></title>
+        <id>https://anime.eiga.com/news/column/konki_ranking/127881/</id>
+        <link href="https://anime.eiga.com/news/column/konki_ranking/127881/"/>
+        <updated>2026-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11月第3週の2026年秋アニメ録画ランキングは、「薬屋のひとりごと（第3期）第1クール」が、7週連続で首位となった。 2位の「ホタルの嫁入り」、3位の「ドラゴンボール超 ビルス」は先週と同じ順...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『転生したら剣でしたII』第7話「海の魔獣はデカすぎでした」のあらすじ＆先行カット解禁]]></title>
+        <id>https://ln-news.com/articles/127223</id>
+        <link href="https://ln-news.com/articles/127223"/>
+        <updated>2026-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GCノベルズ発のアニメ『転生したら剣でしたII』第7話「海の魔獣はデカすぎで...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セガ，「Black Friday Sale Part2」を開催中]]></title>
+        <id>https://www.4gamer.net/games/947/G094765/20261118032/</id>
+        <link href="https://www.4gamer.net/games/947/G094765/20261118032/"/>
+        <updated>2026-11-18T09:47:21.000Z</updated>
+        <summary type="html"><![CDATA[龍が如く 極3 / 龍が如く3外伝 Dark Ties 龍が如く 極3 / 龍が如く3外伝 Dark Ties 龍が如く 極3 / 龍が如く3外伝 Dark Ties ソニックレーシング クロスワール…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「NGS ver.2」，期間限定クエスト「リレーションクエスト」が登場。「ラッピー大連戦」も再配信]]></title>
+        <id>https://www.4gamer.net/games/521/G052100/20261118034/</id>
+        <link href="https://www.4gamer.net/games/521/G052100/20261118034/"/>
+        <updated>2026-11-18T09:45:38.000Z</updated>
+        <summary type="html"><![CDATA[PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2   配信元 セガ 配信日 2026/11/18    『PSO2 ニュージェネシ…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC（Steam）版「クライムライト／CRYMELIGHT」，新たな発売日を12月1日に設定。ローンチセールは20％オフで実施]]></title>
+        <id>https://www.4gamer.net/games/002/G100206/20261118033/</id>
+        <link href="https://www.4gamer.net/games/002/G100206/20261118033/"/>
+        <updated>2026-11-18T09:45:34.000Z</updated>
+        <summary type="html"><![CDATA[フリューは本日（2026年11月18日），PC（Steam）版「クライムライト／CRYMELIGHT」の新たな発売日を12月1日に設定したことを発表した。PC版は，当初のリリース予定日だった11月5日時点で審査が完了しておらず，発売を延期していた。なお，Steamでのローンチセールは割引率を10％から20％に変更して実施される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「RAIDOU Remastered」，「真・女神転生」「ペルソナ」シリーズなどが特別価格に。アトラス，「Black Friday Sale」を開催中]]></title>
+        <id>https://www.4gamer.net/games/895/G089589/20261118029/</id>
+        <link href="https://www.4gamer.net/games/895/G089589/20261118029/"/>
+        <updated>2026-11-18T09:23:34.000Z</updated>
+        <summary type="html"><![CDATA[アトラスは，「BlackFridaySale」をSteam，PSStore，ニンテンドーeショップで開催中だ。セールでは，「RAIDOURemastered:超力兵団奇譚」，「真・女神転生」シリーズ，「ペルソナ」シリーズなどが特別価格で購入できる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアのスパイ容疑で英警察が逮捕した米兵、身柄を米軍に移送]]></title>
+        <id>https://www.bbc.com/japanese/articles/cq99ey15xv9do#1</id>
+        <link href="https://www.bbc.com/japanese/articles/cq99ey15xv9do?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-18T09:13:08.000Z</updated>
+        <summary type="html"><![CDATA[イギリスの対テロ警察は17日、ロシアのスパイとして活動した疑いでイギリスで先週逮捕したアメリカの陸軍将校について、身柄を米軍に移したと発表した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フィリピン警察、英メガン妃の父を起訴するよう検察に要請、児童ポルノめぐり]]></title>
+        <id>https://www.bbc.com/japanese/articles/cry498kn8ejzo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cry498kn8ejzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-18T09:12:19.000Z</updated>
+        <summary type="html"><![CDATA[フィリピンの警察当局は16日、英王室サセックス公爵ハリー王子の妻、メガン妃の父親について、児童性的虐待素材の所持および配布の意図の罪で起訴するよう、検察に要請した。トーマス・マークル・シニア被告は今月初め、すでにアメリカで児童性的虐待の画像を所持していた罪で起訴されている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高級車２８台など盗んだか　窃盗グループ指示役とみられる男ら検挙　フリマサイトで旧型車両購入し車体番号をロンダリング、暴力団関係者に売り渡していたか(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/11ea8988cf49ba1696aca4b9085afbbf4aff2e58?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/11ea8988cf49ba1696aca4b9085afbbf4aff2e58?source=rss"/>
+        <updated>2026-11-18T09:01:40.000Z</updated>
+        <summary type="html"><![CDATA[大阪や京都で国産の高級自動車２８台など（総額約１億６０００万円相当）を盗んだとして大阪府警は花澤祐蔵被告（３２）ら１０人を検挙・最終送致したと発表しました。「後ろから頭を金属バットで殴られた」 兵庫・]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎪 #モンハンNowカーニバル大阪 にご参加いただいたハンターの皆さま、ありがとうございました！]]></title>
         <id>https://www.youtube.com/watch?v=g_qH29pUoEI</id>
@@ -19437,301 +19755,6 @@ https://egg.5ch.io/test/read.cgi/dqnplus/1792489209/]]></summary>
         <summary type="html"><![CDATA[中国産のウナギを国産だと誤認させるような表示をした疑いで、京都市のウナギ料理店の社長の男が逮捕されました。京都市バスがまた乗客を取り残し マニュアルで定められた車内点検をせず 不正競争防止法違反（誤認]]></summary>
         <author>
             <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI盗聴事件、捕まった元従業員はサウジアラビアの独自AI開発に参加予定だったことが裁判資料で判明]]></title>
-        <id>https://gadget.phileweb.com/?p=135405</id>
-        <link href="https://gadget.phileweb.com/post-135405/"/>
-        <updated>2026-10-20T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[9月にOpenAIの会議室に手製の音声録音装置が発見された事件で逮捕、起訴されていた元OpenAI従業員、アブドゥルラフマン・アルフォザン被告が、サウジアラビア政府から「相当な支援」を受けていたと報じられている。 今週開かれた裁判の資料からは、アルフォザン被告は「2025年から2026年にかけて、サ […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逮捕の男「金銭トラブルがあった」「（ナイフは）脅すため」　大阪地裁近くの刺傷事件(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/f4dbce6e353db86aadd7bae8039a613152d742c9?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/f4dbce6e353db86aadd7bae8039a613152d742c9?source=rss"/>
-        <updated>2026-10-20T05:31:41.000Z</updated>
-        <summary type="html"><![CDATA[２０日朝、大阪地方裁判所の近くで会社役員の男性が刃物で刺されて重傷を負った事件で、逮捕された男が「金銭トラブルがあった」という趣旨の話をしていることが分かりました。「出血した状態で搬送…」事件当時、大]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1冊からでも回答募集！ ラノベニュースオンラインアワード2026年9月刊のアンケート投票受付中]]></title>
-        <id>https://ln-news.com/articles/126986</id>
-        <link href="https://ln-news.com/articles/126986"/>
-        <updated>2026-10-20T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月刊として発売されたライトノベルを対象にした投票アンケートとなり...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウソの動画配信で住宅供給公社の業務妨害か 「ニンポー」こと46歳の男逮捕]]></title>
-        <id>http://www.2nn.jp/dqnplus/1792472169/</id>
-        <link href="http://www.2nn.jp/dqnplus/1792472169/"/>
-        <updated>2026-10-20T04:56:09.000Z</updated>
-        <summary type="html"><![CDATA[ウソの動画配信で住宅供給公社の業務妨害か　「ニンポー」こと46歳の男逮捕
-2026/10/19
-ウソの動画配信で、千葉県住宅供給公社の業務を妨害したとして、動画配信者の46歳の男が10月16日、逮捕されました。男は、「ニ...
-https://egg.5ch.io/test/read.cgi/dqnplus/1792472169/]]></summary>
-        <author>
-            <name>◆u4IbeIQ07Y 武者小路バヌアツ ★</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【松屋】ごろチキチリソース定食【新メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=320373</id>
-        <link href="https://foodfighter.jp/matsuya-2026-1020"/>
-        <updated>2026-10-20T04:53:07.000Z</updated>
-        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]
-投稿 【松屋】ごろチキチリソース定食【新メニュー】 は 進撃のグルメ に最初に表示されました。]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女性の遺体に性行為、拘禁刑1年4カ月　イギリス]]></title>
-        <id>https://www.bbc.com/japanese/articles/cw073pr7xyl9o#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cw073pr7xyl9o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-20T04:49:34.000Z</updated>
-        <summary type="html"><![CDATA[イギリスでこのほど、死体に性行為をしたとして男性が起訴され、有罪判決を受けて刑務所に収容された。判決や検察当局などによると、被告はがんと診断されて8週間後に死去した女性の自宅で、遺体に対して性行為に及んだ。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドローンで前線の負傷兵を搬送　「世界初」の事例、ウクライナ軍が動画公開]]></title>
-        <id>https://www.bbc.com/japanese/watch/crgqw43eq7glo#0</id>
-        <link href="https://www.bbc.com/japanese/watch/crgqw43eq7glo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-20T04:13:35.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ軍は19日、ロシアとの戦争で負傷した兵士を前線からドローンで搬送する様子を捉えた映像を公開した。「世界初」の事例だとしている。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【大阪都構想】特別区設置の「初期コスト」試算は625億円　前回の住民投票から2.6倍に膨らむ(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/7a23cfc8bfa9a705e5b5048db6e4a357fa45c56b?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/7a23cfc8bfa9a705e5b5048db6e4a357fa45c56b?source=rss"/>
-        <updated>2026-10-20T04:02:19.000Z</updated>
-        <summary type="html"><![CDATA[大阪市を廃止し特別区に再編する「大阪都構想」をめぐり、大阪府と大阪市は特別区設置に伴うシステムや庁舎の改修にかかる「初期コスト」を約６２５億円と試算していることがわかりました。前回の住民投票の時と比べ]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[登場して30年だが見えぬ先行き？ ADI「Blackfin」]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2610/20/news056.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2610/20/news056.html"/>
-        <updated>2026-10-20T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回こそAnalog Devices（ADI）「Blackfin」の話。Intelとの共同開発で生まれたこのプロセッサは、ADIにおいて順調に製品群が拡充されたものの、ある時期を境に新製品の投入が（筆者の知る限り）止まっている。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『探偵はもう、死んでいる。Season2』第3話「アイドルをプロデュースするだけの簡単な推し事」のあらすじ＆先行カット解禁]]></title>
-        <id>https://ln-news.com/articles/126992</id>
-        <link href="https://ln-news.com/articles/126992"/>
-        <updated>2026-10-20T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MF文庫J発のアニメ『探偵はもう、死んでいる。Season2』第3話「アイド...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「出血した状態で搬送…」事件当時、大阪地裁にいた記者が報告　男性が刃物で刺され重傷、出頭した男を緊急逮捕(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/b087ba6cf7d37a04684fb7894f502184afd0d816?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/b087ba6cf7d37a04684fb7894f502184afd0d816?source=rss"/>
-        <updated>2026-10-20T03:45:36.000Z</updated>
-        <summary type="html"><![CDATA[午前１０時ごろ、大阪市の大阪地方裁判所の近くで男性が刃物で刺されました。警察は出頭してきた男を緊急逮捕しています。大阪市中央区のベトナム人向けのナイトクラブで違法薬物を所持か ベトナム人含む４人を逮捕]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Duo、日韓では予約なしのApple Store店頭購入は当面不可。アップルが告知]]></title>
-        <id>https://gadget.phileweb.com/?p=135393</id>
-        <link href="https://gadget.phileweb.com/post-135393/"/>
-        <updated>2026-10-20T03:42:55.000Z</updated>
-        <summary type="html"><![CDATA[アップル初の折りたたみiPhone「iPhone Duo」は、公式オンラインストアで予約受付が始まるや注文が殺到。出荷予定日が次々と延期され、記事執筆時点（10月20日午前11時）では1月22日出荷と案内されている。 そうしたなか、アップルは日本と韓国向けの公式サイトで、両国のApple Store […]]]></summary>
-        <author>
-            <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】大阪府警がベトナム人向けナイトクラブを捜索　違法薬物を組織的に売買か(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/f7fbeffa54250b45218c471096564c7c1c49c67d?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/f7fbeffa54250b45218c471096564c7c1c49c67d?source=rss"/>
-        <updated>2026-10-20T03:34:34.000Z</updated>
-        <summary type="html"><![CDATA[ベトナム人向けのナイトクラブで違法薬物を所持したとして４人が逮捕された事件で、警察が２０日捜索に入りました。ベトナム人向けナイトクラブで違法薬物を所持か ４人逮捕記者リポート「午前１１時すぎです。大阪]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京都市バスがまた乗客を取り残し　マニュアルで定められた車内点検をせず(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/8cadba717bd66213354a0c121ed6553c5739a95b?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/8cadba717bd66213354a0c121ed6553c5739a95b?source=rss"/>
-        <updated>2026-10-20T03:31:32.000Z</updated>
-        <summary type="html"><![CDATA[乗客を車内に取り残して行政処分を受けたばかりの京都市バスが、また乗客を車内に残したまま回送していたことが分かりました。不正アクセス阪急阪神百貨店にも･･･ 約１２６万件の情報漏えいと発表 現時点で不正]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2.2μm画素でHDR対応のグローバルシャッター画像センサー]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2610/20/news009.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2610/20/news009.html"/>
-        <updated>2026-10-20T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Omnivisionは、500万画素のCMOSイメージセンサー「OG05D」を発表した。2.2μmの小型画素を採用し、HDR撮像や最大146fpsの高速撮像に対応する。産業用マシンビジョンやロボット向けに設計されている。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカが情報共有を制限し、ウクライナ人が命を落としている……ウクライナ国防省顧問がBBCに語る]]></title>
-        <id>https://www.bbc.com/japanese/articles/c3vgx07yvknvo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/c3vgx07yvknvo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-20T03:23:20.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ国防省の顧問を務める軍事技術専門家、セルヒー・ベスクレストノフ氏は19日、ロシアの対ウクライナ攻撃に関する信頼できる警戒情報がアメリカから届かず、ウクライナ人が命を落としていると語った。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「虎鶫　－TSUGUMI PROJECT－」主人公・レオーネ役に水中雅章、つぐみ役に和多田美咲、ドゥドゥ役に石谷春貴]]></title>
-        <id>https://anime.eiga.com/news/127683/</id>
-        <link href="https://anime.eiga.com/news/127683/"/>
-        <updated>2026-10-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビアニメ「虎鶫 －TSUGUMI PROJECT－」のキャスト情報第1弾が発表され、主人公のレオーネ役を水中雅章、異形の生物・つぐみ役を和多田美咲、レオーネと行動をともにする元地下格闘技チャ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリなどフランス各地に夜間外出禁止令　週末の暴動受け]]></title>
-        <id>https://www.bbc.com/japanese/articles/cmzxl0174e1qo#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cmzxl0174e1qo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-20T02:51:10.000Z</updated>
-        <summary type="html"><![CDATA[フランスで17日から週末にかけて、物価高騰などに対する抗議から派生した暴動や略奪が各地で相次いだことを受け、政府は19日、パリ中心部の一部地域やその他の都市で夜間外出禁止令を発令した。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、10月28日に「Pro and Tell」イベント開催。初のタッチ対応MacBook Proや新型iPad miniを発表か]]></title>
-        <id>https://gadget.phileweb.com/?p=135388</id>
-        <link href="https://gadget.phileweb.com/post-135388/"/>
-        <updated>2026-10-20T02:28:38.000Z</updated>
-        <summary type="html"><![CDATA[アップルは10月28日午前10時（日本時間29日午前2時）、米ロサンゼルスで新製品体験イベント「Pro and Tell」を開催する。一部の報道関係者やインフルエンサーに招待状が送られた。また、同社のワールドワイドマーケティング担当シニアバイスプレジデントであるグレッグ・ジョズウィアック氏も、Xに短 […]]]></summary>
-        <author>
-            <name>多根清史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing、約6万円の新スマホ「Phone (4b)」。カメラ周辺がシースルー、光で通知する「Glyphバー」搭載]]></title>
-        <id>https://gadget.phileweb.com/?p=135376</id>
-        <link href="https://gadget.phileweb.com/post-135376/"/>
-        <updated>2026-10-20T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nothing Technology Japanは、スマートフォン「Phone (4b)」を10月27日に発売する。公式オンラインストアにおける販売価格は59,800円（税込）。カラーはホワイトとブラックの2色だが、ブルーを楽天モバイル限定色として用意する。　 今年4月に発売した「Phone (4a […]]]></summary>
-        <author>
-            <name>編集部：平山洸太</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『ソードアート・オンライン』POP UP STOREが新宿マルイ アネックスにて開催決定]]></title>
-        <id>https://ln-news.com/articles/126401</id>
-        <link href="https://ln-news.com/articles/126401"/>
-        <updated>2026-10-20T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電撃文庫発のアニメ『ソードアート・オンライン』のイベント「アニメ『ソードアー...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch2版「モンスターハンターワイルズ」序盤体験版を本日配信。Chapter1-3まで遊べる。最大4人のローカル通信にも対応]]></title>
-        <id>https://www.4gamer.net/games/014/G101402/20261020001/</id>
-        <link href="https://www.4gamer.net/games/014/G101402/20261020001/"/>
-        <updated>2026-10-20T01:52:58.000Z</updated>
-        <summary type="html"><![CDATA[カプコンは本日，Switch2版「モンスターハンターワイルズ」序盤体験版の配信を開始した。序盤体験版では，キャラクター作成からChapter1-3「森へ」までを製品版と同じ内容で遊べる。最大4人のローカル通信にも対応し，セーブデータは2026年12月4日発売予定の製品版へ引き継げる。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】大阪地裁近くで男性が首を刺され重傷　警察が容疑者の身柄確保(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/f108b29a37d706f00c13d643ce15b6645ac4a11c?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/f108b29a37d706f00c13d643ce15b6645ac4a11c?source=rss"/>
-        <updated>2026-10-20T01:35:40.000Z</updated>
-        <summary type="html"><![CDATA[20日午前10時ごろ、大阪市北区の大阪地方裁判所の近くで男性が何者かに刃物で首を刺されました。警察が容疑者の身柄を既に確保しているということです。取り調べで「検察なめんなよ」「大罪人」など長時間叱責・]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4日間限定★】10月20日～23日は「山内農場 本厚木南口駅前店」がアツい！店内飲食限定で”半額セール”実施だってー♪［厚木市旭町］]]></title>
-        <id>https://atsugi-lab.com/?p=62683</id>
-        <link href="https://atsugi-lab.com/sale-yamauchi-atsugi202610/"/>
-        <updated>2026-10-20T01:31:48.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ふみえ＠あつらぼです。 みなさん、食欲の秋は満喫されていますかー？ 今回は、たくさん食べたい方にも、飲み会メインでワイワイ楽しみたい方にも嬉しい、 とってもお得な期間限定セールの情報を発見いたしました！ 「山内農場 本厚木南口駅…]]></summary>
-        <author>
-            <name>fumie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第23回講談社ラノベ文庫新人賞の受賞結果が発表　「佳作」に2作品が選出]]></title>
-        <id>https://ln-news.com/articles/126978</id>
-        <link href="https://ln-news.com/articles/126978"/>
-        <updated>2026-10-20T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[第23回講談社ラノベ文庫新人賞の受賞結果の発表が行われた。応募総数348作品...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Uサーバ向けのQLCフラッシュメモリ搭載SSD、キオクシア]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2610/20/news043.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2610/20/news043.html"/>
-        <updated>2026-10-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キオクシアは、E1.Lフォームファクターを採用した第8世代「BiCS FLASH」QLC（Quad Level Cell）フラッシュメモリ搭載SSD「KIOXIA LD4シリーズ」を開発した。同社の第8世代BiCS FLASH QLCフラッシュメモリ搭載SSDとして初めて、E1.Lフォームファクターを採用した製品になる。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ケンタッキー】クリスピーチキンバーガー【店舗限定メニュー・期間限定メニュー】]]></title>
-        <id>https://foodfighter.jp/?p=320337</id>
-        <link href="https://foodfighter.jp/kfc-crispy-chicken-burger"/>
-        <updated>2026-10-19T23:35:38.000Z</updated>
-        <summary type="html"><![CDATA[毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、ケンタッキーの新メニュー「クリスピーチキンバーガー」を世界一詳しく調査しました。 &nbsp […]
-投稿 【ケンタッキー】クリスピーチキンバーガー【店舗限定メニュー・期間限定メニュー】 は 進撃のグルメ に最初に表示されました。]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『お隣の天使様にいつの間にか駄目人間にされていた件』冬服姿の椎名真昼のノンスケールフィギュアが2027年5月発売]]></title>
-        <id>https://ln-news.com/articles/126979</id>
-        <link href="https://ln-news.com/articles/126979"/>
-        <updated>2026-10-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GA文庫刊『お隣の天使様にいつの間にか駄目人間にされていた件』より、冬服姿の...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PCゲームの“設定沼”から開放！ AIで1クリック最適化「OMEN AI」を人気5タイトルで検証]]></title>
-        <id>https://gadget.phileweb.com/?p=134320</id>
-        <link href="https://gadget.phileweb.com/post-134320/"/>
-        <updated>2026-10-19T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[PCでゲームをするとき、コンソール機のようにソフトを入れてすぐ遊ぶ、というわけにはいかない。ゲーム内のグラフィック設定は項目が多く、GPUドライバー側やWindows側にも触るべき設定がある。何をどう変えればいいのか分からないまま、初期設定で遊んでいる人も多いのではないかと思う。 「OMEN AI」 […]]]></summary>
-        <author>
-            <name>山本竜也</name>
         </author>
     </entry>
 </feed>
