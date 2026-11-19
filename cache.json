@@ -6,6 +6,56 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/015/G101576/20261119009/",
+          "author": null,
+          "description": "コーエーテクモゲームスは，歴史シミュレーションゲーム「信長の野望・飛翔」の対応機種を変更すると発表した。当初の予定からSwitch版が除外され，PC（Steam）/Switch2/PS5の3機種での展開となる。変更の理由は明らかにされておらず，公式サイトなどでは謝罪文が掲載されている。",
+          "link": "https://www.4gamer.net/games/015/G101576/20261119009/",
+          "publishedOn": "2026-11-19T05:00:34.000Z",
+          "wordCount": 8130,
+          "title": "「信長の野望・飛翔」，Switch版の発売を中止。対応機種をPC（Steam） / Switch2 / PS5の3つに変更",
+          "imageUrl": "https://www.4gamer.net/games/015/G101576/20261119009/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/996/G099644/20261119006/",
+          "author": null,
+          "description": "タイトーは本日，Switch用ADV「探偵はもう、死んでいる。」を2027年に発売すると発表した。同名ライトノベル初の家庭用ゲームで，原作者・二語十氏監修の完全オリジナルストーリーが展開。ヒロインとの親密度で結末が分岐する。あわせて，あらすじや登場キャラクターも公開された。",
+          "link": "https://www.4gamer.net/games/996/G099644/20261119006/",
+          "publishedOn": "2026-11-19T04:12:44.000Z",
+          "wordCount": 7999,
+          "title": "「探偵はもう、死んでいる。」初の家庭用ゲーム，2027年発売決定。死んだはずのシエスタがいる世界を舞台に，原作者監修のオリジナルストーリーが展開",
+          "imageUrl": "https://www.4gamer.net/games/996/G099644/20261119006/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/968/G096894/20261119003/",
+          "author": null,
+          "description": "カプコンは本日，2027年春に発売予定の「ロックマン：デュアルオーバーライド」に登場する新ボス「ボートマン」を公開した。ボートマンは，遠洋漁業に憧れる気弱な近海漁業ロボットだ。水中戦を中心に広範囲の攻撃を仕掛ける。この発表により，8大ボスのうち6体が明らかになった。",
+          "link": "https://www.4gamer.net/games/968/G096894/20261119003/",
+          "publishedOn": "2026-11-19T02:38:46.000Z",
+          "wordCount": 8254,
+          "title": "「ロックマン：デュアル オーバーライド」，新ボス「ボートマン」を公開。水中で広範囲の攻撃を仕掛ける気弱な漁業ロボット",
+          "imageUrl": "https://www.4gamer.net/games/968/G096894/20261119003/SS/001.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/015/G101576/20261118018/",
+          "author": null,
+          "description": "今週の「男色ディーノのゲイムヒヒョーゼロ」は，シリーズ最新作「信長の野望・飛翔」の話題です。「三國志」ほど「信長の野望」にのめり込めなかった理由と，新作への期待をディーノ選手が語ります。",
+          "link": "https://www.4gamer.net/games/015/G101576/20261118018/",
+          "publishedOn": "2026-11-19T02:00:00.000Z",
+          "wordCount": 8136,
+          "title": "男色ディーノのゲイムヒヒョー ゼロ：第916回「大義名分が気になって仕方ない」",
+          "imageUrl": "https://www.4gamer.net/games/015/G101576/20261118018/SS/006.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/043/G104316/20261119001/",
+          "author": null,
+          "description": "Phoenixxは本日，「THEFIRSTZOMBIE」を2026年12月17日に発売すると発表した。本作は，「水曜日のダウンタウン」で知られる藤井健太郎氏がプロデュースするアクションゲームだ。ゾンビとなった主人公が，人間を次々と仲間に変え，東京の街を制圧していく。あわせて，最新のゲームプレイ映像も公開された。",
+          "link": "https://www.4gamer.net/games/043/G104316/20261119001/",
+          "publishedOn": "2026-11-19T01:57:42.000Z",
+          "wordCount": 8201,
+          "title": "ゾンビを増やして東京の街を制圧する「THE FIRST ZOMBIE」，12月17日発売決定。「水ダウ」の藤井健太郎氏が手掛ける“逆ゾンビゲー”",
+          "imageUrl": "https://www.4gamer.net/games/043/G104316/20261119001/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/983/G098322/20261118045/",
           "author": null,
           "description": "コナミデジタルエンタテインメントは本日（2026年11月18日），開催中の「BlackFridaySALE」にてPSStoreおよびニンテンドーeショップのセール対象タイトルを新たに追加した。PSStoreでは，「METALGEARSOLID:MASTERCOLLECTIONVol.2」などが初めてセール対象となる。",
@@ -2504,16 +2554,6 @@
           "wordCount": 8354,
           "title": "「70年代風ロボットアニメ ゲッP-X」，Steam/PS5/Switch/PS4向けダウンロード版初セールで30％オフ。11月4日まで",
           "imageUrl": "https://www.4gamer.net/games/986/G098670/20261021001/SS/001.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/010/G101093/20261015041/",
-          "author": null,
-          "description": "スクウェア・エニックスが2026年10月22日にリリースする新作RPG「ファイナルファンタジーレゾナンス」の製品版をプレイする機会を得たので，インプレッションをお届けする。シリーズで初めてHD-2Dを採用した本作だが，HD-2D演出だけにとどまらないバトルやビルドの魅力を中心にお伝えしよう。",
-          "link": "https://www.4gamer.net/games/010/G101093/20261015041/",
-          "publishedOn": "2026-10-20T13:00:00.000Z",
-          "wordCount": 8666,
-          "title": "「ファイナルファンタジー レゾナンス」はHD-2D演出がすごいだけじゃない。バトルの駆け引きやキャラとパーティのビルドが楽しい［プレイレポ］",
-          "imageUrl": "https://www.4gamer.net/games/010/G101093/20261015041/SS/019.jpg"
         }
       ]
     },
@@ -2522,6 +2562,106 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/948062bca023442ff785d373c5fc16b481c1dad8?source=rss",
+          "author": null,
+          "description": "伊丹市で３歳の娘に暴行を加え死亡させたとして父親が逮捕された事件を受け、兵庫県の知事が取材に応じ、「これまでの対応を検証して再発防止に努めたい」と述べました。介護業界の“深刻な職員不足”を筋肉が救う！",
+          "link": "https://news.yahoo.co.jp/articles/948062bca023442ff785d373c5fc16b481c1dad8?source=rss",
+          "publishedOn": "2026-11-19T05:39:34.000Z",
+          "wordCount": 1656,
+          "title": "【速報】兵庫・伊丹市３歳女児暴行死事件　斎藤知事がコメント「集中的に検証し公表することで再発防止に努めたい」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083685-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/067e4fdeff28e663b8b2386bbbc4f7626a0472cd?source=rss",
+          "author": null,
+          "description": "１９日、大手電機メーカーのシャープは公式通販サイトで利用している外部サービスが不正アクセスを受け、約３２６万件の顧客情報が流出した可能性があると発表しました。日本一高い観覧車が１年ぶり営業再開へ 落雷",
+          "link": "https://news.yahoo.co.jp/articles/067e4fdeff28e663b8b2386bbbc4f7626a0472cd?source=rss",
+          "publishedOn": "2026-11-19T05:10:57.000Z",
+          "wordCount": 1676,
+          "title": "「シャープ」公式通販サイトの委託先に不正アクセス　約３２６万件の顧客情報漏えいか(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083684-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cff2d28672785c3e08e5d88d7cedf71be0d52b42?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、１９日午後０時８分ごろ橋本駅近くの線路上で倒木が発生したということです。介護業界の“深刻な職員不足”を筋肉が救う！？ 介護とマッチョを両立する「マッチョ介護士」とは この影響で",
+          "link": "https://news.yahoo.co.jp/articles/cff2d28672785c3e08e5d88d7cedf71be0d52b42?source=rss",
+          "publishedOn": "2026-11-19T03:43:46.000Z",
+          "wordCount": 1689,
+          "title": "【速報・画像あり】JR和歌山線・五条－粉河駅間で運転見合わせ　倒木の影響　普通列車の運転士が倒木を見つける　乗客２５人は橋本駅からタクシー利用して目的地へ(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083681-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c5e81ae4a732ad7601924636a7f29665cdb7d970?source=rss",
+          "author": null,
+          "description": "１８日夜、滋賀県高島市の県道で、軽四貨物自動車が交通整理の作業をしていた市職員の男性と接触する事故があり、男性は搬送先の病院で死亡が確認されました。介護業界の“深刻な職員不足”を筋肉が救う！？ 介護と",
+          "link": "https://news.yahoo.co.jp/articles/c5e81ae4a732ad7601924636a7f29665cdb7d970?source=rss",
+          "publishedOn": "2026-11-19T03:40:43.000Z",
+          "wordCount": 1672,
+          "title": "滋賀・高島市　県道の交通整理の作業をしていた市職員が軽四貨物自動車と衝突し死亡　市職員は交通整理の準備をしていたとみられる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083680-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a60ab2bad9c9702dd7a55948760588fb914fda85?source=rss",
+          "author": null,
+          "description": "阪急電鉄によりますと、１９日午後０時１３分ごろ、宝塚線・石橋阪大前ー蛍池駅間で人身事故が発生したということです。介護業界の“深刻な職員不足”を筋肉が救う！？ 介護とマッチョを両立する「マッチョ介護士」",
+          "link": "https://news.yahoo.co.jp/articles/a60ab2bad9c9702dd7a55948760588fb914fda85?source=rss",
+          "publishedOn": "2026-11-19T03:32:43.000Z",
+          "wordCount": 1658,
+          "title": "【運転再開】阪急宝塚線・石橋阪大前－蛍池駅間で一時運転見合わせ　人身事故の影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083679-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/82d630e03ba646a4fdf4eabbac534c021b5d2220?source=rss",
+          "author": null,
+          "description": "京都のアートミュージアム「チームラボ バイオヴォルテックス 京都‐大成建設」に新たな作品が登場し１９日、報道陣に公開されました。介護業界の苦境を筋肉が救う！？ 介護と“マッチョ”の二刀流「マッチョ介護",
+          "link": "https://news.yahoo.co.jp/articles/82d630e03ba646a4fdf4eabbac534c021b5d2220?source=rss",
+          "publishedOn": "2026-11-19T03:29:19.000Z",
+          "wordCount": 1704,
+          "title": "京都のアートミュージアム「チームラボバイオヴォルテックス京都大成建設」に新たな作品が登場　ティーハウス「一滴庵」　明日から一般公開(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083676-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/057d5b1a7a9817bb435c7b24b3c1ccdfe83cb831?source=rss",
+          "author": null,
+          "description": "クリスマスシーズンを前に、神戸・北野の異人館にことし１年の世相を反映したサンタクロースが登場しました。介護業界の“深刻な職員不足”を筋肉が救う！？ 介護とマッチョを両立する「マッチョ介護士」とは 神戸",
+          "link": "https://news.yahoo.co.jp/articles/057d5b1a7a9817bb435c7b24b3c1ccdfe83cb831?source=rss",
+          "publishedOn": "2026-11-19T03:29:04.000Z",
+          "wordCount": 1674,
+          "title": "神戸・北野の世相サンタ　２０２６年テーマは「物価高騰」　“トレードマークの赤いガウンを新調できず普段着のグレーのガウン姿”で登場　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083677-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9081dd0b45bce14016e115f3ef81201faf183029?source=rss",
+          "author": null,
+          "description": "兵庫県伊丹市で、３歳の娘に暴行を加え死亡させたとして父親が逮捕された事件で、女の子の内臓に損傷があったことが分かりました。３歳娘を暴行し死亡させた疑いで父親逮捕 児相に預けられるも「外泊」で戻った際に",
+          "link": "https://news.yahoo.co.jp/articles/9081dd0b45bce14016e115f3ef81201faf183029?source=rss",
+          "publishedOn": "2026-11-19T03:28:50.000Z",
+          "wordCount": 1690,
+          "title": "【続報】伊丹市３歳女児死亡事件　内臓に外部から強い力が加えられたとみられる損傷か　全身には数十カ所のあざも　逮捕された父親は「事実ではありません」容疑を否認　兵庫県警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083678-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/24f83b5a078c559852fc45d7cc04bd7873ac431c?source=rss",
+          "author": null,
+          "description": "準強制性交等の罪に問われた大阪地検元検事正の裁判で、19日、事件当日の懇親会に参加した警察官が証言しました。神戸・６歳児虐待死事件 叔父が起訴内容を否認 遺体遺棄については弁護側が認める 大阪地検の元",
+          "link": "https://news.yahoo.co.jp/articles/24f83b5a078c559852fc45d7cc04bd7873ac431c?source=rss",
+          "publishedOn": "2026-11-19T03:27:53.000Z",
+          "wordCount": 1651,
+          "title": "【続報】準強制性交等の罪に問われた大阪地検元検事正の裁判で“懇親会参加”の警察官が証言　(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00083675-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bd905c51adfd24036e0764201794c0ddf457fa2d?source=rss",
+          "author": null,
+          "description": "スーパー銭湯のロッカーを狙った窃盗が相次いでいます。なぜスーパー銭湯をターゲットにし、どのような手口でおこなわれたのでしょうか。子どものネット利用の規制どこまですべきか 国が初の目安を提示 世界では「",
+          "link": "https://news.yahoo.co.jp/articles/bd905c51adfd24036e0764201794c0ddf457fa2d?source=rss",
+          "publishedOn": "2026-11-19T03:00:00.000Z",
+          "wordCount": 1822,
+          "title": "スーパー銭湯で窃盗相次ぐ　合鍵でロッカー開けクレカ狙う組織的犯行か　なぜスーパー銭湯？手口は(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-00083662-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/52539d280f316dbe85db7480dbd9a4ff160cdd4d?source=rss",
           "author": null,
@@ -7401,16 +7541,6 @@
           "wordCount": 1621,
           "title": "【速報】大阪で午前9時46分に気温30.0度を観測　史上最も遅い「真夏日」に(ABCニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00083160-asahibcv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/196a928a10915af9ac8b3db41e6a3ede711f7109?source=rss",
-          "author": null,
-          "description": "ＡＢＣテレビの津田理帆アナウンサーが大阪府警・東住吉警察署の一日警察署長に就任し、特殊詐欺被害の防止を呼び掛けました。トイプードルなど11匹の愛犬を「わんわんパトロール隊」に任命 街の見守り活動に参加",
-          "link": "https://news.yahoo.co.jp/articles/196a928a10915af9ac8b3db41e6a3ede711f7109?source=rss",
-          "publishedOn": "2026-10-20T13:14:10.000Z",
-          "wordCount": 1658,
-          "title": "ＡＢＣテレビ・津田理帆アナウンサーが一日警察署長に　特殊詐欺被害の防止呼びかけ　大阪府警・東住吉署(ABCニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00083157-asahibcv-000-1-thumb.jpg?exp=10800"
         }
       ]
     },
@@ -7419,6 +7549,86 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro#0",
+          "author": null,
+          "description": "ロシア当局は19日、ウクライナ南部クリミア半島とロシア本土をつなぐクリミア橋が、ウクライナの攻撃を受けたと発表した。ウクライナによる同橋への攻撃は今週に入り3度目。",
+          "link": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T07:24:45.000Z",
+          "wordCount": 1720,
+          "title": "ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6056/live/89bd09e0-e3b1-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/ckdd19vjz85do#0",
+          "author": null,
+          "description": "史上最も期待されたビデオゲームと評される「グランド・セフト・オート6」が19日、全世界で発売された。人気シリーズの最新作はこうした評価に見合うものなのか、批評家たちがレビューを発表している。",
+          "link": "https://www.bbc.com/japanese/articles/ckdd19vjz85do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T06:46:44.000Z",
+          "wordCount": 1699,
+          "title": "「グランド・セフト・オート6」発売、レビューではすでに傑作と話題に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cqy4jmk887v1o#0",
+          "author": null,
+          "description": "アメリカの民主党は18日、次期下院議長の候補としてハキーム・ジェフリーズ氏を正式に指名した。選出されれば黒人として初の下院議長となる。",
+          "link": "https://www.bbc.com/japanese/articles/cqy4jmk887v1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T05:24:18.000Z",
+          "wordCount": 1728,
+          "title": "米民主党、下院議長にジェフリーズ氏を指名　黒人として初就任の公算大",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cj62p6q10xngo#0",
+          "author": null,
+          "description": "イスラエル軍は18日、支配下にないパレスチナ・ガザ地区の一部地域で、異例の地上作戦を開始した。作戦前には、住民に避難命令が出された。イスラエル軍は、「イエローライン」と呼ばれる撤退ラインを越えた場所にある「テロトンネル」の解体が目的だとしているが、ハマスは「露骨な停戦合意違反」だと非難した。",
+          "link": "https://www.bbc.com/japanese/articles/cj62p6q10xngo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T04:29:50.000Z",
+          "wordCount": 1681,
+          "title": "イスラエル軍、ガザ地区で「撤退ライン」越える地上作戦を開始",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cx30gd42zv3mo#0",
+          "author": null,
+          "description": "『花咲くシャテーニエ』は、フィンセント・ファン・ゴッホの晩年の2ヶ月間、1890年に描かれた作品である。",
+          "link": "https://www.bbc.com/japanese/articles/cx30gd42zv3mo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T04:22:34.000Z",
+          "wordCount": 1810,
+          "title": "ゴッホ晩年の作品、記録的な1億9040万ドルで落札　ナチスとの関係めぐり論争",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/crlyenvl96jqo#0",
+          "author": null,
+          "description": "19日に予定されている歴史的な米中ロ首脳会談は、ロシアのプーチン大統領にとって、大きな舞台に立って脚光を浴びる絶好の機会となるかもしれない。だがそれは必ずしも、彼をウクライナでの戦争での勝利に近づけるものではない。",
+          "link": "https://www.bbc.com/japanese/articles/crlyenvl96jqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T03:24:59.000Z",
+          "wordCount": 1817,
+          "title": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/watch/cmy86pww32vgo#0",
+          "author": null,
+          "description": "中国・深圳で18日、アジア太平洋経済協力会議（APEC）首脳会議が始まり、中国の習国家主席、アメリカのトランプ大統領、ロシアのプーチン大統領が顔を合わせた。19日には3首脳による、前例のない会談が予定されている。",
+          "link": "https://www.bbc.com/japanese/watch/cmy86pww32vgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T02:21:32.000Z",
+          "wordCount": 1260,
+          "title": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/c68d/live/742dd1c0-e3bd-11f1-b1a2-eb0c18e8f54b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/ck782wyn9974o#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領とロシアのプーチン大統領が18日、中国・深圳で習国家主席の歓迎を受けたあと、顔を合わせた。米ロ首脳の対面は1年以上ぶり。19日午後には、この3首脳による歴史的な会談が予定されている。",
+          "link": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-19T01:42:52.000Z",
+          "wordCount": 1924,
+          "title": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/d52f/live/cb5df270-e3ba-11f1-a094-5fdc692f3e33.jpg"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/cq99ey15xv9do#1",
           "author": null,
@@ -9497,6 +9707,36 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/18/news021.html",
+          "author": null,
+          "description": "MaxLinearは、AIインフラ向け1.6T光トランシーバーモジュール用の多相電源管理IC（PMIC）「Jeju」を発表した。最大95％のピーク電力効率を実現し、従来のPMICに比べて消費電力を最大0.5W削減する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/18/news021.html",
+          "publishedOn": "2026-11-19T03:30:00.000Z",
+          "wordCount": 2652,
+          "title": "最大95％の電力変換効率、1.6T光モジュール向けPMIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/18/l_edn20261118edn001.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/20/news007.html",
+          "author": null,
+          "description": "マイコンユーザーのさまざまな疑問に対し、マイコンメーカーのエンジニアがお答えしていく本連載。今回は、上級者の方からよく質問される「セキュリティが必須となったマイコン設計の「新常識」」についてです。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/20/news007.html",
+          "publishedOn": "2026-11-19T02:00:00.000Z",
+          "wordCount": 2651,
+          "title": "セキュリティが必須となったマイコン設計の「新常識」",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/20/cover_news007.jpg"
+        },
+        {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2611/19/news031.html",
+          "author": null,
+          "description": "日清紡マイクロデバイスは、電動車（xEV）の高電圧化に対応する1000V高電圧モニターIC「NL9000」を発売した。高精度な電圧検出回路を1パッケージに集約し、全動作温度範囲で減衰率精度±0.7％を実現。部品点数を約90％、基板面積を約80％削減する。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2611/19/news031.html",
+          "publishedOn": "2026-11-19T00:00:00.000Z",
+          "wordCount": 2654,
+          "title": "部品数90％／基板面積80％削減、1000V高電圧モニターIC",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2611/19/cover_news031.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2611/17/news053.html",
           "author": null,
           "description": "Diodesは、モータードライブや太陽光発電用インバーターなどに向けたデュアルチャネル絶縁型ゲートドライバー「API21550」「API21552」を発表した。最大13kVの絶縁破壊電圧に対応する。",
@@ -10153,6 +10393,46 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=138030",
+          "author": "多根清史",
+          "description": "アップルは2023年のiPhone 15 Proや、その翌年のiPhone 16 Proにチタン製フレームを採用し、ユーザーからも好評を得ていたが、2025年のiPhone 17 Proではそれを冷却面などのメリットを掲げてアルミニウム製のユニボディデザインに変更した。 しかし2027年秋 […]",
+          "link": "https://gadget.phileweb.com/post-138030/",
+          "publishedOn": "2026-11-19T07:30:00.000Z",
+          "wordCount": 736,
+          "title": "「iPhone 20 Pro」はチタンフレーム回帰？試作機はiPhone Air似とも",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/ed3fb3b58523555353dd259084833065.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=138017",
+          "author": "多根清史",
+          "description": "MetaのAIエージェント「Muse」に、ユーザーの想定していないプライベートなメッセージを読み取ったり、別のユーザーの会話を混同したかのような応答をしたり、個人情報を漏えいしたりする可能性があるとの疑いが浮上している。 米Reutersの調査によると、Meta社内でも同様の問題が報告されている模様 […]",
+          "link": "https://gadget.phileweb.com/post-138017/",
+          "publishedOn": "2026-11-19T05:30:00.000Z",
+          "wordCount": 708,
+          "title": "MetaのAI「Muse」が他人の銀行残高を表示する？Signalの暗号化メッセージ読み取りも判明",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/bc22b1f199d53ea79a3bf41a8e7dd826.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137993",
+          "author": "Munenori Taniguchi",
+          "description": "ここ数年のAIデータセンター建設需要により、RAMだけでなくスマートフォン、タブレット、PC、さらにはPlayStationのようなゲーム機などのストレージに使われるSSDを構成するNANDフラッシュメモリーの価格の高騰も招き、われわれ一般消費者の財布はすっかり薄くなってしまった感がある。 しかしソ […]",
+          "link": "https://gadget.phileweb.com/post-137993/",
+          "publishedOn": "2026-11-19T03:40:00.000Z",
+          "wordCount": 702,
+          "title": "来るかSSD値下げ。NANDフラッシュのスポット価格が20％下落で製品価格にも反映する可能性",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/2db414905a08ce912e5c2a6a8336a109.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=137990",
+          "author": "多根清史",
+          "description": "11月19日、ついに発売された人気ゲームシリーズの最新作『Grand Theft Auto Ⅵ』（GTA6）だが、画面表示の滑らかさにかかわるフレームレートにおいて、開発元のRockstar Gamesが少なくともPlayStation 5 Proを含む現行世代機では40fpsや60fpsモードが追 […]",
+          "link": "https://gadget.phileweb.com/post-137990/",
+          "publishedOn": "2026-11-19T03:26:46.000Z",
+          "wordCount": 729,
+          "title": "PS5 Proでも『GTA6』は30fps固定と開発元。現世代機はCPUが力不足",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/11/c287435c6184ef30d996e52c7a0b9207.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=137976",
           "author": "佐野正弘",
@@ -11701,6 +11981,16 @@
       "siteUrl": "http://www.2nn.jp/dqnplus/",
       "articles": [
         {
+          "id": "http://www.2nn.jp/dqnplus/1795062565/",
+          "author": "朝一から閉店までφ ★",
+          "description": "掲載日\n2026/11/19 11:00\n今年3月に約40年半の歴史に幕を下ろしたTBS系情報バラエティ番組『アッコにおまかせ!』が、2027年1月10日(11:35～12:54)に『アッコにおまかせ!2027SP(仮)』として、1日限りの復活を果...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1795062565/",
+          "link": "http://www.2nn.jp/dqnplus/1795062565/",
+          "publishedOn": "2026-11-19T04:29:25.000Z",
+          "wordCount": 1605,
+          "title": "『アッコにおまかせ!』約10カ月ぶり復活決定! 和田アキ子「まさかこんなに早く」 2027年1月に1日限りの特番",
+          "imageUrl": "http://www.2nn.jp/img/dqnplus/1795062565.jpg"
+        },
+        {
           "id": "http://www.2nn.jp/dqnplus/1794963940/",
           "author": "◆u4IbeIQ07Y 武者小路バヌアツ ★",
           "description": "(埼玉)越谷市南越谷4丁目で暴行　11月17日\n2026/11/18\n埼玉県警によると、11月17日午後3時20分頃、越谷市南越谷4丁目の路上で、女子高校生への暴行が発生しました。(実行者の特徴:男性、180センチ位、がっちり体形、...\nhttps://egg.5ch.io/test/read.cgi/dqnplus/1794963940/",
@@ -12498,6 +12788,36 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=63419",
+          "author": "fumie",
+          "description": "秋になると色んな食べ物が美味しくて、ついつい食べ過ぎちゃうふみえ＠あつらぼです。 さ～、今年もこの季節がやってきました♪ 地域農業の魅力を発信し、収穫の喜びを地域で分かち合うイベント、 「第56回厚木市農業まつり畜産祭・収穫祭」が11月21…",
+          "link": "https://atsugi-lab.com/event-nougyou-matsuri202611/",
+          "publishedOn": "2026-11-19T07:00:30.000Z",
+          "wordCount": 841,
+          "title": "【イベント】新鮮な農畜産物の販売や飲食コーナーが例年大人気♪「第56回厚木市農業まつり畜産祭・収穫祭」11月21日開催！［厚木市水引］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/anm-202611.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=63278",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 毎日仕事や家事、育児などをとーっても頑張っていて、気づけばいつも自分のことが後回しになっている…。 今回はそんな女性のみなさまに、ぜひおすすめしたい「SOL Pilates Studio」さんが10月18…",
+          "link": "https://atsugi-lab.com/open-sol-pilates-atsugi2026/",
+          "publishedOn": "2026-11-19T02:15:55.000Z",
+          "wordCount": 892,
+          "title": "【オープニングキャンペーン中！】姿勢を整え、しなやかで美しい体へ♡マシンピラティス「SOL Pilates Studio」［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/sol-pilates202611.jpg"
+        },
+        {
+          "id": "https://atsugi-lab.com/?p=63511",
+          "author": "田原",
+          "description": "こんにちは、タハラ＠あつらぼです。 厚木からもお買い物に訪れる方が多い「ららぽーと海老名」で、お得なキャンペーンが実施されています！ 遊び・体験の予約サイト「アソビュー！」で販売されているのは、5,000円で6,000円分の三井ショッピング…",
+          "link": "https://atsugi-lab.com/cam-lalaport-ebina-asoview202611/",
+          "publishedOn": "2026-11-19T00:40:53.000Z",
+          "wordCount": 883,
+          "title": "【お得情報】ららぽーと海老名の約220店舗で使える6,000円分のポイントが5,000円★最大1,000円お得なチケット販売中♪",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/11/asv-ebina202611.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=63346",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです♪ 急に寒い日が増えてきましたねー！体を内側から温めてくれる料理が食べたくて、麻辣湯店についつい目が行ってしまう今日この頃。 そんなタイミングで、しゃぶしゃぶ食べ放題専門店「しゃぶ葉」から、 麻辣湯好きの方か…",
@@ -12881,6 +13201,26 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp/",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=322176",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ローソンの新商品「盛りすぎ！塩焼きそば」を世界一詳しく調査しました。   【ローソン】盛りすぎ！塩焼きそば（超ハッピ […]\n投稿 【ローソン】盛りすぎ！塩焼きそば（超ハッピーすぎ！チャレンジ）【新作コンビニ弁当】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/lawson-yakisoba-sio-morisugi-2026",
+          "publishedOn": "2026-11-19T07:31:20.000Z",
+          "wordCount": 1907,
+          "title": "【ローソン】盛りすぎ！塩焼きそば（超ハッピーすぎ！チャレンジ）【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/dedc6307eb5445a1dad1a491b5557a88.jpg"
+        },
+        {
+          "id": "https://foodfighter.jp/?p=322154",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、「ビアードパパ」の新商品「パリブレスト（リング型のシュークリーム）」を世界一詳しく調査しました。   【ビアードパパ […]\n投稿 【ビアードパパ】パリブレスト（リング型のシュークリーム）【新商品】 は 進撃のグルメ に最初に表示されました。",
+          "link": "https://foodfighter.jp/beardpapa-paris-brest-2026",
+          "publishedOn": "2026-11-19T03:28:43.000Z",
+          "wordCount": 1919,
+          "title": "【ビアードパパ】パリブレスト（リング型のシュークリーム）【新商品】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/11/f9ad03cdc1401547f290d8683eca508e.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=322128",
           "author": "foodfighter",
@@ -13608,6 +13948,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127772/",
+          "author": null,
+          "description": "日本テレビ系・金曜ロードショーで11月20日、27日の2週にわたり、アニメーション・ミュージカル映画「SING シング」と「SING シング ネクストステージ」が放送される。 同シリーズは、レデ...",
+          "link": "https://anime.eiga.com/news/127772/",
+          "publishedOn": "2026-11-19T03:00:00.000Z",
+          "wordCount": 786,
+          "title": "「金曜ロードショー」で11月20、27日にアニメ映画「SING シング」2作を放送　内村光良、坂本真綾、長澤まさみ、稲葉浩志らが声の出演",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127839/",
           "author": null,
@@ -16572,21 +16927,6 @@
             "length": ""
           },
           "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
-        },
-        {
-          "id": "https://anime.eiga.com/news/127662/",
-          "author": null,
-          "description": "ディズニー・アニメーション・スタジオ最新作「ビリーと魔法のはじまり」の新ディズニー・ヒロイン日本版声優発表イベントが10月13日、都内で行われ、俳優の畑芽育が主人公ビリーの声優を務めることが明ら...",
-          "link": "https://anime.eiga.com/news/127662/",
-          "publishedOn": "2026-10-20T13:00:00.000Z",
-          "wordCount": 661,
-          "title": "畑芽育、新ディズニー・ヒロインの日本版声優に抜てき　「ビリーと魔法のはじまり」で現代の高校生役",
-          "enclosure": {
-            "url": "https://media.eiga.com/images/movie/gallery.gif",
-            "type": "image/gif",
-            "length": ""
-          },
-          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
         }
       ]
     },
@@ -16595,6 +16935,46 @@
       "feedUrl": "https://ln-news.com/feed",
       "siteUrl": "https://ln-news.com",
       "articles": [
+        {
+          "id": "https://ln-news.com/articles/127237",
+          "author": null,
+          "description": "コバルト文庫の大人気シリーズの書き下ろし新作短編を収録した『コバルト・プレイ...",
+          "link": "https://ln-news.com/articles/127237",
+          "publishedOn": "2026-11-19T07:00:00.000Z",
+          "wordCount": 252,
+          "title": "『コバルト・プレイバック・アンソロジー part2』が発売　集英社コバルト文庫大人気6シリーズの完全新作書き下ろし短編を収録",
+          "imageUrl": "https://assets.ln-news.com/images/medias/38933f2b4fa647fba3e8b7ab243c9c3f.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127230",
+          "author": null,
+          "description": "アース・スターノベル発のアニメ『悠久の愚者アズリーの、賢者のすゝめ』の放送情...",
+          "link": "https://ln-news.com/articles/127230",
+          "publishedOn": "2026-11-19T05:30:00.000Z",
+          "wordCount": 279,
+          "title": "アニメ『悠久の愚者アズリーの、賢者のすゝめ』は2027年1月9日（土）より放送開始　主題歌の音源も解禁されたメインPVも公開",
+          "imageUrl": "https://assets.ln-news.com/images/medias/17e7441423354e7e83e79e72329499a7.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127231",
+          "author": null,
+          "description": "2026年11月20日に発売されるGCN文庫11月刊行のラインナップ2冊のジ...",
+          "link": "https://ln-news.com/articles/127231",
+          "publishedOn": "2026-11-19T04:00:00.000Z",
+          "wordCount": 241,
+          "title": "GCN文庫2026年11月刊行のラインナップをご紹介。『王者の盤狂わせ4』『ゴエティア・ショック 断片集』など2冊",
+          "imageUrl": "https://assets.ln-news.com/images/medias/7af446a2d4ca425eb3d4f4f98cc881e6.jpg"
+        },
+        {
+          "id": "https://ln-news.com/articles/127234",
+          "author": null,
+          "description": "株式会社オーバーラップは、「次にくるライトノベル大賞2026」にノミネートし...",
+          "link": "https://ln-news.com/articles/127234",
+          "publishedOn": "2026-11-19T01:00:00.000Z",
+          "wordCount": 226,
+          "title": "「次にくるライトノベル大賞2026」にノミネートしたオーバーラップ作品が無料、または割引となるキャンペーンが各電子書籍ストアにて開催中",
+          "imageUrl": "https://assets.ln-news.com/images/medias/d06f00a5123f46819e9e0be9d50d7226.jpeg"
+        },
         {
           "id": "https://ln-news.com/articles/127233",
           "author": null,
@@ -19173,6 +19553,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/etzPFC7SQjE",
+          "author": null,
+          "description": "本編はこちら↓https://youtu.be/-oNjo43NYnw",
+          "link": "https://www.youtube.com/shorts/etzPFC7SQjE",
+          "publishedOn": "2026-11-19T04:39:19.000Z",
+          "wordCount": 2964,
+          "title": "女ボス社長の優しさ #ジェラードン #コント #ボス",
+          "imageUrl": "https://i.ytimg.com/vi/etzPFC7SQjE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCbB7llE2fZJBd7xW8mgj8UXBgDOQ"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FWKRi942lWM",
           "author": null,
           "description": "",
@@ -20172,16 +20562,6 @@
           "publishedOn": "2026-10-21T13:35:14.000Z",
           "wordCount": 2738,
           "title": "PHP脆弱祭り",
-          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
-        },
-        {
-          "id": "https://logipara.com/?p=13642",
-          "author": "watanabe@logipara.com",
-          "description": "自宅のエアコンを交換することになり、本日、エアコン業者の方がやってきました。 私はリモート勤務だったので、エアコンが交換される様子を見ながら、パソコンをカタカタ叩いて仕事をしていました。 交換が終わったあと、業者の方が、 […]",
-          "link": "https://logipara.com/diary-text/2026-10-21/",
-          "publishedOn": "2026-10-20T14:11:29.000Z",
-          "wordCount": 2743,
-          "title": "私としてはエアコンを交換するほうがすごい",
           "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
         }
       ]
