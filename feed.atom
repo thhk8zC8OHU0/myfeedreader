@@ -2,10 +2,571 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-25T03:44:53.233Z</updated>
+    <updated>2026-11-25T13:33:55.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#ごいごいすー #ダイアン津田 #shorts]]></title>
+        <id>https://www.youtube.com/shorts/TYdYtw5ccMw</id>
+        <link href="https://www.youtube.com/shorts/TYdYtw5ccMw"/>
+        <updated>2026-11-25T13:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ダイアン津田のゴイゴイスーチャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ごいごいすー #ダイアン津田 #shorts #ゴイゴイスーチャンネル]]></title>
+        <id>https://www.youtube.com/shorts/w50PqR08tgM</id>
+        <link href="https://www.youtube.com/shorts/w50PqR08tgM"/>
+        <updated>2026-11-25T13:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>ダイアン津田のゴイゴイスーチャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新たに“弓塚さつき”の参戦が決定。「MELTY BLOOD: TWI-LUMINA」，バトルシステムの紹介やバトルシーンを収録した最新PVを公開]]></title>
+        <id>https://www.4gamer.net/games/019/G101928/20261125061/</id>
+        <link href="https://www.4gamer.net/games/019/G101928/20261125061/"/>
+        <updated>2026-11-25T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[アニプレックスは本日（2026年11月25日），2D対戦格闘ゲーム「MELTYBLOOD:TWI-LUMINA」の最新情報を伝える番組を配信した。番組では，プレイアブルキャラクター「弓塚さつき」の参戦や新たなシステムが発表された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【丸亀製麺】焼き鴨ねぎうどん【新メニュー】]]></title>
+        <id>https://foodfighter.jp/?p=322508</id>
+        <link href="https://foodfighter.jp/marugame-kamonegi-2026"/>
+        <updated>2026-11-25T12:14:24.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、すべての店で粉から作る讃岐うどんが人気のチェーン「讃岐釜揚げうどん 丸亀製麺」へ進撃しました。  […]
+投稿 【丸亀製麺】焼き鴨ねぎうどん【新メニュー】 は 進撃のグルメ に最初に表示されました。]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMAXシアターがアップグレード　「TOHOシネマズ ららぽーと横浜」12月18日からIMAXレーザー導入]]></title>
+        <id>https://anime.eiga.com/news/127777/</id>
+        <link href="https://anime.eiga.com/news/127777/"/>
+        <updated>2026-11-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[12月18日からTOHOシネマズららぽーと横浜にIMAXレーザーが導入されることが決定した。IMAXレーザーは、IMAXシアターのスクリーンで上映するために独自に開発され、革新的な4Kレーザー投...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お昼寝したいはなvsまだ一緒に遊びたがってるもち]]></title>
+        <id>https://www.youtube.com/watch?v=SXI0WE7YScQ</id>
+        <link href="https://www.youtube.com/watch?v=SXI0WE7YScQ"/>
+        <updated>2026-11-25T11:01:27.000Z</updated>
+        <author>
+            <name>もちまる日記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「魔法使いの夜」続編製作を発表　11月27日から新たな入場特典「ufotable描き下ろしミニ色紙」など配布開始]]></title>
+        <id>https://anime.eiga.com/news/127939/</id>
+        <link href="https://anime.eiga.com/news/127939/"/>
+        <updated>2026-11-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[劇場アニメ「魔法使いの夜」の続編製作が11月24日、公式Xなどで発表された。11月20日に封切られた同作の本編の最後に、鑑賞者に向けて続編製作がサプライズで告知されていた。 11月27日～12月...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「NGS ver.2」，期間限定クエスト「リレーションクエスト」を更新]]></title>
+        <id>https://www.4gamer.net/games/521/G052100/20261125049/</id>
+        <link href="https://www.4gamer.net/games/521/G052100/20261125049/"/>
+        <updated>2026-11-25T10:42:01.000Z</updated>
+        <summary type="html"><![CDATA[PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2   配信元 セガ 配信日 2026/11/25     『PSO2 ニュージェネ…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ぷよぷよ」，自分にぴったりな“適ぷよ”が分かる「わちゃぷよ 適ぷよ診断」を公開]]></title>
+        <id>https://www.4gamer.net/games/897/G089795/20261125046/</id>
+        <link href="https://www.4gamer.net/games/897/G089795/20261125046/"/>
+        <updated>2026-11-25T10:35:28.000Z</updated>
+        <summary type="html"><![CDATA[「ぷよぷよ」35周年 “だいれんさ！” プロジェクト   配信元 セガ 配信日 2026/11/25    「ぷよぷよ」35周年 “だいれんさ！” プロジェクト続報発表！テレ東系列「おはスタ」とのコラ…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ヒストリエ」ナレーションに森山未來、OP主題歌に「ヨルシカ」　原作漫画の最新話が「アフタヌーン」で2カ月連続掲載]]></title>
+        <id>https://anime.eiga.com/news/127942/</id>
+        <link href="https://anime.eiga.com/news/127942/"/>
+        <updated>2026-11-25T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ「ヒストリエ」が、2027年1月8日からスタートすることが分かった（初回は2話連続放送）。また、森山未來、立木文彦、関根明良、増田俊樹、竹内良太、山下誠一郎の出演と、主題歌を「ヨルシ...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[３階建てアパートで火災　１人が意識不明で病院搬送　住人男性と連絡取れず　滋賀・東近江市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/37c546bf8d4561f061d334c557e84aa6df467940?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/37c546bf8d4561f061d334c557e84aa6df467940?source=rss"/>
+        <updated>2026-11-25T10:15:01.000Z</updated>
+        <summary type="html"><![CDATA[２５日午後、滋賀県東近江市の３階建ての集合住宅で火事があり、１人が意識不明の状態で病院に搬送されました。伊丹市・３歳女児死亡で児相が警察に情報共有せず 母親からけがの報告約１０件も「虐待なし」と判断]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラッコ９年ぶりに海遊館へ　４月から飼育の４頭を来月から公開　混雑なら観覧制限も(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4e5c4689e77972911ee4ee583b879194b51a6def?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4e5c4689e77972911ee4ee583b879194b51a6def?source=rss"/>
+        <updated>2026-11-25T10:13:06.000Z</updated>
+        <summary type="html"><![CDATA[９年ぶりに海遊館で会うことができます。 海遊館が公開するのは、メスのラッコ「ウーナ」と「チャリィ」、オスの「ニピ」と「イマック」の４頭です。海遊館では２０１７年に死んで以来、９年ぶりの公開となります。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[妻殺害の疑いで医師の男再逮捕　自ら行方不明者届　兵庫・尼崎(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e34cda3fde3fda912e175b06cb91bd0429b55781?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e34cda3fde3fda912e175b06cb91bd0429b55781?source=rss"/>
+        <updated>2026-11-25T10:12:56.000Z</updated>
+        <summary type="html"><![CDATA[妻を殺害した疑いで、医師の男を再逮捕です。 殺人の疑いで再逮捕されたのは、兵庫県西宮市の医師、下村憲司容疑者（４６）です。京都市バスに“二重価格”導入へ その効果は？ 「いわばガス抜きのための政策」と]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[徳島・阿波市長が辞任の意向　ケーブルテレビ工事代金めぐり詐欺容疑で逮捕　辞職願提出へ　(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cf24b7dc309c794888825edfcec7231ee06b0b24?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cf24b7dc309c794888825edfcec7231ee06b0b24?source=rss"/>
+        <updated>2026-11-25T10:12:47.000Z</updated>
+        <summary type="html"><![CDATA[徳島県阿波市の市長が辞任する意向を示していることが分かりました。 阿波市長の町田寿人容疑者（６９）は、市が発注したケーブルテレビの工事代金に、自らが起こした交通事故の修理費３５０万円を上乗せして請求し]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ロマンシング サガ3 デスティニーユナイテッド」，進化した「トレード」「ツヴァイクトーナメント」の詳細を公開。フルブライトら仲間5人も紹介]]></title>
+        <id>https://www.4gamer.net/games/041/G104129/20261125035/</id>
+        <link href="https://www.4gamer.net/games/041/G104129/20261125035/"/>
+        <updated>2026-11-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スクウェア・エニックスは本日，「ロマンシングサガ3デスティニーユナイテッド」の最新情報を公開した。今回は，フルブライトら仲間5人に加え，企業買収を楽しむ「トレード」や，複数の大会に挑めるようになった「ツヴァイクトーナメント」の新要素を紹介。合成術や武器固有技などの戦闘システムも明らかになった。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同じ色の玉を4つ以上つなげて消す「コンソールアーカイブス めざせ！戦球王」，11月26日配信。1996年発売のパズルゲーム]]></title>
+        <id>https://www.4gamer.net/games/061/G106139/20261125026/</id>
+        <link href="https://www.4gamer.net/games/061/G106139/20261125026/"/>
+        <updated>2026-11-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハムスターは，「コンソールアーカイブスめざせ！戦球王」を2026年11月26日に配信すると発表した。1996年にセイブ開発から発売されたパズルゲームの復刻版だ。画面の上部から落ちてくる同じ種類の「色玉」を4つ以上つなげて消し，連鎖を狙う。「戦球大会」や「腕前判定モード」などを楽しめる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【今期TVアニメランキング】「薬屋のひとりごと」「ホタルの嫁入り」「ドラゴンボール超 ビルス」がトップ3]]></title>
+        <id>https://anime.eiga.com/news/column/konki_ranking/127929/</id>
+        <link href="https://anime.eiga.com/news/column/konki_ranking/127929/"/>
+        <updated>2026-11-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11月第4週の2026年秋アニメ録画ランキングは、「薬屋のひとりごと（第3期）第1クール」が、8週連続で首位となった。 2位の「ホタルの嫁入り」、3位の「ドラゴンボール超 ビルス」の順位も先週と...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『転生したら剣でしたII』第8話「海洋国家はフクザツでした」のあらすじ＆先行カット解禁]]></title>
+        <id>https://ln-news.com/articles/127294</id>
+        <link href="https://ln-news.com/articles/127294"/>
+        <updated>2026-11-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GCノベルズ発のアニメ『転生したら剣でしたII』第8話「海洋国家はフクザツで...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「NGS ver.2」，TVアニメ「片田舎のおっさん、剣聖になるII」とのコラボを2027年1月に開催]]></title>
+        <id>https://www.4gamer.net/games/521/G052100/20261125040/</id>
+        <link href="https://www.4gamer.net/games/521/G052100/20261125040/"/>
+        <updated>2026-11-25T09:57:47.000Z</updated>
+        <summary type="html"><![CDATA[PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2 PSO2 ニュージェネシス ver.2   配信元 セガ 配信日 2026/11/25     『PSO2 ニュージェネ…]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「めっちゃカメレオン」，ホラーゲーム「Dark Deception」とコラボ。新マップ「モンキービジネス」や観戦モードを追加するアップデート4.3.0を配信]]></title>
+        <id>https://www.4gamer.net/games/007/G100712/20261125037/</id>
+        <link href="https://www.4gamer.net/games/007/G100712/20261125037/"/>
+        <updated>2026-11-25T09:37:53.000Z</updated>
+        <summary type="html"><![CDATA[LEMORION氏は本日，お絵かきかくれんぼゲーム「めっちゃカメレオン」のアップデート4.3.0を配信した。今回のアップデートでは，ホラーゲーム「DarkDeception」とのコラボレーションが実施され，新マップ「モンキービジネス」が追加された。さらに，観戦モードや酔い止め設定なども実装されている。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エレコム、“低発熱の小型65W充電器”と“より燃えにくいNext Li＋モバイルバッテリー”発表]]></title>
+        <id>https://gadget.phileweb.com/?p=138409</id>
+        <link href="https://gadget.phileweb.com/post-138409/"/>
+        <updated>2026-11-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムは、新型IC「GaN Core」を搭載する65W充電器「JAPAN ENGINEERED AC CHARGER」を11月下旬に、従来のリチウムイオン電池よりも安全性を高めた「Next Li＋（ネクストリチウムイオン）」モバイルバッテリーを12月より順次発売する。いずれも店頭実勢価格は5,98 […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「死亡遊戯で飯を食う。」続編が製作決定　幽鬼を描いたウルトラティザービジュアル公開]]></title>
+        <id>https://anime.eiga.com/news/127936/</id>
+        <link href="https://anime.eiga.com/news/127936/"/>
+        <updated>2026-11-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「死亡遊戯で飯を食う。」の続編の製作が決まり、ウルトラティザービジュアルが公開された。同ビジュアルは、こちらを見つめているかのような主人公・幽鬼（ユウキ）の姿が描かれ、その横には「この世界...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虹を使って敵を倒し，足場を作って進む「アーケードアーカイブス2 レインボーアイランド」，11月26日配信。難度を調整した「EXTRA」も収録]]></title>
+        <id>https://www.4gamer.net/games/061/G106132/20261125025/</id>
+        <link href="https://www.4gamer.net/games/061/G106132/20261125025/"/>
+        <updated>2026-11-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハムスターは，「アーケードアーカイブス2レインボーアイランド」を2026年11月26日に配信すると発表した。「レインボーアイランド」は，1987年にタイトーから発売されたアクションゲームだ。虹を使って敵を攻撃したり，足場を作ったりしながら冒険する。難度などが調整された「EXTRA」も収録される。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「幼稚園 WARS」OPテーマはAdo　第1弾PVに楽曲「ビバヤタラメッタ」収録]]></title>
+        <id>https://anime.eiga.com/news/127941/</id>
+        <link href="https://anime.eiga.com/news/127941/"/>
+        <updated>2026-11-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビアニメ「幼稚園 WARS」が、2027年4月からテレビ東系列6局ネットでスタートすることが分かった。オープニングテーマをAdoが担当することも明らかとなり、メインスタッフ、第1弾PV（ht...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「カラオケ居酒屋」経営者の女を逮捕　無許可で従業員に客の接待させた疑い　大阪・西成区(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d9cb1a4e53aa77819cd71ae99b5be911f7741aa9?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d9cb1a4e53aa77819cd71ae99b5be911f7741aa9?source=rss"/>
+        <updated>2026-11-25T08:52:47.000Z</updated>
+        <summary type="html"><![CDATA[大阪市西成区で、無許可で従業員に客の接待をさせたなどの疑いで、「カラオケ居酒屋」の経営者で中国籍の女が逮捕されました。「飲酒運転がばれたくなかったら200万円」 示談金名目の恐喝や強要などの疑いで男女]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示　ウクライナを支援する企業に]]></title>
+        <id>https://www.bbc.com/japanese/articles/cmq5v38864w0o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T08:50:32.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ軍を支援しているすべての企業は、ロシアの標的にされる恐れがあり、自衛のため「今すぐ行動」せよ――。イギリスの政府が24日、そんな警告を発した。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このライトノベルがすごい！2027：『崩壊世界の魔法杖職人』単行本・ノベルズ部門1位＆新作単行本・ノベルズ部門1位で堂々の二冠達成]]></title>
+        <id>https://ln-news.com/articles/127305</id>
+        <link href="https://ln-news.com/articles/127305"/>
+        <updated>2026-11-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「このライトノベルがすごい！2027」（宝島社刊）にて、MF文庫Jの新文芸単...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アイオワ州で劣化した爆薬の爆破処理計画、住民から不安の声]]></title>
+        <id>https://www.bbc.com/japanese/articles/ck30g7z274jlo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/ck30g7z274jlo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T08:21:39.000Z</updated>
+        <summary type="html"><![CDATA[米アイオワ州の陸軍弾薬工場で25日に、劣化した爆薬5トンを制御下で爆破処理する計画を受け、周辺住民たちに不安が広がっている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モトローラ、日本語で24時間相談できるコンシェルジュ。「signature」購入者は2年間無料]]></title>
+        <id>https://gadget.phileweb.com/?p=138532</id>
+        <link href="https://gadget.phileweb.com/post-138532/"/>
+        <updated>2026-11-25T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[モトローラ・モビリティ・ジャパンは、コンシェルジュサービス「モトローラ・シグネチャー・クラブ」を発表した。 アプリやチャットから、24時間365日、日本語でコンシェルジュに相談できるサービス。レストランやホテルの予約、専用車のチャーターなど11のコアサービスを用意し、要望に応じて20以上のサービスを […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山上徹也被告は「懲役１０年以下が妥当」　安倍元総理銃撃事件　控訴審で弁護団は“生い立ちと犯行を分断した１審判決は不当”として量刑争う方針(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/ecf2c2a5ad2f0273e1fd5c92e1e4eae15d261260?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/ecf2c2a5ad2f0273e1fd5c92e1e4eae15d261260?source=rss"/>
+        <updated>2026-11-25T08:17:33.000Z</updated>
+        <summary type="html"><![CDATA[安倍晋三元総理が銃撃された事件で、殺人罪などに問われ、１審・奈良地裁で無期懲役の判決を言い渡された山上徹也被告（４６）の弁護団が２５日、大阪高裁で開かれる控訴審での主な主張を明らかにしました。旧統一教]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前教皇フランシスコ、悪魔を3回見たと　出版された日記に記載]]></title>
+        <id>https://www.bbc.com/japanese/articles/cv2d90j9pkllo#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cv2d90j9pkllo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T08:11:44.000Z</updated>
+        <summary type="html"><![CDATA[キリスト教カトリック教会の前教皇フランシスコが、生涯で3回にわたり悪魔を目にし、「地獄の門」も見たと私的な日記に書いていたことが明らかになった。「教皇フランシスコの私的な日記」と題して24日に出版された中に、記載されている。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モトローラ、初フラグシップ「signature」発表。片岡愛之助も絶賛「すごく良い触り心地」]]></title>
+        <id>https://gadget.phileweb.com/?p=138492</id>
+        <link href="https://gadget.phileweb.com/post-138492/"/>
+        <updated>2026-11-25T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[モトローラ・モビリティ・ジャパンは、同社バータイプで初のフラグシップスマートフォン「motorola signature」を12月4日に発売する。同社公式オンラインストアでの販売価格は179,800円（税込）。カラーは、CarbonとMartini Oliveの2色をラインナップする。 motoro […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】詐欺容疑で逮捕の徳島・阿波市長が辞任の意向　今週にも辞職願を出す見通し(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d11b71a0384dd0d98708fa53c95e8961b8eacf8b?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d11b71a0384dd0d98708fa53c95e8961b8eacf8b?source=rss"/>
+        <updated>2026-11-25T08:07:07.000Z</updated>
+        <summary type="html"><![CDATA[詐欺の疑いで逮捕された徳島県の阿波市長が、辞任する意向を示していることが分かりました。【速報】妻を殺害した疑いで医師の４６歳男を再逮捕 遺体を切断し川に捨てたとしてすでに起訴 兵庫・尼崎市 阿波市長の]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雪山や断崖絶壁の山道，市街地を駆け抜ける。アケアカ「ダートダッシュ」，11月26日配信。1995年にナムコが発売したオフロードレースゲーム]]></title>
+        <id>https://www.4gamer.net/games/061/G106122/20261125021/</id>
+        <link href="https://www.4gamer.net/games/061/G106122/20261125021/"/>
+        <updated>2026-11-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハムスターは，「アーケードアーカイブス2ダートダッシュ」と「アーケードアーカイブスダートダッシュ」を2026年11月26日に配信すると発表した。「ダートダッシュ」は，1995年にナムコが発売した作品だ。スキー場の斜面や断崖絶壁の山道，ビル街など，変化に富んだコースでのオフロードレースを楽しめる。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『The Witcher 4』も『GTA6』みたいに大幅進化する？株主の問いにCD Pojekt「前作から11年も経っているので…」]]></title>
+        <id>https://gadget.phileweb.com/?p=138485</id>
+        <link href="https://gadget.phileweb.com/post-138485/"/>
+        <updated>2026-11-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ポーランドのゲーム開発スタジオCD Projektは、 2026年第3四半期の決算発表で、特に大きな変化もなくそこそこ業績は好調であることを投資家らに報告した。ただ、投資家からの質問はどういうわけか先ごろ発売されたRockstar Gamesの『Grand Theft Auto VI（GT […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京都市バスに“二重価格”導入へ　その効果は？　「いわばガス抜きのための政策」と専門家【岩本計介ニュースの現場から】(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/cb1135c60ec53e5bef1472d5f605b59dfb575cde?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/cb1135c60ec53e5bef1472d5f605b59dfb575cde?source=rss"/>
+        <updated>2026-11-25T07:45:15.000Z</updated>
+        <summary type="html"><![CDATA[京都市は、市民と市民以外で市バスの運賃を分ける、「二重価格」導入に向けた条例改正案を、市議会に提出しました。オーバーツーリズムへの対策となるのでしょうか。ABCテレビ・岩本計介アナウンサーが取材しまし]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英皇太子夫妻の別邸に盗みに入った疑い、2人逮捕　英東部ノーフォーク]]></title>
+        <id>https://www.bbc.com/japanese/articles/c6x20llg7zxko#1</id>
+        <link href="https://www.bbc.com/japanese/articles/c6x20llg7zxko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T07:15:15.000Z</updated>
+        <summary type="html"><![CDATA[英王室の所有地サンドリンガムにあるウェールズ公ウィリアム皇太子夫妻の別邸に不法侵入し、盗みを働いた疑いで、男性2人が逮捕された。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このライトノベルがすごい！2027：『おまえだけは選ばない』新作文庫部門1位に輝く　三流音楽家の人生を奏で直す青春再生譚]]></title>
+        <id>https://ln-news.com/articles/127304</id>
+        <link href="https://ln-news.com/articles/127304"/>
+        <updated>2026-11-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「このライトノベルがすごい！2027」（宝島社刊）にて、スニーカー文庫刊『お...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアのウクライナでの戦死者は約50万人　流出公式データをBBCが分析]]></title>
+        <id>https://www.bbc.com/japanese/articles/cmp3ell1k2y5o#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cmp3ell1k2y5o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T06:40:36.000Z</updated>
+        <summary type="html"><![CDATA[流出したロシア政府の統計によると、2022年のウクライナへの全面侵攻以来、少なくとも49万334人のロシア兵が死亡していることが、BBCの分析によって明らかになった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【すき家】白髪ねぎ牛丼【新商品】]]></title>
+        <id>https://foodfighter.jp/?p=322485</id>
+        <link href="https://foodfighter.jp/sukiya-shiraganegi-2026"/>
+        <updated>2026-11-25T06:31:50.000Z</updated>
+        <summary type="html"><![CDATA[毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]
+投稿 【すき家】白髪ねぎ牛丼【新商品】 は 進撃のグルメ に最初に表示されました。]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ランダムな武器で戦うキラー“アート・ザ・クラウン”が登場。「Dead by Daylight」，映画「テリファー」とのコラボチャプターをリリース]]></title>
+        <id>https://www.4gamer.net/games/333/G033338/20261125024/</id>
+        <link href="https://www.4gamer.net/games/333/G033338/20261125024/"/>
+        <updated>2026-11-25T06:30:37.000Z</updated>
+        <summary type="html"><![CDATA[BehaviourInteractiveは本日（2026年11月25日），同社がサービス中の非対称対戦型マルチプレイヤーホラーゲーム「DeadbyDaylight」にて，映画「テリファー」とのコラボレーションチャプターをリリースした。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「飲酒運転がばれたくなかったら200万円」　示談金名目の恐喝や強要などの疑いで男女３人逮捕　マッチングアプリで知り合った男性に飲酒運転させ故意に事故起こす　京都市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/e79063117f0e04f4ec891d6674515a436d0f4c43?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/e79063117f0e04f4ec891d6674515a436d0f4c43?source=rss"/>
+        <updated>2026-11-25T06:16:01.000Z</updated>
+        <summary type="html"><![CDATA[７月、マッチングアプリを通じて知り合った男性に飲酒運転をさせたうえ故意に事故を起こし、示談金名目で現金を脅し取ったなどとして、２４日、２０代の男女３人が逮捕されました。「置き配」の新ルール 国交省が指]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪・海遊館で９年ぶりにラッコ公開へ　アメリカのアラスカ州で保護された４頭　来月７日から(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/3e9c8d0952f44ae73d419da4a170d896d6aaf020?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/3e9c8d0952f44ae73d419da4a170d896d6aaf020?source=rss"/>
+        <updated>2026-11-25T06:12:48.000Z</updated>
+        <summary type="html"><![CDATA[海遊館は、来月７日から９年ぶりにラッコ４頭を公開すると発表しました。「置き配」の新ルール 国交省が指針案 指定場所に置いたら“完了”に 利用者側が意識すべきことは？]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、新たな「（PRODUCT）RED」製品を12月1日前後に発売のうわさ。「AirPods Max 2」特別版も]]></title>
+        <id>https://gadget.phileweb.com/?p=138454</id>
+        <link href="https://gadget.phileweb.com/post-138454/"/>
+        <updated>2026-11-25T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは2026年12月1日の「世界エイズデー」前後に、計4種類の「(PRODUCT)RED」製品を発売する見通しだ。同社の未発表製品や社内情報に詳しいBloombergのマーク・ガーマン記者が報じている。 ガーマン氏の情報筋によると、アップルはHomePod mini 2とAirPods Max […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】妻を殺害した疑いで医師の４６歳男を再逮捕　遺体を切断し川に捨てたとしてすでに起訴　兵庫・尼崎市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/edf7a2eabc3266b3ef3f6a17335c3ed11944ff5c?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/edf7a2eabc3266b3ef3f6a17335c3ed11944ff5c?source=rss"/>
+        <updated>2026-11-25T05:33:49.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県尼崎市で妻の遺体を切断し川に捨てたとして起訴された医師の男が、妻を殺害した疑いで再逮捕されました。「金を出せ」「ナイフを持っているぞ」と男性脅したか 拒否され立ち去った男が翌日に出頭 ２２歳男を]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次期「Galaxy S27 Ultra」はカメラが簡略化？ 3倍望遠とレーザーAFがなくなるかも]]></title>
+        <id>https://gadget.phileweb.com/?p=138438</id>
+        <link href="https://gadget.phileweb.com/post-138438/"/>
+        <updated>2026-11-25T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[サムスンの次期最上位スマートフォン「Galaxy S27 Ultra」は、2027年初頭に登場すると予想されている。本製品が、従来のUltraモデルにあった専用ハードウェアの一部を廃止し、背面カメラ構成を簡略化すると、スマートフォンのみ発表情報に詳しいリーカーのIce Universe氏が伝えている […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独占インタビュー「ラノベの素」　餅宮先生『偽装カップル開始五分で好きになっちゃった』]]></title>
+        <id>https://ln-news.com/articles/127232</id>
+        <link href="https://ln-news.com/articles/127232"/>
+        <updated>2026-11-25T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[独占インタビュー「ラノベの素」。今回は2026年11月25日にMF文庫Jより...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「フォートナイト」の2万以上のBlueprintをわずか2週間でVerseに移植。Epic Gamesが「Unreal Engine 6」への移行に向けたAI活用の成果を公開]]></title>
+        <id>https://www.4gamer.net/games/144/G014484/20261125017/</id>
+        <link href="https://www.4gamer.net/games/144/G014484/20261125017/"/>
+        <updated>2026-11-25T05:26:01.000Z</updated>
+        <summary type="html"><![CDATA[EpicGamesは，「UnrealEngine6」に向けたAI活用の成果を公開した。5か月で開発方針を転換した同社は，「フォートナイト」の2万以上のBlueprintのVerse移植にAIを活用。数年がかりとされた作業で，約2週間で約300万行のコードによるプロトタイプを動作させたという。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イングランドの暑さ関連死、2026年は過去最多の推定5200人]]></title>
+        <id>https://www.bbc.com/japanese/articles/cw0k673z7ppko#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cw0k673z7ppko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T05:07:40.000Z</updated>
+        <summary type="html"><![CDATA[イギリス健康安全保障庁（UKHSA）の推計によると、今年の夏にイングランドでは5000人以上が暑さに関連して死亡した。2016年に記録が開始されて以来、最多となった。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[堺市長選は来春の統一地方選と同日と決定　府知事選など４つの選挙を同時に実施　来年４月１１日(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/f5d588268b863d8ee28a86a07df10675b43df4e8?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/f5d588268b863d8ee28a86a07df10675b43df4e8?source=rss"/>
+        <updated>2026-11-25T05:01:33.000Z</updated>
+        <summary type="html"><![CDATA[堺市選挙管理委員会は、次の市長選挙を統一地方選挙とあわせた４月１１日（日）に実施すると決定しました。堺市で、大阪府知事・府議堺市長・市議を選ぶ４つの選挙が同時に行われるのは初めてです。「置き配」の新ル]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0.7Vから動くSPXO用IC　「水晶発振器用ICとしては世界初」セイコーNPC]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2611/25/news053.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2611/25/news053.html"/>
+        <updated>2026-11-25T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[セイコーNPCは、「水晶発振器用ICとして世界初」（同社）という電源電圧0.7Vからの超低電圧動作に対応したSPXO用IC「7028シリーズ」を発売した。16MHzから100MHzの幅広い発振周波数を1チップでカバーし、最小1210サイズの水晶発振器への搭載を可能にする。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ファタモルガーナの館」開発レーベルによる新作「Project Code M」，「INDIE Live Expo 2026.12.1」で続報を公開]]></title>
+        <id>https://www.4gamer.net/games/647/G064737/20261125012/</id>
+        <link href="https://www.4gamer.net/games/647/G064737/20261125012/"/>
+        <updated>2026-11-25T04:49:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム開発レーベルNOVECTは，開発中の新作プロジェクト「ProjectCodeM」について，2026年12月1日に配信される「INDIELiveExpo2026.12.1」で続報を公開すると告知した。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏がフアン氏のCEO復帰を後押し、AI生成画像も投稿]]></title>
+        <id>https://www.bbc.com/japanese/watch/c9m2jlx13y67o#0</id>
+        <link href="https://www.bbc.com/japanese/watch/c9m2jlx13y67o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T04:34:40.000Z</updated>
+        <summary type="html"><![CDATA[米半導体大手エヌビディアの最高経営責任者にジェンスン・フアン氏が復帰するよう、取締役会との「取引をまとめた」と発言したトランプ氏はその後、自分の暗殺未遂事件後の写真に似せたフアン氏の生成画像を、ソーシャルメディアに投稿した。トランプ氏がこの画像を投稿した意図は何なのか、またアメリカ政界の与野党議員はフアン氏のCEO復帰にどう反応しているのか、BBCのトム・ベイトマン記者が説明する。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国ファーウェイ、企業秘密窃盗などでアメリカで有罪評決　組織犯罪では無罪]]></title>
+        <id>https://www.bbc.com/japanese/articles/cqzr5y8326yro#0</id>
+        <link href="https://www.bbc.com/japanese/articles/cqzr5y8326yro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T04:23:01.000Z</updated>
+        <summary type="html"><![CDATA[中国通信機器大手の華為技術（ファーウェイ）に対し、米ニューヨーク・ブルックリンの連邦地裁の陪審は24日、企業秘密窃盗と銀行詐欺を共謀した罪などで有罪評決を出した。より重い、包括的な組織犯罪では無罪とした。]]></summary>
+        <author>
+            <name>BBC Japanese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[このライトノベルがすごい！2027：『魔法少女はおとなのつとめです。』＆『ミニャのオモチャ箱』オーバーラップ作品が上位にランクイン]]></title>
+        <id>https://ln-news.com/articles/127302</id>
+        <link href="https://ln-news.com/articles/127302"/>
+        <updated>2026-11-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「このライトノベルがすごい！2027」（宝島社刊）にて、オーバーラップ文庫刊...]]></summary>
+        <author>
+            <name>ラノベニュースオンライン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊丹市・３歳女児死亡で児相が警察に情報共有せず　母親からけがの報告約１０件も「虐待なし」と判断(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/a08fac74bacf916250422a2ea02f8819d5f3d808?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/a08fac74bacf916250422a2ea02f8819d5f3d808?source=rss"/>
+        <updated>2026-11-25T03:49:40.000Z</updated>
+        <summary type="html"><![CDATA[兵庫県伊丹市で当時３歳の女の子が暴行を受け死亡した事件で、事件前、児童相談所がけがの情報を警察に共有していなかったことがわかりました。「置き配」の新ルール 国交省が指針案 指定場所に置いたら“完了”に]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ランサムウェア解除請負人、料金が「解除キー引き換え用の身代金＋手数料」とバレて起訴される。FBIがなりすまし捜査]]></title>
         <id>https://gadget.phileweb.com/?p=138430</id>
@@ -24,6 +585,16 @@
         <summary type="html"><![CDATA[ポケモンは本日（2026年11月25日），対戦ゲーム「PokémonChampions」について「レギュレーションM-D」を2026年12月2日から2027年3月3日10：59まで適用すると発表した。新たにヒードラン，ヘイラッシャ，シャリタツなどがバトルに参加できるようになる。]]></summary>
         <author>
             <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiTime、データセンター向けに低ジッタクロック発表]]></title>
+        <id>https://edn.itmedia.co.jp/edn/articles/2611/25/news022.html</id>
+        <link href="https://edn.itmedia.co.jp/edn/articles/2611/25/news022.html"/>
+        <updated>2026-11-25T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SiTimeは、データセンターの帯域幅拡大に対応するクロック製品群「FemtoClock 4」「VersaClock 8」を発表した。低ジッタや多出力、低消費電力を特長とする。]]></summary>
+        <author>
+            <name>EDN Japan 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -18927,117 +19498,6 @@ https://egg.5ch.io/test/read.cgi/dqnplus/1793068437/]]></summary>
         <summary type="html"><![CDATA[アメリカの司法省が、連邦捜査局（FBI）長官を務めたジェイムズ・コーミー氏を、国家防衛情報を流出させた疑いで訴追した。26日に公開された裁判文書から明らかになった。司法省がコーミー氏の刑事訴追に踏み切るのは3回目。]]></summary>
         <author>
             <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】元検事正が無罪を主張　部下の女性検事に性的暴行の罪　認否一転で２年ぶりに公判再開(ABCニュース)]]></title>
-        <id>https://news.yahoo.co.jp/articles/6815fb752c90edfcc328dc9fde3a99f0abece01c?source=rss</id>
-        <link href="https://news.yahoo.co.jp/articles/6815fb752c90edfcc328dc9fde3a99f0abece01c?source=rss"/>
-        <updated>2026-10-27T01:27:50.000Z</updated>
-        <summary type="html"><![CDATA[部下の女性検事に対する性的暴行の罪で起訴されている元大阪地検検事正が、２年ぶりの公判で起訴内容を否認しました。性犯罪被害者のＰＴＳＤも「致傷罪で起訴を」 元検事正による性的暴行を訴える女性ら 起訴状な]]></summary>
-        <author>
-            <name>ABCニュース - Yahoo!ニュース</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米俳優ウォルター・ケーニッグさんが90歳で死去、「スター・トレック」のチェコフ役]]></title>
-        <id>https://www.bbc.com/japanese/articles/cm0ldjnj730ro#0</id>
-        <link href="https://www.bbc.com/japanese/articles/cm0ldjnj730ro?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T01:27:02.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの人気SFシリーズ「スター・トレック」で、ロシア人乗組員の「パヴェル・チェコフ」を演じた米俳優ウォルター・ケーニッグさんが25日、ロサンゼルスで死去した。90歳だった。]]></summary>
-        <author>
-            <name>BBC Japanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ほの暮しの庭」無料アップデート第2弾を本日配信。誕生日イベントや農具「種まき機」，水回り家具10種を追加]]></title>
-        <id>https://www.4gamer.net/games/933/G093331/20261026054/</id>
-        <link href="https://www.4gamer.net/games/933/G093331/20261026054/"/>
-        <updated>2026-10-27T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本一ソフトウェアは本日，生活シミュレーション「ほの暮しの庭」の無料アップデート第2弾を配信開始した。住人からプレゼントをもらえる主人公の誕生日イベントや，農具「種まき機」，水回り設備シリーズの家具10種類を追加。建物の移築や名前入力などの機能も改善している。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『終末なにしてますか？忙しいですか？救ってもらっていいですか？』のオンラインくじが登場　Ani-Artイラストを使用したオリジナルグッズがラインナップ]]></title>
-        <id>https://ln-news.com/articles/127001</id>
-        <link href="https://ln-news.com/articles/127001"/>
-        <updated>2026-10-27T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[スニーカー文庫発のアニメ『終末なにしてますか？忙しいですか？救ってもらってい...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「世界最小」0201MサイズNTCサーミスタ、村田製作所]]></title>
-        <id>https://edn.itmedia.co.jp/edn/articles/2610/27/news031.html</id>
-        <link href="https://edn.itmedia.co.jp/edn/articles/2610/27/news031.html"/>
-        <updated>2026-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[村田製作所は、世界最小となる0201MサイズのNTCサーミスタ「NCU01シリーズ」を開発した。従来最小品の0402Mサイズと比較して実装面積を約60％削減しながら、同等の温度検知特性を実現する。2026年10月にサンプル提供を開始し、2027年中に関係製品の量産を開始する予定だ。]]></summary>
-        <author>
-            <name>EDN Japan 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ファミマ】リュウジの至高のレシピ とろたま牛すきまん【新作コンビニ中華まん】]]></title>
-        <id>https://foodfighter.jp/?p=320802</id>
-        <link href="https://foodfighter.jp/famima-ryuji-gyusukiman"/>
-        <updated>2026-10-26T23:40:47.000Z</updated>
-        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「リュウジの至高のレシピ とろたま牛すきまん」を世界一詳しく調査しました。   【ファミマ】 […]
-投稿 【ファミマ】リュウジの至高のレシピ とろたま牛すきまん【新作コンビニ中華まん】 は 進撃のグルメ に最初に表示されました。]]></summary>
-        <author>
-            <name>foodfighter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大戦略SSB2」，中国・北朝鮮による対馬占拠を描く新シナリオを10月29日配信。五稜郭を舞台にしたフリーマップも追加]]></title>
-        <id>https://www.4gamer.net/games/946/G094686/20261026049/</id>
-        <link href="https://www.4gamer.net/games/946/G094686/20261026049/"/>
-        <updated>2026-10-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[システムソフト・ベータは，戦略シミュレーション「大戦略SSB2」の無料アップデートを2026年10月29日10：00に配信すると発表した。中国と北朝鮮が対馬北部を占拠し，日本が奪還を目指す新シナリオ「対馬海峡危機」と，函館の五稜郭を舞台にしたフリーマップ「五稜郭からの侵略者II」を追加する。]]></summary>
-        <author>
-            <name>4Gamer.net − Switch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～』第2クールティザーPVが公開]]></title>
-        <id>https://ln-news.com/articles/127041</id>
-        <link href="https://ln-news.com/articles/127041"/>
-        <updated>2026-10-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一迅社ノベルス発のアニメ『ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル新型iPad mini発表。ディスプレイをOLED化、A20 Proで処理性能強化]]></title>
-        <id>https://gadget.phileweb.com/?p=135962</id>
-        <link href="https://gadget.phileweb.com/post-135962/"/>
-        <updated>2026-10-26T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アップルが、iPad miniの新モデルを発表した。新型iPad miniは、従来モデルと同じサイズ感を維持しながら、8.5インチのOLEDディスプレイやA20 Proチップを搭載する。 最も目を引くのは、8.5インチのSuper Retina XDRディスプレイだろう。ディスプレイのベゼルは従来モ […]]]></summary>
-        <author>
-            <name>Munenori Taniguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タイトルに「ヴィラン」を含む「プリキュア」シリーズのスピンオフTVアニメが27年放送　不穏な雰囲気が満載のPV披露]]></title>
-        <id>https://anime.eiga.com/news/127732/</id>
-        <link href="https://anime.eiga.com/news/127732/"/>
-        <updated>2026-10-26T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「プリキュア」シリーズの新たなスピンオフ作品となる完全オリジナルテレビアニメ「デュアルシャドウ～Precure Villain Heroines～」が2027年に放送されることが発表された。あわ...]]></summary>
-        <author>
-            <name>アニメ・声優ニュース - アニメハック</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『伯爵令嬢の責務 ～さようなら、婚約者様。私は貴族の責務を果たし、幸せを掴みます～』のコミカライズ配信が開始]]></title>
-        <id>https://ln-news.com/articles/127018</id>
-        <link href="https://ln-news.com/articles/127018"/>
-        <updated>2026-10-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GAノベル刊『伯爵令嬢の責務 ～さようなら、婚約者様。私は貴族の責務を果たし...]]></summary>
-        <author>
-            <name>ラノベニュースオンライン</name>
         </author>
     </entry>
 </feed>
